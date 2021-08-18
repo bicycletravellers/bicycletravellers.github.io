@@ -1,0 +1,23 @@
+<figure class = "lazyfigure {% if include.side == 'left' %}fig_leftimg{% elsif include.side == 'right' %}fig_rightimg{% endif %}">  
+  <img
+      src = "/public/{{page.category}}/{% if page.slug %}{{page.slug}}{% else %}{{page.virtual_slug}}{% endif %}/{{ include.file }}/{{ include.file }}-100w.jpg"
+      alt = "{{ include.alt }}"      data-sizes="auto"      data-optimumx="1"
+      data-src="/public/{{page.category}}/{% if page.slug %}{{page.slug}}{% else %}{{page.virtual_slug}}{% endif %}/{{ include.file }}/{{ include.file }}-768w.jpg"
+      data-srcset="/public/{{page.category}}/{% if page.slug %}{{page.slug}}{% else %}{{page.virtual_slug}}{% endif %}/{{ include.file }}/{{ include.file }}-320w.jpg 320w,
+        /public/{{page.category}}/{% if page.slug %}{{page.slug}}{% else %}{{page.virtual_slug}}{% endif %}/{{ include.file }}/{{ include.file }}-375w.jpg 375w,
+        /public/{{page.category}}/{% if page.slug %}{{page.slug}}{% else %}{{page.virtual_slug}}{% endif %}/{{ include.file }}/{{ include.file }}-425w.jpg 425w,
+        /public/{{page.category}}/{% if page.slug %}{{page.slug}}{% else %}{{page.virtual_slug}}{% endif %}/{{ include.file }}/{{ include.file }}-475w.jpg 475w,
+        /public/{{page.category}}/{% if page.slug %}{{page.slug}}{% else %}{{page.virtual_slug}}{% endif %}/{{ include.file }}/{{ include.file }}-768w.jpg 768w"
+      class="lazyload" />
+  {% if include.caption %}
+  <figcaption>{{ include.caption }}</figcaption>
+  {% endif %}
+</figure>  
+<noscript>
+  <figure>
+    <img src = "/public/{{page.category}}/{% if page.slug %}{{page.slug}}{% else %}{{page.virtual_slug}}{% endif %}/{{ include.file }}/{{ include.file }}-768w.jpg" alt = "{{ include.alt }}" />
+    {% if include.caption %}
+    <figcaption>{{ include.caption }}</figcaption>
+    {% endif %}
+  </figure>
+</noscript>

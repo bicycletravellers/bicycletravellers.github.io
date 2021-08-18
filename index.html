@@ -10,5 +10,26 @@
       <span class = "w3-large">We are still building this website...</span><br><br>
       <a href = "https://www.facebook.com/groups/bicycletravellers/"><button class = "w3-button w3-blue w3-hover-light-blue">Bicycle Travellers on Facebook</button></a>
     </div>
+	<div class = "w3-container">
+		<div class="posts">
+		  {% for post in site.posts reversed %}
+		  <div class="post">
+			<h1 class="post-title">
+			  <a href="{{ site.url }}{{ post.url }}">
+				{{ post.title }}
+			  </a>
+			</h1>
+			<div>
+			<img src = "/public/cover/small/{{ post.image }}.png" align="left" class = "cover_img wnot" >
+			<p>{{ post.excerpt  | strip_html  | truncatewords:35 }}</p>
+			</div>
+		  </div>
+		  <hr />
+		  {% endfor %}
+		</div>
+
+	</div>
   </body>
 </html>
+
+

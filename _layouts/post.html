@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="post" id="content">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <img src = "/public/cover/{{page.image}}.png" alt = "{{ page.title }}" />
+  <a href = "https://www.facebook.com/groups/312205919488201" target = "_blank">Join our Facebook group "Bicycle Travelers".</a>
+  {{ content }}
+</div>
+
+<div id = "veri" style = "text-align:center; padding:5px;"></div>
+<a href = "https://www.facebook.com/groups/312205919488201" target = "_blank">Join our Facebook group "Bicycle Travelers".</a>
+<div class="related hide-on-print">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:5 %}
+      <li>
+        <h3>
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

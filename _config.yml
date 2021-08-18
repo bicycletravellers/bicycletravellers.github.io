@@ -1,0 +1,14 @@
+title:               Bicycle Travellers
+desc: Resources for traveling around the world by bicycle.
+tagline:             'The Ultimate Resource for Bicycle Touring'
+description:         'Bicycle Travellers - The Ultimate Resource for Bicycle Touring'
+url:                 https://bicycletravellers.com
+baseurl:             ''
+permalink: ':categories/:title.html'
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  
+excerpt_separator: "<!-- more -->"
+exclude: [wSERVEJEKYLL.bat, .gitignore, DRAFTS]
