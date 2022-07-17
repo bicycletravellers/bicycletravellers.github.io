@@ -1,0 +1,16 @@
+---
+layout: null
+---
+[{% for post in  site.travellers %}
+  {
+	"uid": "{{ post.slug }}",
+	"title":"{{ post.title }}",
+    "link":"{{ site.url }}{{ post.url }}",
+    "website":"{{ post.website }}",
+    "facebook":"{{ post.facebook }}",
+    "instagram":"{{ post.instagram }}",
+    "youtube":"{{ post.youtube }}",
+    "youtube_parameter":"{{ post.youtube_parameter }}",
+	"featured": "{{ post.featured }}"
+  }{% if forloop.last == false %},{% endif %}{% endfor %}
+]

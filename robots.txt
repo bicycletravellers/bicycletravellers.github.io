@@ -1,0 +1,8 @@
+Sitemap: https://bicycletravellers.com/sitemap.xml
+
+User-agent: ia_archiver
+Disallow: /
+User-agent: archive.org_bot
+Disallow: /
+User-agent: *
+Disallow: /photos/

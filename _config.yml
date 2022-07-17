@@ -1,0 +1,39 @@
+name: Bicycle Travellers
+desc: An adventure throughout life. Learn all about bicycle touring and bikepacking, and start your journey around the world.
+permalink: ':categories/:title.html'
+url: "https://bicycletravellers.com" # base hostname & protocol for your site, e.g. http://example.com
+worker: "https://dev.rr-api.workers.dev" # "http://127.0.0.1:8787"
+gitget: "http://localhost/bicycletravellers.com/php/temp_git_get.php?path=" #"https://raw.githubusercontent.com/bicycletravellers/bicycletravellers.github.io/main/"
+gitput: "http://localhost/bicycletravellers.com/php/temp_git_put.php?path=" #"https://api.github.com/repos/bicycletravellers/bicycletravellers.github.io/contents/"
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+exclude: [zOther, z_serve.bat, images]
+keep_files: [images]
+sass:
+    style: compressed
+compress_html:
+  clippings: []
+  comments: ["<!-- ", " -->"]
+  endings: []
+  ignore:
+    envs: []
+  blanklines: false
+  profile: false
+collections:
+  community:
+    output: true
+    permalink: /:collection/:name.html
+  travellers:
+    output: true
+    permalink: /:collection/:name.html
+  learn:
+    output: true
+    permalink: /:collection/:name.html
+  gear:
+    output: true
+    permalink: /:collection/:name.html
+  misc:
+    output: true
+    permalink: /:collection/:name.html
+  

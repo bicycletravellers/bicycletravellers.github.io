@@ -1,0 +1,693 @@
+---
+layout: community
+title: Group Posts
+isTopLevel: true
+isSingleLevel: true
+sitemap: false
+---
+<style>
+.article-container:first-child {
+  display:none;
+}
+
+.item{
+    word-break: break-word;
+}
+.new::before {
+    content: "NEW!";
+    background-color: red;
+    color: white;
+    padding: 8px 16px;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+.reject,.processandpublish,.titlegenerate,.temp{
+	color:white;
+	padding: 4px 8px;
+	margin-top: 8px;
+    border: none;
+}
+.reject {
+	background-color:red;
+}
+.processandpublish{
+	background-color:#69bb47;
+}
+.titlegenerate{
+	background-color:#47A0BA;
+	margin-right:32px;
+}
+
+</style>
+
+<div id = "original_item" style="display:none" class = "item">
+	<div><a class = "post_link" href="" target = "_blank"></a></div>
+	<div>
+		<img class = "poster_photo wnot" src=""/>
+		<span class = "poster_name"></span> - 
+		<span class = "post_date"></span> - 
+		<a class = "comment_link" href = "" target="_blank"></a>
+	</div>
+	
+	<div class = "content_processed">
+		<div class = "text"></div>
+		<div class="ce-delimiter"></div>
+		<div class = "comments"></div>
+	</div>
+	
+	<div>
+		<input type= "text" class = "seo_slug" placeholder = "seo_slug" />
+		<input type= "text" class = "seo_title" placeholder = "seo_title" />
+		<input type= "text" class = "seo_desc" placeholder = "seo_desc" />
+		<button class = "reject" style = "float:left">REJECT</button>
+		<button class = "processandpublish" style = "float:right">PUBLISH</button>
+		<button class = "titlegenerate" style = "float:right">GENERATE</button>
+	</div>
+</div>
+		
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="http://localhost:4000/js/web.js"></script>
+<script>
+	var group = window.location.hash.substr(1);
+	$.getJSON("http://localhost/bicycletravellers.com/php/group_data/list.php?group="+group, function(list){
+		$.each(list, function(k, file){
+			/*file = "temp";
+			$.getJSON("http://localhost/bicycletravellers.com/php/group_data/list.php?file="+list[0], function(data){*/
+			$.getJSON("http://localhost/bicycletravellers.com/php/group_data/list.php?file="+file, function(data){
+				
+				var aweekago = Math.floor(Date.now() / 1000) - 432000;
+				if(data.timestamp > aweekago){
+					/*$(cloneItem).addClass("new");
+					$(cloneItem).hide();*/
+					return true;
+				}
+				
+				if(data.comments <10){
+					return true;
+				}
+				
+				var cloneItem = $("#original_item").clone();
+				$(cloneItem).removeAttr("id");
+				$(cloneItem).removeAttr("style");
+				
+				$(cloneItem).attr("data-id", data.id);
+				$(cloneItem).attr("data-feedback-id", data.feedback_id);
+				$(cloneItem).attr("data-file", file);
+				
+				
+				$(cloneItem).find(".post_link").attr("href", data.url);
+				$(cloneItem).find(".post_link").html(file);
+				
+				$(cloneItem).find(".poster_photo").attr("src", data.actor.story.actors[0].profile_picture.uri);
+				$(cloneItem).find(".poster_name").html(data.actor.story.actors[0].name);
+				$(cloneItem).find(".post_date").html(new Date(data.timestamp*1000).toLocaleString("tr-TR"));
+				
+				$(cloneItem).find(".comment_link").html(data.comments);
+				$(cloneItem).find(".comment_link").attr("href", "http://localhost/bicycletravellers.com/php/group.php?page=comments&feedback_id="+data.feedback_id+"&count="+data.comments+"&cdocid="+data.cdocid+"&tdocid="+data.tdocid+"&fb_dtsg="+data.fb_dtsg);
+
+
+
+				/*
+					$data["post"]["post_message"]["message_container"]["story"]["translation"]["message"]["text"]
+					$data["post"]["post_message"]["message_container"]["story"]["translation"]["message"]["ranges"]
+					
+					$data["post"]["post_message"]["message"]["story"]["message"]["text"]
+					$data["post"]["post_message"]["message"]["story"]["message"]["ranges"]
+					
+					$data["post"]["post_message"]["message_container"]["story"]["message"]["text"]
+				*/
+				var text;
+				if(data.post.post_message.message_container?.story.translation?.message.text){
+					text = data.post.post_message.message_container.story.translation.message.text;
+					if(data.post.post_message.message_container.story.translation.message.ranges.length){
+						data.post.post_message.message_container.story.translation.message.ranges.forEach(function(range){
+							switch(range.entity?.__typename){
+								case "ExternalUrl":
+									var ExternalUrl = Array.from(data.post.post_message.message_container.story.translation.message.text).slice(range.offset, range.offset+range.length).join('');
+									text = text.replace(ExternalUrl, '<a href = "'+range.entity.web_link.url+'" target="_blank" rel="nofollow">'+ExternalUrl+'</a>');
+								break;
+								case "Hashtag":
+								case "User":
+								break;
+								case "Page":
+									var page = Array.from(data.post.post_message.message_container.story.translation.message.text).slice(range.offset, range.offset+range.length).join('');
+									text = text.replace(page, '<a href = "'+range.entity.url+'" target="_blank" rel="nofollow">'+page+'</a>');
+								break;
+								default:
+								break;
+							}
+						});
+					}
+				}else if(data.post.post_message?.message?.story?.message.text){
+					text = data.post.post_message.message.story.message.text;
+					if(data.post.post_message.message.story.message.ranges.length){
+						data.post.post_message.message.story.message.ranges.forEach(function(range){
+							switch(range.entity?.__typename){
+								case "ExternalUrl":
+									var ExternalUrl = Array.from(data.post.post_message.message.story.message.text).slice(range.offset, range.offset+range.length).join('');
+									text = text.replace(ExternalUrl, '<a href = "'+range.entity.web_link.url+'" target="_blank" rel="nofollow">'+ExternalUrl+'</a>');
+								break;
+								case "Hashtag":
+								case "User":
+								break;
+								case "Page":
+									var page = Array.from(data.post.post_message.message.story.message.text).slice(range.offset, range.offset+range.length).join('');
+									text = text.replace(page, '<a href = "'+range.entity.url+'" target="_blank" rel="nofollow">'+page+'</a>');
+								break;
+								default:
+								
+								break;
+							}
+						});
+					}
+				}else{
+					text = data.post.post_message.message_container?.story?.message?.text;
+				}
+
+
+
+				$(cloneItem).find(".text").html(text);
+
+
+				if(data.post.attachments[0]?.style_list[0]){
+				
+					var post_attachment = $('<div class = "post_attachment" />');
+			
+					switch(data.post.attachments[0].style_list[0]){
+						case "album":
+							var nodes;
+							nodes = data.post.attachments[0].styles.attachment.all_subattachments?.nodes;
+							nodes = nodes?nodes:data.post.attachments[0].styles.attachment.five_photos_subattachments.nodes;
+							nodes = nodes?nodes:data.post.attachments[0].styles.attachment.four_photos_subattachments.nodes;
+							nodes = nodes?nodes:data.post.attachments[0].styles.attachment.three_photos_subattachments.nodes;
+							nodes = nodes?nodes:data.post.attachments[0].styles.attachment.two_photos_subattachments.nodes;
+							
+							var post_album_attachment = $('<div class = "post_album_attachment" />');
+							
+							nodes.forEach(function(node){
+								var new_img_url = "http://localhost/bicycletravellers.com/php/group.php?page=full_image&url="+encodeURIComponent(node.media?.viewer_image.uri);
+								$(post_album_attachment).append('<img crossorigin="anonymous" class = "post_album_image" loading="lazy" src = "'+new_img_url+'" alt = ""/>');
+							});
+							
+							$(post_attachment).append(post_album_attachment);
+							
+						break;
+						case "share":
+							var link_tool = $('<div class="link-tool"/>');
+							
+							var link = data.post.attachments[0].comet_footer_renderer?.attachment.target.external_url?data.post.attachments[0].comet_footer_renderer?.attachment.target.external_url:data.post.attachments[0].styles.attachment.story_attachment_link_renderer.attachment.web_link.url;
+							var a = $('<a class="link-tool__content link-tool__content--rendered" target="_blank" rel="nofollow" href = "'+link+'"/>');
+							
+							img_url_raw = data.post.attachments[0].styles.attachment.media?.large_share_image?.uri?data.post.attachments[0].styles.attachment.media?.large_share_image.uri:data.post.attachments[0].styles.attachment.media.image.uri;
+							const url = new URL(img_url_raw);
+							const params = new Proxy(new URLSearchParams(url.search), {
+							  get: (searchParams, prop) => searchParams.get(prop),
+							});
+							
+							if(params.url){
+								$(a).append('<div class="link-tool__image"><img loading="lazy" src = "'+params.url+'" alt = "" /></div>');
+							}
+							
+							$(a).append('<div class="link-tool__title">'+(data.post.attachments[0].comet_footer_renderer?.attachment.title_with_entities.text?data.post.attachments[0].comet_footer_renderer?.attachment.title_with_entities.text:data.post.attachments[0].styles?.attachment.title_with_entities.text)+'</div>');
+							$(a).append('<p class="link-tool__description">'+(data.post.attachments[0].comet_footer_renderer?.attachment.description?.text?data.post.attachments[0].comet_footer_renderer?.attachment.description.text:data.post.attachments[0].styles?.attachment.description?.text)+'</p>');
+							$(a).append('<span class="link-tool__anchor truncate">'+(data.post.attachments[0].comet_footer_renderer?.attachment.source.text?data.post.attachments[0].comet_footer_renderer?.attachment.source.text:data.post.attachments[0].styles?.attachment.source.text)+'</span>');
+							
+							$(link_tool).append(a);
+							$(post_attachment).append(link_tool);
+							
+						break;
+						case "photo":
+							var post_photo_attachment = $('<div class = "post_photo_attachment" />');
+							
+							var new_img_url = "http://localhost/bicycletravellers.com/php/group.php?page=full_image&url="+encodeURIComponent(data.post.attachments[0].styles.attachment.media.photo_image.uri);
+							$(post_photo_attachment).append('<img crossorigin="anonymous" class = "post_photo_image" loading="lazy" src = "'+new_img_url+'" alt = ""/>');
+
+							$(post_attachment).append(post_photo_attachment);
+						break;
+						
+						case "":
+						
+						break;
+						case "native_templates":
+						case "new_album":
+						case "video_autoplay":
+						case "photo_link_share":
+						case "messenger_generic_template":
+						
+						break;
+						default:
+						
+					}
+				}
+				
+				$(cloneItem).find(".text").append(post_attachment);
+
+				var finalElement = $('<div class="article-container"><div class="main clearfix"><article class = "clearfix"></article></div></div>');
+				$(finalElement).find("article").append(cloneItem);
+				
+				$(".main-container").append(finalElement);
+				
+			});
+		});
+	});
+	
+	function getDataUrl(img, res, quality) {
+		var canvas = document.createElement("canvas");
+		var ctx = canvas.getContext("2d");
+		var ratio = img.naturalWidth / img.naturalHeight;
+		
+		var width = res;
+		var height = width / ratio;
+
+		canvas.width = width;
+		canvas.height = height;
+		
+		ctx.fillStyle = "white";
+		ctx.fillRect(0, 0, canvas.width, canvas.height);
+		
+		ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+		dataURI = canvas.toDataURL('image/jpeg', quality);
+
+		ctx.clearRect(0, 0, canvas.width, canvas.height);
+		
+		delete canvas;
+		
+		return dataURI;
+	}
+		
+		
+		
+		
+		
+	$(document).on("click",".reject",function(){
+		var file = $(this).parents(".item").attr("data-file");
+		var that = this;
+		$.get("http://localhost/bicycletravellers.com/php/group_data/reject.php?file="+file, function(){
+			$(that).parents(".article-container").remove();
+		});
+	});
+		
+	
+	$(document).on("click",".titlegenerate",function(){
+		var text = $(this).parents(".item").find(".content_processed").text();
+		var that = this;
+		$.post("http://localhost/bicycletravellers.com/php/group_data/title.php", {text:text}, function(res){
+		
+			$(that).parents(".item").find(".seo_title").val(res[0]);
+			$(that).parents(".item").find(".seo_slug").val(res[0].slugify());
+			$(that).parents(".item").find(".seo_desc").val(text.replaceAll("\t","").substr(0,200));
+			
+			
+		}, 'json');
+	});
+	
+	
+
+String.prototype.slugify = function (separator = "-") {
+    return this
+        .toString()
+        .normalize('NFD')                    /* split an accented letter in the base letter and the acent */
+        .replace(/[\u0300-\u036f]/g, '')   /*  remove all previously split accents */
+        .toLowerCase()
+        .trim()
+        .replace(/[^a-z0-9._ ]/g, '')    /* remove all chars not letters, numbers and spaces (to be replaced) */
+        .replace(/\s+/g, separator);
+};
+
+	
+	
+	$(document).on("click",".processandpublish", async function(){
+		var file = $(this).parents(".item").attr("data-file");
+		var that = this;
+		
+		var seo_slug = $(this).parents(".item").find(".seo_slug").val();
+		var seo_title = $(this).parents(".item").find(".seo_title").val();
+		var seo_desc = $(this).parents(".item").find(".seo_desc").val();
+		
+		var photosToChange = $(this).parents(".item").find("img");
+		
+		for await (const image of photosToChange) {
+			
+			if($(image).hasClass("post_album_image") || $(image).hasClass("post_photo_image") || $(image).hasClass("comment_photo_image")){
+				var image_url = $(image).attr("src");
+				
+				var dataURI = getDataUrl(image, 768, 1);
+				var fileb64 = dataURI.split("base64,")[1];
+				
+				
+				name = "image_" + (Math.floor(Date.now() / 1000)) + "_" + (Math.floor(Math.random() * 9999999999)) + ".jpg";
+				
+				await git_put_file("images/community/"+seo_slug+"/" + name, fileb64).then(function(gitResp){
+					if(typeof gitResp.content !== 'undefined'){
+						$(image).attr("src", gitResp.content.download_url.replace("https://raw.githubusercontent.com/bicycletravellers/bicycletravellers.github.io/main/","https://bicycletravellers.com/"));
+					}else{
+						alert("img src change error, upload failed. url: " + image_url + " name: " + name);
+					}
+				});
+				
+				$(image).removeAttr("crossorigin");
+			}
+		};
+
+		
+		var json = {time: Date.now(), "version": "2.23.2", blocks: []};
+		
+		json.blocks.push({
+			id: "id_"+Math.floor(Math.random() * 1000000),
+			type: "header",
+			data: {
+				text: seo_title,
+				level: 1
+			},
+			tunes: {
+				AlignmentBlockTune: {
+					alignment: "center"
+				}
+			}
+		});
+		
+		
+		
+		var text = $(this).parents(".item").find(".text").html().replaceAll("\t","");
+		
+		
+		
+		json.blocks.push({
+			id: "id_"+Math.floor(Math.random() * 1000000),
+			type: "paragraph",
+			data: {
+				text: "<i>"+text+"</i>",
+			},
+			tunes: {
+				AlignmentBlockTune: {
+					alignment: "center"
+				}
+			}
+		});
+		
+		json.blocks.push({
+			id: "id_"+Math.floor(Math.random() * 1000000),
+			type: "delimiter",
+			data: {}
+		});
+		
+		
+		$(this).parents(".item").find(".ce-fbcomment").each(function(k,item){
+			var author = $(item).attr("data-author");
+			var gender = $(item).attr("data-gender");
+			var level = $(item).attr("data-level");
+			var content = $(item).html();
+			
+			
+			json.blocks.push({
+				id: "id_"+Math.floor(Math.random() * 1000000),
+				type: "fbcomment",
+				data: {
+					text: content,
+					author: author,
+					gender: gender,
+					level: level,
+				},
+				tunes: {
+					AlignmentBlockTune: {
+						alignment: "left"
+					}
+				}
+			});
+			
+		});
+		
+		
+		var dateNow = new Date().toISOString().slice(0, 16).replace('T',' ')+":00 +0300";
+		
+		var markdown =  '---\n' +
+						'layout: community\n' +
+						'category: community\n' +
+						'title: "'+seo_title+'"\n' +
+						'description: "'+seo_desc+'"\n' +
+						'isTopLevel: false\n' +
+						'isSingleLevel: false\n' +
+						'isArticle: false\n' +
+						'datePublished: '+dateNow+'\n' +
+						'dateModified: '+dateNow+'\n' +
+						'published: false\n' +
+						'---';
+
+
+
+		var jsonB64 = await b64e(JSON.stringify(json));
+		
+		await git_put_file("_data/_community/"+seo_slug+".json", jsonB64).then(function(gitResp){
+			if(typeof gitResp.content !== 'undefined'){
+			
+			}else{
+				alert("json upload error, upload failed.");
+			}
+		});
+
+		var markdownB64 = await b64e(markdown);
+		await git_put_file("_community/"+seo_slug+".md", markdownB64).then(function(gitResp){
+			if(typeof gitResp.content !== 'undefined'){
+			
+			}else{
+				alert("json upload error, upload failed.");
+			}
+		});
+		
+		
+		$.get("http://localhost/bicycletravellers.com/php/group_data/publish.php?file="+file, function(){
+			["/input#_community/"+seo_slug+".md"/*, "/community/"+seo_slug+".html"*/].forEach(function(url){
+				let link     = document.createElement('a');
+				link.href    = url;
+				link.target  = '_blank';
+				link.click();
+			});
+			
+			$(that).parents(".article-container").remove();
+		});
+		
+		/*alert("Done! burda linki göstermek yada açmak gerek yeni sekmede falan.");*/
+	});
+	
+</script>
+		
+		
+<!--
+Array
+(
+    [["album","fallback"]] => 350
+    [["share","fallback"]] => 181
+    [["photo","fallback"]] => 165
+    [["native_templates","group","avatar","fallback"]] => 1
+    [["new_album","album","fallback"]] => 1
+    [["video_autoplay","video_inline","video","games_app","fallback"]] => 16
+    [["photo_link_share","share","square_image_share","fallback"]] => 1
+    [["messenger_generic_template","photo_link_share","square_image_share","image_share","share","native_templates","fallback"]] => 2
+)
+-->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+<script>
+	$(document).on("click", ".comment_link", function(e){
+		e.preventDefault();
+		var that = this;
+		$.getJSON($(this).attr("href"), function(res){
+			res.sort(function(a, b) {
+				return a.created_time - b.created_time;
+			});
+
+			res.sort();
+			
+			var comments_div = $("<div />");
+			$.each(res, function(k,comment){
+				var comment_div = $('<div class="comment ce-fbcomment '+comment.author.gender+'" data-author = "'+comment.author.name+'" data-gender = "'+comment.author.gender+'" data-level = "0" />');
+
+				if(comment.translation_available_for_viewer){
+					var body_to_render = comment.translated_body_renderer;
+				}else{
+					var body_to_render = comment.body_renderer;
+				}
+				
+				if(body_to_render){
+					var new_text = render_the_body(body_to_render);
+					
+					$(comment_div).append('<div class = "comment_text">'+new_text+'</div>');
+				}
+				
+				if(comment.attachments.length){
+					var attachment = render_the_attachment(comment.attachments[0]);
+					if(attachment != ''){
+						$(comment_div).append('<div class = "comment_attachment">'+attachment+'</div>');						
+					}
+				}
+				
+				$(comments_div).append($(comment_div));
+				
+				if(comment.feedback.comment_count){
+					$.each(comment.feedback.sub_comments.comments, function(k, sub_comment){
+						var sub_comment_div = $('<div class="sub_comment ce-fbcomment '+sub_comment.author.gender+' threading_depth_'+sub_comment.threading_depth+'" data-author = "'+sub_comment.author.name+'" data-gender = "'+sub_comment.author.gender+'" data-level = "'+sub_comment.threading_depth+'" />');
+
+						if(sub_comment.translation_available_for_viewer){
+							var body_to_render = sub_comment.translated_body_renderer;
+						}else{
+							var body_to_render = sub_comment.body_renderer;
+						}
+						
+						if(body_to_render){
+							var new_text = render_the_body(body_to_render);
+							
+							$(sub_comment_div).append('<div class = "comment_text">'+new_text+'</div>');
+						}
+						
+						
+						if(sub_comment.attachments.length){
+							var attachment = render_the_attachment(sub_comment.attachments[0]);
+							if(attachment != ''){
+								$(sub_comment_div).append('<div class = "comment_attachment">'+attachment+'</div>');
+							}
+						}
+						
+						$(comments_div).append($(sub_comment_div));
+						
+					});
+				}
+				
+			});
+			$(that).parents(".item").find(".comments").append($(comments_div));
+		});
+	});
+	
+	
+	
+	function render_the_body(body_to_render){
+		var new_text = body_to_render.text;
+		if(body_to_render.ranges.length){
+			$.each(body_to_render.ranges, function(r, range){
+				if(range.entity.__typename == "User"){
+					var user =  Array.from(body_to_render.text).slice(range.offset, range.offset+range.length).join('');
+					new_text = new_text.replace(user, '<span class = "ce-fbcomment-quote" data-quote = "'+user+'"></user>');
+				}else if(range.entity.__typename == "Page"){
+					var page =  Array.from(body_to_render.text).slice(range.offset, range.offset+range.length).join('');
+					new_text = new_text.replace(page, '<a href = "'+range.entity.url+'" target="_blank" rel="nofollow">'+page+'</a>');
+				}else if(range.entity.__typename == "Group"){
+					var group =  Array.from(body_to_render.text).slice(range.offset, range.offset+range.length).join('');
+					new_text = new_text.replace(group, '<a href = "'+range.entity.url+'" target="_blank" rel="nofollow">'+group+'</a>');
+				}else if(range.entity.__typename == "Story"){
+					var story =  Array.from(body_to_render.text).slice(range.offset, range.offset+range.length).join('');
+					new_text = new_text.replace(story, '<a href = "'+range.entity.url+'" target="_blank" rel="nofollow">'+story+'</a>');
+				}else if(range.entity.__typename == "ExternalUrl"){
+					var ExternalUrl = Array.from(body_to_render.text).slice(range.offset, range.offset+range.length).join('');
+					new_text = new_text.replace(ExternalUrl, '<a href = "'+range.entity.web_link.url+'" target="_blank" rel="nofollow">'+ExternalUrl+'</a>');
+				}else if(range.entity.__typename == "Hashtag"){
+					/* skip it*/
+				}
+				else{
+					console.error(range.entity.__typename +  " is unknown:");
+					console.info(range);
+				}
+			});
+		}
+		return new_text;
+	}
+	
+	function render_the_attachment(attachment){
+		var attachmentHTML = '';
+		
+		switch(attachment.style_list[0]){
+			case "album":/*
+				???
+				*/
+			break;
+			case "share":
+				attachmentHTML = ''+
+					'<div class="link-tool">'+
+						'<a class="link-tool__content link-tool__content--rendered" target="_blank" rel="nofollow" href="'+attachment.style_type_renderer.attachment.target.url+'">';
+						
+						if(typeof (attachment.style_type_renderer?.attachment?.media?.fallback_image?.uri) != "undefined"){
+							img_url = attachment.style_type_renderer.attachment.media.fallback_image.uri;
+							const url = new URL(img_url);
+							const params = new Proxy(new URLSearchParams(url.search), {
+							  get: (searchParams, prop) => searchParams.get(prop),
+							});
+							attachmentHTML = attachmentHTML + '<div class="link-tool__image"><img loading = "lazy" src = "'+params.url+'" alt="" /></div>';
+						}
+						
+						attachmentHTML = attachmentHTML + 
+							'<div class="link-tool__title">'+attachment.style_type_renderer.attachment.title_with_entities.text+'</div>'+
+							'<span class="link-tool__anchor truncate">'+attachment.style_type_renderer.attachment.source.text+'</span>'+
+						'</a>'+
+					'</div>';
+			break;
+			case "photo":
+				var new_img_url = "http://localhost/bicycletravellers.com/php/group.php?page=full_image&url="+encodeURIComponent(attachment.style_type_renderer.attachment.url)+"&small_image="+encodeURIComponent(attachment.style_type_renderer.attachment.media.image.uri);
+				attachmentHTML = ''+
+				'<div class = "comment_photo_attachment">'+
+					'<img crossorigin="anonymous" class = "comment_photo_image" loading="lazy" src = "'+new_img_url+'" alt = ""/>'+
+				'</div>';
+			break;
+			
+			case "animated_image_share":/**/
+			case "sticker":/**/
+			case "video_inline":/**/
+			case "video":/**/
+			case "native_templates":/**/
+			case "page_in_comment":/**/
+			case "pages_share":/**/
+			case "avatar":/**/
+			case "group":/**/
+				attachmentHTML = '';
+			break;
+			default:
+				/*echo "BİLİNMEYEN EKLENTİ TÜRÜ";*/
+		}
+		return attachmentHTML;
+	}
+</script>
+
+<!--
+var arr = {};
+$(".comment_link").each(function(){
+    $.getJSON($(this).attr("href"), function(comments){
+        if(comments.length){
+            $.each(comments, function(k, comment){
+                if(comment.attachments.length){
+                    $.each(comment.attachments, function(j, attachment){
+                        if(typeof arr[attachment.style_list[0]] == "undefined"){
+                            arr[attachment.style_list[0]] = 1;
+                        }else{
+                            arr[attachment.style_list[0]]++;
+                        }
+                    });
+                }
+    
+                if(comment.feedback.comment_count > 0){
+                    $.each(comment.feedback.sub_comments.comments, function(l, sub_comment){
+                        if(sub_comment.attachments.length){
+                            $.each(sub_comment.attachments, function(o, sub_attachment){
+                                if(typeof arr[sub_attachment.style_list[0]] == "undefined"){
+                                    arr[sub_attachment.style_list[0]] = 1;
+                                }else{
+                                    arr[sub_attachment.style_list[0]]++;
+                                }
+                            });
+                        }
+                    });
+                }
+            })
+        }
+    });
+
+    
+    console.log(arr);
+});
+
+
+animated_image_share: 17
+native_templates: 2
+photo: 29
+share: 15
+sticker: 28
+video_inline: 1
+-->
