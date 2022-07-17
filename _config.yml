@@ -8,7 +8,7 @@ gitput: "http://localhost/bicycletravellers.com/php/temp_git_put.php?path=" #"ht
 markdown: kramdown
 plugins:
   - jekyll-sitemap
-exclude: [zOther, z_serve.bat]
+exclude: [zOther, z_serve.bat, images]
 keep_files: [images]
 sass:
     style: compressed
