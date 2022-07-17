@@ -1,5 +1,5 @@
 {
-  "time": 1652256978252,
+  "time": 1658088314059,
   "blocks": [
     {
       "id": "RDwIkT5SS6",
@@ -134,7 +134,7 @@
       "id": "yfypx6aTPl",
       "type": "paragraph",
       "data": {
-        "text": "The heat difference between the inside and the outside of the tent causes dew to form inside the tent from your breathing. And as a result, you wake up&nbsp;soaked and shivering."
+        "text": "The heat difference between the inside and the outside of the tent causes <b>dew to form inside the tent</b> from your breathing. And as a result, you wake up&nbsp;soaked and shivering."
       },
       "tunes": {
         "AlignmentBlockTune": {
