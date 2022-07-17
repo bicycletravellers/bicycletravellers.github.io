@@ -1,0 +1,28 @@
+<div class="clearfix">
+{% assign list = include.posts | split: "," %}
+{% for slug_raw in list %}
+  {% capture path %}{{ slug_raw | strip | replace: ".html",""}}{% endcapture %}
+  {% if path contains "/" %}
+	{% assign col_slug = path | split: "/" %}
+	{% capture col %}{{col_slug[0]}}{% endcapture %}
+	{% capture slug %}{{col_slug[1]}}{% endcapture %}
+	{% assign post = site[col] | where: "slug", slug  | first %}
+  {% else %}
+{{slug_raw}}
+	{% capture url %}{{path | prepend: "/" | append: ".html"}}{% endcapture %}
+	{% assign post = site.pages | where: "url", url  | first %}
+	{% if post == null %}
+		{% capture url %}{{path | prepend: "/" | append: "/"}}{% endcapture %}
+		{% assign post = site.pages | where: "url", url  | first %}
+	{%endif%}
+	{% if post == null %}
+		{% capture url %}{{path | prepend: "/"}}{% endcapture %}
+		{% assign post = site.pages | where: "url", url  | first %}
+	{%endif%}
+  {% endif %}
+  
+    <a class = "no-decoration" href = "/{{post.category}}/{{post.slug}}.html">
+        <span class = "small-title">{{post.title}}</span>
+    </a>
+{% endfor %}
+</div>

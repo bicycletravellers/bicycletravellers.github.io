@@ -1,0 +1,103 @@
+<nav id="head_nav">
+  <a id = "logo" href="/"><img class = "wnot" src = "/images/mini-logo.png" alt = "Bicycle Travellers Logo"/></a>
+  <div id="menu">
+	  <div>
+		<a href="/learn/">LEARN</a>
+		<a href="/gear/">GEAR</a>
+		<!--<a href="/gear-surveys/">GEAR SURVEYS</a>
+		<a href="/resources/">RESOURCES</a>
+		<a href="/awards/">AWARDS</a>
+		<a href="/travellers/">TRAVELLERS</a>-->
+		<a href="/community/" style = "background-color: blueviolet;">COMMUNITY</a>
+		<a href="/about.html">ABOUT</a>
+	  </div>
+  </div>
+  <span id = "open_menu" class="icon">   &#x2630;  </span>
+</nav>
+<script>
+	var menu_opener = document.getElementById('open_menu');
+	var menu = document.getElementById('menu');
+	menu_opener.onclick = function(event) {
+		menu.style.display=menu.style.display=='block'?'none':'block';
+		
+		if(window.history.state === null){
+			window.history.pushState({ clicked_on: "menu" }, null, "");
+		}else{
+			window.history.replaceState({ clicked_on: "menu" }, null, "");
+		}
+	};
+
+	window.onclick = function(event) {
+		if (event.target == menu) {
+			menu.style.display = "none";
+			window.history.back();
+		}
+	};
+
+	window.addEventListener('popstate', function(e) {
+		if(window.history.state === null){
+			 menu.style.display = "none";
+		}else{
+			menu.style.display = "block";
+		}
+	});
+</script>
+{% unless page.url == "/index.html" %}
+{% unless page.url == "/404.html" %}
+<ul class="breadcrumb">
+  <li><a href="/"><span>&#9978;</span></a></li>
+  {% if page.isTopLevel == true %}<li>{{page.title}}</li>{% endif %}
+  {% if page.isTopLevel == false %}<li><a class = "uppercase" href="/{{page.category}}/">{{page.category}}</a></li><li>{{page.title}}</li>{% endif %}
+</ul>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "&#9978;",
+    "item": "{{ site.url }}"
+  },
+  {% if page.isSingleLevel == false %}
+    {% if page.isTopLevel == true %}
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{page.category | upcase }}",
+      "item": "{{ site.url }}/{{page.category}}/"
+    }
+    {% endif %}
+    {% if page.isTopLevel == false %}
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{page.category | upcase}}",
+      "item": "{{ site.url }}/{{page.category}}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{page.title}}",
+      "item": "{{ site.url }}{{ page.url | replace:'index.html',''}}"
+    }
+    {% endif %}
+  {% endif %}
+  {% if page.isSingleLevel == true %}
+  {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "{{page.title}}",
+    "item": "{{ site.url }}{{ page.url | replace:'index.html',''}}"
+  }
+  {% endif %}
+  ]
+}
+</script>
+{% endunless %}
+{% endunless %}
+
+{% if page.url == "/index.html" or page.url == "/404.html" %}
+<div class = "extender"></div>
+{% endif %}

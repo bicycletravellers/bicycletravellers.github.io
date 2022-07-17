@@ -1,0 +1,51 @@
+---
+layout: compress
+---
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>{{page.title}} | Bicycle Travellers</title>
+		<meta name="description" content="{{ page.description }}">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+		<link rel="shortcut icon" href="/images/logo.png" type="image/png">
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+
+		<!-- Twitter Card data -->
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="{{page.title}}">
+		<meta name="twitter:description" content="{{ page.description }}">
+		<meta name="twitter:image" content="{% if page.img %}{{page.img}}{% else %}{{ site.url }}/images/logo.png{% endif %}">
+
+		<!-- Open Graph data -->
+		<meta property="og:title" content="{{page.title}}" />
+		<meta property="og:type" content="article" />
+		<meta property="og:image" content="{% if page.img %}{{page.img}}{% else %}{{ site.url }}/images/logo.png{% endif %}" />
+		<meta property="og:description" content="{{ page.description }}" /> 
+		<meta property="og:site_name" content="Bicycle Travellers" />
+		
+		<link type="application/atom+xml" rel="alternate" title="Bicycle Travellers" href="https://bicycletravellers.com/feed.xml" />
+		<link type="application/rss+xml" rel="alternate" title="Bicycle Travellers"  href="https://bicycletravellers.com/rss.xml" />
+	</head>
+
+	<body>
+		{% include header.html %}
+
+		{{ content }}
+	</body>
+
+	<footer>
+		<div>
+			<a href = "/privacy.html">Privacy</a>
+			<a href = "/terms.html">Terms</a>
+			<a href = "/about.html">About</a>
+		</div>
+	</footer>
+	
+	
+	<script>
+		var page_path = "{{page.path}}";
+	</script>
+</html>

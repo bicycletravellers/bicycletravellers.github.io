@@ -1,0 +1,219 @@
+---
+layout: post
+---
+{% if page.featured %}
+<div style = "padding: 5px 10px;   margin-bottom: 16px; text-align:center">
+	<b>Currently accepting donations and sponsorships.</b>
+	<table class = "table">
+		<tr><td><img src = "/images/facebook.png" class="wnot"><span style="width: 125px; display: inline-block;"><a href = "https://facebook.com/{{page.facebook}}" target="_blank" rel = "nofollow">Facebook</a></span></td></tr>
+		<tr><td><img src = "/images/instagram.png" class="wnot"><span style="width: 125px; display: inline-block;"><a href = "https://instagram.com/{{page.instagram}}" target="_blank" rel = "nofollow">Instagram</a></span></td></tr>
+		<tr><td><img src = "/images/youtube.png" class="wnot"><span style="width: 125px; display: inline-block;"><a href = "https://youtube.com/{{page.youtube_parameter}}/{{page.youtube}}" target="_blank" rel = "nofollow">Youtube</a></span></td></tr>
+		<tr><td><img src = "/images/web.png" class="wnot"><span style="width: 125px; display: inline-block;"><a href = "{{page.website}}" target="_blank" rel = "nofollow">Website</a></span></td></tr>
+	</table>
+</div>
+{% endif %}
+
+{% if site.data.travellers[page.slug].website.posts.size > 0 %}
+<h2>{{page.h1_title}} Website Activity</h2>
+<div class = "social_feed">
+	<div style = "padding: 10px 0;">
+		<img class = "wnot traveller-square-profile-photo" style="width:80px;height:80px" src = "/images/web.svg">
+		<div style = "padding: 0px 10px; flex-grow: 1;">
+			<div class = "truncate truncate1" style = "font-size:18px; font-weight:bold;    line-height: 24px; color:#505050">
+				{{site.data.travellers[page.slug].website.title}}
+			</div>
+			<div class = "truncate truncate1" style = "font-size: 16px; line-height: 24px;">
+				{{site.data.travellers[page.slug].website.description}}
+			</div>
+			<div class = "truncate truncate1" style = "font-size: 16px; line-height: 24px;">
+				<a href = "{{site.data.travellers[page.slug].website.link}}" target = "_blank" rel="nofollow">{{site.data.travellers[page.slug].website.link}}</a>
+			</div>
+		</div>
+	</div>
+	<div style = "">
+		{% assign items = site.data.travellers[page.slug].website.posts %}
+		{% for item in items %}
+		<div class = "flex-container flex-align" style = "border: 1px solid lightgrey; margin: 4px 0;">
+			{% if item.image %}
+			<img class = "cors_photo wnot traveller-feed-photo" alt = "{{item.title}}" data-src = "{{item.image}}" onerror="this.src='/images/web.svg'">
+			{% else %}
+			<img class = "cors_photo wnot traveller-feed-photo" alt = "" src = "/images/web.svg">
+			{% endif %}
+			<div style = "padding: 4px 10px; font-size: 15px; line-height: 20px;overflow-wrap: anywhere;">
+				<span class = "truncate truncate1" style="font-size: 18px; font-weight: bold; color: #505050;">
+					{{-item.title | strip_html-}}
+				</span>
+				<span class = "truncate truncate3">
+					{{-item.text | strip_html-}}
+				</span>
+				<span>
+					<a href = "{{item.link}}" target = "_blank" rel="nofollow">{{item.link}}</a>
+				</span>
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+</div>
+{% endif %}
+
+
+
+
+
+
+
+{% if site.data.travellers[page.slug].instagram.mediacount > 0 %}
+<h2>{{page.h1_title}} Instagram Activity</h2>
+<div class = "social_feed">
+	<div class = "flex-container" style = "padding: 10px 0;">
+		<img class = "cors_photo wnot traveller-round-profile-photo" data-src = "{{site.data.travellers[page.slug].instagram.profilepic}}">
+		<div class = "traveller-profile-text" style = "padding: 0px 10px; flex-grow: 1;">
+			<div style = "font-size:18px; font-weight:bold;    line-height: 30px; ">
+				<a href = "https://instagram.com/{{site.data.travellers[page.slug].instagram.username}}" target = "_blank" rel="nofollow">@{{site.data.travellers[page.slug].instagram.fullname}}</a>
+			</div>
+			<div class = "truncate truncate2" style = "font-size: 14px; line-height: 16px;">
+				{{-site.data.travellers[page.slug].instagram.biography-}}
+			</div>
+			<div style = "font-size: 15px;">
+				{{site.data.travellers[page.slug].instagram.mediacount}} posts / {{site.data.travellers[page.slug].instagram.followers}} followers / {{site.data.travellers[page.slug].instagram.following}} following
+			</div>
+		</div>
+	</div>
+	<div style = "">
+		{% assign items = site.data.travellers[page.slug].instagram.medias %}
+		{% for item in items %}
+		<div class = "flex-container flex-align" style = "border: 1px solid lightgrey; margin: 4px 0;">
+			<img class = "cors_photo wnot traveller-feed-photo" alt = "{{item.accessibility_caption}}" data-src = "{{item.display_url}}">
+			<div style = "padding: 4px 10px; font-size: 15px; line-height: 20px;">
+				<span class = "truncate truncate4">
+					{{-item.text | strip_html-}}
+				</span>
+				<span style = "color:blue">
+					{{item.comments}} Comments - 
+					{{item.likes}} Likes -
+					<a href = "https://www.instagram.com/p/{{item.node.shortcode}}/" target = "_blank" rel="nofollow">Link</a>
+				</span>
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+</div>
+{% endif %}
+
+
+
+
+
+{% if site.data.travellers[page.slug].facebook.posts.size > 0 %}
+<h2>{{page.h1_title}} Facebook Activity</h2>
+<div class = "social_feed">
+	<div style = "padding: 10px 0;">
+		<img class = "cors_photo wnot traveller-square-profile-photo" data-src = "{{site.data.travellers[page.slug].facebook.pic}}">
+		<div style = "padding: 0px 10px; flex-grow: 1;">
+			<div style = "font-size:18px; font-weight:bold;    line-height: 24px; color: #505050;">
+				{{site.data.travellers[page.slug].facebook.name}}
+			</div>
+			<div class = "truncate truncate2" style = "font-size: 14px; line-height: 16px;">
+				<a href = "{{site.data.travellers[page.slug].facebook.url}}" target = "_blank" rel="nofollow">{{site.data.travellers[page.slug].facebook.url}}</a>
+			</div>
+		</div>
+	</div>
+	<div style = "">
+		{% assign items = site.data.travellers[page.slug].facebook.posts %}
+		{% for item in items %}
+		<div class = "flex-container flex-align" style = "border: 1px solid lightgrey; margin: 4px 0; ">
+			<img class = "cors_photo wnot traveller-feed-photo" alt = "{{item.attachment.caption}}" data-src = "{{item.attachment.uri}}">
+			<div style = "padding: 4px 10px; font-size: 15px; line-height: 20px;  overflow-wrap: anywhere;">
+				<span class = "truncate truncate4">
+					{{- item.text | strip_html -}}
+				</span>
+				<span class = "truncate truncate1"><a href = "{{- item.url -}}" target = "_blank" rel="nofollow">{{- item.url -}}</a></span>
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+</div>
+{% endif %}
+
+
+
+
+
+
+
+
+{% if site.data.travellers[page.slug].youtube.entry.size > 0 %}
+<h2>{{page.h1_title}} Youtube Activity</h2>
+<div class = "social_feed">
+	<div style = "padding: 10px 0;">
+		<img class = "wnot traveller-square-profile-photo" src = "/images/youtube.svg">
+		<div style = "padding: 0px 10px; flex-grow: 1;">
+			<div style = "font-size:18px; font-weight:bold;    line-height: 24px; color:#505050">
+				{{- site.data.travellers[page.slug].youtube.title -}}
+			</div>
+			<div class = "truncate truncate2" style = "font-size: 14px; line-height: 16px;">
+				<a href = "{{site.data.travellers[page.slug].youtube.author.uri}}" target = "_blank" rel="nofollow">{{site.data.travellers[page.slug].youtube.author.uri}}</a>
+			</div>
+		</div>
+	</div>
+	<div style = "">
+		{% assign items = site.data.travellers[page.slug].youtube.entry %}
+		{% for item in items %}
+		<div class = "flex-container flex-align" style = "border: 1px solid lightgrey; margin: 4px 0;">
+			<img class = "wnot traveller-feed-photo" alt = "{{item.title}}" src = "{{item.media_group.media_thumbnail['@attributes'].url}}">
+			<div style = "padding: 4px 10px; font-size: 15px; line-height: 20px;overflow-wrap: anywhere;">
+				<span class = "truncate truncate1" style="font-size: 18px; font-weight: bold; color: #505050;">
+					{{- item.title | strip_html -}}
+				</span>
+				<span class = "truncate truncate3">
+					{{- item.media_group.media_description | strip_html -}}
+				</span>
+				<span style = "color:blue">
+					{{item.media_group.media_community.media_statistics["@attributes"].views}} Views - 
+					{{item.media_group.media_community.media_starRating["@attributes"].average}} Star - 
+					<a href = "{{item.link['@attributes'].href}}" target = "_blank" rel="nofollow">Link</a>
+				</span>
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+</div>
+{% endif %}
+
+
+<script type="application/ld+json">
+{
+  "@context" : "https://schema.org",
+  "@type" : "Person",
+  "name" : "{{page.title}}",
+  "url" : "{{site.url}}{{page.url}}",
+  "sameAs" : [
+    {% if page.facebook %}"http://www.facebook.com/{{page.facebook}}",{% endif %}
+    {% if page.instagram %}"http://instagram.com/{{page.instagram}}",{% endif %}
+    {% if page.youtube %}"https://www.youtube.com/{{page.youtube_parameter}}/{{page.youtube}}",{% endif %}
+    {% if page.web %}"{{page.web}}"{% endif %}
+  ]
+}
+</script>
+
+<script>
+
+	/* https://github.com/crypto-su/corsDown */
+	function corsBypass(url) {
+	  const p = url.split("/");
+	  var t = '';
+	  for (let i = 0; i < p.length; i++) {
+		if (i == 2) {
+		  t += p[i].replaceAll('-', '--').replaceAll('.', '-') + atob('LnRyYW5zbGF0ZS5nb29n') + '/';
+		} else { if (i != p.length - 1) { t += p[i] + '/'; } else { t += p[i]; } }
+	  }
+	  /*return encodeURI(t);*/
+	  return (t);
+	}
+
+	document.querySelectorAll('.cors_photo').forEach(function(img) {
+		img.src = corsBypass(img.dataset.src)
+	});
+	
+
+</script>

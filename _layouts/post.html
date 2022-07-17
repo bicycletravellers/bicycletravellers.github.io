@@ -1,0 +1,345 @@
+---
+layout: index
+---
+{% if page.isArticle %}
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+	"@type": "WebPage",
+	"@id": "{{ site.url }}{{ page.url | replace:'index.html',''}}"
+  },
+  "headline": "{{page.title}}",
+  "alternativeHeadline": "{{page.h1_title}}",
+  "url": "{{ site.url }}{{ page.url | replace:'index.html',''}}",
+  "image": "{% if page.img %}{{ page.img }}{% else %}{{ site.url }}/images/logo.png{% endif %}",
+  "datePublished": "{{ page.date_pub }}",
+  "dateModified": "{{ page.date }}",
+  "author": {
+	"@type": "Organization",
+	"name": "Bicycle Travellers",
+	"logo": {
+	  "@type": "ImageObject",
+	  "url": "{{ site.url }}/images/logo.png"
+	}
+  },
+   "publisher": {
+	"@type": "Organization",
+	"name": "Bicycle Travellers",
+	"logo": {
+	  "@type": "ImageObject",
+	  "url": "{{ site.url }}/images/logo.png"
+	}
+  },
+  "description": "{{ page.description }}"
+}
+</script>
+{% endif %}
+
+<div class="main-container">
+  <div class="article-container">
+	<div class="main clearfix">
+		<article class = "clearfix">
+			<header>
+				<h1>{{page.h1_title}}</h1>
+				{% if page.short_text %}
+					<p class='main_description'>{{page.short_text}}</p>
+				{% endif %}
+				{% if page.img %}
+					{% capture captured_image %}{{page.img}}{% endcapture %}
+					{% capture captured_caption %}{{page.img_caption}}{% endcapture %}
+					{% include lazy-image.html img=captured_image side="" alt=captured_caption caption=captured_caption %}
+				{% endif %}
+			</header>
+			<!--
+			<section>
+				<ol id="markdown-toc">
+				  <li><a href="#choosing-a-destination" id="markdown-toc-choosing-a-destination">Choosing a destination</a></li>
+				  <li><a href="#plan-your-logistics" id="markdown-toc-plan-your-logistics">Plan your logistics</a>    <ol>
+					  <li><a href="#food-planning" id="markdown-toc-food-planning">Food planning</a></li>
+					  <li><a href="#accommodation-planning" id="markdown-toc-accommodation-planning">Accommodation planning</a></li>
+					  <li><a href="#route-planning" id="markdown-toc-route-planning">Route Planning</a></li>
+					  <li><a href="#getting-visas" id="markdown-toc-getting-visas">Getting Visas</a>        <ol>
+						  <li><a href="#tips-for-getting-visas" id="markdown-toc-tips-for-getting-visas">Tips for getting visas</a></li>
+						</ol>
+					  </li>
+					  <li><a href="#safety" id="markdown-toc-safety">Safety</a>        <ol>
+						  <li><a href="#animals" id="markdown-toc-animals">Animals</a>            <ol>
+							  <li><a href="#dogs" id="markdown-toc-dogs">Dogs</a></li>
+							  <li><a href="#wild-pigs-and-bears" id="markdown-toc-wild-pigs-and-bears">Wild Pigs and Bears</a></li>
+							  <li><a href="#other-wild-animals" id="markdown-toc-other-wild-animals">Other Wild Animals</a></li>
+							  <li><a href="#flies-and-other-flying-insects" id="markdown-toc-flies-and-other-flying-insects">Flies and Other Flying Insects</a></li>
+							</ol>
+						  </li>
+						  <li><a href="#traffic" id="markdown-toc-traffic">Traffic</a></li>
+						  <li><a href="#bad-weather" id="markdown-toc-bad-weather">Bad weather</a></li>
+						  <li><a href="#staying-healthy" id="markdown-toc-staying-healthy">Staying healthy</a></li>
+						</ol>
+					  </li>
+					</ol>
+				  </li>
+				  <li><a href="#gear" id="markdown-toc-gear">Gear</a>    <ol>
+					  <li><a href="#bike" id="markdown-toc-bike">Bike</a></li>
+					  <li><a href="#packlist" id="markdown-toc-packlist">Packlist</a>        <ol>
+						  <li><a href="#essential-items" id="markdown-toc-essential-items">Essential Items</a></li>
+						  <li><a href="#camping-equipment" id="markdown-toc-camping-equipment">Camping Equipment</a></li>
+						  <li><a href="#kitchen" id="markdown-toc-kitchen">Kitchen</a></li>
+						  <li><a href="#toiletries" id="markdown-toc-toiletries">Toiletries</a></li>
+						  <li><a href="#clothing" id="markdown-toc-clothing">Clothing</a></li>
+						  <li><a href="#health-kit" id="markdown-toc-health-kit">Health Kit</a></li>
+						  <li><a href="#bike-gear" id="markdown-toc-bike-gear">Bike Gear</a></li>
+						  <li><a href="#misc-items" id="markdown-toc-misc-items">Misc. Items</a></li>
+						</ol>
+					  </li>
+					  <li><a href="#electricity" id="markdown-toc-electricity">Electricity</a>        <ol>
+						  <li><a href="#dynamo-hub" id="markdown-toc-dynamo-hub">Dynamo Hub</a></li>
+						  <li><a href="#solar-charger" id="markdown-toc-solar-charger">Solar charger</a></li>
+						</ol>
+					  </li>
+					  <li><a href="#electronics" id="markdown-toc-electronics">Electronics</a></li>
+					  <li><a href="#connectivity" id="markdown-toc-connectivity">Connectivity</a></li>
+					  <li><a href="#maintenance" id="markdown-toc-maintenance">Maintenance</a>        <ol>
+						  <li><a href="#bike-maintenance-while-touring" id="markdown-toc-bike-maintenance-while-touring">Bike maintenance while touring</a>            <ol>
+							  <li><a href="#chain-maintenance" id="markdown-toc-chain-maintenance">Chain maintenance</a></li>
+							  <li><a href="#nuts-and-bolts" id="markdown-toc-nuts-and-bolts">Nuts and bolts</a></li>
+							  <li><a href="#tire-patching" id="markdown-toc-tire-patching">Tire patching</a></li>
+							  <li><a href="#spoke-tension" id="markdown-toc-spoke-tension">Spoke tension</a></li>
+							</ol>
+						  </li>
+						  <li><a href="#tent-maintenance" id="markdown-toc-tent-maintenance">Tent maintenance</a></li>
+						  <li><a href="#sleeping-bag-maintenance" id="markdown-toc-sleeping-bag-maintenance">Sleeping bag maintenance</a></li>
+						  <li><a href="#electronics-maintenance" id="markdown-toc-electronics-maintenance">Electronics maintenance</a></li>
+						</ol>
+					  </li>
+					</ol>
+				  </li>
+				  <li><a href="#returning-home" id="markdown-toc-returning-home">Returning Home</a></li>
+				</ol>
+			</section>
+			-->
+			<section>
+				 {%if page.path contains "/" %}
+					{% assign path = page.path | replace: ".md","" | split: "/" %}
+					{% capture cat %}{{path[0]}}{% endcapture %}
+					{% capture art %}{{path[1]}}{% endcapture %}
+					{% assign blocks = site.data[cat][art].blocks %}
+				 {% else %}
+					{% assign path = page.path | replace: ".md","" %}
+					{% assign blocks = site.data[path].blocks %}
+				 {% endif %}
+				 
+				{% for block in blocks offset:3 %}
+					{% case block.type %}
+					
+						{% when "header" %}
+							<h{{ block.data.level }}>{{ block.data.text }}</h{{ block.data.level }}>
+							
+						{% when "paragraph" %}
+							<p class = "text-{{ block.tunes.AlignmentBlockTune.alignment }}">{{ block.data.text }}</p>
+							
+						{% when "image" %}
+							{% capture captured_image %}{{block.data.file.url}}{% endcapture %}
+							{% capture captured_caption %}{{block.data.caption}}{% endcapture %}
+							{% include lazy-image.html img=captured_image side="" alt=captured_caption caption=captured_caption %}
+						
+						{% when "embed" %}
+						<div class="video_wrapper">
+							<iframe src="{{ block.data.embed }}" scrolling='no' frameborder='no' allowtransparency='true' allowfullscreen='true'></iframe>
+						</div>
+
+						
+						{% when "table" %}
+							<table class = "table text-{{ block.tunes.AlignmentBlockTune.alignment }}">
+							{% if block.data.withHeadings %}
+								{% assign offset = 1 %}
+								<thead>
+									<tr>
+									{% for col in block.data.content[0] %}
+										<th>
+										{{ col }}
+										</th>
+									{% endfor %}
+									</tr>
+								</thead>
+							{% else %}
+								{% assign offset = 0 %}
+							{% endif %}
+								<tbody>
+								{% for row in block.data.content offset:offset%}
+									<tr>
+									{% for col in row %}
+										<td>
+										{{ col }}
+										</td>
+									{% endfor %}
+									</tr>
+								{% endfor %}
+								</tbody>
+							</table>
+							
+							
+							
+						{% when "quote" %}
+						
+							<blockquote class="text-{{ block.data.alignment }}">
+								<p>{{ block.data.text }}</p>
+								<em>{{ block.data.caption }}</em>
+							</blockquote>
+						
+						
+						
+						
+						{% when "delimiter" %}
+							<div class="ce-delimiter"></div>
+						
+						
+						{% when "alert" %}
+							<div class = "cdx-alert cdx-alert-{{ block.data.type }} text-{{ block.tunes.AlignmentBlockTune.alignment }}">
+								{{ block.data.message }}
+							</div>
+						
+						
+						{% when "list" %}
+							{% if block.data.style == "ordered" %}
+								{% assign type = "ol" %}
+							{% else %}
+								{% assign type = "ul" %}
+							{% endif %}
+							
+							<{{type}}>
+								{% for item in block.data.items %}
+									<li>{{item.content}}</li>
+									{% if item.items %}
+										<{{type}}>
+										{% for item in item.items %}
+											<li>{{item.content}}</li>
+											{% if item.items %}
+												<{{type}}>
+												{% for item in item.items %}
+													<li>{{item.content}}</li>
+													{% if item.items %}
+														<{{type}}>
+														{% for item in item.items %}
+															<li>{{item.content}}</li>
+															{% if item.items %}
+																<{{type}}>
+																{% for item in item.items %}
+																	<li>{{item.content}}</li>
+																	{% if item.items %}
+																		<{{type}}>
+																		{% for item in item.items %}
+																			<li>{{item.content}}</li>
+																			{% if item.items %}
+																				<{{type}}>
+																				{% for item in item.items %}
+																					<li>{{item.content}}</li>
+																					{% if item.items %}
+																						<{{type}}>
+																						{% for item in item.items %}
+																							<li>{{item.content}}</li>
+																						{% endfor %}
+																						</{{type}}>
+																					{% endif %}
+																				{% endfor %}
+																				</{{type}}>
+																			{% endif %}
+																		{% endfor %}
+																		</{{type}}>
+																	{% endif %}
+																{% endfor %}
+																</{{type}}>
+															{% endif %}
+														{% endfor %}
+														</{{type}}>
+													{% endif %}
+												{% endfor %}
+												</{{type}}>
+											{% endif %}
+										{% endfor %}
+										</{{type}}>
+									{% endif %}
+								{% endfor %}
+							</{{type}}>
+						
+						
+						
+						
+						
+						{% when "checklist" %}
+							<div class="cdx-checklist">
+								{% for item in block.data.items %}
+								<div class="cdx-checklist__item {% if item.checked %}cdx-checklist__item--checked{% endif %}">
+									<span class="cdx-checklist__item-checkbox"></span>
+									<div class="cdx-checklist__item-text">{{item.text}}</div>
+								</div>
+								{% endfor %}
+							</div>
+						
+						
+						
+						{% when "AnyButton" %}
+							<div class = "centered-clear">
+								<a class = "button button-primary" href = "{{block.data.link}}" target = "_blank" rel = "nofollow">{{block.data.text}}</a>
+							</div>
+							
+						
+						
+						{% when "linkTool" %}
+						
+							<div class="link-tool">
+								<a class="link-tool__content link-tool__content--rendered" target="_blank" rel="nofollow" href="{{block.data.link}}">
+									<div class="link-tool__image"><img loading="lazy" src = "<?php echo $img_url; ?>" alt = "" /></div>
+									<div class="link-tool__title">{{block.data.meta.title}}</div>
+									<p class="link-tool__description">{{block.data.meta.description}}</p>
+									<span class="link-tool__anchor truncate">{{block.data.link}}</span>
+								</a>
+							</div>
+
+						
+						{% when "attaches" %}
+						
+							<div class="cdx-attaches cdx-attaches--with-file">
+								<div class="cdx-attaches__file-icon" data-extension="{{block.data.file.extension}}" style="color: rgb(90, 90, 91);">
+									<svg xmlns="http://www.w3.org/2000/svg" width="32" height="40">
+										<path d="M17 0l15 14V3v34a3 3 0 0 1-3 3H3a3 3 0 0 1-3-3V3a3 3 0 0 1 3-3h20-6zm0 2H3a1 1 0 0 0-1 1v34a1 1 0 0 0 1 1h26a1 1 0 0 0 1-1V14H17V2zm2 10h7.926L19 4.602V12z"></path>
+									</svg>
+								</div>
+								<div class="cdx-attaches__file-info">
+									<div class="cdx-attaches__title">{{block.data.title}}</div>
+									<div class="cdx-attaches__size" data-size="KiB">{{block.data.file.size | divided_by:1000.0}}</div>
+								</div>
+								<a class="cdx-attaches__download-button" href="{{block.data.file.url}}" target="_blank" rel="nofollow">
+									<svg xmlns="http://www.w3.org/2000/svg" width="17pt" height="17pt" viewBox="0 0 17 17">
+										<path d="M9.457 8.945V2.848A.959.959 0 0 0 8.5 1.89a.959.959 0 0 0-.957.957v6.097L4.488 5.891a.952.952 0 0 0-1.351 0 .952.952 0 0 0 0 1.351l4.687 4.688a.955.955 0 0 0 1.352 0l4.687-4.688a.952.952 0 0 0 0-1.351.952.952 0 0 0-1.351 0zM3.59 14.937h9.82a.953.953 0 0 0 .953-.957.952.952 0 0 0-.953-.953H3.59a.952.952 0 0 0-.953.953c0 .532.425.957.953.957zm0 0" fill-rule="evenodd"></path>
+									</svg>
+								</a>
+							</div>
+						
+						{% when "fbcomment" %}
+							<div class = "ce-fbcomment" data-author = "{{block.data.author}}" data-gender = "{{block.data.gender}}" data-level = "{{block.data.level}}">
+								{{block.data.text}}
+							</div>
+
+
+
+						{% when "internal" %}
+							{% capture posts %}{{block.data.text}}{% endcapture %}
+							{% include post-list.html posts=posts %}
+
+
+
+						{% else %}
+							<font style="font-size: xxx-large; color: rgb(255, 0, 0);">UNKNOWN BLOCK</font>
+						{% endcase %}
+				{% endfor %}
+				
+				
+				
+				
+				{{ content }}
+			</section>
+		</article>
+	</div>
+  </div>
+</div>
