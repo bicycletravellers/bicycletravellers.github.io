@@ -1,0 +1,447 @@
+{
+  "time": 1652431914142,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "Bike Touring with a Single Wheel Trailer",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Another option for carrying your gear during a bicycle tour is to use a single wheel trailer. Although there are several brands available for purchase the one brand that is commonly mentioned is the BOB trailer.</i><br>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "_7LL2rDguL",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/single-wheel-trailer/1652430728_image.jpg",
+          "name": "1652430728_image.jpg",
+          "size": 153039,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "m-8RpiyIu1",
+      "type": "paragraph",
+      "data": {
+        "text": "Originally <b>BOB trailers</b> were produced as an option to help urban dwellers who didn’t want to have a car do grocery shopping and things of that nature. As a result, you can still find BOB COZ trailers on the used market. "
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "tgs6OrtRWZ",
+      "type": "paragraph",
+      "data": {
+        "text": "I actually own one of these myself and wrote this article based on my experience using a BOB COZ during a bicycle tour. I should also point out that I have two different sized bins that I can use with this trailer. Since the load I carried was a standard touring load plus some winter gear that I was testing I used the larger bin. The extra items were bulky but not necessarily heavy so I stayed within the recommended weight range for the trailer. As a result, it is likely that my experience may have been even better if I had been using the lighter<b> YAK or IBEX trailers.</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "c-WyCd0JNd",
+      "type": "paragraph",
+      "data": {
+        "text": "Other models include the more common <b>BOB YAK </b>and the&nbsp;<b>BOB IBEX</b>. Both are single wheel aluminium trailers that are often used with a specially made dry bag. The IBEX differs from the YAK by including suspension."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "dx-rwYkuNu",
+      "type": "paragraph",
+      "data": {
+        "text": "Prior to this trip, I had always <b>bicycle toured using saddlebags</b> so the contrast was interesting."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ksrLmtupHe",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/single-wheel-trailer/bobtrailer.jpg",
+          "name": "bobtrailer.jpg",
+          "size": 86446,
+          "extension": "jpg"
+        },
+        "caption": "The BOB COZ is the trailer on the left.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "zziFsgOVo9",
+      "type": "header",
+      "data": {
+        "text": "Positives of a Single Wheel Trailer",
+        "level": 2
+      }
+    },
+    {
+      "id": "8WdYyIfmVG",
+      "type": "paragraph",
+      "data": {
+        "text": "The trailer is <b>completely self-contained</b>. If I wanted to go on an unburdened ride at my destination place then I simply disconnected the trailer and went."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "oLoqf4_CAR",
+      "type": "paragraph",
+      "data": {
+        "text": "Handling on flat land was largely unaffected and with drastically less impact on steering than front saddlebags and a map bag. There was no real adjustment period needed to accommodate the steering differences due to adding the trailer (other than accounting for the added length of the bike plus trailer of course)."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "QuoVFr0Jo8",
+      "type": "paragraph",
+      "data": {
+        "text": "The COZ trailer holds all items in a large plastic Rubbermaid container. This was nice at camp in <b>bear-free areas</b> because it was unlikely that overly interested Raccoons could go through your stuff."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "CO3McxC2iH",
+      "type": "paragraph",
+      "data": {
+        "text": "A single wheel trailer tracks extremely well without taking up any more sideways space on the road than your bike does. When turning the trailer wheel turns slightly inside of the rear wheel. The difference between the two is minor and unlikely to be a problem for typical turns. Straight-line riding results in the wheel following exactly the rear wheel's track."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "BpeQBXPfWD",
+      "type": "paragraph",
+      "data": {
+        "text": "If your handlebars fit through an obstacle then the bike did as well."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "KVy5AYQbtq",
+      "type": "paragraph",
+      "data": {
+        "text": "With all of your gear in one place, you no longer needed to have a special gear plan where the left saddlebag is the kitchen, clothes in the right rear etc. <b>Everything was always in the big container</b> simplifying finding things and packing your gear so that you have an even load."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "kQJ2Z22In_",
+      "type": "paragraph",
+      "data": {
+        "text": "If you wanted to take a single trailer on a tour and share it with several people it is very easy to do so. Bob quick releases and bolts are available so that you could switch the trailer between bikes."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "PUGcqJBLy3",
+      "type": "paragraph",
+      "data": {
+        "text": "Single-wheeled trailers work well on single-track including the more technical kind you will find in <b>forests away from paved roads.</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8g3W70bOa-",
+      "type": "paragraph",
+      "data": {
+        "text": "Some people have commented on the usefulness of the plastic box as a <b>temporary picnic table</b> when cooking etc."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "3NOLdh95st",
+      "type": "paragraph",
+      "data": {
+        "text": "Schwalbe Marathon Plus tires are available to fit the BOB trailer as well. Based on my experience with the same tires on my bicycle then it should be a long way between tire problems."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ybJVLx9xf4",
+      "type": "paragraph",
+      "data": {
+        "text": "Riding up hills you could still stand on the pedals to help you get up the hill as needed."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hcgQRfimH0",
+      "type": "paragraph",
+      "data": {
+        "text": "Has a handy <b>flagpole holder</b> and flag pole making it easy to add a flag."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "BdAndKWLR0",
+      "type": "header",
+      "data": {
+        "text": "Negatives of a Single Wheel Trailer",
+        "level": 2
+      }
+    },
+    {
+      "id": "Niz_Y9iFzn",
+      "type": "paragraph",
+      "data": {
+        "text": "The trailer tire is usually a different size than your bicycle tires requiring you to carry at least one more tire tube and spare tire along with you."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "-cXn_8uARP",
+      "type": "paragraph",
+      "data": {
+        "text": "The stiff rear frame on the bicycle is needed to properly support the trailer. I’ve used the trailer on three different bikes and it handles differently on each. The trailer is solid feeling and less twitchy on my touring bike. The touring bike has a stiff rear triangle."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "KTnL2uarWn",
+      "type": "paragraph",
+      "data": {
+        "text": "One big compartment is an invitation to fill it up to overflowing and if you want to<b> find anything quickly</b> then you really need to consider using some sort of system, most likely including <b>small bags, to organize your gear.</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "kKpYYNLRAH",
+      "type": "paragraph",
+      "data": {
+        "text": "Small connecting pins are relatively easy to lose if you take the trailer on and off regularly. As a precaution, you should carry several spares with you on tour. I picked mine up at a local hardware store for less than $1 each."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "RSmyUfUMNC",
+      "type": "paragraph",
+      "data": {
+        "text": "BOB COZ trailer originally came with a plastic rim that required special tools to fix <b>if the wheel needed truing</b>. I switched this out for a standard rim so that normal tools can be used to do a self-repair if needed. The YAK and IBEX come with metal rims so this is no longer a problem for newer trailers."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "2kIjw87egk",
+      "type": "paragraph",
+      "data": {
+        "text": "When climbing hills <b>you feel the weight of the trailer</b> behind you. It’s not a horrendous weight but it is a different feeling when climbing a hill."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "OAJSV9BzXx",
+      "type": "paragraph",
+      "data": {
+        "text": "There have been some reports of trailers <b>fishtailing during high-speed descents</b>. I haven’t experienced this problem myself but it has been reported. It is possible that this effect was caused by poor weight distribution in the trailer to some extent."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "4_8sdy-KZx",
+      "type": "paragraph",
+      "data": {
+        "text": "If your tour includes alternative transportation like buses, trains and aircraft then the trailer represents another item that <b>you will have to pack and stow appropriately</b>. This is likely to be more difficult than the equivalent saddlebags"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "BrGF9q3Mxz",
+      "type": "header",
+      "data": {
+        "text": "Hints and tricks",
+        "level": 2
+      }
+    },
+    {
+      "id": "zn8sPDLG3r",
+      "type": "paragraph",
+      "data": {
+        "text": "A common problem that you read about from time to time is how to go about reattaching a loaded trailer to the bike."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "4Hu3z22CnS",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/single-wheel-trailer/trailerattachment.jpg",
+          "name": "trailerattachment.jpg",
+          "size": 128583,
+          "extension": "jpg"
+        },
+        "caption": "Attaching the trailer with the help of a protrusion of some kind makes it relatively easy.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "bz_XYzK0Bg",
+      "type": "paragraph",
+      "data": {
+        "text": "BOB recommends attaching a trailer <b>only when empty</b> to prevent bending the attachment hooks. An alternative that you could consider is finding the corner of a wall, the edge of a picnic table or something else that protrudes slightly. With your bike securely attached to the protrusion grab both sides of the BOB attachment hooks and walk the trailer over to the back of the bike while standing above the attachment piece. Make sure that the trailer is straight onto the bike if possible. This significantly reduces sideways pressure that could bend the attachment pieces. Carefully attach the trailer to the bike making sure to maintain even downward pressure on both attachment points. Place in the cotter pins and away you go."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "U72eYUcs4v",
+      "type": "header",
+      "data": {
+        "text": "Would I tour with a single wheel trailer again?",
+        "level": 2
+      }
+    },
+    {
+      "id": "NiT-1mFWlj",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Absolutely!</b> I intend to take the trailer on a longer tour and see how I feel about it after a number of long days on the open road. I found that the trailer tracked exceptionally well and I liked the feeling that I could unhitch the trailer and do some local errands without needing to haul everything with me."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8r8WC8zDsK",
+      "type": "paragraph",
+      "data": {
+        "text": "The major area that I need to get a handle on is gear management. It is very tempting to just throw everything you need in the trailer but if you are someone who likes to be able to grab the needed item in an instance then some form of organization will be needed. This should be easily fixed by using a few bags to organize the gear."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

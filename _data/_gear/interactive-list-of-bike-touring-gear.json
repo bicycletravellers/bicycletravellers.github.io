@@ -1,0 +1,1479 @@
+{
+  "time": 1652250349956,
+  "blocks": [
+    {
+      "id": "ma49tNCa5z",
+      "type": "header",
+      "data": {
+        "text": "List of Bike Touring Gear",
+        "level": 1
+      }
+    },
+    {
+      "id": "b456qn04yi",
+      "type": "paragraph",
+      "data": {
+        "text": "Preparing a gear list for your next trip?&nbsp;<i>This is a list of every gear one can imagine for bicycle touring.&nbsp;</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "6-odn8lb7U",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/interactive-list-of-bike-touring-gear/biketouringequipment1024w.jpg",
+          "name": "biketouringequipment1024w.jpg",
+          "size": 30201,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "oGBZnX8zOD",
+      "type": "header",
+      "data": {
+        "text": "Bike Accessories and Storage",
+        "level": 2
+      }
+    },
+    {
+      "id": "yJNWSqpz0p",
+      "type": "header",
+      "data": {
+        "text": "Accessories",
+        "level": 3
+      }
+    },
+    {
+      "id": "EWJnhGeWXQ",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Helmet",
+            "items": []
+          },
+          {
+            "content": "Head Light",
+            "items": []
+          },
+          {
+            "content": "Flashing Tail Light",
+            "items": []
+          },
+          {
+            "content": "Bicycle Lock",
+            "items": []
+          },
+          {
+            "content": "Cycling Computer",
+            "items": []
+          },
+          {
+            "content": "Helmet Mirror",
+            "items": []
+          },
+          {
+            "content": "Handlebar Mirror",
+            "items": []
+          },
+          {
+            "content": "Handlebar Extensions",
+            "items": []
+          },
+          {
+            "content": "Mudguards",
+            "items": []
+          },
+          {
+            "content": "Reflectors",
+            "items": []
+          },
+          {
+            "content": "Stem Riser or Adjustable Stem",
+            "items": []
+          },
+          {
+            "content": "Bicycle Rain Cover",
+            "items": []
+          },
+          {
+            "content": "Bicycle Transport Bag",
+            "items": []
+          },
+          {
+            "content": "Kickstand",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "u3Siv8OdAa",
+      "type": "header",
+      "data": {
+        "text": "Bicycle Touring&nbsp;Panniers and Bags",
+        "level": 3
+      }
+    },
+    {
+      "id": "E3ailcm14N",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Front Panniers",
+            "items": []
+          },
+          {
+            "content": "Rear Panniers",
+            "items": []
+          },
+          {
+            "content": "Frame Bag",
+            "items": []
+          },
+          {
+            "content": "Handlebar Bag",
+            "items": []
+          },
+          {
+            "content": "Saddle Bag",
+            "items": []
+          },
+          {
+            "content": "Trunk Bag",
+            "items": []
+          },
+          {
+            "content": "Stem Bag",
+            "items": []
+          },
+          {
+            "content": "Top Tube Bag",
+            "items": []
+          },
+          {
+            "content": "Seat Post Bag",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "YJeldRIHFM",
+      "type": "header",
+      "data": {
+        "text": "Bicycle Touring&nbsp;Racks and Other Storage",
+        "level": 3
+      }
+    },
+    {
+      "id": "d8ImymPwI7",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Front Rack",
+            "items": []
+          },
+          {
+            "content": "Rear Rack",
+            "items": []
+          },
+          {
+            "content": "Trailer",
+            "items": []
+          },
+          {
+            "content": "Straps",
+            "items": []
+          },
+          {
+            "content": "Bungee Cords",
+            "items": []
+          },
+          {
+            "content": "Bottle Cages",
+            "items": []
+          },
+          {
+            "content": "Collapsible Water Bag",
+            "items": []
+          },
+          {
+            "content": "Insulated Bottle",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "RzD-QH6uYg",
+      "type": "header",
+      "data": {
+        "text": "Bicycle Touring&nbsp;Camping Gear",
+        "level": 2
+      }
+    },
+    {
+      "id": "fChiCKJWIR",
+      "type": "header",
+      "data": {
+        "text": "Bicycle Touring&nbsp;Sleep System",
+        "level": 3
+      }
+    },
+    {
+      "id": "bsF0Jfl6x9",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Tent",
+            "items": []
+          },
+          {
+            "content": "Tarp",
+            "items": []
+          },
+          {
+            "content": "Hammock",
+            "items": []
+          },
+          {
+            "content": "Bivy Bag",
+            "items": []
+          },
+          {
+            "content": "Ground Cloth",
+            "items": []
+          },
+          {
+            "content": "Quilt",
+            "items": []
+          },
+          {
+            "content": "Sleeping Bag",
+            "items": []
+          },
+          {
+            "content": "Sleeping Bag Liner",
+            "items": []
+          },
+          {
+            "content": "Sleeping Pad",
+            "items": []
+          },
+          {
+            "content": "Air Pillow",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "yke4LnUk4Y",
+      "type": "header",
+      "data": {
+        "text": "Bicycle Touring&nbsp;Survival Gear",
+        "level": 3
+      }
+    },
+    {
+      "id": "1p97tgexlN",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Lighter",
+            "items": []
+          },
+          {
+            "content": "Compass",
+            "items": []
+          },
+          {
+            "content": "Whistle",
+            "items": []
+          },
+          {
+            "content": "Emergency Space (mylar) Blanket",
+            "items": []
+          },
+          {
+            "content": "Personal Locator Beacon",
+            "items": []
+          },
+          {
+            "content": "50’ Nylon Cord",
+            "items": []
+          },
+          {
+            "content": "Bear Spray",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "oNliVUw_jn",
+      "type": "header",
+      "data": {
+        "text": "Other Camping Gear",
+        "level": 3
+      }
+    },
+    {
+      "id": "HIT1NkvJyw",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Water Filter",
+            "items": []
+          },
+          {
+            "content": "Water Purifier",
+            "items": []
+          },
+          {
+            "content": "Portable Camp Chair",
+            "items": []
+          },
+          {
+            "content": "Light Backpack",
+            "items": []
+          },
+          {
+            "content": "Headtorch",
+            "items": []
+          },
+          {
+            "content": "Flashlight",
+            "items": []
+          },
+          {
+            "content": "Camp Light",
+            "items": []
+          },
+          {
+            "content": "Mosquito Head Net",
+            "items": []
+          },
+          {
+            "content": "Insect Repellent",
+            "items": []
+          },
+          {
+            "content": "Nylon Stuff Sacks / Drybags",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "UUOmkVQc9V",
+      "type": "header",
+      "data": {
+        "text": "Bicycle Touring&nbsp;Kitchen and Cooking",
+        "level": 2
+      }
+    },
+    {
+      "id": "89EvhaRGS-",
+      "type": "header",
+      "data": {
+        "text": "Bicycle Touring&nbsp;Stove &amp; Fuel",
+        "level": 3
+      }
+    },
+    {
+      "id": "xw_5_ZPU7Q",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Canister Gas Stove",
+            "items": []
+          },
+          {
+            "content": "Wood Stove",
+            "items": []
+          },
+          {
+            "content": "Petrol (Gasoline) Stove",
+            "items": []
+          },
+          {
+            "content": "Alcohol Stove",
+            "items": []
+          },
+          {
+            "content": "Esbit Stove",
+            "items": []
+          },
+          {
+            "content": "Fuel bottle",
+            "items": []
+          },
+          {
+            "content": "Canister Refiller",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "7uLZymVAh1",
+      "type": "header",
+      "data": {
+        "text": "Bicycle Touring&nbsp;Cookware",
+        "level": 3
+      }
+    },
+    {
+      "id": "whGtQ-Q8aw",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Pot",
+            "items": []
+          },
+          {
+            "content": "Pan",
+            "items": []
+          },
+          {
+            "content": "Mug",
+            "items": []
+          },
+          {
+            "content": "Cutting Board",
+            "items": []
+          },
+          {
+            "content": "Plates",
+            "items": []
+          },
+          {
+            "content": "Fork",
+            "items": []
+          },
+          {
+            "content": "Spoon",
+            "items": []
+          },
+          {
+            "content": "Wooden Spoon",
+            "items": []
+          },
+          {
+            "content": "Knife",
+            "items": []
+          },
+          {
+            "content": "Cutlery Bag",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "7Le1CHPW23",
+      "type": "header",
+      "data": {
+        "text": "Other",
+        "level": 3
+      }
+    },
+    {
+      "id": "T4E-vRkM4g",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Coffee Filter",
+            "items": []
+          },
+          {
+            "content": "Tea Brewer",
+            "items": []
+          },
+          {
+            "content": "Scourer",
+            "items": []
+          },
+          {
+            "content": "Dish Cloth",
+            "items": []
+          },
+          {
+            "content": "Dish Detergent",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "F2VVamzURh",
+      "type": "header",
+      "data": {
+        "text": "Bicycle Touring&nbsp;Clothing",
+        "level": 2
+      }
+    },
+    {
+      "id": "0gRRwdYRzO",
+      "type": "header",
+      "data": {
+        "text": "Cycling Clothes",
+        "level": 3
+      }
+    },
+    {
+      "id": "9h-PFxMZWb",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Cycling Jersey",
+            "items": []
+          },
+          {
+            "content": "Long-Sleeve Jersey",
+            "items": []
+          },
+          {
+            "content": "Cycling Shorts",
+            "items": []
+          },
+          {
+            "content": "Sports Bras",
+            "items": []
+          },
+          {
+            "content": "Cycling Gloves",
+            "items": []
+          },
+          {
+            "content": "Cycling Socks",
+            "items": []
+          },
+          {
+            "content": "Cycling Shoes",
+            "items": []
+          },
+          {
+            "content": "Cycling Long-Tights",
+            "items": []
+          },
+          {
+            "content": "Buff",
+            "items": []
+          },
+          {
+            "content": "Bandannas",
+            "items": []
+          },
+          {
+            "content": "Sweat Bands",
+            "items": []
+          },
+          {
+            "content": "Visibility Vest",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "wHPwYItXqi",
+      "type": "header",
+      "data": {
+        "text": "Camp Clothes",
+        "level": 3
+      }
+    },
+    {
+      "id": "FcaniRjIH6",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Synthetic T-Shirt",
+            "items": []
+          },
+          {
+            "content": "Long-Sleeve T-Shirt",
+            "items": []
+          },
+          {
+            "content": "Synthetic Underwear",
+            "items": []
+          },
+          {
+            "content": "Pants",
+            "items": []
+          },
+          {
+            "content": "Convertible Pants",
+            "items": []
+          },
+          {
+            "content": "Swimming Shorts",
+            "items": []
+          },
+          {
+            "content": "Sun Hat",
+            "items": []
+          },
+          {
+            "content": "Sandals",
+            "items": []
+          },
+          {
+            "content": "Flip-Flops",
+            "items": []
+          },
+          {
+            "content": "Running Shoes",
+            "items": []
+          },
+          {
+            "content": "Casual Shoes",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "1_hzJP0Bqx",
+      "type": "header",
+      "data": {
+        "text": "Bicycle Touring&nbsp;Rain Gear",
+        "level": 3
+      }
+    },
+    {
+      "id": "Z_Kg_3zJmy",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Rain Jacket",
+            "items": []
+          },
+          {
+            "content": "Rain Pants",
+            "items": []
+          },
+          {
+            "content": "Waterproof Socks",
+            "items": []
+          },
+          {
+            "content": "Waterproof Shoes &amp; Gaiters",
+            "items": []
+          },
+          {
+            "content": "Helmet Cover",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "cPpfouB3y2",
+      "type": "header",
+      "data": {
+        "text": "Bicycle Touring&nbsp;Winter Gear",
+        "level": 3
+      }
+    },
+    {
+      "id": "ap3cDM3MOH",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Thermal Shirts",
+            "items": []
+          },
+          {
+            "content": "Thermal Underwear",
+            "items": []
+          },
+          {
+            "content": "Insulated Windpants",
+            "items": []
+          },
+          {
+            "content": "Insulated Jacket",
+            "items": []
+          },
+          {
+            "content": "Fleece Jacket",
+            "items": []
+          },
+          {
+            "content": "Down Jacket",
+            "items": []
+          },
+          {
+            "content": "Balaclava",
+            "items": []
+          },
+          {
+            "content": "Arm + Leg Warmers",
+            "items": []
+          },
+          {
+            "content": "Warm Hat",
+            "items": []
+          },
+          {
+            "content": "Synthetic / Wool Socks",
+            "items": []
+          },
+          {
+            "content": "Gloves",
+            "items": []
+          },
+          {
+            "content": "Ear Warmers",
+            "items": []
+          },
+          {
+            "content": "Scarf",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "b9ux6piRC4",
+      "type": "header",
+      "data": {
+        "text": "Bicycle Touring&nbsp;Electronics",
+        "level": 2
+      }
+    },
+    {
+      "id": "k76XVWRjmG",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Smartphone",
+            "items": []
+          },
+          {
+            "content": "Tablet",
+            "items": []
+          },
+          {
+            "content": "Laptop Computer",
+            "items": []
+          },
+          {
+            "content": "Camera",
+            "items": []
+          },
+          {
+            "content": "GPS Device",
+            "items": []
+          },
+          {
+            "content": "Mp3 Player",
+            "items": []
+          },
+          {
+            "content": "Headphones",
+            "items": []
+          },
+          {
+            "content": "Earphones",
+            "items": []
+          },
+          {
+            "content": "Spare Batteries",
+            "items": []
+          },
+          {
+            "content": "Chargers and Cables",
+            "items": []
+          },
+          {
+            "content": "USB Flash Drive",
+            "items": []
+          },
+          {
+            "content": "Memory Cards",
+            "items": []
+          },
+          {
+            "content": "International Power Plug adapter",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "CdG2Cal6y2",
+      "type": "header",
+      "data": {
+        "text": "Repair &amp; Maintenance",
+        "level": 2
+      }
+    },
+    {
+      "id": "-BRApmbAJP",
+      "type": "header",
+      "data": {
+        "text": "Bike Repair Tools",
+        "level": 3
+      }
+    },
+    {
+      "id": "idCpLECDRe",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Multi-Tool",
+            "items": []
+          },
+          {
+            "content": "Allen Wrenches",
+            "items": []
+          },
+          {
+            "content": "Pedal Wrench",
+            "items": []
+          },
+          {
+            "content": "Spoke Wrench",
+            "items": []
+          },
+          {
+            "content": "Adjustable Wrench",
+            "items": []
+          },
+          {
+            "content": "Pump",
+            "items": []
+          },
+          {
+            "content": "Presta - Schrader Valve Adapter",
+            "items": []
+          },
+          {
+            "content": "Tire Pressure Gauge",
+            "items": []
+          },
+          {
+            "content": "Flat Repair Kit",
+            "items": []
+          },
+          {
+            "content": "Tire Boot",
+            "items": []
+          },
+          {
+            "content": "Chain Tool",
+            "items": []
+          },
+          {
+            "content": "Chain Lube",
+            "items": []
+          },
+          {
+            "content": "Degreaser",
+            "items": []
+          },
+          {
+            "content": "Hose Clamps",
+            "items": []
+          },
+          {
+            "content": "Cassette - Freewheel Removal Tool",
+            "items": []
+          },
+          {
+            "content": "External BB Tool",
+            "items": []
+          },
+          {
+            "content": "Blue Loctite",
+            "items": []
+          },
+          {
+            "content": "Screwdriver",
+            "items": []
+          },
+          {
+            "content": "Torx Keys",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "NmL4bgnamu",
+      "type": "header",
+      "data": {
+        "text": "Bike Spare Parts",
+        "level": 3
+      }
+    },
+    {
+      "id": "voKB8KmREA",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Spare Inner Tubes",
+            "items": []
+          },
+          {
+            "content": "Spare Tire (Folding)",
+            "items": []
+          },
+          {
+            "content": "Spare Spokes",
+            "items": []
+          },
+          {
+            "content": "QR Axle",
+            "items": []
+          },
+          {
+            "content": "QR Nut",
+            "items": []
+          },
+          {
+            "content": "Generic Carriage Bolt",
+            "items": []
+          },
+          {
+            "content": "Trailer QR Axle",
+            "items": []
+          },
+          {
+            "content": "Brake Pads",
+            "items": []
+          },
+          {
+            "content": "Brake Cables",
+            "items": []
+          },
+          {
+            "content": "Shifter Cables",
+            "items": []
+          },
+          {
+            "content": "Replacement Cleats",
+            "items": []
+          },
+          {
+            "content": "Spare Chain Link",
+            "items": []
+          },
+          {
+            "content": "Rim Tape",
+            "items": []
+          },
+          {
+            "content": "Extra Nuts, Bolts, and Wire",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "5XGFlngkWM",
+      "type": "header",
+      "data": {
+        "text": "Equipment Repair Items",
+        "level": 3
+      }
+    },
+    {
+      "id": "_d_kq8nQV6",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Zip Ties",
+            "items": []
+          },
+          {
+            "content": "Duct Tape",
+            "items": []
+          },
+          {
+            "content": "Electrical Tape",
+            "items": []
+          },
+          {
+            "content": "String",
+            "items": []
+          },
+          {
+            "content": "Sewing Kit",
+            "items": []
+          },
+          {
+            "content": "Shoe Laces",
+            "items": []
+          },
+          {
+            "content": "Zipper Pulls",
+            "items": []
+          },
+          {
+            "content": "Seam Sealer",
+            "items": []
+          },
+          {
+            "content": "Fly Repair Tape",
+            "items": []
+          },
+          {
+            "content": "Tent Pole Repair Sleeve",
+            "items": []
+          },
+          {
+            "content": "Mattress Repair Kit",
+            "items": []
+          },
+          {
+            "content": "Pillow Repair Kit",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "2z1We1MvnF",
+      "type": "header",
+      "data": {
+        "text": "Toiletries",
+        "level": 2
+      }
+    },
+    {
+      "id": "QAzqc4gMa8",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Travel Towel",
+            "items": []
+          },
+          {
+            "content": "Washcloth",
+            "items": []
+          },
+          {
+            "content": "Soap",
+            "items": []
+          },
+          {
+            "content": "Shampoo",
+            "items": []
+          },
+          {
+            "content": "Laundry Detergent",
+            "items": []
+          },
+          {
+            "content": "Toothbrush",
+            "items": []
+          },
+          {
+            "content": "Toothpaste",
+            "items": []
+          },
+          {
+            "content": "Floss",
+            "items": []
+          },
+          {
+            "content": "Toilet Paper",
+            "items": []
+          },
+          {
+            "content": "Baby Wipes",
+            "items": []
+          },
+          {
+            "content": "Hand Sanitizer",
+            "items": []
+          },
+          {
+            "content": "Skin Cream",
+            "items": []
+          },
+          {
+            "content": "Chamois cream",
+            "items": []
+          },
+          {
+            "content": "Sunscreen",
+            "items": []
+          },
+          {
+            "content": "Cotton Swabs",
+            "items": []
+          },
+          {
+            "content": "Folding Bowl",
+            "items": []
+          },
+          {
+            "content": "Shower Bag",
+            "items": []
+          },
+          {
+            "content": "Nail Clippers",
+            "items": []
+          },
+          {
+            "content": "Tweezers",
+            "items": []
+          },
+          {
+            "content": "Hair Brush / Comb",
+            "items": []
+          },
+          {
+            "content": "Hair Ties",
+            "items": []
+          },
+          {
+            "content": "Disposable Razor",
+            "items": []
+          },
+          {
+            "content": "Shaving cream",
+            "items": []
+          },
+          {
+            "content": "Compact Mirror",
+            "items": []
+          },
+          {
+            "content": "Woman’s Hygiene Products",
+            "items": []
+          },
+          {
+            "content": "Ear Plugs",
+            "items": []
+          },
+          {
+            "content": "Deodorant",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "vbCRlXpzho",
+      "type": "header",
+      "data": {
+        "text": "Bicycle Touring&nbsp;First Aid",
+        "level": 2
+      }
+    },
+    {
+      "id": "KWlwQ_zGEj",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Prescription Medication",
+            "items": []
+          },
+          {
+            "content": "Multi-Vitamins",
+            "items": []
+          },
+          {
+            "content": "Band-Aids",
+            "items": []
+          },
+          {
+            "content": "Adhesive First-Aid Tape",
+            "items": []
+          },
+          {
+            "content": "Blister Bandages",
+            "items": []
+          },
+          {
+            "content": "Alcohol Wipes",
+            "items": []
+          },
+          {
+            "content": "Compress / Gause Pads",
+            "items": []
+          },
+          {
+            "content": "Ibroprophen / Aspirin",
+            "items": []
+          },
+          {
+            "content": "Anti-Chafing Balm",
+            "items": []
+          },
+          {
+            "content": "Anti-Itch Cream",
+            "items": []
+          },
+          {
+            "content": "Muscle Relief Cream",
+            "items": []
+          },
+          {
+            "content": "Foot Powder",
+            "items": []
+          },
+          {
+            "content": "Anti-Diahearreal Tabs",
+            "items": []
+          },
+          {
+            "content": "Antihistamine Tablets",
+            "items": []
+          },
+          {
+            "content": "Sports Injury Cloth",
+            "items": []
+          },
+          {
+            "content": "Bandage",
+            "items": []
+          },
+          {
+            "content": "Neoprene Knee / Ankle Wrap",
+            "items": []
+          },
+          {
+            "content": "Lip Balm",
+            "items": []
+          },
+          {
+            "content": "Antacid Tablets",
+            "items": []
+          },
+          {
+            "content": "Scissors",
+            "items": []
+          },
+          {
+            "content": "Strapping Tape",
+            "items": []
+          },
+          {
+            "content": "Giardia Anti-Biotic",
+            "items": []
+          },
+          {
+            "content": "Foot Infection Anti-Biotic",
+            "items": []
+          },
+          {
+            "content": "Elastic Bandage",
+            "items": []
+          },
+          {
+            "content": "Pain Reliever/Fever Reducer",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "1MgBpcnWWU",
+      "type": "header",
+      "data": {
+        "text": "Misc.",
+        "level": 2
+      }
+    },
+    {
+      "id": "nx9Yuk6S9E",
+      "type": "header",
+      "data": {
+        "text": "Documents",
+        "level": 3
+      }
+    },
+    {
+      "id": "tTFIH1uAlE",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "National ID Card",
+            "items": []
+          },
+          {
+            "content": "Drivers License",
+            "items": []
+          },
+          {
+            "content": "Passport",
+            "items": []
+          },
+          {
+            "content": "Visa Documents",
+            "items": []
+          },
+          {
+            "content": "ATM Debit Cards",
+            "items": []
+          },
+          {
+            "content": "Credit Cards",
+            "items": []
+          },
+          {
+            "content": "Cash",
+            "items": []
+          },
+          {
+            "content": "Personal / Traveler’s Checks",
+            "items": []
+          },
+          {
+            "content": "Travel Tickets",
+            "items": []
+          },
+          {
+            "content": "Photocopies of Documents",
+            "items": []
+          },
+          {
+            "content": "Emergency Contact Info",
+            "items": []
+          },
+          {
+            "content": "Health and Travel Insurance Card",
+            "items": []
+          },
+          {
+            "content": "Payphone Calling Card",
+            "items": []
+          },
+          {
+            "content": "Contacts List",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "z4tONtbFys",
+      "type": "header",
+      "data": {
+        "text": "Other",
+        "level": 3
+      }
+    },
+    {
+      "id": "39j2I6sUNA",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Wallet",
+            "items": []
+          },
+          {
+            "content": "Watch",
+            "items": []
+          },
+          {
+            "content": "Notebook + Pen",
+            "items": []
+          },
+          {
+            "content": "Money Belt",
+            "items": []
+          },
+          {
+            "content": "Sunglasses",
+            "items": []
+          },
+          {
+            "content": "Superglue",
+            "items": []
+          },
+          {
+            "content": "Eye Masks",
+            "items": []
+          },
+          {
+            "content": "Clothes Pins",
+            "items": []
+          },
+          {
+            "content": "Maps",
+            "items": []
+          },
+          {
+            "content": "Guidebook",
+            "items": []
+          },
+          {
+            "content": "Small Padlock",
+            "items": []
+          },
+          {
+            "content": "Binoculars",
+            "items": []
+          },
+          {
+            "content": "Mini Tripod",
+            "items": []
+          }
+        ]
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

@@ -1,0 +1,118 @@
+{
+  "time": 1652357968654,
+  "blocks": [
+    {
+      "id": "MWEg-7TBRf",
+      "type": "header",
+      "data": {
+        "text": "WELCOME TO THEBICYCLE TRAVELLERSCOMMUNITY!",
+        "level": 1
+      }
+    },
+    {
+      "id": "UokdwFtLur",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>An adventure throughout life. Learn all about bicycle touring and bikepacking, and start your journey around the world.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "hcxQA2CyK8",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/index/banner820.jpg",
+          "name": "banner820.jpg",
+          "size": 37618,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "SODDUNq2cR",
+      "type": "header",
+      "data": {
+        "text": "It’s not about the destination",
+        "level": 2
+      }
+    },
+    {
+      "id": "Upk6TmSVKZ",
+      "type": "paragraph",
+      "data": {
+        "text": "Most people have neither a destination nor a route.<br><b>It’s about the journey.<br></b>It’s hard. It’s tiring. It’s frightening.<br>It’s hot and dry, it’s cold and wet. It’s slow."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "noj7cY60Az",
+      "type": "paragraph",
+      "data": {
+        "text": "But;"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "iZKsJ5NF7P",
+      "type": "paragraph",
+      "data": {
+        "text": "It’s&nbsp;<b>awesome</b>. It’s&nbsp;<b>exhilarating</b>. It’s&nbsp;<b>life-changing</b>. It’s&nbsp;<b>unforgettable</b>."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "KdFMc6_KsN",
+      "type": "header",
+      "data": {
+        "text": "Convinced? Let’s begin!",
+        "level": 2
+      }
+    },
+    {
+      "id": "A_uSSolP9h",
+      "type": "paragraph",
+      "data": {
+        "text": "First, you should know that <b>long-distance bike touring</b> is not a hobby, but a lifestyle. Once you go on a bike tour, it will&nbsp;change your life permanently. You’ll want to go again, and again."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Puj1Fi6P4h",
+      "type": "paragraph",
+      "data": {
+        "text": "We are here to encourage and inspire you to go on a&nbsp;long-distance bicycle tour. Read our guides and helpful articles and start your journey!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

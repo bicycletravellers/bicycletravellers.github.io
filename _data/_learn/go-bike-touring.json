@@ -1,0 +1,1835 @@
+{
+  "time": 1652294525026,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "How to Plan a Bicycle Tour",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Now that you’ve read a bit about bike touring it’s only natural to want to know how you can get started. Planning is fun!</i><br>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "hxxSVV1bdV",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/go-bike-touring/163023147463114851652640093.jpg",
+          "name": "163023147463114851652640093.jpg",
+          "size": 18092,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "wYE4h23aCf",
+      "type": "header",
+      "data": {
+        "text": "The First Thing About Bike Touring",
+        "level": 2
+      }
+    },
+    {
+      "id": "OkQAxblqaH",
+      "type": "paragraph",
+      "data": {
+        "text": "Cycle touring is a wonderful activity AND it’s really not that hard to get out there and see the world on your bicycle."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "fDVbBkbGD2",
+      "type": "paragraph",
+      "data": {
+        "text": "In simplest terms, it only takes a few things."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "TdHDOAyVDr",
+      "type": "paragraph",
+      "data": {
+        "text": "—&nbsp;You"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ynqnZIAcAm",
+      "type": "paragraph",
+      "data": {
+        "text": "The first thing that comes to people’s minds when you mention “you” is the requirement to actually pedal the bike. When you tour the turning of the pedals is just a detail. You are so much more than just the engine. You are also the main control centre, the cook, the construction worker (setting up camp), the firestarter (lighting stoves and campfires) and many other things. In short, you are both the brains and brawn of the operation."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "uTC2leWnv5",
+      "type": "paragraph",
+      "data": {
+        "text": "—&nbsp;The bicycle and related equipment"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "jdGSYenvjC",
+      "type": "paragraph",
+      "data": {
+        "text": "It wouldn’t be a bicycle tour without a bicycle now, would it? Of course, a bicycle by itself usually isn’t enough. You also need a way to carry your food, shelter, clothing and repair equipment."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "NlVczBtI1Y",
+      "type": "paragraph",
+      "data": {
+        "text": "—&nbsp;Shelters, cooking gear, clothing and other equipment"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "OkbYhS5-c1",
+      "type": "paragraph",
+      "data": {
+        "text": "Depending on the type of tour you are on, you will need a place to sleep, a way to prepare food (assuming it’s hot food you are after) and some clothing to keep you protected from heat, cold and bugs (sometimes all on the same day)."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "SNBpMIwMdk",
+      "type": "paragraph",
+      "data": {
+        "text": "—&nbsp;Logistics"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "oa8Ly5Nl7c",
+      "type": "paragraph",
+      "data": {
+        "text": "This category covers the multitude of little things that you get the opportunity to explore during a touring adventure. Planning your route, getting you and your stuff to the starting point, being prepared for the weather, wild and bug life etc."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "sWyr2v9nCy",
+      "type": "header",
+      "data": {
+        "text": "Getting ready for bike touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "0JY7zGRkQC",
+      "type": "paragraph",
+      "data": {
+        "text": "Let’s start with the most important factor first, you."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "E4GP10FE37",
+      "type": "paragraph",
+      "data": {
+        "text": "People are very complex individuals and what works for one person may not work for another. I think it is safe to break people down into two parts when considering a bicycle tour. "
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "42AvNTB2tP",
+      "type": "paragraph",
+      "data": {
+        "text": "When a person tours it requires mental and physical strength. Most people are surprised to hear that mental strength is usually considered to be the most important quality.&nbsp;"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "0bcJcVf1XO",
+      "type": "header",
+      "data": {
+        "text": "Preparing for the trials and tribulations that your physical body will experience",
+        "level": 4
+      }
+    },
+    {
+      "id": "Cq5pJXvLUC",
+      "type": "paragraph",
+      "data": {
+        "text": "Physical strength is something that can usually be improved upon before the tour."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "81gNslTJxo",
+      "type": "paragraph",
+      "data": {
+        "text": "Even if you don’t there is a saying,&nbsp;“Train to tour or the tour trains you”&nbsp;that nicely summarizes the fact that if you don’t train before the tour then you can certainly do the tour anyway. Hopefully, it’s obvious that it’s not a free ride. If you don’t do any pretraining then you can expect to have harder than normal days for about the first week or two. After that, your body will have taken up the challenge and responded to the touring needs by producing more muscle."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "WPLywYCpR2",
+      "type": "paragraph",
+      "data": {
+        "text": "There are ways to reduce the impact through. Plan for shorter days during the first two weeks gradually ramping up towards your daily average goal. Factor in a few extra rest days to give your body a chance to heal if needed. Of course, you could always do something radical and actually train in advance for the tour. This training would involve simple things like riding your bike more often (perhaps even daily commuting back and forth to work), doing some stretching on a regular basis and for those wanted to be really prepared some strength training (which btw is apparently something we should all be doing regularly anyway regardless of touring plans)."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "4zjVV6sp5L",
+      "type": "paragraph",
+      "data": {
+        "text": "All of this is great advice but what does it mean in practical terms?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "AVYlXfGXjd",
+      "type": "paragraph",
+      "data": {
+        "text": "“The distance you ride in a week at home is usually a reasonable or attainable goal for Day One of your tour.”"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "adHMGs21XF",
+      "type": "paragraph",
+      "data": {
+        "text": "As a rule of thumb, this has typically worked out well for me whenever I’ve used it myself or mentioned it to anyone new to touring. It is important to note that it is a general statement."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "kA7NEcUnMe",
+      "type": "paragraph",
+      "data": {
+        "text": "If you are someone who goes two or three hundred kilometres in a week you might not want to set a 200 to 300 km goal for day one. On the other hand, if you do around 100 kilometres a week then based on my personal experience that is a very achievable distance. I typically recommend a rest day every fourth or fifth day for the first week or two of your tour although personally, I take rest days based upon inclination when I am on the road."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "qfHbOjJgdi",
+      "type": "header",
+      "data": {
+        "text": "Preparing for your tour by bicycle commuting",
+        "level": 4
+      }
+    },
+    {
+      "id": "Mst9C5qDY5",
+      "type": "paragraph",
+      "data": {
+        "text": "For me, bicycle commuting is the number one way that I prepare for my tours. Although I also use other methods the vast bulk of my preparation occurs every day as I bicycle to work and back."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "t2qGX333M9",
+      "type": "paragraph",
+      "data": {
+        "text": "Cycling to work (or shopping or visiting…) shouldn’t be a big deal. Most people who are of basically sound health and who live within ten miles of where they want to be can successfully use a bicycle to get there. Take a few simple preparatory steps and buy a couple of inexpensive things on the way home tonight and start riding tomorrow!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ECJC9J4hd9",
+      "type": "paragraph",
+      "data": {
+        "text": "What you need to have is:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "-PsbSA8Jpq",
+      "type": "header",
+      "data": {
+        "text": " A bicycle suitable for your route",
+        "level": 5
+      }
+    },
+    {
+      "id": "M2dw-RjszG",
+      "type": "paragraph",
+      "data": {
+        "text": "Most bicycles will work for most routes. It need not be fancy, new or stylish. What it should be is reliable, so if you’re dragging the old beast out of the garage you may want to have a shop check it over."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Huadmo2pbl",
+      "type": "header",
+      "data": {
+        "text": "A helmet",
+        "level": 5
+      }
+    },
+    {
+      "id": "Y3yWF-HonO",
+      "type": "paragraph",
+      "data": {
+        "text": "Any ANSI or Snell approved helmet. The $14.95 one from K Mart is just fine if it has one of these approvals."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "MXYU4jtpRx",
+      "type": "header",
+      "data": {
+        "text": "A Bag to carry stuff",
+        "level": 5
+      }
+    },
+    {
+      "id": "CkHJwhhxl4",
+      "type": "paragraph",
+      "data": {
+        "text": "You don’t need anything fancy or expensive. Backpacks aren’t ideal but they will do the job. Try riding to work, and if you like it, go buy a proper pannier or seat bag."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "gART1PwFen",
+      "type": "header",
+      "data": {
+        "text": "Contingency clothing",
+        "level": 5
+      }
+    },
+    {
+      "id": "3TRelI0RO8",
+      "type": "paragraph",
+      "data": {
+        "text": "Toss an old jacket or raincoat in the bag."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Fzm9gT_bC5",
+      "type": "header",
+      "data": {
+        "text": "Some tools",
+        "level": 5
+      }
+    },
+    {
+      "id": "0o8j966WC3",
+      "type": "paragraph",
+      "data": {
+        "text": "Buy a set of tire levers, a pump and a spare tube. Learn how to use them; a knowledgeable friend is the best teacher but a repair or owner's manual will usually do. Practice at home or on an old bike. Put these things in your bag, or mount the pump on your bike if you have the brackets."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "6oDrkUOFsG",
+      "type": "header",
+      "data": {
+        "text": "Lock",
+        "level": 5
+      }
+    },
+    {
+      "id": "aHiZoQ3UKN",
+      "type": "paragraph",
+      "data": {
+        "text": "Some places let you park your bike inside or have a bike rack under the guard’s nose (and many perfectly useable commuter bikes have no theft value…)."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "rI521CxiFO",
+      "type": "header",
+      "data": {
+        "text": "Planning",
+        "level": 4
+      }
+    },
+    {
+      "id": "HkEfno-zY6",
+      "type": "paragraph",
+      "data": {
+        "text": "Pick a route that has low traffic volumes or wide shoulders. Avoid expressway ramps; that is, places where the traffic merges onto or diverges off your route."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "kgQi4NFArD",
+      "type": "paragraph",
+      "data": {
+        "text": "Decide whether you need to shower on arrival. This depends on how you are expected to look, distance ridden, your comfort level with being a little sticky and the weather. You can take a couple of these things to work and leave them there: Shower stuff if desired and your lock if needed."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "_LOmfkmLsR",
+      "type": "paragraph",
+      "data": {
+        "text": "Take a trial run on the weekend to check out your route and determine how long you need to allow for travel."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "S3h7V0MYqt",
+      "type": "paragraph",
+      "data": {
+        "text": "Pack your bag with the stuff listed above, your change of clothes and a jacket or raincoat. Take some water if it’s hot and you’re riding more than a couple of miles. Allow enough time to go at an easy pace. Start out easy, relax, pay attention and have a good time."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "wh_iG0MAak",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Bicycling to work</b> can be a lot of fun and often gives you a very nice break between the stresses of work and the pleasures of home. While cycling you have the chance to think about your day, see the scenery and contemplate life. I find that my cycle commute is often one of the best parts of my day."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "oInj0Nn-cS",
+      "type": "paragraph",
+      "data": {
+        "text": "Many people think of commuting as something that can only be accomplished during the spring, summer and fall seasons. This isn’t necessarily true. You always have to look at your comfort level but it is very possible and enjoyable to ride through the winter months too."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "BBDcSxiQ3i",
+      "type": "paragraph",
+      "data": {
+        "text": "When considering your route always be on the lookout for alternatives. I actually have three different main routes that I take to work. The first route is about 10 km long and consists of a series of small roads and multi-use paths. The multi-use path is especially nice since it runs alongside a river, meanders through some woods, has very low traffic in the morning and allows me to skip railroad tracks, traffic lights and stop signs. It even has a hill or two to make it extra enjoyable."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "5AkpmAxt2E",
+      "type": "paragraph",
+      "data": {
+        "text": "The second route is a longer route that mostly runs right next to the river on technical singletrack. Although I have ridden this with a touring bike it is most enjoyed riding a mountain bike."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "V42UiTK82_",
+      "type": "paragraph",
+      "data": {
+        "text": "My final route is a short, direct line, a route that gets me to work in the shortest distance along mainly low traffic streets. There are lots of stop signs and a couple of traffic lights but when I am in a hurry or I just want to go on a short ride then this is the one I take. I use this route more in the winter than any other time."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "4EG9KfM89Z",
+      "type": "paragraph",
+      "data": {
+        "text": "When it comes right down to it the most important thing needed to start bicycle commuting is a decision on your part to give it a real try for some period of time. Usually, a week or two is enough to give you an understanding of how well it works for you! What is easy to confirm though is that by riding into work on a daily basis you are making your first few days of touring significantly easier!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "R-p2yk1_nf",
+      "type": "header",
+      "data": {
+        "text": "Mental Strength: You can or you can’t. Whichever you choose you are right!",
+        "level": 3
+      }
+    },
+    {
+      "id": "oO0hac2yMx",
+      "type": "paragraph",
+      "data": {
+        "text": "During the hardest and most brutal day of my Round Lake Huron tour, I heard that quote come in over the radio. This was Day Four of the tour, my fourth consecutive day of headwinds and I was also battling incredibly HOT temperatures throughout the day."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "KhuHvGdn1c",
+      "type": "paragraph",
+      "data": {
+        "text": "Apparently, it’s something Henry Ford said at one time. Personally, I am thankful to him for saying it because after mulling it over in my mind for a while I reached deep down inside and summoned the physical strength needed to complete my planned distance for the day. At the end of that day, I felt on top of the world and ready to go another 100 km such is the power of the mind! (grin)"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "xPJEtlZH75",
+      "type": "paragraph",
+      "data": {
+        "text": "I mentioned earlier that I think mental strength is the most important personal strength that you will need in touring. For most people, this is a bit of a shock.&nbsp;<b>How could a bicycle tour require more mental than physical strength?</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hGPmgvbRfq",
+      "type": "paragraph",
+      "data": {
+        "text": "Well, occasionally you will find yourself mentally tired even if your body is physically fine. An example of this could be after riding against a headwind every day for a week or feeling worn down from the constant roller coaster ride up and down mile after mile of hilly terrain or maybe you just find yourself missing your friends and family or even wondering what you are doing out here in the middle of nowhere all by yourself!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "d0igne-JJe",
+      "type": "paragraph",
+      "data": {
+        "text": "All of these examples point to the need for mental strength. I have found that the body will typically go where the mind directs it to. Unfortunately, if the mind goes then the body tends to collapse and wait for instructions."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "xcaMah3XD1",
+      "type": "paragraph",
+      "data": {
+        "text": "Sometimes the cause of the mental collapse can be traced to a lack of food, water or the need for a rest day. Other times the secret lies in searching for and finding the good element of a day regardless of the problems that were encountered during that day."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nDdDm6LvxL",
+      "type": "paragraph",
+      "data": {
+        "text": "I firmly believe that the most important thing you can bring to a tour is&nbsp;a <b>positive mental attitude!</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ABqCpJSEHr",
+      "type": "paragraph",
+      "data": {
+        "text": "Sometimes a route can be mentally overwhelming. The danger here is that people get caught up with thinking about how long it will take to complete some huge distance rather than instead visualizing the distance broken down into reasonable chunks. When you think about going around Lake Huron the distance seems much, much longer and more difficult than if you just think about needing to complete the distance around the Thumb of Michigan before thinking about the next chunk of the trip. So the trick here is to break the trip down into manageable chunks and get as much enjoyment out of each section as possible!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hYi4cWmc9Q",
+      "type": "paragraph",
+      "data": {
+        "text": "Of all the days I’ve toured, the closest I ever came to bailing out was a windy, rainy, hilly day in Cape Breton. There were several strikes against me - I had gone into the ditch two days previously and my legs were a bit beat up, the weather had taken a decided turn for the worst, and I knew that if I really needed to, my mother-in-law would come to pick me up. (Her summer house was the base station for my ride.) She’d been quite concerned with me bike up and down the hills of the Cabot Trail and had made the offer before I left. I guess it stuck in my mind. Two mountains, five hours, and a horrid 40 km into headwinds later, I was ready to quit. I phoned ‘home’, and found out that my mother-in-law and the gang had actually driven the entire Cabot Trail the day before, looking for me, but had missed me. Somehow, that steeled my resolve a bit, so I got back on my squishy bike and kept riding. I was on flatter terrain by then, the wind started to die down, and eventually, the sun came out. Six hours later, I was having a very entertaining evening with a nice American couple I met in the campground, shooting the breeze and drinking their wine. It turned into one of the nicest days I’d ever spent on a bike, in fact. To this day, I still think of that as two separate days, even though they both occurred on the same leaf of the calendar."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "OTQ8kL-Wmq",
+      "type": "header",
+      "data": {
+        "text": "Tips and Tricks to help you get through a hard day!",
+        "level": 4
+      }
+    },
+    {
+      "id": "XkVoMMpfqI",
+      "type": "paragraph",
+      "data": {
+        "text": "I feel the need to point out that I am talking about my worst touring experience on the same day as my best. Most touring days will be somewhere in between."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "oGw92KJ0Gt",
+      "type": "paragraph",
+      "data": {
+        "text": "For the hard days there are tricks that can be used to help you through them. Here are a few:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ImxMlnsj2Z",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>When fighting headwinds</b> all day I find some nice music to be very helpful. I currently use an mp3 player for this but in the past, I used an FM radio. Typically one earphone in the right ear and no earphone in the left. This may not work for everyone and apparently, it might even be illegal in some parts of the world"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "iZmiRhRDhj",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Breaking the day into chunks.</b>&nbsp;"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "MqH0TK66X2",
+      "type": "paragraph",
+      "data": {
+        "text": "When it comes down to it what exactly is the rush? Take some time to smell the roses as the old saying goes. When I am in the rose mindset I find that I can just sit back and go at whatever the happy pace is and eventually arrive somewhere."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "mPzgjnZ_Mq",
+      "type": "header",
+      "data": {
+        "text": "Solo versus Group Touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "qu_TT3oBAs",
+      "type": "paragraph",
+      "data": {
+        "text": "One of the most common questions that seemed to be asked during my Round Lake Erie and Round Lake Huron tours was if I was travelling all alone."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "vmoOmLH9YX",
+      "type": "paragraph",
+      "data": {
+        "text": "Most of the time it was asked with a tone of concern or puzzlement accompanied by constant glancing in the direction from which I came."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "CJr7XQ4RHa",
+      "type": "paragraph",
+      "data": {
+        "text": "At first, I responded by saying that it was only me. Later when the funny side of my personality came to the forefront I would reply with,&nbsp;“No there are three of us, Me, Myself and I”. The look of relief, followed by puzzlement and then laughter always led to a great conversation since the ice was now broken."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "bHplD_CCDF",
+      "type": "paragraph",
+      "data": {
+        "text": "Still, the question is valid and usually comes down to one of the following variations:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "FBuyeXE3i0",
+      "type": "paragraph",
+      "data": {
+        "text": "Aren’t you lonely all by yourself?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "gznNUTgVtU",
+      "type": "paragraph",
+      "data": {
+        "text": "Don’t you get scared? Is it safe?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "G_W8ujOug0",
+      "type": "paragraph",
+      "data": {
+        "text": "So let’s started by answering the questions about solo touring."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "g5-v80PUQW",
+      "type": "header",
+      "data": {
+        "text": "Solo Riding",
+        "level": 5
+      }
+    },
+    {
+      "id": "pmPJ2JA6tj",
+      "type": "paragraph",
+      "data": {
+        "text": "For me, solo touring&nbsp;is seldom lonely since you have lots of opportunities to meet people. People will often approach you and talk to you when they see a solo rider while staying away if they see a group of riders approach."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "W5f-j-Ydse",
+      "type": "paragraph",
+      "data": {
+        "text": "This is even more common in a public campground. A good example was my visit to Tawas State Park in Michigan. I was invited to watch the sunset by one couple, three couples invited me to sit by their campfires to share stories and the next morning I received two separate breakfast invitations all without any asking or hinting on my part. Something about solo touring seems to bring out the gentler side of people when they meet you."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "uCdOyPnTUQ",
+      "type": "paragraph",
+      "data": {
+        "text": "Another way to meet some incredible people is to watch for other riders on bikes out for a day ride. During my Round Lake Huron trip especially I spent an enjoyable couple of hours on several different days riding with people out for day rides. It gave me an excellent opportunity to see the local community while having an excellent conversation with someone from that community."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Mntd4qPoEv",
+      "type": "paragraph",
+      "data": {
+        "text": "An extension of this is that I managed to ride with several Cross Canada riders during the same tour. There is something really motivating and awe-inspiring about riding with people who are riding your dream tour."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "j3dDCEVeaB",
+      "type": "paragraph",
+      "data": {
+        "text": "When you tour by yourself you have the advantage of being able to have a rest day whenever you want. You can also stop for museums, art, local festivals, motels, campgrounds etc. Should you decide to go for a big distance day then that too is possible. All without needing to consult with anyone else."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "S_I_jI9U0V",
+      "type": "paragraph",
+      "data": {
+        "text": "Still solo touring has some potential issues. There is a bit more of a mental toll since all decisions need to be made by you. Physically you need to carry your own load and have the discipline and commitment to meet your goals."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Bv4EwvOVCL",
+      "type": "paragraph",
+      "data": {
+        "text": "“When the times get tough, the tough keep going”&nbsp;is something you might want to remember on the odd, less than perfect, day."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "MgpmZRo_yg",
+      "type": "paragraph",
+      "data": {
+        "text": "Safety is one of those issues where it appears at first glance that you would be safer in a group. When riding alone you know how you will react in a bad situation and you have no one to worry about but yourself.&nbsp;This gives you a lot of flexibility."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "IF9vgBJTVH",
+      "type": "paragraph",
+      "data": {
+        "text": "Some studies about bear attacks appear to have shown that all recorded bear attacks have happened with group sizes of less than six people and single person groups have been the majority of cases. Still, only approximately 36 people have died from bear attacks in the last forty years so I don’t see this as an overwhelming safety issue. It’s likely one that can be covered by practising proper bear safety techniques."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "u6Kz9zdQ84",
+      "type": "header",
+      "data": {
+        "text": "Group Riding",
+        "level": 5
+      }
+    },
+    {
+      "id": "gQH-uWmmg6",
+      "type": "paragraph",
+      "data": {
+        "text": "Group riding is something I have also done. When you go on a group ride you have to consider group dynamics. These dynamics can often affect your own personal freedom depending on how you handle the issues that come up. As an example, you might have to consider some simple issues like:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "46FwbdywHw",
+      "type": "paragraph",
+      "data": {
+        "text": "How do you handle wanting to start at 05:00 am and your buddy wants to hit the road at noon?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "QJgx4XIodg",
+      "type": "paragraph",
+      "data": {
+        "text": "Perhaps you want to end the day at 16:00 while your friends would rather ride into the night."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nru7XpVsRg",
+      "type": "paragraph",
+      "data": {
+        "text": "Stop to eat lunch at a restaurant or cook something?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "BywEjJrvGK",
+      "type": "paragraph",
+      "data": {
+        "text": "Camp or motel today?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Ufz8tqOa_K",
+      "type": "paragraph",
+      "data": {
+        "text": "Visit a museum or go for a long-distance ride?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "jsNKPp1Y4R",
+      "type": "paragraph",
+      "data": {
+        "text": "So many questions to consider!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "fXVUf5j1Ao",
+      "type": "paragraph",
+      "data": {
+        "text": "There are lots of good sides through too. You get to ride with a friend and share conversations. Depending on your plans you may be able to share some items like stoves and tents reducing the amount of weight that you each have to carry individually."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "rR0-qu7z6D",
+      "type": "paragraph",
+      "data": {
+        "text": "When something breaks you have at the very least a useful sounding board as you try to work through the problem and at the best an absolute mechanical genius who can fix anything."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "b5Xriw95cB",
+      "type": "paragraph",
+      "data": {
+        "text": "Headwind days can be mellowed by taking terms breaking wind. (Of course, if you have chilli for lunch or dinner then you can break wind then too in a very different way! (grin))."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "qiTu1snenC",
+      "type": "paragraph",
+      "data": {
+        "text": "Run out of water or snacks and need some? Perhaps your friends have some to share."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "6XlqLZoaFS",
+      "type": "paragraph",
+      "data": {
+        "text": "Of course, if you are unlucky enough to have a dog chasing you instead of being faster than the dog you just have to be faster than your friends! (very big grin)"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "BVF7zuPzLW",
+      "type": "paragraph",
+      "data": {
+        "text": "I’ve toured both ways and I like both for different reasons."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "FyBe8gnbfR",
+      "type": "paragraph",
+      "data": {
+        "text": "Here are some other viewpoints"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "gD8inVLISH",
+      "type": "paragraph",
+      "data": {
+        "text": "“Things are much easier, and safer feeling with partners. I was very honoured that Stephen and Gary both decided to join me on this trip. They were great companions at every point along the way!” — Robert Stowe"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "9uxJbClyv3",
+      "type": "paragraph",
+      "data": {
+        "text": "“The reality is that women face far, far more risks when touring alone than do men. Many groups I have encountered have more women than men - while almost every solo tourer has been male. I met a young Japanese woman in Cincinnati in 1987 and a med student from Chicago up in Alaska in 2002, but the ratio is about 99 to 1.” — John Egan"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "5y7GbxmzcM",
+      "type": "header",
+      "data": {
+        "text": "Taking your pet(s) along for bike touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "wSagv2KWub",
+      "type": "paragraph",
+      "data": {
+        "text": "Unfortunately, I don’t have a pet right now and I have never taken a pet along with me on tour so I can’t provide personal comments on this topic."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "D757BEtoov",
+      "type": "header",
+      "data": {
+        "text": "Crossing the southern US with two Jack Russells and a lot of motivation.",
+        "level": 5
+      }
+    },
+    {
+      "id": "B_a1CFVyWI",
+      "type": "paragraph",
+      "data": {
+        "text": "It was my pleasure to interview Team Russell regarding their very successful journey across the Southern United States by bicycle."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "dLg5QPfNd5",
+      "type": "paragraph",
+      "data": {
+        "text": "Team Russell consists of two Jack Russell Terriers and Hank Raines. Hank is the group leader, bicycle engine and spokesman for this group."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "SRMt9Z6sML",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/go-bike-touring/hankrainesbike.jpg",
+          "name": "hankrainesbike.jpg",
+          "size": 80332,
+          "extension": "jpg"
+        },
+        "caption": "Trek 520 with Xtracycle loaded with side panniers and a special carrier for the two Jack Russell Terriers.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "fW2Wh8UZDZ",
+      "type": "paragraph",
+      "data": {
+        "text": "On to the interview….."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "P5zkcQsoNq",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>What motivated you to bring two Jack Russell’s along on your Coast to Coast tour across the southern portion of the United States?</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Rf0l0O5va_",
+      "type": "paragraph",
+      "data": {
+        "text": "“I adopted Airwick and Agape in March of 2004. It was obvious when I’d get the bicycle out that Airwick wanted to tag along so we began with a leash system where he would run alongside. I’d leave him at home for the longer rides and he was very unhappy so we began experimenting. Ordered the Xtracycle for my own cross country and realized that it could be adapted to make room for the pets. 1,000 practice miles and then a trip down the Atlantic Coast and I knew we were ready.”"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hIiJrYFtts",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>What preparations did you make to help your dogs to have a comfortable adventure with you?</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "yqSPxWa0xU",
+      "type": "paragraph",
+      "data": {
+        "text": "“We customized our own seat to fit them perfectly. Then lots of practice adding or taking away things that were/weren’t needed. It was a fun spring.”"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "PY0AfEFVoa",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>What additional changes would you make prior to your next tour with your dogs? - Will there be a next tour?</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "tOkmAVrO9I",
+      "type": "paragraph",
+      "data": {
+        "text": "“Depending on when we tour, I’d add some type of small heater to their seat for the cold mornings. If this turns out to not be practical, which it certainly might, I think having two jerseys made out of the same wool as our jerseys would be a good addition. “"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Ayxp4y64Wp",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>If you had to name the one moment that you think your dogs enjoyed the most what would it be?</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Ldx7_CvfK5",
+      "type": "paragraph",
+      "data": {
+        "text": "“There were several. We all three loved our little breaks throughout the day just to relax and sit with each other. Airwick loved all the animals that we’d pass and Agape loved all the attention from the people we met.”"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "05Pl8GELOL",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>What was your favourite moment of the trip?</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "d2bI7_mIsd",
+      "type": "paragraph",
+      "data": {
+        "text": "“Hurricane in Savannah and almost every night snuggled in the tent with my two babies.”"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "u6NUcsRy6W",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>How did the tour change you as a person? Did it motivate you to make any changes upon your return home?</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "LCH-_PPj3S",
+      "type": "paragraph",
+      "data": {
+        "text": "“It has changed our lives in that cycling is a permanent part of our daily rituals now. We will also be going on at least one extended tour a year when time and responsibilities allow.”"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "3ovqBNCJqr",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Any advice for others who are considering touring with their pets?</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "l8Ix_76Cut",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/go-bike-touring/teamrussell.jpg",
+          "name": "teamrussell.jpg",
+          "size": 76799,
+          "extension": "jpg"
+        },
+        "caption": "Team Russell - Hank, Airwick and Agnes",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "AmeYxMq2wk",
+      "type": "paragraph",
+      "data": {
+        "text": "“You know your pet best. The premise that some people will try a long tour or cross country with a pet that isn’t ready is possible but highly unlikely. If you tour with your pet for the wrong reasons, you’re going to fail. Start off very slow and be prepared to adapt, adjust to things as they come along, and be prepared to watch and listen to their needs on the road. Their needs change when out on the road just like your own. The best reminder is that your pet will experience your trip much as you do.”"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "L8jzh5RSVd",
+      "type": "header",
+      "data": {
+        "text": "Planning your very first bicycle touring adventure!",
+        "level": 2
+      }
+    },
+    {
+      "id": "LLk6Kf0f-N",
+      "type": "paragraph",
+      "data": {
+        "text": "At this point, as you’ve read through this article your excitement has grown as you’ve realized that&nbsp;bicycle touring&nbsp;really is something that sounds like it’s made to order for you."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "41K1kTnEyn",
+      "type": "paragraph",
+      "data": {
+        "text": "After all what’s not to like about seeing beautiful scenery, visiting new places and meeting interesting people?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Y0mwRYDMey",
+      "type": "paragraph",
+      "data": {
+        "text": "Only one little problem remains, planning that first tour!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "RBGrzLds1o",
+      "type": "header",
+      "data": {
+        "text": "Taking a fully supported/SAG tour first",
+        "level": 3
+      }
+    },
+    {
+      "id": "E-v85CONC8",
+      "type": "paragraph",
+      "data": {
+        "text": "When planning your first tour one easy option is to find a local company that offers fully supported tours."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ad4RiMmRA7",
+      "type": "paragraph",
+      "data": {
+        "text": "This option would supply you with full support during your first tour while providing you with an opportunity to see how well bicycle touring works for you. These tours will often include other riders as well so you will definitely get a chance to meet others. Other advantages include not having to carry your gear, some meals are prepared for you and accommodations are set up in advance. Depending on the length of the trip it might be cost-effective to try touring this way first rather than&nbsp;splurge on bicycle equipment&nbsp;to allow you to carry your gear."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "35AAbrdx06",
+      "type": "header",
+      "data": {
+        "text": "Planning your own self-supported tour",
+        "level": 3
+      }
+    },
+    {
+      "id": "VXFJgOvgkM",
+      "type": "paragraph",
+      "data": {
+        "text": "On tour, I will often receive questions from others about how to plan their first tour. My answer is usually to pick a motel, hotel or bed and breakfast within a comfortable bicycle ride from home. The distance should be slightly further than you’ve gone before if you are new to&nbsp;long-distance cycling. Most new touring cyclists seem to find 20 t0 25 km a longish distance so I usually suggest finding a place about 30 km from home."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "HmKdg6-3YF",
+      "type": "paragraph",
+      "data": {
+        "text": "Ride from home to the accommodation carrying minimal gear. Park the bike when you arrive and go out for a nice dinner, play, movie or visit something like a museum. Enjoy a comfortable sleep. The next day ride back home."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "UiV4cPj02V",
+      "type": "paragraph",
+      "data": {
+        "text": "Just like that you’ve experienced your first tour. You were close enough to home to feel like you have bail-out options while being far enough away to experience an adventure. Costs are minimal since limited gear was carried (really just a change of clothing) and you managed to pack the bicycle touring experience into a small package during your tour. How? Well, you experienced the bicycling, the good food, the comfortable sleep and the cultural experience all in one trip. It’s very likely that you spoke with at least one other person about cycling during your tour too."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "i7RA0ZgfYg",
+      "type": "paragraph",
+      "data": {
+        "text": "My first formal tour was a self-supported, fully loaded solo tour. I planned the ride so that at no point was I more than about 90 minutes from home by car. This gave me plenty of back-out options if the tour didn’t work out for me. Since then I have helped others go on their first tours."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "s16K4IgbOd",
+      "type": "paragraph",
+      "data": {
+        "text": "Here is a list of ideas that seem to work out well when planning your first tour."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "x-W4Kx4sCq",
+      "type": "header",
+      "data": {
+        "text": "The furthest point within a 90-minute car ride from home",
+        "level": 4
+      }
+    },
+    {
+      "id": "glm9Sga41M",
+      "type": "paragraph",
+      "data": {
+        "text": "By staying within a 90-minute car ride from home on your first tour you won’t feel as bad about inconveniencing others should you need a lift home. You also won’t feel as uncomfortable when you reach the farthest point and realize that you’ve only made it halfway."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "DpGO2DjCFs",
+      "type": "header",
+      "data": {
+        "text": "Leave with a tail or cross wind",
+        "level": 4
+      }
+    },
+    {
+      "id": "2B-08Sd4Sj",
+      "type": "paragraph",
+      "data": {
+        "text": "During my first tour, I lucked out and experienced a tailwind during my first day. I also set a new distance record for me at the time of 93 km in just over 3 hours. Having a tailwind on day one makes the ride easier and it will help with the other days when you get to face a headwind. Be careful though not to let the tailwind carry you far beyond the distance you want to travel back in the next day or two."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "dAHOb5bKAt",
+      "type": "paragraph",
+      "data": {
+        "text": "During my Riding the Tailwind Triangle tour my friend and I experienced two days of amazing tailwinds before turning into a headwind on the last day headed for home. This was his first successfully completed tour and he had a blast (literally and figuratively). He regularly talks about his plans for his next tour now."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "dhWzlA8IDz",
+      "type": "header",
+      "data": {
+        "text": "Try to leave and return on a sunny weather day",
+        "level": 4
+      }
+    },
+    {
+      "id": "rCaHBrukws",
+      "type": "paragraph",
+      "data": {
+        "text": "I have started tours in rain. In fact, during my Round Lake Erie tour, I outran the same rainstorm four times during my first day as I zig-zagged down country roads."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "xW7BiupBbq",
+      "type": "paragraph",
+      "data": {
+        "text": "For a first tour aim for good weather. Riding a country road in shorts and a t-shirt with the sunshine beaming down (on to your sunscreen of course) is a very enjoyable experience. The same goes for the last day if possible. The last day of any tour is very memorable but even more so when you return home with the sun shining and a smile on your face."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "pN5VQIW_rr",
+      "type": "header",
+      "data": {
+        "text": "Consider doing a circle tour where you leave from home and return to your home by bicycle",
+        "level": 4
+      }
+    },
+    {
+      "id": "AYGC1ZrhGJ",
+      "type": "paragraph",
+      "data": {
+        "text": "Few things are nicer than knowing that you left home by your bicycle, travelled some distance and then returned again all while riding your bicycle. Setting up your first tour this way also eliminates the need to worry about parking a car etc. (To be honest it also makes for an even more impressive story to tell your friends and family. You went how far on your bike?)."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Xudokzhgno",
+      "type": "header",
+      "data": {
+        "text": "Have flexible and reasonable goals",
+        "level": 4
+      }
+    },
+    {
+      "id": "cOTV222q6A",
+      "type": "paragraph",
+      "data": {
+        "text": "During my first tour, I aimed for Port Burwell Provincial Park in Ontario as the ending point of my first day. In reality, I also had another campsite picked out that was about halfway to Port Burwell. When I reached the first campground I had the option of stopping or continuing. I continued but I easily could have stopped instead."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "fDDSksNunz",
+      "type": "header",
+      "data": {
+        "text": "Be comfortable with your bike",
+        "level": 4
+      }
+    },
+    {
+      "id": "jAbzFbYdr0",
+      "type": "paragraph",
+      "data": {
+        "text": "Whenever you leave town on a bicycle a natural concern is whether or not the bike will get you home safely. Why not take the bike in for a quick tune-up a couple of weeks before your tour? Make sure you tell the bike shop about your touring intentions. The cost of a tune-up will usually be minimal and the peace of mind from having someone look over your bike will certainly make you feel better."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "4Rt6oxgClk",
+      "type": "header",
+      "data": {
+        "text": "Bring your friends or family along",
+        "level": 4
+      }
+    },
+    {
+      "id": "auijnfsRd7",
+      "type": "paragraph",
+      "data": {
+        "text": "This one could be a double-edged sword. I like the flexibility of riding a solo tour and I actually rode my first tour completely solo (although I did meet another touring cyclist on that tour too)."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "0JPCSLubzg",
+      "type": "paragraph",
+      "data": {
+        "text": "Other people really want someone else along so that if problems occur there is someone else there to assist. A second reason that’s often mentioned is the desire to have companionship."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "wO1T6ZU8Qj",
+      "type": "header",
+      "data": {
+        "text": "Make sure that you have fun!",
+        "level": 4
+      }
+    },
+    {
+      "id": "BmJhq_vZxG",
+      "type": "paragraph",
+      "data": {
+        "text": "I’ve purposely left this one to the end even though it’s the most important point in my opinion! For me, a bicycle tour should be about having fun and enjoying yourself. I find on a tour that if I’m not having a good time then something needs to change so that I am once again having fun. Sometimes this means stopping for lunch, visiting a museum or just plain stopping for the day early."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "NEgwgMl4Um",
+      "type": "paragraph",
+      "data": {
+        "text": "For me, a bicycle tour is about the experience. It’s much more important than the experience to be an enjoyable one filled with fun times than it is that I cover 4 zillion miles although if I need to cover 4 zillion miles to return home then I certainly have to do that too. (grin)"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "KNsY7YdtfR",
+      "type": "paragraph",
+      "data": {
+        "text": "Hopefully, you’ve noticed that on this page about planning your first tour I haven’t said that you need the&nbsp;best bike, latest gear or anything special. All of that will come with time provided that you have an enjoyable experience and you feel that your current gear needs an upgrade."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "c1_K-egPdb",
+      "type": "paragraph",
+      "data": {
+        "text": "Bicycle touring is an enjoyable activity that is well within everyone’s reach provided that you have a bicycle and an interest in trying something different."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

@@ -1,0 +1,1298 @@
+{
+  "time": 1652256978252,
+  "blocks": [
+    {
+      "id": "RDwIkT5SS6",
+      "type": "header",
+      "data": {
+        "text": "Sleeping on a Bicycle Tour: Equipment Overview",
+        "level": 1
+      }
+    },
+    {
+      "id": "V3jEJVcceD",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Finding a good camping spot is already hard, but getting some good rest shouldn't be. In this post, we'll explore our options for shelters, sleeping bags, and sleeping pads.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "miSX14OIjC",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/sleep-system/biketouringsleepsystem1024w.jpg",
+          "name": "biketouringsleepsystem1024w.jpg",
+          "size": 73626,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "bpnQbJprYM",
+      "type": "paragraph",
+      "data": {
+        "text": "A sleeping system, also known as “the big three”, comprises the most basic gear for multi-day outdoor activities. The <b>shelter, sleeping bag, and sleeping pad</b> are usually the heaviest and bulkiest items that we carry on a bicycle tour."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hum-qiW4By",
+      "type": "paragraph",
+      "data": {
+        "text": "There are way too many sleeping system options, but we’ll cover each of them."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "DzmDX5zT0y",
+      "type": "quote",
+      "data": {
+        "text": "Don’t expect a great night of sleep while camping - expect a series of naps.",
+        "caption": "Unknown",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "Vr4iAbJxL8",
+      "type": "header",
+      "data": {
+        "text": "Shelters for Bicycle Touring",
+        "level": 2
+      }
+    },
+    {
+      "id": "Wl9dlpYWUb",
+      "type": "paragraph",
+      "data": {
+        "text": "We all need, at least, some protection from the elements. A simple shelter can protect us from rain, wind, sun, bugs, and animals. There are different types of shelters, it’s up to you to choose one."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "CoH0LGvm0q",
+      "type": "header",
+      "data": {
+        "text": "Best Type of Tent&nbsp;for Bicycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "FAvhgES31i",
+      "type": "paragraph",
+      "data": {
+        "text": "Tents are the most widely used type of shelter because of their simplicity, reliability, and comfort."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8qlcc6z91Y",
+      "type": "header",
+      "data": {
+        "text": "Single Layer Tents&nbsp;for Bicycle Touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "j0H5gPJmLH",
+      "type": "paragraph",
+      "data": {
+        "text": "Single layer tents don’t have a bug net, and ventilation is low compared to double layer tents. Although they are light, their disadvantages restrict their use in most conditions."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "yfypx6aTPl",
+      "type": "paragraph",
+      "data": {
+        "text": "The heat difference between the inside and the outside of the tent causes dew to form inside the tent from your breathing. And as a result, you wake up&nbsp;soaked and shivering."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "yRbNkmJO0i",
+      "type": "header",
+      "data": {
+        "text": "Pros of Single Layer Tents",
+        "level": 5
+      }
+    },
+    {
+      "id": "sEG27GqGAY",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Lightweight",
+            "items": []
+          },
+          {
+            "content": "Easy to set up",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mp476c1yAW",
+      "type": "header",
+      "data": {
+        "text": "Cons of Single Layer Tents",
+        "level": 5
+      }
+    },
+    {
+      "id": "xoBqeLrXyo",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Little ventilation",
+            "items": []
+          },
+          {
+            "content": "Dew formation inside the tent",
+            "items": []
+          },
+          {
+            "content": "Less insulation than double layer tents",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "FCJOhfSMZ6",
+      "type": "header",
+      "data": {
+        "text": "Double Layer Tents&nbsp;for Bicycle Touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "rdSL7RC7Z-",
+      "type": "paragraph",
+      "data": {
+        "text": "Double layer tents come with a bug net and this makes all the difference. Bug protection is important, but this separate layer of mesh also increases ventilation. More ventilation means less dew formation."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "BKLt7pNrq-",
+      "type": "paragraph",
+      "data": {
+        "text": "Most bicycle travellers use double layer tents because of their features, and since we don’t carry them on our backs, we don’t mind the weight."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8DNSSWujKq",
+      "type": "header",
+      "data": {
+        "text": "Pros of Double Layer Tents",
+        "level": 5
+      }
+    },
+    {
+      "id": "LUhXDTVb4z",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Protection against bugs",
+            "items": []
+          },
+          {
+            "content": "Good ventilation",
+            "items": []
+          },
+          {
+            "content": "No dew formation inside the bug net",
+            "items": []
+          },
+          {
+            "content": "Retains heat better",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "xTF8dSUWky",
+      "type": "header",
+      "data": {
+        "text": "Cons of Double Layer Tents",
+        "level": 5
+      }
+    },
+    {
+      "id": "OctxyjvppS",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Heavy",
+            "items": []
+          },
+          {
+            "content": "Takes time to set up",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "t3SKbycIZA",
+      "type": "header",
+      "data": {
+        "text": "Tarp Tents&nbsp;for Bicycle Touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "66p3FPhlXI",
+      "type": "paragraph",
+      "data": {
+        "text": "Tarp tents are a relatively new concept in shelters. It’s a combination of the bug protection of double layer tents and the lightness of single layer tents."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "xFEnlWW6bP",
+      "type": "paragraph",
+      "data": {
+        "text": "Tarp tents use fewer poles than regular tents, so, weight is reduced further. A bug net and groundsheet are stitched to the tarp and shaped into a tent."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "j0zcykfWF-",
+      "type": "header",
+      "data": {
+        "text": "Pros of Tarp Tents",
+        "level": 5
+      }
+    },
+    {
+      "id": "PUvNkpQuzs",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Lightweight",
+            "items": []
+          },
+          {
+            "content": "Bug protection",
+            "items": []
+          },
+          {
+            "content": "Good ventilation",
+            "items": []
+          },
+          {
+            "content": "Less dew formation",
+            "items": []
+          },
+          {
+            "content": "Easy to set up",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "f33ldjBd4Y",
+      "type": "header",
+      "data": {
+        "text": "Cons of Tarp Tents",
+        "level": 5
+      }
+    },
+    {
+      "id": "s6JYAdq65a",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Less insulating, due to the single layer design",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "eoHkuATyD1",
+      "type": "header",
+      "data": {
+        "text": "Tarp&nbsp;for Bicycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "usTI3Zbq6J",
+      "type": "paragraph",
+      "data": {
+        "text": "Tarps are mostly used by lightweight travellers. Tarps are lighter than tents and can be set up in different ways depending on the terrain. And since they don’t have bug protection, most travellers use a separate bug net. Tarp users also need a groundsheet and/or bivvy bags to protect the sleeping bag from rain and mud."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "uV_tILKCsJ",
+      "type": "paragraph",
+      "data": {
+        "text": "Tarps can be pitched on different terrains and forestations. Versatility is also a factor; you can use a tarp as a sunshade, or as a veil while you shower, or as a tent extension to cover your gear from rain like a vestibule."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "0ey97Lnf-f",
+      "type": "header",
+      "data": {
+        "text": "Pros of Tarps",
+        "level": 5
+      }
+    },
+    {
+      "id": "bc9OERqEGh",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Lightweight",
+            "items": []
+          },
+          {
+            "content": "Versatile",
+            "items": []
+          },
+          {
+            "content": "High ventilation",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "bmmV7VqdrF",
+      "type": "header",
+      "data": {
+        "text": "Cons of Tarps",
+        "level": 5
+      }
+    },
+    {
+      "id": "YjH7b0kIKo",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Hard to set up",
+            "items": []
+          },
+          {
+            "content": "No bug protection",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "sVSCqjM8Kn",
+      "type": "header",
+      "data": {
+        "text": "Bivvy Bag&nbsp;for Bicycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "hQ2nUiLjAs",
+      "type": "paragraph",
+      "data": {
+        "text": "Bivvy bags look like body bags. A bivvy bag is the most basic type of shelter and it’s very light. It is mainly used by mountain climbers and the military, but ultralight travelers started to use them a long time ago. Bivvy bags are waterproof and breathable, so they are a great substitute for tents."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Vdf40wxAmw",
+      "type": "header",
+      "data": {
+        "text": "Pros of Bivvy Bags",
+        "level": 5
+      }
+    },
+    {
+      "id": "KrskWacTmu",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Lightweight",
+            "items": []
+          },
+          {
+            "content": "Waterproof",
+            "items": []
+          },
+          {
+            "content": "Breathable",
+            "items": []
+          },
+          {
+            "content": "Insulating",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "ufHb67dNa6",
+      "type": "header",
+      "data": {
+        "text": "Cons of Bivvy Bags",
+        "level": 5
+      }
+    },
+    {
+      "id": "w7f0P70-tN",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Good models are expensive",
+            "items": []
+          },
+          {
+            "content": "Some models don’t have bug nets",
+            "items": []
+          },
+          {
+            "content": "Very confining",
+            "items": []
+          },
+          {
+            "content": "Very low ventilation",
+            "items": []
+          },
+          {
+            "content": "Dew formation if you breathe inside",
+            "items": []
+          },
+          {
+            "content": "Cold if you breathe outside",
+            "items": []
+          },
+          {
+            "content": "Vulnerable to wild animal attacks",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "e4EHMuvItk",
+      "type": "header",
+      "data": {
+        "text": "Hammock&nbsp;for Bicycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "J4hUE8pYlR",
+      "type": "paragraph",
+      "data": {
+        "text": "Hammocks are becoming a common option among long-distance cyclists. Nowadays, hammocks can be set up both on trees and on the ground like a tent or tarp. This feature allows comfortable sleep when there are suitable trees or a ground shelter when there is nothing to attach the hammock to."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "F-EEc_7Wvq",
+      "type": "paragraph",
+      "data": {
+        "text": "Older models don’t have this feature, but can be easily converted to a ground shelter with use of a pole, some cords, and stakes."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "kkMbUAFEO1",
+      "type": "header",
+      "data": {
+        "text": "Pros of Hammocks",
+        "level": 5
+      }
+    },
+    {
+      "id": "cTN7E1ay6b",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Can be used as both a hammock and a ground shelter",
+            "items": []
+          },
+          {
+            "content": "Solves the rocky terrain problem",
+            "items": []
+          },
+          {
+            "content": "High ventilation",
+            "items": []
+          },
+          {
+            "content": "Bug protection",
+            "items": []
+          },
+          {
+            "content": "No dew formation",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "OM9kA6RN85",
+      "type": "header",
+      "data": {
+        "text": "Cons of Hammocks",
+        "level": 5
+      }
+    },
+    {
+      "id": "DtJo_2YL0G",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Not comfortable for everyone",
+            "items": []
+          },
+          {
+            "content": "Hard to set up",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "BFT2-QCPMf",
+      "type": "header",
+      "data": {
+        "text": "Shelter Accessories",
+        "level": 3
+      }
+    },
+    {
+      "id": "BC2mQDFHOb",
+      "type": "paragraph",
+      "data": {
+        "text": "You may want to upgrade your tent accessories to improve the durability of the sleep system or just for shaving off some weight."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "RqF6vk7k97",
+      "type": "header",
+      "data": {
+        "text": "Poles",
+        "level": 4
+      }
+    },
+    {
+      "id": "wVQyEgauT3",
+      "type": "paragraph",
+      "data": {
+        "text": "Poles are an important part of tents. They must be strong enough to withstand high winds, flexible enough to take the shape of the tent dome, and light enough to carry without being a burden."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nnuHy_D6hP",
+      "type": "paragraph",
+      "data": {
+        "text": "Most tents use <b>fibreglass poles</b> because of their high flexibility. Fibreglass poles are cheap, strong, and flexible, but they are far from durable. They develop cracks and break apart axially."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "1KjLXHtpDK",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Carbon-fibre poles</b> are lighter, but they also tend to break if too much force is applied to them. In a high-wind area, this is unavoidable unless you tie your tent down securely. Carbon-fibre tent poles are too expensive to toy with."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "FyXVWmItnJ",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Aluminium alloy tent poles</b> combine weight, price, and flexibility in a single package. They are very durable."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "temkUSi8sw",
+      "type": "paragraph",
+      "data": {
+        "text": "Since most tents use different lengths of poles, you may not find precise replacement poles for your tent, so, you may have to buy raw tubes and make your own replacement poles by cutting them at incorrect lengths, making joints, and tying them with an elastic cord."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "lkDHApMrO5",
+      "type": "paragraph",
+      "data": {
+        "text": "It’s easier to replace the pole of a pyramid tent, and if it breaks on the field; you can use a wood stick as a temporary replacement."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "s5xlYm640D",
+      "type": "header",
+      "data": {
+        "text": "Stakes",
+        "level": 4
+      }
+    },
+    {
+      "id": "M646xEijsW",
+      "type": "paragraph",
+      "data": {
+        "text": "Tent stakes are also an important part of the tent. They must be long enough to hold the ground, but shouldn’t bend or break. Cheap tents usually come with stainless steel stakes."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ggmertOvxO",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Stainless steel stakes</b> are heavy but their strength and durability are incredible."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "fEojM9Igu0",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Aluminium tent stakes</b> are lighter, but they bend easily when you hit a rock. You can bend them back by hitting them with a rock, so no problem. Aluminium tent stakes are reasonably cheap, light, and durable."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "keDUjFVS8e",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Titanium stakes</b> are lighter than aluminum stakes, but they are expensive. They also bend like aluminum ones."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nqPCIoJaYe",
+      "type": "paragraph",
+      "data": {
+        "text": "Some people use <b>carbon-fibre tent stakes</b> because they want to carry the absolutely lightest gear at all costs. Carbon-fibre stakes are not that strong, so you can’t hit them with a rock. You have to push them to the ground with your hands, gently."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Wj33IgaVof",
+      "type": "header",
+      "data": {
+        "text": "Guylines and Tensioners",
+        "level": 4
+      }
+    },
+    {
+      "id": "ttTu3Pxq1V",
+      "type": "paragraph",
+      "data": {
+        "text": "Most people are happy with their stock tent cords; why wouldn’t they be? On the other hand, ultralight travellers use <b>fishing lines as tent cords</b>. Fishing lines are lighter, stronger, and don’t tangle as much as regular cords. Some lines are coated with glow-in-the-dark dyes and can be seen at night while camping. This is a useful feature if you don’t want to trip over the line when you get up to pee at night."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "k_6LPaDO9b",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Guyline tensioners</b> are very useful when setting up the tent. You don’t have to tie anything and you can adjust the lines as needed without trouble."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "zXn-_EK67c",
+      "type": "header",
+      "data": {
+        "text": "Groundsheets",
+        "level": 4
+      }
+    },
+    {
+      "id": "aTUn7wwZ7W",
+      "type": "paragraph",
+      "data": {
+        "text": "Groundsheets are used to protect the bottom of the tent from punctures and water. They improve the life of the tent, and they can also be used for picnics, as a curtain while bathing, or as a tarp when it’s raining. Most tents don’t include a groundsheet, so you may have to buy one separately.&nbsp;"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ljhPHOGPiF",
+      "type": "header",
+      "data": {
+        "text": "Other Options",
+        "level": 3
+      }
+    },
+    {
+      "id": "dx6Q8a1Xr1",
+      "type": "paragraph",
+      "data": {
+        "text": "There are other options for sheltering yourself from the elements; these are not widely used but you should know your options."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Aup40Y1fwq",
+      "type": "header",
+      "data": {
+        "text": "Garbage bags",
+        "level": 4
+      }
+    },
+    {
+      "id": "inyw6JLmBZ",
+      "type": "paragraph",
+      "data": {
+        "text": "Some people prefer disposable garbage bags instead of a bivvy bag because of their cheap price and ultralight weight. It’s not breathable, but this is not a problem for people who want the absolute lightest solution. "
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "-vDTbqicGp",
+      "type": "header",
+      "data": {
+        "text": "Tyvek",
+        "level": 4
+      }
+    },
+    {
+      "id": "Smq9rO-1OO",
+      "type": "paragraph",
+      "data": {
+        "text": "Tyvek paper is another option for bivvy bags and tarps because it is water-proof and breathable. It is also very durable. Since it’s not a fabric, you have to tape it with its special tape to connect two pieces, instead of stitching."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "UvnGvGAO_g",
+      "type": "header",
+      "data": {
+        "text": "Hotels",
+        "level": 4
+      }
+    },
+    {
+      "id": "n5udieBmzy",
+      "type": "paragraph",
+      "data": {
+        "text": "Hotels are out of it if you are not rich, but you may wish to get some good sleep after a hot shower from time to time."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "jHWE_mhzFu",
+      "type": "header",
+      "data": {
+        "text": "No shelter",
+        "level": 4
+      }
+    },
+    {
+      "id": "BSlly1s3f2",
+      "type": "paragraph",
+      "data": {
+        "text": "In desert conditions, you may not need shelter at all. You can sleep under stars like a cowboy if you know the weather will be good. Though, you may wish to use a bug net over your sleeping bag to protect yourself from mosquitoes."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "v8GfPOAT68",
+      "type": "header",
+      "data": {
+        "text": "Sleeping Bags and Quilts for Bicycle Touring",
+        "level": 2
+      }
+    },
+    {
+      "id": "gi0Me0ZsJf",
+      "type": "paragraph",
+      "data": {
+        "text": "Choosing a warm and light sleeping bag is important while travelling by bicycle."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "kxdrcWoqO0",
+      "type": "paragraph",
+      "data": {
+        "text": "There are two types of sleeping bags; synthetic sleeping bags and down sleeping bags."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "7SyD3RqhTU",
+      "type": "header",
+      "data": {
+        "text": "Synthetic Sleeping Bags and Quilts",
+        "level": 3
+      }
+    },
+    {
+      "id": "q7d0uIL66o",
+      "type": "paragraph",
+      "data": {
+        "text": "Most people opt for synthetic sleeping bags because of their cheap price and ability to retain warmth even when moist. They do not require much maintenance. The insulating material is usually one piece, so it doesn’t need protection from punctures as with down sleeping bags. They can easily be stitched at the field."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "5zlvjA-oq1",
+      "type": "paragraph",
+      "data": {
+        "text": "Same goes for synthetic quilts. Some sleeping bags can be opened fully to use as a quilt when it’s warm."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "pMCjzcDaK-",
+      "type": "paragraph",
+      "data": {
+        "text": "The downside of synthetic sleeping bags is their weight. Cheap synthetic sleeping bags are usually twice as heavy as their down equivalents. High-end (and expensive) insulating materials such as Climashield Apex exist, and some manufacturers have started using them in their sleeping bags. These materials are almost as light as down and don’t have the disadvantages of down sleeping bags."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "inhQuQDuxd",
+      "type": "paragraph",
+      "data": {
+        "text": "In my opinion, a synthetic sleeping bag with Apex insulation is the way to go."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "3Gh9IsJ_xG",
+      "type": "header",
+      "data": {
+        "text": "Down Sleeping Bags and Quilts",
+        "level": 3
+      }
+    },
+    {
+      "id": "aO6NQ8Fluz",
+      "type": "paragraph",
+      "data": {
+        "text": "Down sleeping bags are lighter than synthetic ones, and they occupy less volume because of their high compressibility. Low weight and less bulk are very important features of a sleeping bag when you are touring by bicycle. Down products require high maintenance and care. If they get wet, the feathers will collapse and lose their insulation. There will be a cloud of tiny feathers if the bag gets ripped."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "UlFFiLuBpR",
+      "type": "paragraph",
+      "data": {
+        "text": "Most of the disadvantages are no longer an issue thanks to current technology. Manufacturers are washing the down with water repellent chemicals and making it resistant to your breaths and the humidity of tents. Down-proof ripstop liners are used to protect the down from spilling all over the place."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "fru_7dbsn8",
+      "type": "paragraph",
+      "data": {
+        "text": "Of course, these products are more expensive than already expensive down sleeping bags, but if you are going with down, you should go with water-resistant down."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "uTCIMz7-jF",
+      "type": "header",
+      "data": {
+        "text": "Sleeping Bags vs Quilts",
+        "level": 3
+      }
+    },
+    {
+      "id": "KsAuFjN5D9",
+      "type": "paragraph",
+      "data": {
+        "text": "The sleeping bag versus quilt debate is a long-standing one. Both have their advantages and disadvantages."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8mk79HrNdB",
+      "type": "paragraph",
+      "data": {
+        "text": "Sleeping bags retain heat better than quilts but it is really hard to move inside. If it gets too hot, you have to open the zipper and take a leg out. This becomes frustrating quickly. Sleeping bags have hoods to keep your head warm, and you can fill the hood with your clothes to make it a pillow."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "exUT3jbCeu",
+      "type": "paragraph",
+      "data": {
+        "text": "Quilts are a better choice in the summer because they have enough ventilation and can keep you warm if you don’t move much. Some quilts have zippers along the side, so you can convert them to a sleeping bag in a pinch. Some models have a foot box to protect your feet from the draft."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "I1miGMNqcj",
+      "type": "paragraph",
+      "data": {
+        "text": "There isn’t much weight or price difference between sleeping bags and quilts, so it’s up to you to choose what you need."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hrxyU0alp2",
+      "type": "header",
+      "data": {
+        "text": "Other Options",
+        "level": 3
+      }
+    },
+    {
+      "id": "VNavSu6agX",
+      "type": "paragraph",
+      "data": {
+        "text": "I know people who use down jackets and down pants instead of a sleeping bag. I don’t know how comfortable it would be, but I know for sure that it’s a great example of multi-purposing."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "mLYoA7Gto2",
+      "type": "paragraph",
+      "data": {
+        "text": "If you are a good-weather bicycle traveller; you can ditch the sleeping bag and just use a liner or your towel like a quilt."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "5iXvc1H69p",
+      "type": "header",
+      "data": {
+        "text": "Mattresses",
+        "level": 2
+      }
+    },
+    {
+      "id": "RxSrO-oqWZ",
+      "type": "paragraph",
+      "data": {
+        "text": "Your sleeping pad choice is really important because when you ride all day, you want some good rest. The insulation rating is also important if you are travelling in colder seasons."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "AagsupyLoq",
+      "type": "header",
+      "data": {
+        "text": "Air Mattresses for Bicycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "SWW4wIbHU3",
+      "type": "paragraph",
+      "data": {
+        "text": "Inflatable sleeping pads are very comfortable, but they have a few disadvantages."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "VfHsuYXUaF",
+      "type": "paragraph",
+      "data": {
+        "text": "They are easily punctured by pointy rocks and pine needles if the campsite is not cleaned well. It takes time to inflate them and this is frustrating if you are tired and just want to get some sleep; it is hard to deflate and pack again, and they are heavier than foam pads. But they are less bulky while packed and more comfortable than other options."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "yvAfvMntCU",
+      "type": "header",
+      "data": {
+        "text": "Foam Mattresses&nbsp;for Bicycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "1kcPXIW_o6",
+      "type": "paragraph",
+      "data": {
+        "text": "Foam sleeping pads are bulky in nature, but they are lighter than air sleeping pads. They are sold in different sizes and thicknesses. The thickness and material used affect the insulating properties of the foam sleeping pad."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "l6sXNUXXMt",
+      "type": "header",
+      "data": {
+        "text": "Other Options",
+        "level": 3
+      }
+    },
+    {
+      "id": "m1RRalb08X",
+      "type": "paragraph",
+      "data": {
+        "text": "There are people who use bubble wraps as sleeping pads. I don’t know how comfortable it would be, but I’m sure it’s not as durable as other options. Bubble wraps are way lighter than even foam pads, and because of this, they are the favourite type of mattress for ultralight bike travellers. The insulation rating of the bubble wrap depends on the number of layers used."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Rcuph-0f7J",
+      "type": "internal",
+      "data": {
+        "text": "gear/interactive-list-of-bike-touring-gear"
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

@@ -1,0 +1,499 @@
+{
+  "time": 1652376668098,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "Best Stove for Bicycle Touring",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Choosing the best stove for your long-distance bike tour is not an easy task. There are many things to consider such as fuel availability, temperature dependence, cooking times etc.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "0lfPZA47v6",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/cooking-gear/1652372609_image.jpg",
+          "name": "1652372609_image.jpg",
+          "size": 50517,
+          "extension": "jpg"
+        },
+        "caption": "My MSR Dragonfly along with the fuel pump and bottle.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "CGfDryaccG",
+      "type": "header",
+      "data": {
+        "text": "Petrol Stoves for Bicycle Touring",
+        "level": 2
+      }
+    },
+    {
+      "id": "73JfJJKAEL",
+      "type": "paragraph",
+      "data": {
+        "text": "I currently use an MSR Dragonfly stove when I go bicycle touring. I’ve had this stove for four years now and I’ve used it during all of my bicycle touring adventures."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8beG2SB7KU",
+      "type": "paragraph",
+      "data": {
+        "text": "Although heavier than a soda-can stove, this stove is lightweight compared to many other stoves. It is also very compact and easy to pack up so that it can fit inside a small to a medium-sized cooking pot. When deployed the stove provides a sturdy cooking platform."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "DrvwsyfrQm",
+      "type": "paragraph",
+      "data": {
+        "text": "This stove burns<b> at least six different kinds of fuel</b>&nbsp;so the possibility of actually running out of fuel while touring is greatly reduced. In actual practice, in order to switch fuels, you also have to switch fuel needles. As a result and due to the easy availability of Naptha everywhere I’ve toured I haven’t yet tried burning a different fuel."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "pB2MqZcLn3",
+      "type": "paragraph",
+      "data": {
+        "text": "Boiling a pot of water is an operation that takes very little time with the DragonFly. One disadvantage of running at high power is the <b>loud “afterburner-like” noise</b> of the stove. It is possible to simmer using this stove since it also includes a <b>simmer control</b> that allows you to dramatically reduce the amount of heat that you are producing."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Zm9DejDg3q",
+      "type": "paragraph",
+      "data": {
+        "text": "You will need a <b>fuel bottle</b> for this device. The fuel pump is a mainly plastic piece of hardware that you use to pressurize the fuel bottle."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "AuyhGlw1xM",
+      "type": "paragraph",
+      "data": {
+        "text": "MSR also offers spare parts and repair kits. I carry one with me that I have thus far never had to use. I also have a spare fuel pump in my “leave at home, mail if needed” box in case the pump should experience a failure."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "rAYJOWk8dM",
+      "type": "paragraph",
+      "data": {
+        "text": "This stove has served me well during my bicycle touring adventures and despite my recent fascination with soda can stoves, I suspect that this one will continue to travel with me for quite some time."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "dKQnvAFr-A",
+      "type": "header",
+      "data": {
+        "text": "Windscreens, paper clips and clothespins",
+        "level": 3
+      }
+    },
+    {
+      "id": "g4vDQYz1B3",
+      "type": "paragraph",
+      "data": {
+        "text": "Sometimes it’s really the simple things that make it all easier. For years I’ve been fiddling with the <b>windscreen on my MSR stove</b> to try to make it stay together nicely when in use while also allowing me to put it away quickly and easily."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "W9SiUYyr0M",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/cooking-gear/clothespinwindscreen.jpg",
+          "name": "clothespinwindscreen.jpg",
+          "size": 60085,
+          "extension": "jpg"
+        },
+        "caption": "A simple clothespin made all the difference. This picture is from before the plastic burned off! (grin)",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "Qn2tpc91tI",
+      "type": "paragraph",
+      "data": {
+        "text": "During one tour my friend suggested that I use a simple paperclip to hold the pieces together. I’ve since tried this and the larger clips work well."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "PijCxk7bdR",
+      "type": "paragraph",
+      "data": {
+        "text": "An alternative that I used successfully during my Lake Ontario tour was to use a metal clothespin. This proved to be a great solution for me but please use a metal one that isn’t covered by plastic! (grin)"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "AGxfckRvcf",
+      "type": "paragraph",
+      "data": {
+        "text": "A really simple solution to a mildly irritating problem!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "j6LWi1t9Fk",
+      "type": "header",
+      "data": {
+        "text": "Canister Stoves for Bicycle Touring",
+        "level": 2
+      }
+    },
+    {
+      "id": "KuFO49UwLx",
+      "type": "paragraph",
+      "data": {
+        "text": "Another type of stove that is can be used for bicycle tours is the canister type stove."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "6Fiy4Q50-K",
+      "type": "paragraph",
+      "data": {
+        "text": "One type of camping stove available is the canister fuel variety. Instead of having a fuel bottle, the stoves run on compressed <b>butane/isobutane/propane</b> mixtures. There is no loose fuel to handle, and these stoves could not be easier to use. While not as cheap or light as some alcohol stoves, nor as heavy or expensive as most liquid fuel (white gas) stoves, the primary selling point for canister stoves is the ease of use and their light weight."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "qmuh7pn7j9",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/cooking-gear/stovecollapsed.jpg",
+          "name": "stovecollapsed.jpg",
+          "size": 73994,
+          "extension": "jpg"
+        },
+        "caption": "The stove minus the canister folded up for storage.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "RIyP5909_7",
+      "type": "paragraph",
+      "data": {
+        "text": "The model I own is the<b> Micron, made by Primus.</b> Other manufacturers include <b>MSR, Snowpeak, Gaz and Coleman’s Exponent</b> line. The Micron weighs as little as 3.5 oz/109g, and packs down very small, making it a good choice for bike touring. The piezoelectric igniter makes lighting the burner as easy as can be. Just turn on the gas and flick a switch to make a spark and I have a flame. Some stoves do not have piezo igniters but rely on matches or lighters instead."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "YY-s7rhM7I",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/cooking-gear/canisterstove.jpg",
+          "name": "canisterstove.jpg",
+          "size": 95028,
+          "extension": "jpg"
+        },
+        "caption": "A canister stove.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "MLmVoaQJKO",
+      "type": "paragraph",
+      "data": {
+        "text": "The one large drawback of canister stoves is their <b>performance in cold conditions</b>. Because they rely on fuel pressure provided by the compressed gas, temperatures around 32/0deg f/c (or below) can cause a drop in performance. This drop is amplified if the canister is nearing empty. To prevent the drop-off it is possible to <b>keep the canister warmer</b>, such as in your sleeping bag. I have also just cupped my hands cupped around the fuel to warm it up."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "lFLnHmnWRG",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/cooking-gear/stovestowed.jpg",
+          "name": "stovestowed.jpg",
+          "size": 83124,
+          "extension": "jpg"
+        },
+        "caption": "The stove is stowed away in its cooking pot.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "gXD2R8B4L0",
+      "type": "paragraph",
+      "data": {
+        "text": "The fuel costs me about $4.00US, and I have gotten nearly a week of breakfast and dinner duty for one out of a single 225g canister. The heat output is similar to the stove at home, and it is similarly adjustable. I carry the stove (folded up) and a fuel canister inside of my 1-litre pot. This gives me a small and lightweight cooking package. The canisters are available from several different manufacturers and can be purchased at most stores where backpacking gear is sold."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Spt9uaO4y2",
+      "type": "header",
+      "data": {
+        "text": "Alcohol Stoves for Bicycle Touring",
+        "level": 2
+      }
+    },
+    {
+      "id": "MUxUNwDJky",
+      "type": "paragraph",
+      "data": {
+        "text": "Regardless of how any stove was originally made, whether it was purchased in a store or made at home from plans and ideas seen elsewhere please always remember to use caution! <b>Flames burn and a bad burn could go a long way toward ending a bicycle touring adventure far too early!</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "yY1GwhrLKM",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/cooking-gear/1652373544_image.jpg",
+          "name": "1652373544_image.jpg",
+          "size": 37116,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "Ozyv7fO2Nm",
+      "type": "paragraph",
+      "data": {
+        "text": "It is often difficult to transport stoves and their fuel to the starting location of a tour when you have to fly to get there due to security rules. You could easily pick up a bottle of fuel and <b>rapidly build your own stove </b>from readily available parts and very simple tools. When your tour is complete then you would simply dispose of the stove for recycling or perhaps give it to another touring cyclist that you met at the end of your tour."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "xQe8RlHVGn",
+      "type": "paragraph",
+      "data": {
+        "text": "Alcohol fuel stoves use <b>denatured alcohol as their fuel.</b> Denatured alcohol is very readily available wherever paint products are sold. This includes stores like Walmart, Home Depot, and hardware stores. You can also use methyl alcohol gasoline de-icer which is sold at gas station convenience stores."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "CSeS5UNf3Z",
+      "type": "header",
+      "data": {
+        "text": "Sterno Stove for Bicycle Touring",
+        "level": 2
+      }
+    },
+    {
+      "id": "KbMBztF--i",
+      "type": "paragraph",
+      "data": {
+        "text": "There are lots of camp stoves of all sorts, some good and some that leave much to be desired but one thing they all have in common is a rather high price tag for what you get.&nbsp;<b>Sterno or canned heat</b>&nbsp;has been around for years, mostly found under chafing dishes in buffet lines. During WW II and Korea, it was a quick way for soldiers to heat up C rations or boil water for instant coffee."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "XeObk5YKtG",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/cooking-gear/gutterspikestove.jpg",
+          "name": "gutterspikestove.jpg",
+          "size": 150680,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "ccHAklt-ZH",
+      "type": "paragraph",
+      "data": {
+        "text": "It’s&nbsp;ideal for the solo bicycle tourist&nbsp;in that it’s cheap, easy to carry and does an adequate job. Each can cost about a dollar and will burn for <b>about three hours</b>. While not as hot as some of the pressure camp stoves, what it lacks in power it makes up for in simplicity."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "lTsLbJtcRy",
+      "type": "paragraph",
+      "data": {
+        "text": "Basically, all you need is a can of fuel, three gutter spikes (big nails about 20 cm long) and some aluminium foil or even a split pop can as a windshield. The shield will concentrate the heat under the pan and make it much more efficient. Great for heating canned or dehydrated foods. "
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "uzq9Xq9tfg",
+      "type": "paragraph",
+      "data": {
+        "text": "Find a level spot with nothing on the ground to catch fire, set the can level and stick the three gutter spikes in the ground around it. They hold it in place and form the base for your pan. The best height is about an inch higher than the top of the can. Wrap a piece of aluminium foil about 3/4 of the way around it, leaving the top about half an inch below the tops of the nails for venting."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "cHiIwOxrrp",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/cooking-gear/gutterspikecooking.jpg",
+          "name": "gutterspikecooking.jpg",
+          "size": 158024,
+          "extension": "jpg"
+        },
+        "caption": "Cooking on a&nbsp;Sterno stove.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "v81K3uJkqA",
+      "type": "paragraph",
+      "data": {
+        "text": "Some of the cans of heat have a wick to light while others are simply open at the top. Both seem to produce about the same amount of heat but those with a wick are safer in that they can’t spill the fluid should they be turned over."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "xYZ_utsbfX",
+      "type": "paragraph",
+      "data": {
+        "text": "A side benefit to this type of stove is the gutter spikes can be used as spare tent stakes."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

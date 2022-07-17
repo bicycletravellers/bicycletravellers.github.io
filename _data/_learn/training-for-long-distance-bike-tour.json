@@ -1,0 +1,707 @@
+{
+  "time": 1652187728208,
+  "blocks": [
+    {
+      "id": "OUqSjdLclz",
+      "type": "header",
+      "data": {
+        "text": "How to Train forLong-Distance Bike Touring",
+        "level": 1
+      }
+    },
+    {
+      "id": "wnpKTGruTE",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>The first week of bicycle touring is tough. Your muscles will cramp; your wrists, back, and neck will ache; your rear end will hurt; the heat will fry your brain; and you will be miserable in the middle of nowhere.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "hwEpIIE8vg",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/training-for-long-distance-bike-tour/biketourtraining1024w.jpg",
+          "name": "biketourtraining1024w.jpg",
+          "size": 82308,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "jVZrjA-Eis",
+      "type": "paragraph",
+      "data": {
+        "text": "Unless you train first."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nTtHjj-Eqd",
+      "type": "header",
+      "data": {
+        "text": "Planning the training",
+        "level": 2
+      }
+    },
+    {
+      "id": "Ms3GIcEFU7",
+      "type": "paragraph",
+      "data": {
+        "text": "Your first week on the tour is your test, both physical and mental. To pass that test, it’s best to train first. The best way to train for a long-distance bike tour is by simulating the same conditions before actually going."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "vVi1p8i76V",
+      "type": "paragraph",
+      "data": {
+        "text": "No need to rush, no need to torture yourself. Two weeks of training is enough to get you started."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "cVicpTU279",
+      "type": "paragraph",
+      "data": {
+        "text": "We’ll make a two-week plan for mental training and physical training"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "YxG2xq25E3",
+      "type": "header",
+      "data": {
+        "text": "Mental Training for Bicycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "UxHhj8_puy",
+      "type": "paragraph",
+      "data": {
+        "text": "You’ve made a mistake. You miss your family. You should have stayed at home and gone to work like everyone else. No showers, no toilets, no kitchen, no couch, no bed, <b>what were you thinking?</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "HNdt0WGE6Q",
+      "type": "paragraph",
+      "data": {
+        "text": "We know, there is nothing like home. We’ll try to go through this stage before the actual tour."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "1ijaFbHFjf",
+      "type": "header",
+      "data": {
+        "text": "Physical Training&nbsp;for Bicycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "NuTsOI98RG",
+      "type": "paragraph",
+      "data": {
+        "text": "It’s been only two hours, and you are already done for the day, how are you going to travel the world?! You are lying on the forest ground and can’t even move your legs, how are you going to get up and ride in the morning? <b>Perhaps you are not fit enough. Should you return home?</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "mEubRFP49O",
+      "type": "paragraph",
+      "data": {
+        "text": "The purpose of this small training is to get you ready for the real thing. Of course, you can start your tour without any training, you’ll get stronger each day, and when you get stronger, you’ll be able to cover more ground. But if you train, you’ll know your capabilities and make plans according to this. Also, you’ll know what gear you need and what gear you don’t."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "WDEnFj4JfY",
+      "type": "paragraph",
+      "data": {
+        "text": "A little rant:&nbsp;Don’t listen to the cycle touring “gurus”. They’ll tell you that you need to train for, at least, 8 weeks. It’s not a race, two weeks is enough time to get fit, get prepared, and get used to bike touring."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "I38ARdRpBp",
+      "type": "header",
+      "data": {
+        "text": "The Actual Training",
+        "level": 2
+      }
+    },
+    {
+      "id": "OxVUE0GAV3",
+      "type": "paragraph",
+      "data": {
+        "text": "Before any training, do some stretches and drink plenty of water. After the training, eat lots of carbs for recovery, and rest well."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Z9js3on8N_",
+      "type": "paragraph",
+      "data": {
+        "text": "Make sure your saddle, handlebars, and pedals are adjusted for you and keep adjusting as you ride to make it more comfortable."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "lnYFLkWDSM",
+      "type": "header",
+      "data": {
+        "text": "Daily Exercises",
+        "level": 3
+      }
+    },
+    {
+      "id": "IXK_cdKleo",
+      "type": "paragraph",
+      "data": {
+        "text": "Basic warm-up exercises are really helpful to prevent serious injuries. You should do these exercises every morning before you get on your bike."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "dG2LNB8B33",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Hip Bridge",
+            "items": []
+          },
+          {
+            "content": "Two-Point Plank",
+            "items": []
+          },
+          {
+            "content": "X-Lunge",
+            "items": []
+          },
+          {
+            "content": "Triceps Dips",
+            "items": []
+          },
+          {
+            "content": "Single Leg Deadlift",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "eMk1XOor-C",
+      "type": "paragraph",
+      "data": {
+        "text": "For details:&nbsp;<a href=\"https://www.bicycling.com/training/g20035353/5-great-exercises-for-new-cyclists/\" target=\"_blank\" rel=\"nofollow\">5 Great Exercises for New Cyclists</a>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "emEaH1hcZT",
+      "type": "header",
+      "data": {
+        "text": "First 2 Days",
+        "level": 3
+      }
+    },
+    {
+      "id": "PQ1x6vADug",
+      "type": "header",
+      "data": {
+        "text": "Mental training",
+        "level": 4
+      }
+    },
+    {
+      "id": "YHusLYpQsh",
+      "type": "paragraph",
+      "data": {
+        "text": "Start using your mobile internet and available free Wi-Fi hotspots instead of the fast internet in your home. This way, you’ll get used to slow internet speeds and slowly get separated from your online life."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "EZ6za6DaI0",
+      "type": "paragraph",
+      "data": {
+        "text": "Load all your gear onto your bike and unload. Experiment with different attachment options for your gears."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hHXhVzHEjd",
+      "type": "paragraph",
+      "data": {
+        "text": "Start tinkering with your offline navigation app.&nbsp;Make sure it’s working as expected.&nbsp;You’ll use it a lot."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "1J7OVfO1iZ",
+      "type": "header",
+      "data": {
+        "text": "Physical training",
+        "level": 4
+      }
+    },
+    {
+      "id": "WSpUrZwFhh",
+      "type": "paragraph",
+      "data": {
+        "text": "Ride around the town for two to three hours. No need to load your bike, no need to go too far, just regular leisure cycling. This way, you’ll achieve a base level of fitness and will be able to ride without muscle soreness or fatigue."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "kEb6gb-L8u",
+      "type": "paragraph",
+      "data": {
+        "text": "If you are already commuting with your bike or riding daily, you can skip this step."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "kJYLJzhYp9",
+      "type": "header",
+      "data": {
+        "text": "An Overnight Cycle Tour",
+        "level": 3
+      }
+    },
+    {
+      "id": "SZnHhZX1so",
+      "type": "header",
+      "data": {
+        "text": "Mental training",
+        "level": 4
+      }
+    },
+    {
+      "id": "Ifk0Rvrp33",
+      "type": "paragraph",
+      "data": {
+        "text": "Start cooking your own meals. No one will cook for you on the tour, you are on your own."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "O3XMXigVmC",
+      "type": "paragraph",
+      "data": {
+        "text": "Stuffing the sleeping bag is hard, drying and packing the tent is a nightmare. But you’ll have to do it every morning. We all do it, complaining is futile."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "SJunl77Oq3",
+      "type": "header",
+      "data": {
+        "text": "Physical training",
+        "level": 4
+      }
+    },
+    {
+      "id": "0C2PYv02sr",
+      "type": "paragraph",
+      "data": {
+        "text": "Load your bike with only the necessary gear for one night’s camp. Go somewhere close. 25-50 kilometres in radius is a good start."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "thOZ-31WBB",
+      "type": "paragraph",
+      "data": {
+        "text": "If your route has hills, it’s okay to get off and push your bike. If you are tired, it’s okay to walk. Even on the actual tour, it’s okay. Nobody rides all the time."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "UGEC5uxghY",
+      "type": "paragraph",
+      "data": {
+        "text": "Cook your own dinner and eat a great breakfast before you return. When you return, eliminate unnecessary gear and add gear that you think will be useful."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "lXo527QHWf",
+      "type": "header",
+      "data": {
+        "text": "A Weekend Tour",
+        "level": 3
+      }
+    },
+    {
+      "id": "xjUGPXS5Oo",
+      "type": "header",
+      "data": {
+        "text": "Mental training",
+        "level": 4
+      }
+    },
+    {
+      "id": "P9K-ZsS1pN",
+      "type": "paragraph",
+      "data": {
+        "text": "Adopt the mindset of living outdoors."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "t9W7oY2Q9x",
+      "type": "paragraph",
+      "data": {
+        "text": "There is no fridge or microwave. No washing machines, no tumble dryers."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "oJPsRLPA6d",
+      "type": "header",
+      "data": {
+        "text": "Physical training",
+        "level": 4
+      }
+    },
+    {
+      "id": "O10BZO_IwX",
+      "type": "paragraph",
+      "data": {
+        "text": "Choose two different camping spots. Make sure that the second spot isn’t too far, you’ll be returning home from there on the third day."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "f-hFqoKMkP",
+      "type": "paragraph",
+      "data": {
+        "text": "This time, go fully loaded. Again, remove unnecessary gear when you return."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "TOiCOIWX9c",
+      "type": "header",
+      "data": {
+        "text": "One week-long tour",
+        "level": 3
+      }
+    },
+    {
+      "id": "ZIb0uhG9eU",
+      "type": "header",
+      "data": {
+        "text": "Mental training",
+        "level": 4
+      }
+    },
+    {
+      "id": "1-iaNvfAIQ",
+      "type": "paragraph",
+      "data": {
+        "text": "This one-week long tour is actually your mental training. Think like you are going for real. Say goodbye and don’t look back."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "JtgnMqMVvy",
+      "type": "header",
+      "data": {
+        "text": "Physical training",
+        "level": 4
+      }
+    },
+    {
+      "id": "EKQu-4XkYt",
+      "type": "paragraph",
+      "data": {
+        "text": "Choose a round-trip route that is 250 to 300 kilometres long. You’ll be covering around 75 kilometres per day. If you think that you can’t ride that far each day, choose a shorter route. You’ll build most of the muscles you need during this week. Eat a balanced diet of carbs, protein, and minerals to prevent muscle soreness."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "GM_mAcnA1z",
+      "type": "paragraph",
+      "data": {
+        "text": "Note: Pack enough food for, at least, 24 hours. Resupply when you find a store. Water is crucial, so I suggest you carry,&nbsp;at least, 4 litres of water&nbsp;AT ALL TIMES.&nbsp;You should know that you’ll need more water for cooking and cleaning than drinking."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "IXL_BLG61N",
+      "type": "header",
+      "data": {
+        "text": "Last day preparations",
+        "level": 3
+      }
+    },
+    {
+      "id": "OYWEVTQo_8",
+      "type": "paragraph",
+      "data": {
+        "text": "Now you know what it’s like to be a&nbsp;bike traveller. And you know what gear is unnecessary and what you need to be comfortable on the road. You know how to pitch your tent on difficult terrain. And most importantly,&nbsp;now you know you can do it!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "2W6-M6bhgk",
+      "type": "paragraph",
+      "data": {
+        "text": "Clean your equipment, leave unnecessary gear at home, load everything on your bike and be ready for the big day."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "aS9tzUxDDf",
+      "type": "header",
+      "data": {
+        "text": "First Week on the Road",
+        "level": 2
+      }
+    },
+    {
+      "id": "eTNrDhXFA6",
+      "type": "paragraph",
+      "data": {
+        "text": "You are on the road and still miss your old life; I know."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "wLNdq262w8",
+      "type": "paragraph",
+      "data": {
+        "text": "But you’ve made it!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "T0msKFo-ap",
+      "type": "paragraph",
+      "data": {
+        "text": "It gets easier. The&nbsp;physical training was for getting you ready physically. Mental training never ends."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "VcttSp9hzt",
+      "type": "paragraph",
+      "data": {
+        "text": "Some things to remember:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "BriR5329Aj",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Don’t forget to stretch every morning.",
+            "items": []
+          },
+          {
+            "content": "Don’t force yourself to ride more than you can.",
+            "items": []
+          },
+          {
+            "content": "Try not to get sick.",
+            "items": []
+          },
+          {
+            "content": "Eat healthy food and eat more.",
+            "items": []
+          },
+          {
+            "content": "Enjoy the scenery.",
+            "items": []
+          },
+          {
+            "content": "Take photos and send to your family",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "XUMs_-_Psi",
+      "type": "paragraph",
+      "data": {
+        "text": "That’s it! Have an awesome journey!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "C-hDwQ4_PC",
+      "type": "internal",
+      "data": {
+        "text": "learn/bike-touring-101,&nbsp;learn/how-to-go-bike-touring,&nbsp;learn/bike-touring-costs-budget-management"
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

@@ -1,0 +1,561 @@
+{
+  "time": 1655128293567,
+  "blocks": [
+    {
+      "id": "id_996918",
+      "type": "header",
+      "data": {
+        "text": "Busch und Müller Power Supply - Phone Charger",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "id_881956",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Hello, some travellers were asking for phone charging devices. I found this Busch und Müller power supply. It works with all hub or tire-driven dynamos. You can use parallel a front light. Compatible only with IQ Busch&amp;Müller  front light. \nI use Shutter Precision hub dynamo, very light: only 400g. \nEasy to install. \nInaugurating it in the next weeks 👍<div class=\"post_attachment\"><div class=\"post_album_attachment\"><img class=\"post_album_image\" loading=\"lazy\" src=\"/images/community/busch-und-muller-power-suppy-phone-light/image_1655127918.jpg\" alt=\"\"><img class=\"post_album_image\" loading=\"lazy\" src=\"/images/community/busch-und-muller-power-suppy-phone-light/image_1655127929.jpg\" alt=\"\"><img class=\"post_album_image\" loading=\"lazy\" src=\"/images/community/busch-und-muller-power-suppy-phone-light/image_1655127941.jpg\" alt=\"\"><img class=\"post_album_image\" loading=\"lazy\" src=\"/images/community/busch-und-muller-power-suppy-phone-light/image_1655127952.jpg\" alt=\"\"></div></div></i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "id_518133",
+      "type": "delimiter",
+      "data": {}
+    },
+    {
+      "id": "id_487423",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">From my experience of servicing subsea electronics, irrelevant of the charger's stated Ingress Protection rating I'd recommend you use mudguards to minimise water spray/ingress onto/around the charger, and its associated connectors around the light.</div>",
+        "author": "Mark Wallis",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_688635",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Mark Wallis\"> thank you for the advice. I think I will store it in my Frame bag</span></div>",
+        "author": "Jeannot Frangipane",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_88895",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Even a section of cola bottle with ends removed wrapped around it would keep the rain &amp; muck off, that also would minimize it being moved around leading to damaged (open-circuit) cables.  Cable glands &amp; connectors are often the weak points of many products, often 'abused' by users.</div>",
+        "author": "Mark Wallis",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_391830",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">This goes into the shaft, a little more complicated setup</div>",
+        "author": "Nemanja Šimpraga",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_355385",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">I installed a Cinq Plug5 Plus. Nicely hidden in the headset of the bike. Very satisfied and you can charge everything easily in the handlebar bag.</div>",
+        "author": "Stijn Bossuyt",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_774690",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Stijn Bossuyt\"> I have the same device and I am satisfied.</span></div>",
+        "author": "Martin Mastalka",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_975391",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Stijn Bossuyt\"> how do you manage when it rains?</span></div>",
+        "author": "Ian Beacham",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_283482",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">I only drive in the desert 😆. \nMore serious, I just cover it with a small sheet of plastic attached with an elastic.</div>",
+        "author": "Stijn Bossuyt",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_736019",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Hidden under My steering bar.😊</div>",
+        "author": "Suit Kees",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_65915",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">I use one of these but at touring speeds, I find it's a choice of either lights or charging. That said I wouldn't be without it and on good days everything is fully charged.</div>",
+        "author": "Steve Selwood",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_918724",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Never worked properly on my Koga, so interested in your experiences and will be using it! :)</div>",
+        "author": "Ken Mrgan",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_276665",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">I use this: <a href=\"https://www.kemo-electronic.de/en/House/Home/M172N-Bicycle-Power-Charge-Controller-USB.php\" target=\"_blank\" rel=\"nofollow\">https://www.kemo-electronic.de/en/House/Home/M172N-Bicycle-Power-Charge-Controller-USB.php</a>. works perfectly.</div><div class=\"comment_attachment\"><div class=\"link-tool\"><a class=\"link-tool__content link-tool__content--rendered\" target=\"_blank\" rel=\"nofollow\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.kemo-electronic.de%2Fen%2FHouse%2FHome%2FM172N-Bicycle-Power-Charge-Controller-USB.php&amp;h=AT3AoIY7D-VL9pIsYbemcOFX9ohA93c1UKKICjMLA4PCLLuZzIWPBnq8hfghACW3NfXUqEbnYQP5yNWWBZJ7xxi63rnvM4HxuPft3T8QUgsVC4-ke1KWeKq_cDFU7id1EFFw7v_ew8QoZ80&amp;s=1\"><div class=\"link-tool__image\"><img loading=\"lazy\" src=\"https://www.kemo-electronic.de/images/infobox/m180_heimwerker_praxis.png\" alt=\"\"></div><div class=\"link-tool__title\">M172N Bicycle Power Charge Controller USB</div><span class=\"link-tool__anchor truncate\">kemo-electronic.de</span></a></div></div>",
+        "author": "Stephan Callebaut",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_566265",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">I built such a device myself.  all you need is an ac/dc diode, a capacitor, and a few standard diodes.  cord, piston as well as battery pack what to charge.  the batteries have to be replaced every 5000-8000 because the charging capacity is lost.  the ac/dc package itself has been running for 15 years.</div>",
+        "author": "Pertti Palviainen",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_330159",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Talking as an electronics engineer, batteries need to be charged according to their chemistry type, Nimh, NiCd, Lithium etc, your approach of rectifying then strapping straight onto the battery packs is the reason their charging capacity is lost. \n  Albeit an excellent Ah-to-weight ratio, lithium cells are the worst for touring as the damage occurs from discharging them, Nickel Metal Hydride are the best as continual discharge/charging cycles maximise their capacity.  Here's one on my first tour's project page (2nd project down) that uses a specific intergrated circuit charge controller; \n<a href=\"http://wallisonwheelscompleted.blogspot.com/p/bicycle-projects.html\" target=\"_blank\" rel=\"nofollow\">http://wallisonwheelscompleted.blogspot.com/p/bicycle-projects.html</a></div><div class=\"comment_attachment\"><div class=\"link-tool\"><a class=\"link-tool__content link-tool__content--rendered\" target=\"_blank\" rel=\"nofollow\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwallisonwheelscompleted.blogspot.com%2Fp%2Fbicycle-projects.html&amp;h=AT1_2XDqWcsGtckvpy9zWJewQdTYBeGeOdxG6sjGj0eeZaD-ENZvQLjXWH7Bl9ZXUeDLvwcDiY_Gpb9tcljPIk9xmGyDQP7LDJLlqd_B9Mo6Dq4BDv5kD_L5d3xmpdalAZMFpblRY54RJlA&amp;s=1\"><div class=\"link-tool__image\"><img loading=\"lazy\" src=\"http://4.bp.blogspot.com/_vzUAhO8z7LA/S_wZ3_l20wI/AAAAAAAABRI/e0l2TICQVO4/w1200-h630-p-k-no-nu/FL1+20mm+conduit+cut+%26+drilled.JPG\" alt=\"\"></div><div class=\"link-tool__title\">Bicycle Projects</div><span class=\"link-tool__anchor truncate\">wallisonwheelscompleted.blogspot.com</span></a></div></div>",
+        "author": "Mark Wallis",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_994265",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">I had one of these paired with an Alfine hub. Fantastic piece of kit, much better than riding in the sun with a solar charger…</div>",
+        "author": "Sajid Mo",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_325688",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">I recently bought the NC-17 Connect Appcon 3000. Very light works fine, and can be built-in but you can also store it in a small bag. Can also be charged via the net. Excellent power distribution system. Should be enough to keep my phone, Garmin and tablet charged</div>",
+        "author": "Ubald Kragten",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_195417",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Ubald Kragten\"> Do you really take your tablet with you when you travel? I never do this. When I'm on vacation I'm on holiday. I'd rather bring another pair of pants.</span></div>",
+        "author": "Peter Müller",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_128271",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Mine has been hit and miss.\nWorked well for the first couple of tours. I'm on my second but it no longer delivers a charge sadly :(</div>",
+        "author": "Simon Owens",
+        "gender": "UNKNOWN",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_480368",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Simon Owens\"> good to know. I will see how long mine will last</span></div>",
+        "author": "Jeannot Frangipane",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_329672",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">hello, Let me know if it works...</div>",
+        "author": "Saumon Alaska",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_160540",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Saumon Alaska\"> yeah, it works perfectly fine.</span></div>",
+        "author": "Françoise Malaunay",
+        "gender": "FEMALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_702777",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Are you using it???</div>",
+        "author": "Saumon Alaska",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_127160",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Saumon Alaska\"> it works!</span></div>",
+        "author": "Jeannot Frangipane",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_347674",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Does it really charge a device?\nOr does it just hold the load?</div>",
+        "author": "Saumon Alaska",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_222410",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Depends on which one and 1 at a time but anyway without the headlights, so my Garmin 830 ok, my front end ok, but certainly not a smartphone, for that matter, charge the battery and this one to charge when we can.</div>",
+        "author": "Jean Paul Bourgeois",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_47175",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Jean Paul Bourgeois\"> Thank you... well, it seemed to me... I was told that to charge a phone it takes at least 2 hours to a minimum of 20 km for it to charge...</span></div>",
+        "author": "Saumon Alaska",
+        "gender": "MALE",
+        "level": "2"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_420346",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">for my Garmin, 4h without stopping at an average of 14km/h, just a rib and it's done, the smartphone has too much amperage that the hub can't give, whatever the e-werk setting</div>",
+        "author": "Jean Paul Bourgeois",
+        "gender": "MALE",
+        "level": "2"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_413407",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">My B&amp;M IQ came with a USB port on the handlebar control. I don’t know how the USB Werk improves on that. 🤔</div>",
+        "author": "Sam Reich",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_522693",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">I have the same. Charges my phone 10% in 1 hour. Not very useful.</div>",
+        "author": "Bert Brilleman",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_872091",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Bert Brilleman\"> 10% is better than a poke in the eye...</span></div>",
+        "author": "David Eldred",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_112928",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">I use the same B&amp;M charger but I connect it to my USB battery and let that charge constantly as I found it can be a little temperamental charging a device (phone, lights, etc) directly.</div>",
+        "author": "James Gelbe",
+        "gender": "NEUTER",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_688340",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">I have the same one! Amazing</div>",
+        "author": "Riccardo Davi'",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_711030",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Bush and Muller It's the only low-priced device compared to the rest of the dynamo USB chargers, I really recommend it.</div>",
+        "author": "غويلب محمد رضا",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_226373",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Have the same with Son, NOT ok below 15km,  whole day biking, charge 25pct iPhone, just bought a solar panel</div>",
+        "author": "Georges Augusto",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_289358",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><a href=\"https://www.sinewavecycles.com/products/sinewave-revolution\" target=\"_blank\" rel=\"nofollow\">https://www.sinewavecycles.com/products/sinewave-revolution</a>\n\nSmall and light. Waterproof....</div><div class=\"comment_attachment\"><div class=\"link-tool\"><a class=\"link-tool__content link-tool__content--rendered\" target=\"_blank\" rel=\"nofollow\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.sinewavecycles.com%2Fproducts%2Fsinewave-revolution&amp;h=AT0kDy2beJEzLwTADuL0abX_Cl-NHdbEAyHmOGzYY4qf1QMEX1GnKDrX8dOvBXBuZg0xhAh7KVrarVu9pJs1vIQ9G5pOr-xzENnJ9ACu1P1sAwNsoZw2kmacSFWUn3YYS_qRIYaWLO5-h5c&amp;s=1\"><div class=\"link-tool__image\"><img loading=\"lazy\" src=\"http://cdn.shopify.com/s/files/1/0151/9445/products/sw_render_05eeb01a-1e78-4af6-9421-159468d636f0_600x.jpg?v=1425420340\" alt=\"\"></div><div class=\"link-tool__title\">Sinewave Cycles Revolution</div><span class=\"link-tool__anchor truncate\">sinewavecycles.com</span></a></div></div>",
+        "author": "Asprommatis Minas",
+        "gender": "UNKNOWN",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

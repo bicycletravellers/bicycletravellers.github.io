@@ -1,0 +1,320 @@
+{
+  "time": 1652356511520,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "A Dangerous Thing to do: Bike Touring Around the World",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>There is a very common question about the dangers of bicycle touring around the world, especially if done alone.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "CxX0YGXOpa",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bicycle-touring-dangers/sheelagh.jpg",
+          "name": "sheelagh.jpg",
+          "size": 110503,
+          "extension": "jpg"
+        },
+        "caption": "sheelaghdaly.com",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "f68ew3cjDo",
+      "type": "header",
+      "data": {
+        "text": "Is bicycle touring alone dangerous?",
+        "level": 2
+      }
+    },
+    {
+      "id": "P9sJPACpEC",
+      "type": "paragraph",
+      "data": {
+        "text": "For me, the answer is an emphatic no. Personally, I think taking a shower is more dangerous on an ongoing and regular basis. This doesn’t mean that there aren’t things to consider so let’s discuss them a bit."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "P7Vv7w7LOL",
+      "type": "header",
+      "data": {
+        "text": "Violent crime, muggings etc",
+        "level": 3
+      }
+    },
+    {
+      "id": "d3QRN7U25L",
+      "type": "paragraph",
+      "data": {
+        "text": "I find that most of the time when&nbsp;travelling by bicycle&nbsp;I tend to avoid the major cities where crime is much more likely to be an issue. This avoidance isn’t generally performed out of fear of attack but rather a desire to get out into the open country, view the beautiful scenery and get away from the scenes that most of us see on a daily basis."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Vh3uIeAIuw",
+      "type": "paragraph",
+      "data": {
+        "text": "Having said that I will quickly admit that when forced to travel through some major cities like Cleveland, Ohio, USA and Detroit, Michigan there were a few tense moments. When travelling through Cleveland there was a minor incident near the harborfront that could easily have been avoided with a little bit more situational awareness on my part. As it was I wasn’t hurt, no theft or other crime occurred and I experienced a bit of an adventure. Detroit was more about the hype of the city than any particular incident that happened in that city."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "6xRcTqh8pc",
+      "type": "paragraph",
+      "data": {
+        "text": "In reality, travelling anywhere on a bicycle often feels safer&nbsp;than when you are insulated away from the world in a car. You meet many more people and get a sense of the vibe of a place."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "3ah9QP-0wA",
+      "type": "header",
+      "data": {
+        "text": "Distance from repair shops",
+        "level": 3
+      }
+    },
+    {
+      "id": "wDQKJM7mKc",
+      "type": "paragraph",
+      "data": {
+        "text": "Learning how to repair or jury-rig your bicycle is something that definitely should be considered when planning your tours. I believe that there are four very common critical problems that tend to occur on a touring bicycle."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "H5Y2UHbgoL",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Flat tires",
+            "items": []
+          },
+          {
+            "content": "Broken spokes",
+            "items": []
+          },
+          {
+            "content": "Destroyed rim",
+            "items": []
+          },
+          {
+            "content": "Blown out tube",
+            "items": []
+          },
+          {
+            "content": "Chain breaking",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "R1WX2uVzPR",
+      "type": "paragraph",
+      "data": {
+        "text": "Although there are definitely other types of problems that can occur it is surprising how well you can fix most of them using duct tape, tie wraps, some patience and a few minutes of careful thought."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8iUHrVcfBS",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bicycle-touring-dangers/image.jpg",
+          "name": "image.jpg",
+          "size": 153027,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "fpAw3GPXfp",
+      "type": "paragraph",
+      "data": {
+        "text": "Some people think of these problems as disasters. I prefer to think of these as&nbsp;“<b>adventures”</b>&nbsp;since I almost always come out of the incident knowing far more than before the problem occurred. Of course, these problems can be prepared for in advance by reading a good repair book, taking a bicycle repair course, performing routine maintenance on your bike or playing around with an old beater bike. You don’t have to wait for a problem to occur you know!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "oPvvPhLVuf",
+      "type": "header",
+      "data": {
+        "text": "Distance from medical aid",
+        "level": 3
+      }
+    },
+    {
+      "id": "w2dYGcZtjm",
+      "type": "paragraph",
+      "data": {
+        "text": "Let’s pretend for a moment that you live by yourself. Suppose you got up early in the morning after late-night programming on your computer. Just barely awake you slip while stepping into the shower. In the process of falling down, you become severely injured. How likely is it that someone will be able to help you in a very short period of time?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "e6_6h5dWOi",
+      "type": "paragraph",
+      "data": {
+        "text": "Now contrast this with a touring bicycle. You are generally riding on roads that see at least some traffic on a regular basis. Of the two situations which one will allow people to at least notice you in difficulty first?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "yeEb4psfWR",
+      "type": "paragraph",
+      "data": {
+        "text": "For proactive reasons I always carry a first aid kit in an&nbsp;easily accessible outside pocket on my front right saddlebag. I carry this kit in case I need it to help myself or to aid others. Just like with bike repair you can prepare to some extent by learning about first aid."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "zDVHFIyX4b",
+      "type": "paragraph",
+      "data": {
+        "text": "Personally, I intend to take a <b>Wilderness first aid course</b> soon to continue to expand my knowledge."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nThj9Q56Ri",
+      "type": "header",
+      "data": {
+        "text": "Dangerous animals - Lions, tigers and bears",
+        "level": 3
+      }
+    },
+    {
+      "id": "Jok1jqhS2K",
+      "type": "paragraph",
+      "data": {
+        "text": "Beginning tourists often seem to worry about wild animals."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "KW7mbhkxg4",
+      "type": "paragraph",
+      "data": {
+        "text": "For me personally, my scariest encounter with wildlife while on a bike tour occurred at around 2:00 AM in Geneva State Park in Ohio. On that tour, I was using a hammock for my shelter. A racoon ran underneath the hammock brushing against my spine in the process. Definitely gave me a quick wake up call! I’ve seen bears on tour but so far they’ve run away from me faster than I’ve been pedalling away from them (which was usually quite fast (grin). According to the statistics, there have been around 36 humans killed by bears in the past fifty years. From reading touring journals I know that snakes etc are a concern when riding in Australia."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "5T4Fp6oKP_",
+      "type": "header",
+      "data": {
+        "text": "Adverse weather - Rain, snow, sleet, hail etc",
+        "level": 3
+      }
+    },
+    {
+      "id": "CZxbOTkIjt",
+      "type": "paragraph",
+      "data": {
+        "text": "Everyone seems to worry about the weather. I find that when I am on a long tour I don’t concern myself too much with the weather forecast. Instead, I carry the appropriate gear, whether it’s rain gear or clothing for hot and cold conditions. Perhaps I’ve been lucky but so far I’ve found that on tour I typically experience very little rain during the day. Most rain seems to arrive at night. As an example, I experienced two half days of rain during my Round Lake Huron tour despite travelling for 21 days."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nh_ZCTYCl-",
+      "type": "paragraph",
+      "data": {
+        "text": "There’s a saying that goes something like,&nbsp;“If you don’t like the weather, wait 15 minutes”.&nbsp;I’ve found that this is often the case on a bicycle tour too. This isn’t so much just because the weather does change through the course of the day but also because on a bike you are travelling fast enough to be able to navigate around or beyond most storms leaving them to finish off their nastiness at night."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

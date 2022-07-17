@@ -1,0 +1,431 @@
+{
+  "time": 1655313568370,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "Best Pedals for Bicycle Touring",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>There are many, many types of pedals out that can be used with a bike so it's not surprising that from time to time a question about the best pedals to use for touring will appear. Let's talk a bit about just some of the types of pedals that are available.</i><br>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "nrwDjT-MBp",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/pedal/1652544160_image.jpg",
+          "name": "1652544160_image.jpg",
+          "size": 387053,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "oDsmZaLXuC",
+      "type": "header",
+      "data": {
+        "text": "Selecting the best pedals for bicycle touring",
+        "level": 2
+      }
+    },
+    {
+      "id": "EGB7bapTYW",
+      "type": "paragraph",
+      "data": {
+        "text": "There are many, many types of <b>touring bike pedals</b> out that can be used so it’s not surprising that from time to time a question about the best pedals to use for touring will appear."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "QwAervk5WK",
+      "type": "paragraph",
+      "data": {
+        "text": "Let’s talk a bit about just some of the types of pedals that are available."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "9dVEQODVGN",
+      "type": "header",
+      "data": {
+        "text": "Platform Pedals",
+        "level": 3
+      }
+    },
+    {
+      "id": "CGgVRGTOlv",
+      "type": "paragraph",
+      "data": {
+        "text": "These pedals are likely very similar to the first type of pedals you ever used on a bike. As you may recall from childhood memories you can use any footwear (including no shoes at all if you are willing to take a big risk). This type of pedal is very versatile for that reason alone."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "prtFx-bSKd",
+      "type": "paragraph",
+      "data": {
+        "text": "For touring I can see this type of pedal being incredibly useful if you would like to wear “normal” shoes or if you need to wear winter boots to accommodate cold temperatures."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "KocnF-6ExV",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/pedal/pedalsplatstrap.jpg",
+          "name": "pedalsplatstrap.jpg",
+          "size": 508516,
+          "extension": "jpg"
+        },
+        "caption": "Platform pedal on the left and an old pedal with straps on the right.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "uRgJCx0G6p",
+      "type": "paragraph",
+      "data": {
+        "text": "These pedals can often be paired with a set of&nbsp;<a href=\"http://powergrips.com/\" target=\"_blank\" rel=\"nofollow\">Power Grips</a>&nbsp;to give you many of the benefits of clipless pedals while allowing you to keep wearing normal footwear."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hlwPXDvu73",
+      "type": "header",
+      "data": {
+        "text": "Using Pedal Straps when Cycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "m-EmJn9Og7",
+      "type": "paragraph",
+      "data": {
+        "text": "Not surprisingly straps were originally used by racers who were looking for that extra bit of performance. To gain it they would strap their feet to the pedals. With tight straps, your shoes are well connected and it is possible to pull up while pedalling through the upstroke resulting in better performance. In touring terms, this type of extra performance could prove quite useful when climbing hills provided that you have the straps tight."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "86VpkQPX7m",
+      "type": "paragraph",
+      "data": {
+        "text": "Most people, including me when I used straps, would often leave the straps loose to allow for quick and easy removal of the foot from the pedal especially when commuting. Of course, this negates some of the benefits of straps by taking away the ability to pull effectively on the upstroke. Other benefits of straps remained like the ability of the straps to help keep your feet on the pedals when hitting an unexpected bump."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "B4NIUCiyWT",
+      "type": "header",
+      "data": {
+        "text": "Clipless Pedals for Cycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "eNEejJ0Mk-",
+      "type": "paragraph",
+      "data": {
+        "text": "With this kind of pedal, you are actually connecting a cleat in the bottom of a special cycling shoe directly to the pedal itself. This leaves you with a very strong connection to the pedal that allows you to transfer maximum power to the drivetrain. Disconnecting is easy once you’ve practised a bit. There are many different types of clipless pedals including ones called <b>SPD, EggBeaters, Frogs, Time</b> etc and they all have slightly different ways of connecting and disconnecting the cleats to the pedals."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "DrlfQxGAAy",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/pedal/pedalsclipless.jpg",
+          "name": "pedalsclipless.jpg",
+          "size": 327566,
+          "extension": "jpg"
+        },
+        "caption": "Time ATAC, Shimano SPD with the surrounding platform and a stainless steel Eggbeater.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "6IN_4pcMWP",
+      "type": "paragraph",
+      "data": {
+        "text": "Often a simple turn of the foot to the left or right will be all that’s needed to remove the cleat from the pedal. It is not uncommon to experience a very slow speed fall in your first few days of using clipless when you stop at a traffic light and forget how to unclip until you reach the ground. A little bit of training and thought can often go a long way to prevent a reoccurrence of the problem."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ouKlzbQY2k",
+      "type": "paragraph",
+      "data": {
+        "text": "When riding clipless pedals I often feel like I have another lower gear on the bike. I seem to be able to ride further and faster with the same amount of effort. Of course, some of this is likely to be related to the stiffer soles of the cycling shoes that do a much better job of projecting my muscular force to the drivetrain but some also come from the direct connection to the bike."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "GOAXB3FrKo",
+      "type": "header",
+      "data": {
+        "text": "What types have I used?",
+        "level": 3
+      }
+    },
+    {
+      "id": "QUsZ8j6ZMJ",
+      "type": "paragraph",
+      "data": {
+        "text": "I commuted for many years using normal pedals and of course, all of my exploration expeditions when I was a kid happened with these pedals too so I can safely say that these pedals do work. They are also easy to find at almost any bike shop should you break one on tour."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nH54vBjNBa",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/pedal/eggbeatergreasegun.jpg",
+          "name": "eggbeatergreasegun.jpg",
+          "size": 387836,
+          "extension": "jpg"
+        },
+        "caption": "This picture shows a set of replacement cleats for the Eggbeater pedals as well as the grease gun I use for simple pedal maintenance.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "tzuqHz8BVy",
+      "type": "paragraph",
+      "data": {
+        "text": "When I started riding offroad I ended up moving towards straps to help keep my feet on the pedals while moving over rough terrain. The straps worked well but I found it mildly irritating to have to always be aware of the need to sneak my foot into the strap when starting off whether it was while riding in the woods or while getting started after traffic light."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "UBzyMLFsFx",
+      "type": "paragraph",
+      "data": {
+        "text": "Eventually, <b>I moved on to clipless pedals</b> for the easier connection and much better power transfer and I haven’t looked back. I’ve used SPD, Time ATAC and Eggbeaters since then. Today I use Eggbeaters on all of my bikes. The biggest reason for this is that I prefer this kind of clipless pedal while mountain biking especially in mud, ice and snow. I also like the fact that the newer versions of these pedals allow for a lot of self-maintenance making a problem much more preventable and recoverable. The last reason for using them on all of my bikes is simply convenience. With one pedal type, I can wear a pair of shoes with any of my bikes."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "TwFD_7800L",
+      "type": "paragraph",
+      "data": {
+        "text": "I did have a problem on a tour with Eggbeater pedals once. This particular set of pedals was the very first version of Eggbeaters that was sold. It was not possible to easily maintain the pedals and they broke while I was pedalling around Lake Erie. It is worth noting that these same pedals were used to ride through an entire winter of snow, ice and salt as well as two summers of riding before the failure. The newer versions of the pedal that I purchased to replace the original set are much better since they allow for easy maintenance."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "_3ADtM-srn",
+      "type": "header",
+      "data": {
+        "text": "My recommendation?",
+        "level": 3
+      }
+    },
+    {
+      "id": "pS5Odr32Nv",
+      "type": "paragraph",
+      "data": {
+        "text": "At the end of the day you have to find a pedal that works well for you and that helps you to accomplish your goals. For me, I’ve found that I really enjoy using Eggbeaters with a pair of Shimano sandals while touring. Although the shoes are not as stiff as some they work well for letting my feet also enjoy some sunshine and fresh air while I pedal down country roads."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "6gfpShbNg5",
+      "type": "paragraph",
+      "data": {
+        "text": "I enjoy the Shimano sandals because I can walk in them like they are normal shoes, pair them with a set of Goretex socks for wet weather and of course they work nicely on the bike too."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "TQhbA_HfbV",
+      "type": "header",
+      "data": {
+        "text": "Replacing pedal cleats",
+        "level": 2
+      }
+    },
+    {
+      "id": "R4Se8yFngS",
+      "type": "paragraph",
+      "data": {
+        "text": "I think all of us keep memories of our first experiences riding clipless pedals for a long time. Usually, those memories include a slightly fond memory of a slow-motion sideways fall when you couldn’t get unclipped as well as memories of very stiff cleats that were harder to disengage."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "jFrlWOfI0g",
+      "type": "paragraph",
+      "data": {
+        "text": "It’s only natural to resist swapping out your old, worn-out cleats with new ones when having those memories. After all, as the cleats wore in it became easier to unclip making the chances of another fall much, much less."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hVs280KPam",
+      "type": "paragraph",
+      "data": {
+        "text": "Still all good things come to an end and eventually, the cleats should be replaced with new ones. For me, the moment always comes when I start finding it harder to stay clipped in to my Eggbeater pedals. Generally, this is a much greater problem when riding offroad since having a foot unclip at the wrong time can be quite dramatic and not really much fun!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "qYolE3ruGt",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/pedal/cleats.jpg",
+          "name": "cleats.jpg",
+          "size": 544858,
+          "extension": "jpg"
+        },
+        "caption": "The silver-coloured cleats are old and due for replacement while the brass coloured ones are brand new. Compare the shapes of the two sets. They should be identical but the material has gradually been worn away.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "uO-eShdh4E",
+      "type": "paragraph",
+      "data": {
+        "text": "In the event that a cleat is totally destroyed the impact doesn’t seem to be too bad. You lose the opportunity to pull up on the upstroke and your feet won’t feel as connected to the pedals but that’s about it. You can usually still pedal the bike using the bottom of your shoe to propel you along. It won’t be as comfortable but it will work."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "LB8SrW9mKN",
+      "type": "paragraph",
+      "data": {
+        "text": "To prevent cleat problems I usually just swap out the cleats prior to a long tour. This seems to really reduce the likelihood of a problem and if the old cleats weren’t fully used up then I can always switch them to another set of shoes for offroad biking etc."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8hFtyH34jm",
+      "type": "paragraph",
+      "data": {
+        "text": "When you do get around to replacing the cleats remember to lightly grease the threads of the screws before reinserting them into the bottom of the shoe. The light grease seems to go a long way towards preventing the screws from seizing so that you can easily remove them later."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

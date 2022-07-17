@@ -1,0 +1,47 @@
+{
+  "time": 1652257126912,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "A New Post Header",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>An introduction text</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "HOLspBnQVm",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/travellers/1/wp.jpg",
+          "name": "wp.jpg",
+          "size": 50265,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

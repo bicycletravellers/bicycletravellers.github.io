@@ -1,0 +1,576 @@
+{
+  "time": 1655114485367,
+  "blocks": [
+    {
+      "id": "id_34082",
+      "type": "header",
+      "data": {
+        "text": "A Question on What Do You Do with Your Bicycle in a Camping Campground",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "id_199956",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Hi all, I have a question. What do you do with your bicycle when you're staying at a campground and want to make a day hike for example? I'm not sure to leave my bike next to a tree or something.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "id_915280",
+      "type": "delimiter",
+      "data": {}
+    },
+    {
+      "id": "id_215630",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">I usually lock it to the ever-prevalent picnic bench or camp marker sign</div>",
+        "author": "Jimmy Koyote",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_168596",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Lock it to a lamp post or a pole. Just like I do when I leave it to go inside a cafe, a restaurant, or some other inside place.</div>",
+        "author": "Claus Andersen",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_567353",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">It goes in the tent.</div><div class=\"comment_attachment\"><div class=\"comment_photo_attachment\"><img class=\"comment_photo_image\" loading=\"lazy\" src=\"/images/community/a-question-on-what-do-you-do-with-your-bicycle-in-a-camping-campground/image_1655114002.jpg\" alt=\"\"></div></div>",
+        "author": "Steve Lindley",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_460855",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Thanks for the responses. I do only have a cable lock with me. Would it be safe for the whole day? I'm just scared I lose my bike</div>",
+        "author": "Lotte Veerman",
+        "gender": "FEMALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_489006",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Lotte Veerman\"> The only safe is 16mm, <b>Kryptonite </b>New you U lock 2,5kg. Chain only 2 Brands. <b>Pragmasis chain</b> in Europe, but It Will be too heavy and expensive also. Less than 16mm can be cut with a bigger bolt cutter in 2 seconds. 16mm requires 2 cuts in 2 minutes with a battery grinder</span></div>",
+        "author": "Johnnie Walker",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_575557",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Lotte Veerman\"> I wouldn’t leave my bike locked for more than 5 minutes with a cable lock while I’m not there.</span></div>",
+        "author": "James Mckoy",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_427095",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Lotte Veerman\"> Only you can make that determination based on how remote and safe your area is. Personally, I wouldn't leave an expensive bike alone that long with a cable lock anywhere.</span></div>",
+        "author": "Trey Freeman",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_924928",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Johnnie Walker\"> nothing is safe if the thief is determined to take your bike. Locks only prevent the casual thieves, not the professional ones.</span></div>",
+        "author": "Brett Mitchell",
+        "gender": "MALE",
+        "level": "2"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_223500",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Brett Mitchell\"> I think I have explained in an exhaustive way, Time and tool used</span></div>",
+        "author": "Johnnie Walker",
+        "gender": "MALE",
+        "level": "2"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_766333",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Johnnie Walker\"> your explanation was fine, no argument. \nMy comment simply addresses the fact that there is \"no\" lock or method of containment that can thwart a \"determined\" thief.</span></div>",
+        "author": "Brett Mitchell",
+        "gender": "MALE",
+        "level": "2"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_73434",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Brett Mitchell\"> for sure... High-performance <b>Cryptonite locks</b> have very cheap insurance. I did It.</span></div>",
+        "author": "Johnnie Walker",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_796582",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Lotte Veerman\"> As mentioned, lock the bike and remove the quick-release axles.</span></div>",
+        "author": "Geoff Currie",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_452964",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Ask the campsite if they have somewhere secure you can leave your bike. If not, don't go on your day hike.</div>",
+        "author": "Alex Maudorn",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_578819",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Never leave it in an insecure place. Ask a local fire station or a church if they could store it for you.</div>",
+        "author": "Javier Colón",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_920969",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Hide it really well in some woods... I did that for over a week while hiking to Sykes Hot Springs in Big Sur Ca.  Covered it with leaves, sticks and branches...</div>",
+        "author": "Charles Dow Thomson",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_131858",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">I locked It with Kryptonite New York. 2 of them...Maybe too much, but...\nIt has also insurance. 1 year free, 25$ for 5 Years.</div>",
+        "author": "Johnnie Walker",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_599681",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Most people are not thieves. It will be safe on a campsite normally. Bike thieves tour big cities where they can blend in faceless. A small lock for opportunists should be fine... and trust those around you to look out for it.</div>",
+        "author": "John Dingley",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_122236",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Maybe talk to the campground owner/staff, might be they can store it for a few hours somewhere out of sight. :)</div>",
+        "author": "Rok Pajer",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_386171",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">It depends on location and society! <b>D locks are safer!</b></div><div class=\"comment_attachment\"><div class=\"comment_photo_attachment\"><img class=\"comment_photo_image\" loading=\"lazy\" src=\"/images/community/a-question-on-what-do-you-do-with-your-bicycle-in-a-camping-campground/image_1655114011.jpg\" alt=\"\"></div></div>",
+        "author": "Golman Gurung",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_370054",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">I lock it to a picnic table or the fire pit…</div>",
+        "author": "Mike Rose",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_375348",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">My son and I left our bicycles outside a watersports park in Germany. After our visit, we found that mine had been stolen. Walked back to the hostel we were staying in and bought a 2nd-hand bicycle the following day and continued our tour along Eurovelo 15 (River Rhine). Luckily, all our other kit had been left in our room in the hostel whilst we were out for the day. If thieves want something badly enough, there is very little you can do to stop them from stealing it. The really big problem is how you can stop thieves from taking the kit off your locked and secure bicycle if you stop to visit any place of interest that you see along the way. I don't have an answer to that - other than carrying it all with you during your visit, which is hardly practicable.</div>",
+        "author": "Alan Cook",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_781330",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Alan Cook\"> often you can Lock stuff away at a train Station</span></div>",
+        "author": "Markus Herrmann",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_175676",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Markus Herrmann\"> thank you for that good idea - that may be a possibility in some cities.</span></div>",
+        "author": "Alan Cook",
+        "gender": "MALE",
+        "level": "2"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_967374",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">You are welcome</div>",
+        "author": "Markus Herrmann",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_843645",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Theives that might take it for  profit will not know what to make of your tour bike and probably not bother. I've had my car broken into with piles of hiking gear and not lost any.  On the other hand, I carry a light cable lock while touring. Mostly because if it does disappear you can tell the insurance company it was locked.</div>",
+        "author": "Gordon Gilbertson",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_581577",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">If there are other campers, ask them to keep an eye on it while you're away. I've chained mine to someone else's caravan. Other times I've secured it to something solid near other campers. A GPS device hidden inside the seat post is worthwhile as well in the event that the bike is stolen, although that's a bit like locking the barn door after the horse has bolted - it could help you recover the bike. Having bike insurance for theft is also a good idea. If you're near a town, take it there &amp; secure it.</div>",
+        "author": "Ken Thompson",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_123541",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Put it in your tent with a lock on the bike and a lock on the tent.</div>",
+        "author": "Trey Freeman",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_440189",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Reception</div>",
+        "author": "Maurice Kruytzer",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_606638",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Usually, I take my bike with me, I lock my bike by my eyes 😂😂</div>",
+        "author": "Marco Piras",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_843080",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Hide my bike and my stuff</div>",
+        "author": "Anders Hansen",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_74349",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">We actually put our tandem inside the tent (took the inner sheet down and it just fitted - and took some air out of tyres)</div>",
+        "author": "Nicole Diemer",
+        "gender": "FEMALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_526350",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">The only time I left my bike unattended was when I disassembled it and put it in my tent. This was in the redwoods of Northern California on a West Coast tour.￼</div>",
+        "author": "Mike McAuley",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_513446",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">When you're at a guarded campsite. 😊 e.g. Holland then there are extra bicycle boxes! Other than that ::: letting air out of the tires! This reduces interest for thieves!! Experience!! And chain it to trees, metal posts, etc. with steel locks!! The warning system from China is pretty good too!! But if you're far away you don't hear the sirens either!! And you need someone who can turn off the noise again, who could pay better attention to it... 😊</div>",
+        "author": "Mic Hale",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_905764",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">So campgrounds have campground attendants. They might look after your bike. My other move is to <b>stash it in the woods off trail</b> and latch it to a tree.</div>",
+        "author": "Kattina Rabdau",
+        "gender": "FEMALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_666509",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Remove the saddle and lock it up. No one will steal it from you.</div>",
+        "author": "Gianluca Sabbatini",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_417753",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Whilst it won't stop thieves in vans, you can always make it impossible for someone to ride off on it by taking out the quick-release hub/axel of the wheels (and these weigh basically nothing to carry around). You could even put just the front wheel in your tent etc. I also have a lightweight cable lock for touring and rarely leave the bike unattended in more built-up areas. If I'm ever caught out without a lock I just make sure it's much more inconvenient to steal (disconnect brakes, put in difficult gear, loosen seat post, remove quick release axels etc)</div>",
+        "author": "Jonathan Dean",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

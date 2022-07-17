@@ -1,0 +1,376 @@
+{
+  "time": 1652440843247,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "Front Racks and Rear Racks for Bicycle Touring",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Front and rear racks are very handy items to have on almost any kind of bicycle that you will use for commuting, long-distance touring or even trail maintenance. With front and rear racks, you can easily move the weight and balance the bike as you wish.</i><br>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "GWQV9lFtpn",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/bike-touring-racks/frontrearracks.jpg",
+          "name": "frontrearracks.jpg",
+          "size": 99350,
+          "extension": "jpg"
+        },
+        "caption": "Two fully loaded touring bikes with front and back saddlebags in addition to handlebar bags.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "0Z-tbs4Epj",
+      "type": "header",
+      "data": {
+        "text": "Weight Distribution of Panniers",
+        "level": 2
+      }
+    },
+    {
+      "id": "i7cqT8VPv4",
+      "type": "paragraph",
+      "data": {
+        "text": "It used to be common to hear people talk about <b>just using a rear rack</b> on their bike for fully loaded tours. I actually went on my first tour doing exactly that. I rapidly discovered that the&nbsp;<b>front wheel had a disturbing tendancy to lift up</b>&nbsp;whenever any uphill slope was encountered and the bike felt really unsteady with most of the weight riding on the back wheel."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "HrscNO1gkT",
+      "type": "paragraph",
+      "data": {
+        "text": "When I returned from that tour I looked into ways that I could better balance the load. It quickly became obvious that with the addition of a <b>front rack and some front saddlebags</b> I could get even out the weight distribution between the front and rear wheels while <b>also removing a lot of stuff from on top of the rear rack</b>. By removing this stuff the overall <b>center of gravity</b> on the bike would be reduced thereby&nbsp;improving the stability of the bike."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "rWekMFuu9C",
+      "type": "paragraph",
+      "data": {
+        "text": "It turns out that this was <b>exactly the right thing to do</b>! During my Round Lake Erie tour I used the front saddlebags and as a result only the sleeping pad rode on top of the rear rack. When I changed to Arkel saddlebags for my Round Lake Huron tour the sleeping pad also moved off the rear rack leaving me with a very handy temporary storage location for rain gear etc on those days when sudden storms appeared."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Hmd4geTp67",
+      "type": "paragraph",
+      "data": {
+        "text": "The tendancy of the front wheel to lift when going uphill and the stability of the fully loaded touring bike were greatly improved following the changes."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "3RBgGt__ME",
+      "type": "paragraph",
+      "data": {
+        "text": "I typically have about <b>60% of the gear weight on the front wheel</b> although recommendations&nbsp;as high as 70%&nbsp;are common."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Th6zO_ATPH",
+      "type": "header",
+      "data": {
+        "text": "Steering challenges",
+        "level": 2
+      }
+    },
+    {
+      "id": "A6vc8W3sfc",
+      "type": "paragraph",
+      "data": {
+        "text": "A common concern about running front racks is that it will interfere with your <b>ability to steer.</b> While steering does become slightly slower it’s something that I’ve always adjusted to in a very short time (like ten minutes). To limit the potential for problems I try to have equal weight in both front bags and use a good front rack that doesn’t shift around or flex."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "yBuo8L60sn",
+      "type": "paragraph",
+      "data": {
+        "text": "Keep in mind that if you use a handlebar bag with your front saddlebags the <b>handlebar bags weight can play a huge role in steering ability</b>. If you notice a problem with steering try it without the handlebar bag or with a reduced load in the handlebar bag."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "CoIXtDJW0E",
+      "type": "paragraph",
+      "data": {
+        "text": "One more suggestion is to make sure that you don’t have any straps lying loose near the front wheel. I like to make sure the straps are very securely tucked away from the wheel. Call me cautious but the last thing I want is to experience a spontaneous trip over the handlebars courtesy of sloppiness on my part!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "YboMCelzpu",
+      "type": "header",
+      "data": {
+        "text": "Center of Gravity",
+        "level": 2
+      }
+    },
+    {
+      "id": "XYO7v9CyNl",
+      "type": "paragraph",
+      "data": {
+        "text": "The higher a load is on the bike the more the bike will feel <b>shaky or wobbly</b> when you are riding it especially if you are someone who likes to stand on the pedals when going uphill. This can also lead to a crash when going downhill as a wobble starts up when the bike reaches beyond a certain speed. If it isn’t detected and controlled right away then it could lead to a scary adventure or a crash."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "NX6sdDR0TM",
+      "type": "paragraph",
+      "data": {
+        "text": "To prevent this it’s important to balance the load, have a sturdy rack, try to keep the heaviest gear as<b> far down in the bag</b> as possible and do a few test runs before allowing your bike to go screaming at high speed down a steep descent."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "PqNdcuuR6P",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/bike-touring-racks/frontrack.jpg",
+          "name": "frontrack.jpg",
+          "size": 71115,
+          "extension": "jpg"
+        },
+        "caption": "Tubus Tara front rack on my Trek 520",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "9y-OhF2nmw",
+      "type": "header",
+      "data": {
+        "text": "Bike Touring Rack Models",
+        "level": 2
+      }
+    },
+    {
+      "id": "X407sEPejn",
+      "type": "paragraph",
+      "data": {
+        "text": "When considering racks you should consider&nbsp;reliability, reputation and physical requirements. The first two are mentioned because the last thing you want is to have a rack break somewhere on tour especially if you have fifty kilograms of gear onboard."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "trmKsQEZj8",
+      "type": "paragraph",
+      "data": {
+        "text": "Physical requirements refer to having a rack that can safely carry more weight than you intend to have with you and the physical requirements of the rack itself. As an example, some front racks are designed to work with mid-fork braze-ons. Some rear racks have a similar braze-on requirement."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "NZZeLwu70l",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/bike-touring-racks/rearrack.jpg",
+          "name": "rearrack.jpg",
+          "size": 123785,
+          "extension": "jpg"
+        },
+        "caption": "The Norco Axiom Tour du Monde rear rack on my Trek 520",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "tp1wjIdVL5",
+      "type": "paragraph",
+      "data": {
+        "text": "An additional concern comes into play for bikes with front fork suspension. The problem with front suspension is that most racks will end up being in <b>direct conflict with the front suspension</b>. As the fork hits a bump the suspension will retract causing the front rack to also bend. Something will eventually break. There are special racks available that help with this problem. They have a reputation for being expensive but reliable. One company that makes these is Old Man Mountain. Some mountain bikes also have rear suspension and the same comments apply to these bikes as well."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "4bTW4FYNBR",
+      "type": "header",
+      "data": {
+        "text": "Carrying a single rear pannier",
+        "level": 2
+      }
+    },
+    {
+      "id": "65OHgLsVzy",
+      "type": "paragraph",
+      "data": {
+        "text": "This likely has much more significance to light touring or even commuting rather then fully loaded touring but I want to make sure it gets mentioned. Some people worry about the effect on the bike of only running one saddlebag. The concern is that all the weight on one side of the bike will cause major steering problems."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "acUM6egJr4",
+      "type": "paragraph",
+      "data": {
+        "text": "Personally, I haven’t experienced problems and I’ve had upwards of 15 kilograms in one pannier without a second pannier on the other side."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "w4i_kDlZHW",
+      "type": "header",
+      "data": {
+        "text": "Manufacturers",
+        "level": 3
+      }
+    },
+    {
+      "id": "cawmbfBHE2",
+      "type": "paragraph",
+      "data": {
+        "text": "The following list is just some of the companies that make racks."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "xzjWlSESd1",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Beckman",
+            "items": []
+          },
+          {
+            "content": "Blackburn",
+            "items": []
+          },
+          {
+            "content": "Bruce Gordon",
+            "items": []
+          },
+          {
+            "content": "Jandd",
+            "items": []
+          },
+          {
+            "content": "Mountain Equipment Co-op (MEC)",
+            "items": []
+          },
+          {
+            "content": "Old Man Mountain",
+            "items": []
+          },
+          {
+            "content": "Nitto",
+            "items": []
+          },
+          {
+            "content": "Norco",
+            "items": []
+          },
+          {
+            "content": "Tubus",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "zgfYdt7tsN",
+      "type": "paragraph",
+      "data": {
+        "text": "I currently use a Tubus Tara for my front rack and a Norco Axiom Tour du Monde rear rack. I am very happy with both and intend to keep using them."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

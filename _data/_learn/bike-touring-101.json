@@ -1,0 +1,1994 @@
+{
+  "time": 1652176609512,
+  "blocks": [
+    {
+      "id": "LdYHzr1I5U",
+      "type": "header",
+      "data": {
+        "text": "Bike Touring 101",
+        "level": 1
+      }
+    },
+    {
+      "id": "c8WyLKIJPX",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Bike touring is an awesome adventure where you don't know what's going to happen after a few hundred feet.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "2jHEmu86kU",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-101/biketouring1011024w.jpg",
+          "name": "biketouring1011024w.jpg",
+          "size": 83894,
+          "extension": "jpg"
+        },
+        "caption": "The Wandering Nomads @ awanderingphoto.com",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "H58R3rMX2b",
+      "type": "header",
+      "data": {
+        "text": "What is bike touring?",
+        "level": 2
+      }
+    },
+    {
+      "id": "Es1ggHfp3V",
+      "type": "quote",
+      "data": {
+        "text": "Bicycle touring&nbsp;means self-contained cycling trips for pleasure, adventure, and autonomy rather than sport, commuting, or exercise. Touring can range from single to multi-day trips, even for years. Tours may be planned by the participant or organized by a holiday business, a club, or a charity as a fund-raising venture.",
+        "caption": "wikipedia",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "HVkNso94ta",
+      "type": "paragraph",
+      "data": {
+        "text": "So, what is bike touring&nbsp;really?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "_bg_z5b8lm",
+      "type": "paragraph",
+      "data": {
+        "text": "¯\\_(ツ)_/¯"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Orvpvwz_34",
+      "type": "paragraph",
+      "data": {
+        "text": "Usually, people get bored from their mundane lives and take off with their bikes to wherever they dream."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "czS3wZel7j",
+      "type": "paragraph",
+      "data": {
+        "text": "They want to;"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "cQSnvMo_HK",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Travel the world by bicycle",
+            "items": []
+          },
+          {
+            "content": "See different cultures",
+            "items": []
+          },
+          {
+            "content": "Meet other people",
+            "items": []
+          },
+          {
+            "content": "Live their dreams",
+            "items": []
+          },
+          {
+            "content": "Be independent",
+            "items": []
+          },
+          {
+            "content": "Stop the voices in their heads.",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "tYRi0jIbOH",
+      "type": "paragraph",
+      "data": {
+        "text": "Some of them <b>travel the beaten path</b>, and some of them go to places that&nbsp;no one has ever heard of."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ebEkTkM6UQ",
+      "type": "paragraph",
+      "data": {
+        "text": "But some people may prefer to stay in the same country for several reasons;"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "peYWHrc32Z",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "They don’t want to deal with visas",
+            "items": []
+          },
+          {
+            "content": "They are afraid of being killed by terrorists in Pakistan",
+            "items": []
+          },
+          {
+            "content": "They think they <b>don’t have enough money to travel around the world (by bike!)</b>",
+            "items": []
+          },
+          {
+            "content": "They think their <b>bicycle won’t survive a long trip</b>",
+            "items": []
+          },
+          {
+            "content": "Their families won’t let them",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "9W3X6bTy0z",
+      "type": "paragraph",
+      "data": {
+        "text": "Of course, everyone is different. So, there are different types of bike touring. I’ll cover all of them, but the main topic is&nbsp;self-supported, long-distance bike touring, a.k.a.&nbsp;<mark><b>fully loaded bike touring.</b></mark>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "OXaB5xn29c",
+      "type": "header",
+      "data": {
+        "text": "Types of bike touring",
+        "level": 2
+      }
+    },
+    {
+      "id": "q0OE12sZHD",
+      "type": "paragraph",
+      "data": {
+        "text": "There are 8 different types of bike touring:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "h3Y7ZBWW18",
+      "type": "header",
+      "data": {
+        "text": "Day Cycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "DzyA4vkmkD",
+      "type": "paragraph",
+      "data": {
+        "text": "Day touring&nbsp;is the <b>simplest type of bicycle touring.</b> Even though it could be supported by motorized vehicles, it is usually self-supported."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "NuFcIfT_5Y",
+      "type": "paragraph",
+      "data": {
+        "text": "Unlike long-distance bike touring, you know almost exactly where are you going, which road you will use, and when you will return."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "So5FXuuLHJ",
+      "type": "header",
+      "data": {
+        "text": "Advantages of the day touring by bicycle",
+        "level": 4
+      }
+    },
+    {
+      "id": "U8T7hx5qeb",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "You don’t have to carry a metric ton of camping gear",
+            "items": []
+          },
+          {
+            "content": "You don’t have to worry about where you are going to sleep",
+            "items": []
+          },
+          {
+            "content": "You don’t have to improvise on the road; all trips are planned at home",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "Sf5jhxd976",
+      "type": "header",
+      "data": {
+        "text": "Disadvantages of the day touring by bicycle",
+        "level": 4
+      }
+    },
+    {
+      "id": "vYNU7yyotF",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "You don’t have any equipment in case something happens",
+            "items": []
+          },
+          {
+            "content": "You don’t get to sleep under the stars",
+            "items": []
+          },
+          {
+            "content": "It gets boring if done too frequently",
+            "items": []
+          },
+          {
+            "content": "You won’t get fit enough to do it if you don’t do it frequently",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "eiQvYFKQ6J",
+      "type": "header",
+      "data": {
+        "text": "Overnight Cycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "Z2PCRszmdv",
+      "type": "paragraph",
+      "data": {
+        "text": "When you don’t have time to go on a long-distance bike tour,&nbsp;<b>overnight bike touring</b>&nbsp;will take the stress out of your life."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "coKOkRU8VN",
+      "type": "paragraph",
+      "data": {
+        "text": "It requires almost no planning. Choose a camping spot, pack your gear for the night, ride, camp, sleep, and return in the morning."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "prx-FoPs6W",
+      "type": "header",
+      "data": {
+        "text": "Advantages of overnight bike touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "JjYYihfPw4",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "No time commitment",
+            "items": []
+          },
+          {
+            "content": "No need to quit your job",
+            "items": []
+          },
+          {
+            "content": "It’s fun",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "vYOIxTIvVQ",
+      "type": "header",
+      "data": {
+        "text": "Disadvantages of overnight bike touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "_c0A3tK-Hh",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "It’s only one night",
+            "items": []
+          },
+          {
+            "content": "You have to carry the heaviest equipment",
+            "items": []
+          },
+          {
+            "content": "If it rains, it ruins the whole trip",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "pICaeLEa7F",
+      "type": "header",
+      "data": {
+        "text": "Supported Cycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "1kjFodHfvf",
+      "type": "paragraph",
+      "data": {
+        "text": "In&nbsp;supported bike touring, cyclists are supported by a motorized vehicle which carries the most of the load. Planning is done by the holiday companies. They also arrange accommodation, meals, and rental bikes."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "xi1fmZGPQP",
+      "type": "header",
+      "data": {
+        "text": "Advantages of supported cycle touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "o4kcumSMJT",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "You don’t need to worry about anything",
+            "items": []
+          },
+          {
+            "content": "Depending on the tour, you may not need to carry anything",
+            "items": []
+          },
+          {
+            "content": "You won’t be alone",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "kFeFFYRJfp",
+      "type": "header",
+      "data": {
+        "text": "Disadvantages of supported&nbsp;cycle touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "M4WTDT0qXv",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "It’s expensive",
+            "items": []
+          },
+          {
+            "content": "You are not free",
+            "items": []
+          },
+          {
+            "content": "You may not enjoy the trip",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "67glgZUbDX",
+      "type": "header",
+      "data": {
+        "text": "Credit Card Cycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "JboqbRfJOV",
+      "type": "paragraph",
+      "data": {
+        "text": "It’s great during short tours or long tours by bike for people who have a stream of money. That’s why it’s called&nbsp;credit card touring."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ek0zX9Ztf_",
+      "type": "paragraph",
+      "data": {
+        "text": "You don’t have to carry anything except bare essentials: spare clothes and personal items."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "0bjThHdscW",
+      "type": "header",
+      "data": {
+        "text": "Advantages of credit card touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "YyAfNVWorU",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Lightweight",
+            "items": []
+          },
+          {
+            "content": "Requires less planning",
+            "items": []
+          },
+          {
+            "content": "Comfortable bed every night",
+            "items": []
+          },
+          {
+            "content": "Delicious food, because you are not the one who cooks it",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "31i0N0BQ_h",
+      "type": "header",
+      "data": {
+        "text": "Disadvantages of credit card touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "Vw6HYWMWmS",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Way too expensive",
+            "items": []
+          },
+          {
+            "content": "No adventure",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "cdp8Uvt4SL",
+      "type": "header",
+      "data": {
+        "text": "Ultralight Bicycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "AhBDEjptVl",
+      "type": "paragraph",
+      "data": {
+        "text": "The equipment used in&nbsp;ultralight touring&nbsp;is, well, “ultralight”. It weighs less and costs more."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nULC2a4YEx",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-101/ultralightbiketouring1024w.jpg",
+          "name": "ultralightbiketouring1024w.jpg",
+          "size": 66023,
+          "extension": "jpg"
+        },
+        "caption": "thebikepirate.com",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "UKFOaL2lXi",
+      "type": "paragraph",
+      "data": {
+        "text": "The difference between credit card touring and ultralight touring is that you have all the gear you’ll need with you, so you are not dependent on cities to survive."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "PXci3wTNNd",
+      "type": "header",
+      "data": {
+        "text": "Advantages of ultralight touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "PQAxKCmRgX",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "It’s ultralight!",
+            "items": []
+          },
+          {
+            "content": "You are self-sufficient",
+            "items": []
+          },
+          {
+            "content": "Cheaper after the initial cost",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "UQz2LZ41wt",
+      "type": "header",
+      "data": {
+        "text": "Disadvantages of ultralight touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "pVhvt6uh_q",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "High initial cost",
+            "items": []
+          },
+          {
+            "content": "Less comfort",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "nkz9nqn3EO",
+      "type": "header",
+      "data": {
+        "text": "Bikepacking",
+        "level": 3
+      }
+    },
+    {
+      "id": "bGiFsHF5TJ",
+      "type": "paragraph",
+      "data": {
+        "text": "Bikepacking&nbsp;is a mix of backpacking and bike touring."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "inFYXQh-ba",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Bikepacking bikes</b> have wider tires for off-road use and have more comfortable geometry than regular touring bikes."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "zf4BpEr8lI",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-101/bikepackingbike1024w.jpg",
+          "name": "bikepackingbike1024w.jpg",
+          "size": 77105,
+          "extension": "jpg"
+        },
+        "caption": "joecruz.wordpress.com",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "Afxi8XxDkw",
+      "type": "paragraph",
+      "data": {
+        "text": "There are <b>no racks and panniers in a bikepacking setup</b>. Instead, it has a <b>frame bag</b>, a <b>saddle bag</b>, a <b>handlebar bag</b>, and some other small bags directly attached to the bike. <b>A bikepacker is self-sufficient with minimal gear.</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nogEZDlf9O",
+      "type": "header",
+      "data": {
+        "text": "Advantages of bikepacking",
+        "level": 4
+      }
+    },
+    {
+      "id": "wpA1nvgg2g",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Lightweight",
+            "items": []
+          },
+          {
+            "content": "Off-road ready",
+            "items": []
+          },
+          {
+            "content": "More adventure",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "8UgyYVh1d-",
+      "type": "header",
+      "data": {
+        "text": "Disadvantages of bikepacking",
+        "level": 4
+      }
+    },
+    {
+      "id": "rdqaXPEeuQ",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Less gear means less comfort",
+            "items": []
+          },
+          {
+            "content": "The frame bag has to be specially made for the bike",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "CEQyIboF34",
+      "type": "header",
+      "data": {
+        "text": "Expedition Cycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "_ebP4XrF5j",
+      "type": "paragraph",
+      "data": {
+        "text": "If you want&nbsp;to <i>boldly go where no man has gone before</i>,&nbsp;expedition touring&nbsp;is for you."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "BtpNzwRAFO",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-101/fullyloadedbike1024w.jpg",
+          "name": "fullyloadedbike1024w.jpg",
+          "size": 79526,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "75cqlebEOI",
+      "type": "paragraph",
+      "data": {
+        "text": "Load your sturdy bike with all the gear and repair tools you’ll ever need and don’t look back. Since you’ll go to places where there are no supermarkets, you must carry enough food and water with you."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ciRLiB4Ebt",
+      "type": "header",
+      "data": {
+        "text": "Advantages of expedition touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "Yq_PLmoHaO",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Completely self-sufficient",
+            "items": []
+          },
+          {
+            "content": "The only expense is food",
+            "items": []
+          },
+          {
+            "content": "Even more adventures!",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "PfCY2iueqJ",
+      "type": "header",
+      "data": {
+        "text": "Disadvantages of expedition touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "uM35E-haVP",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "The load is too heavy",
+            "items": []
+          },
+          {
+            "content": "Water scarcity is a problem",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "SfbuXSL3at",
+      "type": "header",
+      "data": {
+        "text": "Fully Loaded Bicycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "FKKyAwnbCZ",
+      "type": "paragraph",
+      "data": {
+        "text": "This is the most common type of&nbsp;bike touring and is also known as <b>self-supported bike touring.</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "3akk5laBFf",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-101/fullyloadedtouringbicycle1024w.jpg",
+          "name": "fullyloadedtouringbicycle1024w.jpg",
+          "size": 81858,
+          "extension": "jpg"
+        },
+        "caption": "Fully loaded touring bike",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "XczmunBjTy",
+      "type": "paragraph",
+      "data": {
+        "text": "To avoid cursing yourself while climbing a hill; choose your gear wisely, pack only what you need and then add some extra items for comfort. I have seen people carry their closets with them. Sadly, I carry a full kitchen."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "PjnVgdH3G2",
+      "type": "header",
+      "data": {
+        "text": "Advantages of fully loaded bike touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "tpIV6BgL3E",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Self-supported",
+            "items": []
+          },
+          {
+            "content": "Food, water, and major repairs are the only expenses",
+            "items": []
+          },
+          {
+            "content": "You are practically a nomad",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "TkQuQ7TgdC",
+      "type": "header",
+      "data": {
+        "text": "Disadvantages of fully loaded bike touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "S9GSZeBrRC",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Heavy load",
+            "items": []
+          },
+          {
+            "content": "Hard to keep your valuables safe",
+            "items": []
+          },
+          {
+            "content": "Too much stuff in too little bags",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "Hl8FXu_pqf",
+      "type": "header",
+      "data": {
+        "text": "Why should you go bike touring?",
+        "level": 2
+      }
+    },
+    {
+      "id": "hsDjd9rdWG",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Your daily routine is boring. You want to go out, travel all day, be self-sufficient, and truly live your life. Enough of watching TV.</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "5nhT173BAv",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "You’ll see places you never saw before",
+            "items": []
+          },
+          {
+            "content": "You’ll explore the world!",
+            "items": []
+          },
+          {
+            "content": "You’ll try new and probably weird foods.",
+            "items": []
+          },
+          {
+            "content": "You’ll meet new people (also possibly weird!)",
+            "items": []
+          },
+          {
+            "content": "You’ll make new friends",
+            "items": []
+          },
+          {
+            "content": "You’ll see the world differently.",
+            "items": []
+          },
+          {
+            "content": "You’ll see amazing views that most people won’t ever see.",
+            "items": []
+          },
+          {
+            "content": "You’ll get physically fit, lose weight, and build muscles.",
+            "items": []
+          },
+          {
+            "content": "It’ll be an awesome challenge to do!",
+            "items": []
+          },
+          {
+            "content": "And more!",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "8nsfEutSq_",
+      "type": "paragraph",
+      "data": {
+        "text": "Also, you get to sing this song:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "BUnSto27Xr",
+      "type": "embed",
+      "data": {
+        "service": "youtube",
+        "source": "https://www.youtube.com/watch?v=ov4epAJRPMw&amp;feature=emb_title",
+        "embed": "https://www.youtube.com/embed/ov4epAJRPMw?",
+        "width": 580,
+        "height": 320,
+        "caption": ""
+      }
+    },
+    {
+      "id": "qxlNR2_asP",
+      "type": "header",
+      "data": {
+        "text": "How to go bike touring",
+        "level": 2
+      }
+    },
+    {
+      "id": "lEdstHKN43",
+      "type": "paragraph",
+      "data": {
+        "text": "I wrote an in-depth article about this, check it out!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "gRwsHT7jFJ",
+      "type": "internal",
+      "data": {
+        "text": "learn/how-to-go-bike-touring"
+      }
+    },
+    {
+      "id": "4rl00JFj6o",
+      "type": "paragraph",
+      "data": {
+        "text": "I know, it’s not easy. It’s simple, but not easy to leave everything behind and go.&nbsp;I struggled a lot."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "WDs3kcDM2V",
+      "type": "paragraph",
+      "data": {
+        "text": "I had second thoughts about it, but after planning everything thoroughly, I finally got over my fears."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "KkpWa4Nblh",
+      "type": "header",
+      "data": {
+        "text": "Planning your first bicycle tour",
+        "level": 3
+      }
+    },
+    {
+      "id": "AeDMbuzDPa",
+      "type": "header",
+      "data": {
+        "text": "Choose a destination",
+        "level": 4
+      }
+    },
+    {
+      "id": "irQk3lgCsR",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-101/worldsatellite1024w.jpg",
+          "name": "worldsatellite1024w.jpg",
+          "size": 77425,
+          "extension": "jpg"
+        },
+        "caption": "Some of the possible destinations.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "D7-wyAjkkf",
+      "type": "paragraph",
+      "data": {
+        "text": "The destination is always your home."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "NLRjEkGjUG",
+      "type": "paragraph",
+      "data": {
+        "text": "If you have time to <b>travel the entire world</b>, go for it! If not, close your eyes and put your finger on a world map. Didn’t like it? Do it again!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "M1OlhemnIV",
+      "type": "paragraph",
+      "data": {
+        "text": "If this is your first tour, you can travel within your country to get used to the idea."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "TD-cdX2G75",
+      "type": "header",
+      "data": {
+        "text": "Find a route to your destination",
+        "level": 4
+      }
+    },
+    {
+      "id": "vOptKX7tw3",
+      "type": "paragraph",
+      "data": {
+        "text": "You can use Google Maps or any other map service to do this. It doesn’t have to be a definite route, because it will most likely change on the road. Just make a general route on the map."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "EXW7CaW7qS",
+      "type": "header",
+      "data": {
+        "text": "What are you going to eat?",
+        "level": 4
+      }
+    },
+    {
+      "id": "aQSdonbP6F",
+      "type": "paragraph",
+      "data": {
+        "text": "You can cook your food all by yourself! It’s very nice to do stuff like this, but it takes a lot of precious time, it’s messy, and the taste of the food is not always going to be as good as you might think it is going to be."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "OMRUqWaOWG",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-101/frenchfries1024w.jpg",
+          "name": "frenchfries1024w.jpg",
+          "size": 118239,
+          "extension": "jpg"
+        },
+        "caption": "French fries with tomato sauce",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "b_7f8RKkc0",
+      "type": "paragraph",
+      "data": {
+        "text": "Pasta and rice are staple foods of a bike traveller. Frying potatoes on a wood stove is not something you can do every day."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "IcosL0T2_I",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Carrying fresh food in summer</b> is challenging, I remember eating a large part of salami just a day before it went bad. I had to cook it over a fire just to be sure."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "l6FztIvBZK",
+      "type": "paragraph",
+      "data": {
+        "text": "There are other options like eating in a restaurant, but it would be too expensive to sustain on a long-distance tour."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "sOCBueVCk2",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>These are some&nbsp;“easy foods”&nbsp;that I carry with me on a cycle tour:</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "B3qdK3Cgta",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Peanut butter",
+            "items": []
+          },
+          {
+            "content": "Chocolate",
+            "items": []
+          },
+          {
+            "content": "Bread",
+            "items": []
+          },
+          {
+            "content": "Tomatoes",
+            "items": []
+          },
+          {
+            "content": "Green pepper",
+            "items": []
+          },
+          {
+            "content": "Cheese",
+            "items": []
+          },
+          {
+            "content": "Sausage",
+            "items": []
+          },
+          {
+            "content": "Salami",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "agrNrYPtnE",
+      "type": "header",
+      "data": {
+        "text": "Where are you going to sleep?",
+        "level": 4
+      }
+    },
+    {
+      "id": "pjw76m9eUb",
+      "type": "paragraph",
+      "data": {
+        "text": "I prefer <b>wild camping</b> over anything. It’s free, and it always has awesome views."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "uAdgWmxYLh",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-101/biketouringstealthcamping1024w.jpg",
+          "name": "biketouringstealthcamping1024w.jpg",
+          "size": 85234,
+          "extension": "jpg"
+        },
+        "caption": "3 feet above the sea level",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "oDkVZrbvPd",
+      "type": "paragraph",
+      "data": {
+        "text": "Wild animals are not much of an issue, but you should still keep your pepper spray with you while you sleep."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "i9PNTv_0Tw",
+      "type": "paragraph",
+      "data": {
+        "text": "You can stay in hotels, youth hostels, or paid campgrounds, or you can rent an apartment. There are some solutions for travellers, like warmshowers.org, but it’s not available everywhere."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "IWBeIhg55S",
+      "type": "header",
+      "data": {
+        "text": "Choosing bicycle touring gear",
+        "level": 3
+      }
+    },
+    {
+      "id": "_6vpJJdj-e",
+      "type": "header",
+      "data": {
+        "text": "Bicycle and Tools",
+        "level": 4
+      }
+    },
+    {
+      "id": "XOFWny5EsH",
+      "type": "paragraph",
+      "data": {
+        "text": "It’s important to have a <b>reliable bike when you are on a long-distance tour.</b> Some people will tell you that the best bike for touring is the one that you already have, but&nbsp;it’s not true."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "K7Ff0rjoUu",
+      "type": "paragraph",
+      "data": {
+        "text": "Of course, you&nbsp;can&nbsp;travel by any bike, but if you don’t want to deal with fixing it every day, buy a <b>battle-tested, sturdy touring bike.</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Vytm7PFUMS",
+      "type": "paragraph",
+      "data": {
+        "text": "That doesn’t mean it won’t have any problems. You should do preventive maintenance to avoid these problems."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "igOvRLStlr",
+      "type": "header",
+      "data": {
+        "text": "Basic necessary tools and spare parts",
+        "level": 5
+      }
+    },
+    {
+      "id": "Qd5KeQFGUW",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Chain oil",
+            "items": []
+          },
+          {
+            "content": "Chain tool",
+            "items": []
+          },
+          {
+            "content": "Chain links",
+            "items": []
+          },
+          {
+            "content": "Allen keys",
+            "items": []
+          },
+          {
+            "content": "Brake pads",
+            "items": []
+          },
+          {
+            "content": "Spokes and nipples",
+            "items": []
+          },
+          {
+            "content": "Spoke wrench",
+            "items": []
+          },
+          {
+            "content": "Tire patch kit",
+            "items": []
+          },
+          {
+            "content": "Brake and shifter cables",
+            "items": []
+          },
+          {
+            "content": "Cassette tool",
+            "items": []
+          },
+          {
+            "content": "Spare nuts and bolts for racks",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "4xVJEHxW0_",
+      "type": "header",
+      "data": {
+        "text": "Camping gear",
+        "level": 4
+      }
+    },
+    {
+      "id": "ZwWObM4xnI",
+      "type": "header",
+      "data": {
+        "text": "Tent",
+        "level": 5
+      }
+    },
+    {
+      "id": "y_W63E-IIE",
+      "type": "paragraph",
+      "data": {
+        "text": "Double-wall tents are better because they preserve heat better and reduce condensation with good ventilation."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hfx3qVWWC5",
+      "type": "header",
+      "data": {
+        "text": "Sleeping bag",
+        "level": 5
+      }
+    },
+    {
+      "id": "v37imagCwb",
+      "type": "paragraph",
+      "data": {
+        "text": "Synthetic sleeping bags are heavy and bulky but will keep you warm even when it’s damp. "
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "pZW28NtwVN",
+      "type": "paragraph",
+      "data": {
+        "text": "Down sleeping bags are lighter, but they won’t protect you from cold when they are damp."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "TTN12zsf6z",
+      "type": "header",
+      "data": {
+        "text": "Sleeping pad",
+        "level": 5
+      }
+    },
+    {
+      "id": "PVXQMby_Ui",
+      "type": "paragraph",
+      "data": {
+        "text": "Inflatable pads are comfortable, but you have to protect them from getting punctured. I prefer foam pads because they are lighter and low-maintenance."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "gsX1Vq_y-4",
+      "type": "header",
+      "data": {
+        "text": "Clothes",
+        "level": 5
+      }
+    },
+    {
+      "id": "f77V19U9gp",
+      "type": "paragraph",
+      "data": {
+        "text": "Don’t bring your closet with you. Take one set of spares."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "j0I3hUZnfv",
+      "type": "header",
+      "data": {
+        "text": "Cookware",
+        "level": 5
+      }
+    },
+    {
+      "id": "LGZkpFfjUj",
+      "type": "paragraph",
+      "data": {
+        "text": "Again, don’t carry an entire kitchen. A stove, pot, spork, and a knife are enough."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8nABx77TY4",
+      "type": "header",
+      "data": {
+        "text": "Toiletries",
+        "level": 5
+      }
+    },
+    {
+      "id": "gBag-jut0I",
+      "type": "paragraph",
+      "data": {
+        "text": "Soap, towel, baby wipes, toilet paper, toothbrush and paste, folding bowl."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "P5sSJjDOr3",
+      "type": "paragraph",
+      "data": {
+        "text": "These are the basics. Most people carry their lives with them."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "jNIrvjJOBT",
+      "type": "header",
+      "data": {
+        "text": "Packing your panniers",
+        "level": 3
+      }
+    },
+    {
+      "id": "jnnbcD9sXN",
+      "type": "paragraph",
+      "data": {
+        "text": "This is the messy side of touring. It is hard to keep things in place and access them during the day."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "FN0hPuk1MX",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-101/packingpanniers1024w.jpg",
+          "name": "packingpanniers1024w.jpg",
+          "size": 66292,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "foMbHbLzg4",
+      "type": "paragraph",
+      "data": {
+        "text": "I have two <b>panniers</b>, a small <b>frame bag</b>, and a <b>saddle bag</b>."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "gt51_5sd-O",
+      "type": "paragraph",
+      "data": {
+        "text": "I keep my toiletries in the saddle bag, because they are usually wet. The frame bag holds heavy tools. Cookware and food are in one pannier, while clothes and other stuff are in the other. I attach my sleeping bag on top of the rack with my tent and foam sleeping pad rolled in together and attached to the handlebar."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "3foL3ixJNt",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>It’s not science, use your imagination.</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "7DjJ2arfC0",
+      "type": "header",
+      "data": {
+        "text": "Go!",
+        "level": 3
+      }
+    },
+    {
+      "id": "5ePCzBpBil",
+      "type": "paragraph",
+      "data": {
+        "text": "Don’t overthink it. If you don’t trust yourself, go somewhere close. Go on an overnight bike tour. If you fail, try again. Change your equipment, add new gear, and remove unnecessary gear. <b>Actually,&nbsp;fail&nbsp;before going on a world tour.</b> This way, you’ll be confident in yourself."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "OBKG0vJm_2",
+      "type": "header",
+      "data": {
+        "text": "FAQ",
+        "level": 2
+      }
+    },
+    {
+      "id": "J1PTkiNsiN",
+      "type": "header",
+      "data": {
+        "text": "Bike",
+        "level": 3
+      }
+    },
+    {
+      "id": "KM3dlvL5s3",
+      "type": "header",
+      "data": {
+        "text": "How many kilometres can you ride in a day?",
+        "level": 4
+      }
+    },
+    {
+      "id": "s_8pIU2heS",
+      "type": "paragraph",
+      "data": {
+        "text": "Varies between 0 and 150 kilometres. I ride 50 to 50 kilometres a day, enjoying the scenery."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "WmFcjwk95O",
+      "type": "header",
+      "data": {
+        "text": "What is the average touring speed?",
+        "level": 4
+      }
+    },
+    {
+      "id": "bgn0dzFO8S",
+      "type": "paragraph",
+      "data": {
+        "text": "It depends on the road. If you are going downhill, it’s 75 km/h. Assuming the road is mostly flat, an average of 10 mph is a good, educated guess."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "mKZJPeiCsF",
+      "type": "header",
+      "data": {
+        "text": "Camping",
+        "level": 3
+      }
+    },
+    {
+      "id": "r1qJyHOYMj",
+      "type": "header",
+      "data": {
+        "text": "Is it safe to wild camp on a bike tour?",
+        "level": 4
+      }
+    },
+    {
+      "id": "7WgpIvnJ0b",
+      "type": "paragraph",
+      "data": {
+        "text": "No. Animals hunt at night. Don’t worry though, they will look for easier prey first."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "_MAjSEpVs7",
+      "type": "header",
+      "data": {
+        "text": "How to bathe while camping",
+        "level": 4
+      }
+    },
+    {
+      "id": "KquFS3I8jE",
+      "type": "paragraph",
+      "data": {
+        "text": "Fill one of your water bottles with warm water, wash with soap and a bathing glove and rinse with other bottles. You may not believe this, but around 3 litres of water is enough to bathe."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "KF3GragGm0",
+      "type": "header",
+      "data": {
+        "text": "How to wash clothes while camping",
+        "level": 4
+      }
+    },
+    {
+      "id": "U4dBJNRCjx",
+      "type": "paragraph",
+      "data": {
+        "text": "Fill your folding bowl with hot water and add detergent, wash your clothes in the bowl and rinse with clean water. Strap the wet clothes to your bike, they will dry while you are riding."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hELqQwfYE_",
+      "type": "header",
+      "data": {
+        "text": "Money",
+        "level": 3
+      }
+    },
+    {
+      "id": "Qi94WR3z8a",
+      "type": "header",
+      "data": {
+        "text": "Do I need to be rich for bike touring?",
+        "level": 4
+      }
+    },
+    {
+      "id": "7yW4dfa3zx",
+      "type": "paragraph",
+      "data": {
+        "text": "No! My average daily spending is $2."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "5mJBC1AZ2e",
+      "type": "header",
+      "data": {
+        "text": "Should I carry cash or a credit card?",
+        "level": 4
+      }
+    },
+    {
+      "id": "bipgPVAHmN",
+      "type": "paragraph",
+      "data": {
+        "text": "Both. Keep cash hidden in different parts of your bike."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "mtRTi1sn8r",
+      "type": "header",
+      "data": {
+        "text": "Other",
+        "level": 3
+      }
+    },
+    {
+      "id": "gNsFEgzVpd",
+      "type": "header",
+      "data": {
+        "text": "What if something unexpected happens?",
+        "level": 4
+      }
+    },
+    {
+      "id": "tnQYb3xMdo",
+      "type": "paragraph",
+      "data": {
+        "text": "Oh, don’t worry, it <b><i><u class=\"cdx-underline\">will</u></i></b> happen. You’ll overcome and solve it."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "qkLz5eOxdZ",
+      "type": "paragraph",
+      "data": {
+        "text": "Now go!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ft_A9pa6aB",
+      "type": "internal",
+      "data": {
+        "text": "learn/how-to-go-bike-touring, learn/training-for-long-distance-bike-tour, learn/bike-touring-costs-budget-management"
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

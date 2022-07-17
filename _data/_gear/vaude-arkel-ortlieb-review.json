@@ -1,0 +1,483 @@
+{
+  "time": 1652438301799,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "Vaude, Arkel and Ortlieb saddlebag/pannier review",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Although there are many more saddlebag manufacturers whose products are used for bicycle touring these three are commonly asked about and since I’ve owned all three types it made sense for me to describe my experience.&nbsp;</i><br>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "bBvTqqQEyy",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/vaude-arkel-ortlieb-review/1652437219_image.jpg",
+          "name": "1652437219_image.jpg",
+          "size": 44321,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "W0vRUluMPL",
+      "type": "paragraph",
+      "data": {
+        "text": "When selecting a saddlebag I thought about these questions related to my desired usage."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "rqM5Q_Nszl",
+      "type": "header",
+      "data": {
+        "text": "How much space do I need to store stuff and how is that space organized?",
+        "level": 2
+      }
+    },
+    {
+      "id": "6QauzOlXdk",
+      "type": "paragraph",
+      "data": {
+        "text": "The first part of this question is really personal in nature since it comes down to you determining how much gear you want to be able to carry with you on your tour. I also tend to use my saddlebags for commuting during the year so sizing is an important consideration for that usage as well since I like to carry an extremely well-padded computer notebook with me a significant portion of the time when I commute."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "0huwkrtZ94",
+      "type": "paragraph",
+      "data": {
+        "text": "The actual <b>number of pockets</b> can make a surprisingly large difference."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "QVaDBWA6J-",
+      "type": "paragraph",
+      "data": {
+        "text": "The<b> Arkel GT-54</b> rear saddlebags <b>have lots and lots of pockets</b> allowing you to do some heavy-duty organizing of your gear. In addition, the Arkels also allow you to easily attach an optional Therm-a-rest holder using a combination of heavy-duty Velcro and straps."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ME-BbcPx9R",
+      "type": "paragraph",
+      "data": {
+        "text": "The <b>Vaude Roadmaster</b> rear panniers have a <b>main compartment</b> where the bulk of your stuff would go as well as a water bottle sized rear pocket and a top pocket that’s built into the covering of the bag."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "IT9EmeUF2y",
+      "type": "paragraph",
+      "data": {
+        "text": "The <b>Ortlieb Classic and Classic Plus bags</b> have only one large pocket for you to place things."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "7uHW3nfXsX",
+      "type": "header",
+      "data": {
+        "text": "How water-resistant are the bags?",
+        "level": 2
+      }
+    },
+    {
+      "id": "d7-bc6OHfy",
+      "type": "paragraph",
+      "data": {
+        "text": "All three bags differ in terms of water resistance. Both the&nbsp;<b>Vaude and Arkel bags rely on a rain cover</b>&nbsp;that helps prevent water from getting at the contents. One disadvantage of this type of coverage is that you need to either have the covers on all the time or stop and put the covers on when a storm approaches. An advantage though is that it allows <b>more airflow</b> into the bags which can help dry out damp stuff or at least prevent some very weird smells from appearing."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "OVwpCqRNDq",
+      "type": "paragraph",
+      "data": {
+        "text": "I’ve been on tours using both types of saddlebags and I have experienced some heavy rainstorms. The Vaude covers are elasticized so the cover stays snugly against the bag. The problem is that during a heavy storm with lots of water on the road it is very easy for water to kick up and get caught by the bottom edge of the bag’s cover. This water builds up until enough is there that the inside contents of the bag get wet as&nbsp;water seeps through the bottom."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "FCReDHfutq",
+      "type": "paragraph",
+      "data": {
+        "text": "The Arkel covers do not suffer from this limitation although they tend to block the wind a bit more effective as a consequence of not hugging the bags quite so tightly. You can also obtain internal dry bags for use with their bags to help prevent critical things from getting wet. I found that even when not using the covers it generally&nbsp;took quite a lot of water&nbsp;before I could notice any wetness on the inside of the bags."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "WgHHi1SjWO",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Ortlieb Classic and Classic Plus bags are&nbsp;essentially dry bags&nbsp;with a framework</b> for the attachment points built around them. As a consequence, these bags are considered to be waterproof. There is no need for covers assuming that you don’t rip the bag somehow during your travels."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "6VslDh7Wzz",
+      "type": "header",
+      "data": {
+        "text": "How reliable and durable are the bags? Are they likely to break?",
+        "level": 2
+      }
+    },
+    {
+      "id": "vo587UWozF",
+      "type": "paragraph",
+      "data": {
+        "text": "The <b>Vaude Roadmasters were a disappointment for me.</b> During my Round Lake Erie tour, the attachment mechanism on one bag slipped out of its connection point <b>forcing me to use nylon zip ties</b> to keep the saddlebag attached. After that experience, I sold the bags to a friend of mine."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Blia9UT85_",
+      "type": "paragraph",
+      "data": {
+        "text": "In the two tours that he has done since the attachment mechanism of the bags has broken <b>both times</b>. At this point, he is short both rear saddlebags as he awaits their repair or replacement."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "zlx_D2Yw4-",
+      "type": "paragraph",
+      "data": {
+        "text": "I purchased the <b>Arkels</b> as a replacement for the Vaude bags. I have since <b>completed seven tours</b> using these bags including my Round Lake Huron tour. The terrain has generally been rougher but these bags have held up without any real problems. I really have the impression that these bags can take a much harder workout than I’ve given them without even flinching."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "DOdRDw7gFO",
+      "type": "paragraph",
+      "data": {
+        "text": "My <b>Ortlieb </b>bag was purchased as a replacement bag to use for daily commuting to work. I was looking for a bag that would be very durable and waterproof when going on off-road trails or pavement. So far <b>I haven’t experienced any problems</b> and these bags have a&nbsp;very good reputation for durability&nbsp;in reviews written by others."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "kpPw8oiLyR",
+      "type": "header",
+      "data": {
+        "text": "Do the saddlebags help me to improve visibility while riding down the road?",
+        "level": 2
+      }
+    },
+    {
+      "id": "SCIBZ6dikk",
+      "type": "paragraph",
+      "data": {
+        "text": "I like to be very visible when bicycle touring. In fact, I like arriving at a campground and being visited while setting up camp by someone who saw me on the road earlier and remembers me due to my bright red or yellow saddlebags. I figure that the more visible I am on the road the more unlikely it is that I will be hit. So far this has worked out well for me."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "tW66T5s-3n",
+      "type": "paragraph",
+      "data": {
+        "text": "The <b>Vaude bags are black and silver</b> which tends to make them rather discreet when on the bike. Fortunately, the rain covers are bright neon yellow making the bags highly visible when they are deployed. This high visibility was the main reason that the covers are visible in almost every bike picture from my Round Lake Erie tour."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "r5JalWBiMB",
+      "type": "paragraph",
+      "data": {
+        "text": "When purchasing my <b>Arkels</b> I had a choice of colours. In addition to black, there was also red (and I think green). I chose the red ones hoping for improved visibility over black bags. These bags are highly visible according to feedback from others. The rain covers are a more subtle shade of yellow that is <b>still effective at raising visibility</b> when out on the road. I generally ride at least a few times at night during my longer tours. During my Round Lake Huron tour, I was told by one guy at a traffic light that prior to passing me<b>&nbsp;I was so reflective that I looked like I was driving a truck</b>.&nbsp;This is the type of feedback I want to hear!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "zBQrSmRj7e",
+      "type": "paragraph",
+      "data": {
+        "text": "The <b>Ortliebs</b> also come in a variety of colours. The Classic bag I chose was <b>bright yellow leading to high visibility</b>. Unfortunately the Classic Plus bag I replaced it with does not have a yellow colour so I picked red instead."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "1DLMCk6uRN",
+      "type": "paragraph",
+      "data": {
+        "text": "All of these bags have <b>reflective strips</b> built-in. One very nice feature of the Vaude bags is the inclusion of a handy strap for adding rear LED lights to the bike. With this feature it is really easy to have four or five LEDs facing behind you should you happen to find yourself riding in the dark. This is one feature that I wish was present on both of the other bags."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "7uLQMs51FZ",
+      "type": "header",
+      "data": {
+        "text": "How difficult is it to put the bags on the bike or take them off?",
+        "level": 2
+      }
+    },
+    {
+      "id": "xhxWGCwQDX",
+      "type": "paragraph",
+      "data": {
+        "text": "The&nbsp;easiest bag to take off and on the bike is the <b>Ortlieb</b> by a long shot. They have perfected a mechanism that firmly keeps the bag attached to the bike while riding but makes it literally as easy as lifting the carrying handle to remove the bag from the bike. The action of lifting the handle slides the retaining pieces soundlessly out of the way so that you can continue on your way."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "soGPpBeVqI",
+      "type": "paragraph",
+      "data": {
+        "text": "The <b>Arkels</b> have a&nbsp;great mounting system&nbsp;that gives you a real sense of&nbsp;stability and durability. The whole system is made out of metal so one downside is that the metal will likely put scratches on your rack. Their system is based on two downward-facing hooks with a centrally located upward-facing locking device. The devices are set up using Allen keys so the possibility of a correctly mounted bag falling off during a tour is highly unlikely. <b>It does take more effort to install and remove the bags</b> when compared to the other two types mentioned here. If you are someone who takes your&nbsp;bags into your tent every night then this may matter to you. On the other hand, if you are like me, and leave the bags mounted on the bike except on rest days then you are likely to find the very secure mounting mechanism a significant advantage especially since it will make stealing the bags harder for others too."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "C4Ag8HboQ9",
+      "type": "paragraph",
+      "data": {
+        "text": "The <b>Vaude</b> mounting mechanism is between the two. It is easier to install and remove the bags than with the Arkels but a significant amount of force is required, compared to the Ortliebs when removing them."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "1Y6DI0shJ1",
+      "type": "header",
+      "data": {
+        "text": "Weight of the bags",
+        "level": 2
+      }
+    },
+    {
+      "id": "FHb9xhR1ar",
+      "type": "paragraph",
+      "data": {
+        "text": "This was a surprising discovery for me. The <b>Ortliebs are lighter than the Vaude bags and much lighter than the Arkels</b>."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "9r_l2B6uI0",
+      "type": "header",
+      "data": {
+        "text": "Rack compatibility",
+        "level": 2
+      }
+    },
+    {
+      "id": "kI8amsDZa8",
+      "type": "paragraph",
+      "data": {
+        "text": "I use the Norco Axiom Tour du Monde racks. These racks are stainless steel and rated to carry 150 kg. I have two of them that I have been using for touring and commuting throughout the year, including the winter."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "QwG3icuAf3",
+      "type": "paragraph",
+      "data": {
+        "text": "The <b>Vaude and Arkel bags are mounted without any issues</b> other than the expected need to slightly adjust hooks etc to match the rack."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "43Wk5g1xRt",
+      "type": "paragraph",
+      "data": {
+        "text": "The <b>Ortlieb experience was not as positive</b>, unfortunately. I started with the classic bag and discovered that it wouldn’t mount to my rack in a way that didn’t cause the heels of&nbsp;my boots to hit the bag. This is unfortunate since I really like the look of the bag."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "X072HlTPtO",
+      "type": "paragraph",
+      "data": {
+        "text": "The <b>Classic Plus</b> is somewhat better because you have more options for how you attach it to the rack. To do so I have to have the attachment hardware mounted so that it is far forward on the bag. Unfortunately, I have discovered that in addition to this making the load slightly&nbsp;unbalanced&nbsp;when carrying the bag using the strap <b>occasionally the handle will disconnect as well</b>. This is easy to fix and only happens when carrying the bag off the bike but it is worth mentioning just the same."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "vqVW8IGED5",
+      "type": "header",
+      "data": {
+        "text": "My preferences about panniers?",
+        "level": 2
+      }
+    },
+    {
+      "id": "7ixcco3don",
+      "type": "paragraph",
+      "data": {
+        "text": "Currently, my preferred touring bags are&nbsp;<b>Arkels</b>. I will readily admit that I don’t use all of the pockets and in fact, some could probably be removed without me missing them. What I would miss is the lovely <b>Therm-a-rest holder</b>. You can easily put a Therm-a-rest and your tent poles in that carrier rather than trying to tie down more stuff on top of your rear rack. This frees up the rack for other essentials like a rain jacket, a refreshing beverage or some other snack."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "vhU75lXO40",
+      "type": "paragraph",
+      "data": {
+        "text": "As discussed above I like the fact that once the Arkels are mounted I have no concerns about them coming off the bike without me being involved in the decision.&nbsp;<b>The bags are very, very good, easy to use, durable and highly visible</b>.&nbsp;With the addition of the rain covers, they handle heavy rainstorms without a problem."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ycUiWh8sjI",
+      "type": "paragraph",
+      "data": {
+        "text": "I intend to continue to use the Ortlieb for everyday commuting. The very nice attachment mechanism and the waterproof bag make for a bag that works extremely well for my intended use. My commute goes through woods, across streams and other obstacles that require a bag that can keep the contents safe from water while also giving me plenty of room to put lots of protective padding around the contents. The only remaining issue I have to work out is getting the bags attached to the rack in a way that works well for me. A bit more time will hopefully iron that out."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "3auuyRMKO_",
+      "type": "paragraph",
+      "data": {
+        "text": "One activity I intend to try in the future is some off-road expedition type touring. I intend to try it at least twice, once with my BOB trailer and once with a good set of saddlebags. Time will tell which type I decide to use for this activity. <b>I suspect that I will be leaning towards either waterproof Arkels or Ortliebs.</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

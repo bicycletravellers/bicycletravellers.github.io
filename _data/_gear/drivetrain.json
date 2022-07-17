@@ -1,0 +1,985 @@
+{
+  "time": 1652550631751,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "The Best Gearing for your Touring Bicycle",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Choosing a good drivetrain for your touring bike is an important task. You need granny gears as well as smaller, fast gears. The heavy load makes it hard to climb uphill, but it also helps to keep your momentum when going fast.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "5owCbCYlSK",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/drivetrain/1652548650_image.jpg",
+          "name": "1652548650_image.jpg",
+          "size": 294763,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "LtmZO4kVEk",
+      "type": "paragraph",
+      "data": {
+        "text": "A very common question on most bicycle touring related forums concerns selecting the&nbsp;proper gearing for a bicycle touring bike."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "47MrV6Igam",
+      "type": "paragraph",
+      "data": {
+        "text": "There are really two answers that are almost instantly heard when the question is asked."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hpti-ZXhj9",
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          {
+            "content": "You need to select the gearing that works best for you",
+            "items": []
+          },
+          {
+            "content": "Most stock touring bikes come with gearing that is too high for loaded/self-contained touring although that same gearing generally appeals to club riders to whom the majority of these bikes are sold.",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "liSqyD2zWX",
+      "type": "paragraph",
+      "data": {
+        "text": "I look at it this way. If I am going down a hill and the speed reaches the point where I can no longer pedal then I have a rest and coast down the hill or I turn the pedals slowly to keep blood flowing in my legs."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "aWFIw8muMJ",
+      "type": "paragraph",
+      "data": {
+        "text": "On the other hand, if I am <b>climbing a hill and the resistance is too strong to continue without a lower gear</b> then I have very few options short of a long walk uphill pushing the bike."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ehrglqFF-j",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>I’ve never heard anyone complain about having too low of gear available but I’ve certainly heard people talk about having gears that were too high!</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "sXHc9bs4i9",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/drivetrain/drivetrain.jpg",
+          "name": "drivetrain.jpg",
+          "size": 373207,
+          "extension": "jpg"
+        },
+        "caption": "My current drivetrain on my Trek 520 has much lower than stock gearing leading to a happy and comfortable tour for me!",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "YB1DAYd9zS",
+      "type": "paragraph",
+      "data": {
+        "text": "So what can you do if you have a bike with gearing that is too high?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nxF12Zvk5B",
+      "type": "paragraph",
+      "data": {
+        "text": "The first thing I did was to find the gear that I liked to use the most on tour as well as the highest gear that I used regularly during that same tour. Of course, to be a useful exercise it is important that your route includes both ascents and descents and that you carry a normal touring load."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Lrff6GCjkR",
+      "type": "paragraph",
+      "data": {
+        "text": "Here are some of the questions that I ask myself following the ride."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "GjpAHIwn2Q",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Was my lowest gear low enough to allow me to spin my way uphill without causing a bad burn in my legs?",
+            "items": []
+          },
+          {
+            "content": "Was my highest gear high enough to allow me to cruise down the road at a reasonable speed or was I always wishing for another higher gear?",
+            "items": []
+          },
+          {
+            "content": "Was the spacing between the various gears good or did the test reveal large jumps that were quite irritating?",
+            "items": []
+          },
+          {
+            "content": "Would I be comfortable with this gearing over the course of a hilly eight-hour ride?",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "yNuManNQNO",
+      "type": "paragraph",
+      "data": {
+        "text": "Once I have this information then I have the basis to decide if I really do need to make changes."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "pURjwrIJin",
+      "type": "paragraph",
+      "data": {
+        "text": "Whenever I am considering gear changes I like to use something called a&nbsp;<a href=\"https://www.sheldonbrown.com/gear-calc.html\" target=\"_blank\" rel=\"nofollow\">Gear Calculator</a>. With the gear calculator, it is easy to determine how big of a change in gearing you are considering."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Bo8G9rNum7",
+      "type": "paragraph",
+      "data": {
+        "text": "There are many ways to view gearing information. Although somewhat dated I tend to use Gear Inches as my unit of measurement. Gear inches were originally determined by measuring the circumference of the large wheel on the old penny-farthings so the number that you see in the calculated result shows the penny-farthing wheel equivalent for that gear."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "tdyNUDIfST",
+      "type": "paragraph",
+      "data": {
+        "text": "When using the calculator I need to enter information about the crank length, tire size, front cranks and the rear cassette. Here are the answers I would have provided for my original Trek 520."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "OthpfVkhwB",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Crank length: 170mm",
+            "items": []
+          },
+          {
+            "content": "Tire Size: 700c X 32",
+            "items": []
+          },
+          {
+            "content": "Front cranks: 52/42/30",
+            "items": []
+          },
+          {
+            "content": "Rear cassette: Shimano (as), nine speed, 11-32",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "3ay15b0JfJ",
+      "type": "paragraph",
+      "data": {
+        "text": "This yields the following results: (Each column represents the gearing for that particular crank so in this example column one is for the 52 front, column two is 42 and column three is 30)."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "R6A02TFvEx",
+      "type": "table",
+      "data": {
+        "withHeadings": true,
+        "content": [
+          [
+            "52",
+            "42",
+            "30"
+          ],
+          [
+            "127.6",
+            "103.1",
+            "73.6"
+          ],
+          [
+            "108.0",
+            "87.2",
+            "62.3"
+          ],
+          [
+            "93.6",
+            "75.6",
+            "54.0"
+          ],
+          [
+            "82.6",
+            "66.7",
+            "47.6"
+          ],
+          [
+            "70.2",
+            "56.7",
+            "40.5"
+          ],
+          [
+            "61.0",
+            "49.3",
+            "35.2"
+          ],
+          [
+            "54.0",
+            "43.6",
+            "31.2"
+          ],
+          [
+            "46.8",
+            "37.8",
+            "27.0"
+          ],
+          [
+            "41.3",
+            "33.4",
+            "23.8"
+          ]
+        ]
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "6hSrxZhjNe",
+      "type": "paragraph",
+      "data": {
+        "text": "What this chart tells you is that my highest gear is 127.6 gear inches while my lowest gear is 23.8 gear inches. In practical terms, I rarely used even the 93.6 gear inch gear let alone the much higher ones.&nbsp;I also found myself wishing for lower gears on steep hills.&nbsp;<b>The hills were still doable but not as easy as I wanted!</b> Another thing to note is that the difference between gears ranged from 13 to 18 per cent meaning that some gears had a much bigger jump than others making it harder to decide to go up a gear or not."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "SlH2DFwks6",
+      "type": "paragraph",
+      "data": {
+        "text": "I have made modifications to my gearing since picking up the bike so my answers are different now:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Ioj78DRR0d",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Crank length: 170mm",
+            "items": []
+          },
+          {
+            "content": "Tire Size: 700c X 35",
+            "items": []
+          },
+          {
+            "content": "Front cranks: 42/32/22",
+            "items": []
+          },
+          {
+            "content": "Rear cassette: Cyclotouriste-13, nine speed, 13-34",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "PyIKxFi1MJ",
+      "type": "paragraph",
+      "data": {
+        "text": "This yields the following results:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "RZXA7o9N6A",
+      "type": "table",
+      "data": {
+        "withHeadings": true,
+        "content": [
+          [
+            "42",
+            "32",
+            "22"
+          ],
+          [
+            "87.8",
+            "66.9",
+            "46.0"
+          ],
+          [
+            "76.1",
+            "58.0",
+            "39.8"
+          ],
+          [
+            "67.1",
+            "51.1",
+            "35.2"
+          ],
+          [
+            "60.1",
+            "45.8",
+            "31.5"
+          ],
+          [
+            "54.3",
+            "41.4",
+            "28.5"
+          ],
+          [
+            "47.5",
+            "36.2",
+            "24.9"
+          ],
+          [
+            "42.3",
+            "32.2",
+            "22.1"
+          ],
+          [
+            "38.0",
+            "29.0",
+            "19.9"
+          ],
+          [
+            "33.6",
+            "25.6",
+            "17.6"
+          ]
+        ]
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "d_rExaiwg8",
+      "type": "paragraph",
+      "data": {
+        "text": "In this example, the highest gear is 87.8 gear inches while the lowest is 17.6. I can’t recall ever wishing for a higher gear and I’ve certainly come to appreciate the three lower gears that I have to choose from compared to before. As an added bonus the gears are much closer together too with only a 10 to 15 per cent difference between gears. This means that often I discover that my speed has increased slightly and I can easily switch to a higher gear. Over the course of a day, this can make a tremendous difference as you fine-tune your pedalling and gain that little extra bit of performance and comfort."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "it5rEGtuC5",
+      "type": "paragraph",
+      "data": {
+        "text": "When you compare the numbers for these two setups the following things should be visible."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "RD2CsAaoU5",
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          {
+            "content": "The highest gear has dropped significantly along with the lowest gear.",
+            "items": []
+          },
+          {
+            "content": "The spacing between gears is also much more even so no gears suffer from large jumps.",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "eKbo70gTPD",
+      "type": "paragraph",
+      "data": {
+        "text": "This makes it quite easy to shift up or down a gear to try to obtain the optimal gearing for the terrain that you are going through."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "pZObzBbFdm",
+      "type": "paragraph",
+      "data": {
+        "text": "I also use this bike for everyday commuting. In that mode, the loads are lower and I can easily push my highest gears. My current gear range is such that I seldom wish for one higher gear. About the only time is when I am racing a buddy and feel the need for a slightly harder push to drop them behind."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "TGP750-IIg",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Economics</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "yRMMYTiSio",
+      "type": "paragraph",
+      "data": {
+        "text": "The problem with the setup I’ve shown here is that I did it the expensive way. I basically accepted the stock bike as is the day of purchase and then gradually upgraded components as time passed and my knowledge level of what I needed has increased. This means that I gradually upgraded the rear cassette, front derailleur, front cranks and bottom bracket. I ended up with a very good setup for me but it cost money. If I could go back and do it again I would specify the lower gearing upfront assuming that I planned to do&nbsp;fully loaded/self-contained touring."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "YkkeCvNRWc",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Has the quality of my tour improved?</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hbfAYUv8DK",
+      "type": "paragraph",
+      "data": {
+        "text": "The quality of my touring experience has definitely improved. With my extremely low gearing, I haven’t found a hill yet that I can not eventually climb even with a full load of stuff. Not only can I climb the hills but after doing so my legs still feel energetic."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "dk3Kqlcfi3",
+      "type": "paragraph",
+      "data": {
+        "text": "For me making the gearing changes was definitely the right move and one that I wish I had done the day I purchased the bike. Since I already knew at that point that fully loaded/self-contained touring was in my future it would have been the most cost-effective way to do it."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Qd8QyLQqMq",
+      "type": "header",
+      "data": {
+        "text": "Drivetrain friction points checklist",
+        "level": 2
+      }
+    },
+    {
+      "id": "bod2Ojty9v",
+      "type": "paragraph",
+      "data": {
+        "text": "This list is to showcase the number of components of the drive train that could be suffering from increased friction thereby robbing you of your forward motion."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "282FIp1zH7",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Front and rear derailleur limit screw adjustments",
+            "items": []
+          },
+          {
+            "content": "Rear derailleur pulleys lubrication",
+            "items": []
+          },
+          {
+            "content": "Rear derailleur angle adjustment",
+            "items": []
+          },
+          {
+            "content": "The closeness of front derailleur cage",
+            "items": []
+          },
+          {
+            "content": "Parallelism of front derailleur cage",
+            "items": []
+          },
+          {
+            "content": "Arc of front derailleur cage follow chain wheel",
+            "items": []
+          },
+          {
+            "content": "Shifter cables integrity",
+            "items": []
+          },
+          {
+            "content": "Shifter cables length",
+            "items": []
+          },
+          {
+            "content": "Shifter cables tautness",
+            "items": []
+          },
+          {
+            "content": "Shifter cables routing",
+            "items": []
+          },
+          {
+            "content": "Shifter cables lubrication",
+            "items": []
+          },
+          {
+            "content": "Shifter tightness",
+            "items": []
+          },
+          {
+            "content": "Shifter lubrication (when applicable)",
+            "items": []
+          },
+          {
+            "content": "Bottom bracket spindle correct length",
+            "items": []
+          },
+          {
+            "content": "Bottom bracket spindle bolt tightness",
+            "items": []
+          },
+          {
+            "content": "Chain type (width, etc)",
+            "items": []
+          },
+          {
+            "content": "Chain length",
+            "items": []
+          },
+          {
+            "content": "Chain lubrication",
+            "items": []
+          },
+          {
+            "content": "Chain wear",
+            "items": []
+          },
+          {
+            "content": "Rear-axle fore-aft placement",
+            "items": []
+          },
+          {
+            "content": "Rear-axle angle in rear dropouts (up, down, front, back)",
+            "items": []
+          },
+          {
+            "content": "Freewheel cog wear",
+            "items": []
+          },
+          {
+            "content": "Freewheel cog orientation (front, back)",
+            "items": []
+          },
+          {
+            "content": "Freewheel tightness",
+            "items": []
+          },
+          {
+            "content": "Freewheel lubrication",
+            "items": []
+          },
+          {
+            "content": "Chainwheel wear",
+            "items": []
+          },
+          {
+            "content": "Chainwheel bolts tightness",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "ljKrfyJNZP",
+      "type": "paragraph",
+      "data": {
+        "text": "It’s a long list and it gives plenty of room for thought on one of those days when you are pushing against a relentless headwind and wondering how you could improve the efficiency to get that extra little bit of forward motion."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "IOlgyJ4aDq",
+      "type": "paragraph",
+      "data": {
+        "text": "Don’t let the apparent complexity overwhelm you. Most of these items are easy to adjust yourself with a bit of practice. Alternatively, if you don’t feel up to it then any good bicycle shop should be able to look at this list and help you out!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "DwoGzjO_qJ",
+      "type": "header",
+      "data": {
+        "text": "Protecting your derailleur from an accidental twist",
+        "level": 2
+      }
+    },
+    {
+      "id": "TB3nttS7sC",
+      "type": "paragraph",
+      "data": {
+        "text": "Derailleurs hangers are a relatively fragile part of a touring bike. Although it appears from the recent survey that damage occurs infrequently when it does occur it can really mess up your ability to shift rear gears successfully."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ewFRE4qztn",
+      "type": "paragraph",
+      "data": {
+        "text": "One advantage of bar-end shifters is that you can easily switch from indexed to friction mode and manually change the gears that way making this problem something you can often live with until you reach a shop."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "MDG5zsMEaF",
+      "type": "paragraph",
+      "data": {
+        "text": "Another alternative is to install a derailleur protection device like the one shown here in the picture. They are commonly used by off-road singletrack riders who crash more frequently while riding over technical terrain."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "uX_z1AQfsm",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/drivetrain/deraileurprotector.jpg",
+          "name": "deraileurprotector.jpg",
+          "size": 630046,
+          "extension": "jpg"
+        },
+        "caption": "After a helmet smashing day of off-road riding the protector has done its job well! The protector is actually the device that has dirt on it.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "F33PrYSScn",
+      "type": "paragraph",
+      "data": {
+        "text": "If you typically tour on the road then I suspect that the most likely cause of a bent hanger will be accidentally dropping your bike on its side after leaning it against a tree or possibly having an extremely bad wipeout on the open road. Both occurrences are hopefully relatively rare for the average cyclist."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "pE4Q73yeHl",
+      "type": "paragraph",
+      "data": {
+        "text": "Installing this device is simple. Remove the current wheel nut that your quick release attaches to. Replace it with the device and presto you have a derailleur protection device."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "qYqIhFE8vO",
+      "type": "paragraph",
+      "data": {
+        "text": "The picture on this page shows the device with a bit of dirt on it. The dirt came from a hard, helmet smashing wipeout that occurred while riding off-road at high speed. Despite wearing helmets for a long time this represented the first time my head actually hit the ground. Thanks to the helmet and the protective device on the derailleur the bike and I both came out fine!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "-4qKYofHTY",
+      "type": "paragraph",
+      "data": {
+        "text": "Although I do have this device installed on my off-road bike I haven’t installed one on the touring bike yet."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "pa92-k5AVZ",
+      "type": "header",
+      "data": {
+        "text": "Differences in crank length",
+        "level": 2
+      }
+    },
+    {
+      "id": "FvvvRLB48y",
+      "type": "paragraph",
+      "data": {
+        "text": "Recently while riding my fixed-gear bicycle I experimented with crank length. With a fixed gear, you have only one gear and you have to pedal constantly all the time. This means that when you go around a corner you have to pedal and as a consequence, it is possible to hit the pedal on the ground during the turn. Hitting a pedal on the ground can have a major impact on your cycling day so it’s something you try to avoid as much as possible."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "DdNC4hwkXT",
+      "type": "paragraph",
+      "data": {
+        "text": "My first set of cranks on this bike was 175 mm in length while the new set is 165 mm. Even though the testing was performed on a fixed-gear bike it was useful because it gave me a chance to really see first-hand the difference that 10 mm makes when riding a bicycle regardless of the type."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "eMpbxqwJq5",
+      "type": "paragraph",
+      "data": {
+        "text": "The 175 mm cranks had the advantage of giving me more leverage when climbing hills. It seemed to be easier to go uphill as long as I maintained forward momentum. When descending I found that my hips ended up moving further and pedalling smooth circles was much harder."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "z9c3daBzGc",
+      "type": "paragraph",
+      "data": {
+        "text": "The 165 mm cranks made pedalling fast downhill incredibly easy in comparison. On flat ground, I also found that I was pedalling more smoothly without moving my hips as much. Uphills were indeed harder but not to the point where it was impossible to ascend."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "YU9oszE-nP",
+      "type": "paragraph",
+      "data": {
+        "text": "I should also mention that I’ve been told that knee problems might be caused by extreme angles when pushing the pedals. <b>The 175 mm cranks put the knees at a much greater angle than do the 165 mm ones.</b> I don’t know how true this is but it is something worth looking into. It’s likely also worth noting that many mountain bikes come with 175 mm cranks and people seem to use those successfully in more difficult terrain than that encountered during the average bicycle road tour."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Xiaz5DVpbh",
+      "type": "paragraph",
+      "data": {
+        "text": "I found this recommendation on the internet:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "MXYl8EnNal",
+      "type": "paragraph",
+      "data": {
+        "text": "<b> Measure the distance from the top of your femur to the bottom of your bare feet. Figure out what 18.5% of that measurement is to determine your optimal crank arm size.</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "wl6EQIrDnl",
+      "type": "paragraph",
+      "data": {
+        "text": "So how does this relate to my bicycle touring bike?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "C3FuAMs7O3",
+      "type": "paragraph",
+      "data": {
+        "text": "My touring bike has 170 mm cranks so it’s set up mid-way between the two cranks I’ve used giving me slightly more leverage when climbing while also giving me the benefit of being able to spin easier circles while pedalling."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

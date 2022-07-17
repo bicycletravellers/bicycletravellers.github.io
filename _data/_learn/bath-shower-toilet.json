@@ -1,0 +1,922 @@
+{
+  "time": 1652213298369,
+  "blocks": [
+    {
+      "id": "ZmDQqOzzqc",
+      "type": "header",
+      "data": {
+        "text": "Using the Facilities when There is No Facility:&nbsp;Bathing, Showering, and the Call of Nature",
+        "level": 1
+      }
+    },
+    {
+      "id": "m2TcX-1akh",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>You may think you will have to cycle day after day without a shower, stinking like a dog and wearing the same dust-covered greasy shirt, until you throw yourself into a hotel room. But that's not the case. Let's see how you can stay clean and fresh every day, without the need for a hotel room.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "kXuIb-8qNG",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bath-shower-toilet/bath1024w.jpg",
+          "name": "bath1024w.jpg",
+          "size": 99113,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "q2Jpitwzav",
+      "type": "header",
+      "data": {
+        "text": "How to Keep Clean on a Bike Tour",
+        "level": 2
+      }
+    },
+    {
+      "id": "g7ecLbpyci",
+      "type": "paragraph",
+      "data": {
+        "text": "Delaying the need for bathing as much as you can is important because the water needed for bathing is a lot and you don’t want to waste your water&nbsp;if the water is scarce&nbsp;where you travel. As soon as you find enough water, stock it and find a good place to bathe, without delaying it further."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "q1Oel4q7Fu",
+      "type": "paragraph",
+      "data": {
+        "text": "It’s every three days for me, but in a good situation, it’s every two days, and in a bad situation, it’s four days. Assuming the worst-case scenario; you should stay clean as much as you can to&nbsp;prevent that grimy feeling and the odour&nbsp;by showering, or at least bird bathing."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "IWdGJ4oLnT",
+      "type": "internal",
+      "data": {
+        "text": "learn/water"
+      }
+    },
+    {
+      "id": "kQmvSG8vZb",
+      "type": "paragraph",
+      "data": {
+        "text": "Cotton clothes are quickly soaked with sweat and cause chafing, allowing microbial growth and thus, smell. Synthetic materials and&nbsp;natural merino wool clothes&nbsp;wick sweat and help it evaporate, so wearing them helps with sweat and odour and delays the need for bathing."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "LDMM5bgp1O",
+      "type": "paragraph",
+      "data": {
+        "text": "Shaving your head, beard, and other body hair prevents the accumulation of dust and grease.&nbsp;Daily showering, or at least,&nbsp;bird bathing&nbsp;is necessary because sleeping in grime is not comfortable."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8BJ7gBlupX",
+      "type": "paragraph",
+      "data": {
+        "text": "Lastly, if you can’t find water, a sleeping bag liner prevents the grime from getting into your sleeping bag, and you can wash the liner later."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "QoUtQrdPtM",
+      "type": "header",
+      "data": {
+        "text": "How to Bathe on a Bike Tour",
+        "level": 2
+      }
+    },
+    {
+      "id": "qC8_IWT-X-",
+      "type": "paragraph",
+      "data": {
+        "text": "When living outside, there are various options for bathing. I assure you, every one of them is better than bathing at home because&nbsp;it’s exhilarating to bathe in the open air, especially if there is a breeze. You’ll feel extremely refreshed, and that feeling is&nbsp;awesome."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "1E7se3c9le",
+      "type": "paragraph",
+      "data": {
+        "text": "Bathing when the water is abundant is easy, but most of the time, you’ll have to bathe/take a shower with the water you carry with you. I’ll write some tips and tricks about&nbsp;bathing with a little water, but when you find a water source, don’t miss the chance of a bath."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "x-hvzSRrUO",
+      "type": "paragraph",
+      "data": {
+        "text": "Tips:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "cydbA7QgeB",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "You can use a bandana as a towel in the summer",
+            "items": []
+          },
+          {
+            "content": "Shaving your head helps a lot",
+            "items": []
+          },
+          {
+            "content": "A solar shower bag is a nice thing to have",
+            "items": []
+          },
+          {
+            "content": "A sleeping bag liner helps to keep the sleeping bag clean",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "abG8JSW1MW",
+      "type": "header",
+      "data": {
+        "text": "Bathing in Streams / Lakes",
+        "level": 3
+      }
+    },
+    {
+      "id": "JasKNUKNYr",
+      "type": "paragraph",
+      "data": {
+        "text": "It’s impossible to find clean water streams in populated areas, so this is an option only in remote areas. Bathing in rivers might be dangerous because of the flow rate. So, if the flow rate is high, or the river is deep, not jumping in it is a good idea. You can bathe near the stream to access the water easily."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "sUofbERIij",
+      "type": "paragraph",
+      "data": {
+        "text": "Make sure you don’t use&nbsp;any kind of soap&nbsp;while bathing next to a stream or lake. Even bio-degradable soaps are harmful to wildlife until they bio-degrade. You can use baking soda or ashes as a substitute. Since water is abundant, take your time to enjoy nature."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8bdKAJhRSp",
+      "type": "paragraph",
+      "data": {
+        "text": "Your feet will get covered in mud after you get out of the water, so have a bottle of water ready to wash your feet before you put your socks on."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "JkD0O-YpHc",
+      "type": "paragraph",
+      "data": {
+        "text": "Water will be freezing cold in winter, so look for the other options."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "5xDdt0lWUp",
+      "type": "header",
+      "data": {
+        "text": "Bathing with a Bowl of Water",
+        "level": 3
+      }
+    },
+    {
+      "id": "x_WHPVT8Iu",
+      "type": "paragraph",
+      "data": {
+        "text": "This method works better if the weather is a little cold or there is too little water, but it’s messy."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "RCdFDzjM0e",
+      "type": "paragraph",
+      "data": {
+        "text": "First, find a good, hidden place to bathe. Perhaps a rock to sit or stand on. I usually lean against it if the rock is big, or stand on it if the rock is flat. Heat a small amount of water with your stove and pour it into the&nbsp;folding bowl. This water will get dirty, don’t mind about it. (To keep the water in the bowl clean, you can use a cup to get water from it, but eventually, some soap will get into it.)"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "an9KiwBdB8",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bath-shower-toilet/biketouringfoldingbowl1024w.jpg",
+          "name": "biketouringfoldingbowl1024w.jpg",
+          "size": 106133,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "WzYvK3vxKB",
+      "type": "paragraph",
+      "data": {
+        "text": "Wet your washcloth and lather it. From head to feet, pour just a little water onto your body, part by part and scrub with a washcloth. Rinse your eyes to see. I, personally, don’t rinse the other parts to save water until the end. Use the water from the bowl to wet the washcloth and your body."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "w8loOIw7Ie",
+      "type": "paragraph",
+      "data": {
+        "text": "After scrubbing yourself thoroughly, pour the water in the bowl on your head to rinse your body roughly. Even if the water is dirty, it won’t put the dirt back on you, it will just wash the soap away."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "2qn1attmwr",
+      "type": "paragraph",
+      "data": {
+        "text": "If you don’t want to stay lathered until the end, you can use a piece of wet cloth to wipe the soap residue off. Use the clean water from the bottle to rinse yourself completely, starting from head to feet."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "eUDmsc4KS5",
+      "type": "paragraph",
+      "data": {
+        "text": "Ah, and don’t forget to bring your clean clothes next to where you bathe, although nothing wrong with&nbsp;running around in the forest, naked."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "vMKaHa4Ymd",
+      "type": "paragraph",
+      "data": {
+        "text": "If the air is cold, rinse your upper body and cover yourself with a towel and continue to wash your lower body."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "kMuSSv6ACv",
+      "type": "paragraph",
+      "data": {
+        "text": "If the weather is really cold, you can&nbsp;bathe in the tent. After the bath, wipe the floor and wring to the bowl. If your tent has a detachable floor, it’s better. The outer tent will cover you from the freezing wind and your inner tent won’t get wet."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "rtaq7t7LtD",
+      "type": "header",
+      "data": {
+        "text": "Bathing with Water Bottles",
+        "level": 3
+      }
+    },
+    {
+      "id": "rWSp06scgJ",
+      "type": "paragraph",
+      "data": {
+        "text": "This is my favourite because it’s&nbsp;fast, efficient, and less messy. For bathing with water bottles, you only need your bottles (at least one of them should be a squirt bottle, it saves so much water), soap, and a washcloth. If you want, heat some water and put it in the squirt bottle. Only one bottle of warm water is enough, and not even necessary in summer. My squirt bottle is black and attached to my handlebar, so it gets warm enough under the sun to&nbsp;bathe in the summer."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "6n4Ye6cOCX",
+      "type": "paragraph",
+      "data": {
+        "text": "Wet the washcloth, lather it, pour some water on your head and lather it too, then start scrubbing. Starting from the top allows extra water to run down to the lower part of your body and reduces water usage. Repeat the same process for other parts of your body; torso, arms, and legs. I don’t rinse until I finish scrubbing completely to save water."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "XMIyztrYrx",
+      "type": "paragraph",
+      "data": {
+        "text": "After scrubbing yourself thoroughly, rinse yourself, again starting from the head. If you have only one squirt bottle, refill it from other bottles when it empties.&nbsp;A gallon of water&nbsp;is plenty enough to bathe completely if you use a squirt bottle."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "cyGvq1dmCe",
+      "type": "paragraph",
+      "data": {
+        "text": "After the bath, put the dirty washcloth in a freezer bag and wash it when you find running water, probably with your other clothes."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Lwdwab0OSp",
+      "type": "header",
+      "data": {
+        "text": "Bathing Under the Rain",
+        "level": 3
+      }
+    },
+    {
+      "id": "VEQ_-4vtx8",
+      "type": "paragraph",
+      "data": {
+        "text": "When there is an opportunity to&nbsp;bathe in the rain, don’t miss it. But make sure you have enough water to rinse yourself in case the rain stops suddenly. Since the rain is pouring continuously, you only need to lather up and scrub yourself as fast as possible. You can stay under a tree to reduce the amount of rain that falls on you until you scrub yourself."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "olR-bwGp0u",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bath-shower-toilet/bathingunderrain1024w.jpg",
+          "name": "bathingunderrain1024w.jpg",
+          "size": 64364,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "B1oBq7p4mj",
+      "type": "paragraph",
+      "data": {
+        "text": "Set up your tent before this, because drying off yourself under the rain is hard. Also, you can wear your clothes inside the tent."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "JKs4-C37QZ",
+      "type": "header",
+      "data": {
+        "text": "How to Take a Shower on a Bike Tour",
+        "level": 2
+      }
+    },
+    {
+      "id": "N-I43jEQbO",
+      "type": "paragraph",
+      "data": {
+        "text": "It’s important to take the sweat off your body to prevent fungus and odour. Bacteria grow rapidly in warm and moist environments, so taking away sweat, grime, and dead skin from your body helps to prevent health issues. Also, washing the dust and sweat away makes you feel great when sleeping."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "BbAzLa1wIv",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bath-shower-toilet/campshowerbiketouring1024w.jpg",
+          "name": "campshowerbiketouring1024w.jpg",
+          "size": 101400,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "42gd95Gkbh",
+      "type": "paragraph",
+      "data": {
+        "text": "You should note that; some deodorants prevent sweating, which is not healthy at all. Some, mask the odour with perfume and this attracts animals and bugs."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "j85uH7sueJ",
+      "type": "header",
+      "data": {
+        "text": "Taking a Shower with Water Bottle",
+        "level": 3
+      }
+    },
+    {
+      "id": "UzqZduQthl",
+      "type": "paragraph",
+      "data": {
+        "text": "You can take a complete shower with only a bottle of water. I usually don’t bother with other options and take my shower with a squirt bottle, but if there is an opportunity, I don’t miss it either."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N8mGtC6G0j",
+      "type": "paragraph",
+      "data": {
+        "text": "Use a squirt bottle and your hand to wash the sweat off from head to toe, that’s it.&nbsp;Don’t use soap.&nbsp;Soap softens the dead skin, and that needs scrubbing, and if you don’t scrub, it starts to itch. The main objective of the shower is to take the dust and sweat off your body, so you can walk around camp or sleep comfortably."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "6jIIm-76t4",
+      "type": "header",
+      "data": {
+        "text": "Taking a Shower in Beaches",
+        "level": 3
+      }
+    },
+    {
+      "id": "Zybma9r-N6",
+      "type": "paragraph",
+      "data": {
+        "text": "If you travel through the seashore, you can camp and shower on beaches, usually free of charge. Even some lakes have showers for visitors. Again, using soap is not allowed in beach showers, to protect the environment."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "6VBmozuJ4K",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bath-shower-toilet/showerbeach1024w.jpg",
+          "name": "showerbeach1024w.jpg",
+          "size": 95347,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "5C-sPNXdqA",
+      "type": "header",
+      "data": {
+        "text": "WarmShowers",
+        "level": 3
+      }
+    },
+    {
+      "id": "kEMZ9KHILV",
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"https://warmshowers.org/\" target=\"_blank\" rel=\"nofollow\">Warmshowers.org</a>&nbsp;is a hospitality community for bike travellers around the world, mainly focused on warm showers, which are missed by bicycle tourers. Some hosts provide food and accommodation as well; free of charge (or in exchange for your story!)."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "1IdIB1CtXC",
+      "type": "header",
+      "data": {
+        "text": "Taking a Bird Bath",
+        "level": 3
+      }
+    },
+    {
+      "id": "xeH_rugdCC",
+      "type": "paragraph",
+      "data": {
+        "text": "Sometimes, there is not enough water or privacy to take a full shower. At these times, taking a birdbath is the best way to keep clean. A birdbath is taken by washing some parts of your body, such as your arms, head, neck, armpits, feet, and sometimes, genital areas if there is privacy."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8dIjmD1Vom",
+      "type": "header",
+      "data": {
+        "text": "Taking a Bird Bath with Spring Water",
+        "level": 4
+      }
+    },
+    {
+      "id": "blQP2C-6Mu",
+      "type": "paragraph",
+      "data": {
+        "text": "Spring water is more readily found on roadsides, and taking a shower while truck drivers are looking at you can be embarrassing. But only washing your head, neck, and armpits, and if no one is looking, wiping the genital area really helps. If you are a male, taking your shirt off and washing your upper body is not a problem."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ud_0KycNha",
+      "type": "header",
+      "data": {
+        "text": "Taking a Bird Bath in Petrol Stations",
+        "level": 4
+      }
+    },
+    {
+      "id": "P0X3jH2IA6",
+      "type": "paragraph",
+      "data": {
+        "text": "Although some petrol stations have showers, you’ll mostly encounter small gas stations with no showers. When you stop by a gas station, don’t miss the opportunity of a birdbath with the tap water."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8G4WIDrlqR",
+      "type": "header",
+      "data": {
+        "text": "Taking a Bird Bath your Water Bottle",
+        "level": 4
+      }
+    },
+    {
+      "id": "x3WYol0itU",
+      "type": "paragraph",
+      "data": {
+        "text": "Whatever you do, you’ll be swimming in your own sweat when you find a place to camp. You need to wash that sweat away to be comfortable around camp and sleep comfortably. I use my squirt bottle to conserve water, and a bandana to help with cleaning if I’m running low on water."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "JYTImM5XFi",
+      "type": "header",
+      "data": {
+        "text": "How to Poop on a Bike Tour",
+        "level": 2
+      }
+    },
+    {
+      "id": "wPs4Fp4rxd",
+      "type": "header",
+      "data": {
+        "text": "The Easy Way",
+        "level": 3
+      }
+    },
+    {
+      "id": "3I0_Oh9dXa",
+      "type": "paragraph",
+      "data": {
+        "text": "The easy way is to hold it until you come across a gas station. They have pre-dug holes, running water, and soap to make the job easy. You can use other roadside facilities too, they are usually very helpful to travellers. If you can’t hold that much, there is a hard way too."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ekrBLZreQr",
+      "type": "header",
+      "data": {
+        "text": "The Hard Way",
+        "level": 3
+      }
+    },
+    {
+      "id": "jEfPgOKZYm",
+      "type": "paragraph",
+      "data": {
+        "text": "Where to poop is more important than how-to, because relieving yourself outdoors is very different. There is no sewer system, no holes, no sink, no privacy, nothing at all."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "J73j2q7EHZ",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bath-shower-toilet/bathroombiketouring1024w.jpg",
+          "name": "bathroombiketouring1024w.jpg",
+          "size": 28244,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "KrokZDOh87",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bath-shower-toilet/howtopoopinwoods1024w.jpg",
+          "name": "howtopoopinwoods1024w.jpg",
+          "size": 108615,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "sRaAcoa2sO",
+      "type": "header",
+      "data": {
+        "text": "The Squat",
+        "level": 4
+      }
+    },
+    {
+      "id": "L0ab8flvf8",
+      "type": "paragraph",
+      "data": {
+        "text": "Find a good place away from sight, and away from any water source. If there is a slope, face the upper side of the hill, because it makes it easier even with a shallow hole. Dig a hole at least 6 inches deep with a trowel, or with a tent stake, with a rock, or with the tip of your foot. Keep toilet paper and baby wipes close by."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "0ftJnvi8Qq",
+      "type": "header",
+      "data": {
+        "text": "The Tree Hug",
+        "level": 4
+      }
+    },
+    {
+      "id": "gT05R0Y6iv",
+      "type": "paragraph",
+      "data": {
+        "text": "This is the hardest way I guess because sometimes it can take too long to finish, and your arms won’t stand too much. Other than difficulty, it is the same as the squat method."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nWj1H0t1Uc",
+      "type": "header",
+      "data": {
+        "text": "The Butt Hang",
+        "level": 4
+      }
+    },
+    {
+      "id": "KRB2K4yJOO",
+      "type": "paragraph",
+      "data": {
+        "text": "You can use a fallen log as a seat if you don’t mind bugs climbing on you. It’s hard to find a fallen logs near roads because the villagers use them for fuel."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hKhwLC8R2B",
+      "type": "paragraph",
+      "data": {
+        "text": "Whichever method you use, don’t forget about these four rules:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "MH_W9dlV-R",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Minimize the chance of water pollution.",
+            "items": []
+          },
+          {
+            "content": "Minimize the spread of disease.",
+            "items": []
+          },
+          {
+            "content": "Minimize aesthetic impact.",
+            "items": []
+          },
+          {
+            "content": "Maximize decomposition.",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "vgyI0hVwAd",
+      "type": "header",
+      "data": {
+        "text": "About Hygiene",
+        "level": 3
+      }
+    },
+    {
+      "id": "7ToNaoC3bV",
+      "type": "paragraph",
+      "data": {
+        "text": "I can’t stress enough the importance of personal hygiene on the road. Being sick on the road is awful. Always take your soap, or hand sanitiser out of your panniers to access them easily after the job."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "NP5jokCb2E",
+      "type": "paragraph",
+      "data": {
+        "text": "Alcohol-based and perfume-free baby wipes are good to have, and you can clean anything with them. Make sure you wiped the trowel before you put it in your panniers, in case anything gets stuck to it."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "h3bwTdwcoI",
+      "type": "paragraph",
+      "data": {
+        "text": "You should also consider environmental hygiene and make sure you bury&nbsp;everything&nbsp;and cover the hole completely."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nZNe-p5MEd",
+      "type": "paragraph",
+      "data": {
+        "text": "We are human, after all."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "CHaVHqcMMB",
+      "type": "internal",
+      "data": {
+        "text": "learn/how-to-go-bike-touring, learn/water"
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

@@ -1,0 +1,306 @@
+{
+  "time": 1655116608235,
+  "blocks": [
+    {
+      "id": "id_281010",
+      "type": "header",
+      "data": {
+        "text": "Is It Normal for the Oil to Leak on Rohloff Hubs?",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "id_928801",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Does anyone know if it should be so that oil leaks around the shafts, the gear and at the gear shifter mechanism? On Rohloff.\nIs it normal?<div class=\"post_attachment\"><div class=\"post_album_attachment\"><img class=\"post_album_image\" loading=\"lazy\" src=\"/images/community/is-it-normal-for-the-oil-to-leak-on-rohloff-hubs/image_1655116376.jpg\" alt=\"\"><img class=\"post_album_image\" loading=\"lazy\" src=\"/images/community/is-it-normal-for-the-oil-to-leak-on-rohloff-hubs/image_1655116385.jpg\" alt=\"\"><img class=\"post_album_image\" loading=\"lazy\" src=\"/images/community/is-it-normal-for-the-oil-to-leak-on-rohloff-hubs/image_1655116393.jpg\" alt=\"\"></div></div></i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "id_199309",
+      "type": "delimiter",
+      "data": {}
+    },
+    {
+      "id": "id_148870",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Email Rohloff. It's a very specialized question. But I would think it should be a sealed unit and a gasket could have gone.</div>",
+        "author": "Steve Lindley",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_509487",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">No, it's not normal. I have 3 Rohloff hub bikes and none of the hubs leak. All bone dry. So don't know what you are doing or the history of your Rohloff hub? How old is it? Are you the original owner? Have the oil changes been done properly?</div>",
+        "author": "Alex Maudorn",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_939444",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Alex Maudorn\"> \n\nI bought it as new to my Thorn building seven years ago.  I cycled 11872 km.  But it started three years ago but was judged by my trader to be normal.  I change the oil every year and then rinse at the same time with rinsing liquid.</span></div>",
+        "author": "Peter Hagman",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_966432",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">My Rohloff leaks a little if the bike is stored lying down ( like on a plane) I read somewhere in Rohloff's literature that this is normal.</div>",
+        "author": "Steve Kennedy",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_649486",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Steve Kennedy\"> \n\nCan be so when I'm on a trip like now, I put the bike down during the night so that it does not overturn if it is windy or so that it is not visible.  Have now had it standing for two nights.  still damp, can be after-dipping</span></div>",
+        "author": "Peter Hagman",
+        "gender": "MALE",
+        "level": "2"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_350141",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Peter Hagman\"> As others have said Steve Kennedy above don't lay your bike on its side, especially on the non-drive, gear transfer box side as the oil might leak out of the hub certainly with the transfer box, torque arm plate and cog transfer wheel removed. I seem to remember Rohloff being quite explicit about this somewhere in their manual so I never have. I even try and park it with the oil drain grub screw on the casing uppermost and never had a problem. Maybe the seals on your hub need renewal? Email Rohloff to see what they suggest. Which country do you live in?</span></div>",
+        "author": "Alex Maudorn",
+        "gender": "MALE",
+        "level": "2"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_521864",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Steve Kennedy\"> \nSweden</span></div>",
+        "author": "Peter Hagman",
+        "gender": "MALE",
+        "level": "2"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_356932",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_attachment\"><div class=\"comment_photo_attachment\"><img class=\"comment_photo_image\" loading=\"lazy\" src=\"/images/community/is-it-normal-for-the-oil-to-leak-on-rohloff-hubs/image_1655116400.jpg\" alt=\"\"></div></div>",
+        "author": "Steve Lindley",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_412692",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">I have the same “issue” but since it began I have toured 12’000+ km without any problem. I also think is not normal but don’t worry, it will always do its job properly</div>",
+        "author": "Yuri Monaco",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_47204",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Yuri Monaco\"> \nThanks</span></div>",
+        "author": "Peter Hagman",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_719248",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Anti-corrosion system, similar to that on a Land Rover</div>",
+        "author": "Cliff Weier",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_980200",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">I had a similar problem and then realized it only happened if I laid the bike down on the left side (cable attachment side) and not if I laid it down on the right (crank) side.  That was 2 years ago and I haven't had a leak since now that I only leave it standing on laying on the right.</div>",
+        "author": "Sean Quinn",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_324310",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Sean Quinn\"> \nTry it now</span></div>",
+        "author": "Peter Hagman",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_578990",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">From Rohloff faq\nWhen the wheel lies on its side, oil could seep out of the seals because the oil is sitting directly over these seals on either the left or the right side. Transportation in the upright position will prevent the air temperature/pressure from having an effect over the <b>Rohloff SPEEDHUB 500/14</b>.\nIf it is not possible to transport the wheel in the upright position due to according packaging requirements, don't worry. The leakage of oil will not cause any damage.</div>",
+        "author": "Bart Van Aelst",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_368202",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">It’s part of standard maintenance to change the Rohloff hub seals once a decade or so. While the <b>hubs leak SLIGHTLY when the seals are still fine</b>, the leakage will slowly increase over time as the seals wear. So you may want to schedule seal replacement sometime after you return from your trip. It isn’t a risk to the hub that some oil leaks out—there will be plenty of lubricant since the hub does not require a full load of oil. One other factor to possibly be aware of…if you’re using a Gates belt, for years Gates was specifying much higher belt tension than what is actually needed—they have since lowered the belt tension spec. If you’ve been running too high belt tension for a while it may have damaged your hub bearings, so if you schedule a seal replacement, (which will likely require returning your wheel to a Rohloff service center) you may also want to change the bearings at the same time.</div>",
+        "author": "M Sebastian Richard Williams",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_153461",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">I've always had a slight smear of oil around it but not excessive, mine's now done 96,000km &amp; still nicely purring.</div>",
+        "author": "Mark Wallis",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_331481",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\">Mine's always had a slight smear of oil around the seal, it's now done 96,000km &amp; still nicely purring.</div>",
+        "author": "Mark Wallis",
+        "gender": "MALE",
+        "level": "0"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "id_321247",
+      "type": "fbcomment",
+      "data": {
+        "text": "<div class=\"comment_text\"><span class=\"ce-fbcomment-quote\" data-quote=\"Mark Wallis\"> \nI do not like purring oil.</span></div>",
+        "author": "Peter Hagman",
+        "gender": "MALE",
+        "level": "1"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

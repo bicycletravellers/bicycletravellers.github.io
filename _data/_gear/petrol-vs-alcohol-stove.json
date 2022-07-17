@@ -1,0 +1,544 @@
+{
+  "time": 1652379396618,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "Petrol Stove vs Alcohol Stove",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Long-distance cycling requires a good, sturdy stove with good fuel availability all over the world. We tested a multi-fuel petrol stove (</i>MSR Dragonfly<i>) and a soda can alcohol stove (Pepsi can alcohol stove) for various features. Let's see which is the winner.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "8hQmcg79vU",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/petrol-vs-alcohol-stove/campstove.jpg",
+          "name": "campstove.jpg",
+          "size": 87856,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "wYpM0czl05",
+      "type": "paragraph",
+      "data": {
+        "text": "The photo above is of a DIY soda can stove. Notice the handmade windscreen and pot holder. The two paper clips inside the leftmost can are used to hold the windscreen together. There are actually four stoves in the picture. By building your own stove you have a variety of options available to you."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "7SwBPO72b6",
+      "type": "header",
+      "data": {
+        "text": "The Contestants MSR Dragonfly, Soda Can Stove",
+        "level": 2
+      }
+    },
+    {
+      "id": "OerUykEVxy",
+      "type": "header",
+      "data": {
+        "text": "Testing Categories",
+        "level": 3
+      }
+    },
+    {
+      "id": "uHBpOGAJDY",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Cost",
+            "items": []
+          },
+          {
+            "content": "Noise",
+            "items": []
+          },
+          {
+            "content": "Flexibility",
+            "items": []
+          },
+          {
+            "content": "Weight",
+            "items": []
+          },
+          {
+            "content": "Ease of setup",
+            "items": []
+          },
+          {
+            "content": "Convenience/Packability",
+            "items": []
+          },
+          {
+            "content": "Fastest to boil water vigorously",
+            "items": []
+          },
+          {
+            "content": "Cool down time",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "FKpHukf32x",
+      "type": "header",
+      "data": {
+        "text": "How was the testing completed?",
+        "level": 4
+      }
+    },
+    {
+      "id": "J6DKnERZRt",
+      "type": "paragraph",
+      "data": {
+        "text": "All activity categories were completed in parallel by both contestants at the same time. When a category was completed the winner would wait for the second-place finisher before both would start the next task."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "PlWwJWQcM9",
+      "type": "header",
+      "data": {
+        "text": "Results",
+        "level": 3
+      }
+    },
+    {
+      "id": "esrLb1Hf93",
+      "type": "header",
+      "data": {
+        "text": "Cost",
+        "level": 4
+      }
+    },
+    {
+      "id": "5MS7l_4Oc9",
+      "type": "paragraph",
+      "data": {
+        "text": "The homemade soda can stove is much, much cheaper than the MSR Dragonfly. Estimating $20 for the soda can stove and since some material is left over, several more stoves can be made with what remains, making the cost even lower on a per stove basis."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "L1T6HTuFj_",
+      "type": "paragraph",
+      "data": {
+        "text": "The MSR Dragonfly cost at least $170 when I purchased it two years ago. I need to look up current prices but it will be more especially since I also purchased a maintenance kit and spare parts. The soda can stove can simply be recycled when it wears out."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8Y8qr_s9li",
+      "type": "paragraph",
+      "data": {
+        "text": "<b><i>The winner is the soda can stove.</i></b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "QhWSaQgaDQ",
+      "type": "header",
+      "data": {
+        "text": "Noise",
+        "level": 4
+      }
+    },
+    {
+      "id": "UyWy2Jhbv4",
+      "type": "paragraph",
+      "data": {
+        "text": "This might seem like a strange factor but not if you happen to be trying to stealth camp or simply type up your daily journal entry while supper is prepared. The Dragonfly is noisy. In fact, I often think of a high-performance fighter aircraft's afterburner when the Dragonfly is in full gear. In contrast, the soda  can stove is blissfully silent."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "j6hNzo-KLX",
+      "type": "paragraph",
+      "data": {
+        "text": "<b><i>The winner is the soda can stove.</i></b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Cgz76mM-GK",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/petrol-vs-alcohol-stove/1652377708_image.jpg",
+          "name": "1652377708_image.jpg",
+          "size": 33330,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "xsbY14aIgk",
+      "type": "header",
+      "data": {
+        "text": "Flexibility",
+        "level": 4
+      }
+    },
+    {
+      "id": "lHNGk918ci",
+      "type": "paragraph",
+      "data": {
+        "text": "The MSR Dragonfly that I have can run on six or eight different fuels including diesel and automotive fuel. Having said that the reality is that I usually only run on white gas. Still it’s nice to know that if I really needed to then I have options."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Ir5vEE2AlI",
+      "type": "paragraph",
+      "data": {
+        "text": "The soda  can stove runs on alcohol and only alcohol. This fuel is readily available in at least North America (think Lock de-icer fluid). The only other possible issue could be cold weather temperature performance. This last topic needs more research."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "enXWwXx7hm",
+      "type": "paragraph",
+      "data": {
+        "text": "Two other advantages of the soda can stove is the ability to rebuild on demand with very cost-effective, off the shelf parts and the ability to modify the design to meet your personal needs. Want a longer average burn time then build a slightly higher stove. Want bigger burner holes? Go ahead and create them!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "PxzsypUpko",
+      "type": "paragraph",
+      "data": {
+        "text": "<i><b>The winner is the soda can stove</b></i> although cold-weather performance needs more testing."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "GcX8xP8W27",
+      "type": "header",
+      "data": {
+        "text": "Weight",
+        "level": 4
+      }
+    },
+    {
+      "id": "pKRI0N1DYw",
+      "type": "paragraph",
+      "data": {
+        "text": "The MSR Dragonfly is a heavier stove than the soda can stove without question. In fact, a friend of mine was carrying three alcohol stoves with him without any weight penalty that I could tell."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "4jtwiG8JGT",
+      "type": "paragraph",
+      "data": {
+        "text": "<b><i>The winner is the soda can stove.</i></b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "lYxKU3LUzy",
+      "type": "header",
+      "data": {
+        "text": "Ease of setup",
+        "level": 4
+      }
+    },
+    {
+      "id": "S-T089l12e",
+      "type": "paragraph",
+      "data": {
+        "text": "This test determined how quickly a stove could be set up from stowed away inside pots etc to be ready for a match to be applied."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "tA43Ak0kir",
+      "type": "paragraph",
+      "data": {
+        "text": "The MSR Dragonfly has a pressurized fuel bottle. Of course, it gets that way when someone uses the built-in pump to increase pressure. This improves performance BUT from discussions with several backpackers, canoeists and cyclists who have used the stove the pump is easily broken."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Qb7Dg3OQ9c",
+      "type": "paragraph",
+      "data": {
+        "text": "When the gas bottle is already pressurized then the Dragonfly can be set up in about the same amount of time as the soda can stove."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "jgEgUsTB5C",
+      "type": "paragraph",
+      "data": {
+        "text": "<b><i>The winner is the soda  can stove.</i></b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "iiFH2o8yaY",
+      "type": "header",
+      "data": {
+        "text": "Convenience/Packability",
+        "level": 4
+      }
+    },
+    {
+      "id": "Wsgq1Wcg0y",
+      "type": "paragraph",
+      "data": {
+        "text": "When you can pack multiple stoves in the same space and without weight penalty as the competition then I believe the convenience factor is already won. Why?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "akwH9sies8",
+      "type": "paragraph",
+      "data": {
+        "text": "Imagine setting up camp and wanting to cook two, three or four items in parallel? Bob would have been able to do this with the soda can stove while I would have been stuck following a sequential path with the Dragonfly."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Hg5kCmlS-L",
+      "type": "paragraph",
+      "data": {
+        "text": "<i><b>The winner is the soda  can stove.</b></i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "lzE0ci7jeU",
+      "type": "header",
+      "data": {
+        "text": "Fastest to boil water vigorously",
+        "level": 4
+      }
+    },
+    {
+      "id": "yE4mLwicpx",
+      "type": "paragraph",
+      "data": {
+        "text": "This test was performed by having the stoves fueled and set up ready for a match to be used."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "q2xukCwyJQ",
+      "type": "paragraph",
+      "data": {
+        "text": "Both stoves had to bring an identical amount of water to a boil as quickly as possible using the highest performance settings available to each one."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "pCcfKOlJID",
+      "type": "paragraph",
+      "data": {
+        "text": "The Dragonfly was two to three times faster (think 5 minutes versus 10 minutes) compared to the soda can stove."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "1g3G2gL5KA",
+      "type": "paragraph",
+      "data": {
+        "text": "This sounds impressive until I apply a reality check that not all people would buy into. I often type in my daily journal entries while cooking dinner so I normally use the Dragonfly on a much lower setting."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "j-OpVz4lg-",
+      "type": "paragraph",
+      "data": {
+        "text": "A higher temperature test needs to be performed with the soda can stove to determine if the cold outside temperatures during the test played a significant role."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "lNau0-lIWe",
+      "type": "paragraph",
+      "data": {
+        "text": "<b><i>The winner is the MSR Dragonfly from an outright performance perspective.</i></b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "iLh3Vc7kux",
+      "type": "header",
+      "data": {
+        "text": "Cool down time",
+        "level": 4
+      }
+    },
+    {
+      "id": "lToL-s7aQ5",
+      "type": "paragraph",
+      "data": {
+        "text": "Both stoves seemed to take about the same amount of time to cool down for safe stow-away."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "X8OZgo13jG",
+      "type": "header",
+      "data": {
+        "text": "Overall winner?",
+        "level": 3
+      }
+    },
+    {
+      "id": "6NvUoXIw0a",
+      "type": "paragraph",
+      "data": {
+        "text": "You decide. After all, it’s up to you to decide what stove works best for your needs. I have to admit that I was surprised and impressed with how well the soda can stoves work especially when you factor in the cost."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

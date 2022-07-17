@@ -1,0 +1,852 @@
+{
+  "time": 1652212335458,
+  "blocks": [
+    {
+      "id": "vHbRY98bXN",
+      "type": "header",
+      "data": {
+        "text": "Finding Water on a Bike Tour and Using It Wisely",
+        "level": 1
+      }
+    },
+    {
+      "id": "IO56TliK2P",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Water is the most important thing in our lives, but finding drinkable water outdoors is not as easy as it seems. Let's see where you can find water, how you can make it drinkable, and how to store it on the bike while you travel around the world.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "PhXs8Sk5ez",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/water/water1024w.jpg",
+          "name": "water1024w.jpg",
+          "size": 86615,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "4K0z_rvIbQ",
+      "type": "header",
+      "data": {
+        "text": "How Much Water Do You Need when Bike Touring",
+        "level": 2
+      }
+    },
+    {
+      "id": "uUu9oeoWno",
+      "type": "paragraph",
+      "data": {
+        "text": "Water is already the most important thing, and when you are cycling all day under the scorching heat;&nbsp;it’s life or death. To make sure you are carrying enough water with you, calculate your water consumption and take enough water to last you between two supply points when cycle touring."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "jqrWDW5QyT",
+      "type": "header",
+      "data": {
+        "text": "Water for Drinking",
+        "level": 3
+      }
+    },
+    {
+      "id": "OzC3n8vL_-",
+      "type": "paragraph",
+      "data": {
+        "text": "On a regular day of cycling,&nbsp;4 litres of water&nbsp;is easily consumed. This depends on the weather, and in a hot climate, you may consume as much as twice that amount. Besides drinking, you need water for powdered milk, powdered fruit juice, making tea, and brewing coffee too."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "9fvGfPTYoh",
+      "type": "header",
+      "data": {
+        "text": "Water for Cooking",
+        "level": 3
+      }
+    },
+    {
+      "id": "tSk1kWa5UX",
+      "type": "paragraph",
+      "data": {
+        "text": "All grains, legumes and dehydrated food need a considerable amount of water to cook. Especially legumes, they need soaking, dehydrated food and grains need washing before the actual cooking."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "HRyurXkPEo",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/water/biketouringwaterforcooking1024w.jpg",
+          "name": "biketouringwaterforcooking1024w.jpg",
+          "size": 131943,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "Gc12VqIaf8",
+      "type": "paragraph",
+      "data": {
+        "text": "If the pot is small, you may have to add extra water while cooking when it boils down. Some people prefer not to carry dehydrated food to save drinking water, but normal food itself contains water already, and that doesn’t make any difference."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hCYdzX7kOg",
+      "type": "paragraph",
+      "data": {
+        "text": "When going to remote areas, dehydrated food, grains, and legumes are the only options."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nZLDytOKB1",
+      "type": "internal",
+      "data": {
+        "text": "learn/bike-touring-food"
+      }
+    },
+    {
+      "id": "R9BFwMLwyK",
+      "type": "header",
+      "data": {
+        "text": "Water for Dishwashing",
+        "level": 3
+      }
+    },
+    {
+      "id": "KI_r2DYIi_",
+      "type": "paragraph",
+      "data": {
+        "text": "Cooking delicious food on the road comes with a downside;&nbsp;the dishes. Cleaning the dishes consumes a lot of water. Depending on the mess, half or a full litre of water is needed to clean the dishes. There is not much to do but save as much as you can. Sometimes, you may have to skip the dishes to save water and clean it later when you find a water source."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "6hfZDmSEzf",
+      "type": "header",
+      "data": {
+        "text": "Water for Laundry",
+        "level": 3
+      }
+    },
+    {
+      "id": "M4UQCDBo0o",
+      "type": "paragraph",
+      "data": {
+        "text": "Doing laundry with the water from the bottles is impossible, but small items like underwear and socks can be washed in freezer bags with a little water. These small items can be washed under tap water even in public places without anyone noticing, so using precious drinking water for doing laundry doesn’t make sense."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "YasBV4rdlq",
+      "type": "header",
+      "data": {
+        "text": "Water for Bathing / Showering",
+        "level": 3
+      }
+    },
+    {
+      "id": "-32l2gvSu4",
+      "type": "paragraph",
+      "data": {
+        "text": "It’s possible to bathe with water&nbsp;less than 5 litres. You are not going to bathe every day, but when you do, you’ll need to have enough water to clean yourself, cook dinner, clean dishes, and save some water to drink the day after until you find water."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "9-Nhh0Evzt",
+      "type": "internal",
+      "data": {
+        "text": "learn/bath-shower-toilet"
+      }
+    },
+    {
+      "id": "IBkPuA5uvA",
+      "type": "paragraph",
+      "data": {
+        "text": "If you calculate it; five litres for bathing, two litres for cooking and cleaning, and three litres for drinking the rest of the day and the next day until you find water,&nbsp;a total of 10 litres."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "bQ2RYB2g6O",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/water/biketouringfoldingbowl1024w.jpg",
+          "name": "biketouringfoldingbowl1024w.jpg",
+          "size": 106133,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "8QenCnuU_o",
+      "type": "paragraph",
+      "data": {
+        "text": "Showering every day is a must, but a litre of water is enough to take the sweat off. If you are low on water, you can take a birdbath with a small amount of water to clean your armpits, face and neck, and other sweaty parts before going into your sleeping bag."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "zJaCY3YvBy",
+      "type": "header",
+      "data": {
+        "text": "Water for Cleaning the Equipment",
+        "level": 3
+      }
+    },
+    {
+      "id": "frNx4Zb81K",
+      "type": "paragraph",
+      "data": {
+        "text": "You need water for cleaning the tent after sleeping in the mud, washing the mud off from your bike, and cleaning the wood stove and other equipment. This cleaning can be postponed until you find a water source, so don’t waste your water if you are not sure that you’ll find some soon."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "65jLkHtKo8",
+      "type": "header",
+      "data": {
+        "text": "Water Sources",
+        "level": 2
+      }
+    },
+    {
+      "id": "Rhw0SVdYaW",
+      "type": "paragraph",
+      "data": {
+        "text": "When you travel around the world with your bike, don’t think you’ll find drinkable water everywhere. Most of the time, you won’t even know that the water is safe until you drink from it and don’t get sick."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "1ZdYEozl-6",
+      "type": "header",
+      "data": {
+        "text": "Springs",
+        "level": 3
+      }
+    },
+    {
+      "id": "WB0WPO9HN3",
+      "type": "paragraph",
+      "data": {
+        "text": "Earth is a natural filter and cleans the water while it’s flowing through the earth. When you see a spring flowing, and it’s not visually dirty, you can assume it’s clean and safe to drink. But there is an important thing to remember: if there is no pipe or tap on the spring, It may not have been tested by anyone else before and should be filtered before drinking."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "tEfhbtiW59",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/water/waterspring1024w.jpg",
+          "name": "waterspring1024w.jpg",
+          "size": 66817,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "sUK-l0UKGj",
+      "type": "header",
+      "data": {
+        "text": "Streams",
+        "level": 3
+      }
+    },
+    {
+      "id": "bJYJ4qMysq",
+      "type": "paragraph",
+      "data": {
+        "text": "Stream water may or may not be safe to drink depending on the type of the stream. If you are close to the source of the stream, the chance of contamination is low. Small creeks generated by melting snow are more likely to be clean. If you are in a human-populated area, or close to a trekking/camping area, you should&nbsp;definitely treat the water before drinking. Also, consider the dead animals upstream."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "6phI54yMK2",
+      "type": "header",
+      "data": {
+        "text": "Lakes / Ponds",
+        "level": 3
+      }
+    },
+    {
+      "id": "T2lrGvku6u",
+      "type": "paragraph",
+      "data": {
+        "text": "Stagnant water is a suitable medium for bacteria growth. All stagnant water should be filtered and purified before drinking. Water wells are included in stagnant water sources."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "xlGPsz1oxP",
+      "type": "header",
+      "data": {
+        "text": "Tap Water",
+        "level": 3
+      }
+    },
+    {
+      "id": "4ZGk0fYSVm",
+      "type": "paragraph",
+      "data": {
+        "text": "In undeveloped countries, even tap water is not filtered and is only used for cleaning. You should ask the locals if the tap water is safe to drink. In remote areas, tap water in gas stations is sourced from wells and only used for cleaning."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "BHXzJrBs7N",
+      "type": "header",
+      "data": {
+        "text": "Bottled Water",
+        "level": 3
+      }
+    },
+    {
+      "id": "9FlGNuCGnG",
+      "type": "paragraph",
+      "data": {
+        "text": "Probably the safest source of water you can find while touring by bike. Considering you need at least 5 litres of water just for drinking, it will be a major expense on your trip. I recommend only buying bottled water if you are unsure of other water sources and don’t have a filter."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "u4guSx9rIk",
+      "type": "paragraph",
+      "data": {
+        "text": "If you buy a small&nbsp;water filter/purifier, you won’t have to buy bottled water. This will reduce the costs marginally."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "An_WFr69X0",
+      "type": "header",
+      "data": {
+        "text": "Water Treatment",
+        "level": 2
+      }
+    },
+    {
+      "id": "rT-gWNvkDl",
+      "type": "paragraph",
+      "data": {
+        "text": "You can’t possibly know that you’ll always find clean, drinkable water along the way, so water treatment equipment is a must. There are different types of water treatment, and you may need more than one treatment option."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "s0mW9NNq-l",
+      "type": "header",
+      "data": {
+        "text": "Filtering the Water",
+        "level": 3
+      }
+    },
+    {
+      "id": "g0obE_RvCP",
+      "type": "paragraph",
+      "data": {
+        "text": "Filtering works by trapping organisms in the small, porous surface of the filter. Some filters have a lifetime of 1 tonne of water, and some of them have hundreds of litres. Even the shortest lifetime filter is enough for a&nbsp;round-the-world bike tour because you will not use the filter all the time."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "j2Eryr_alg",
+      "type": "header",
+      "data": {
+        "text": "Pre-Filters",
+        "level": 4
+      }
+    },
+    {
+      "id": "Juw6S708q9",
+      "type": "paragraph",
+      "data": {
+        "text": "Pre-filters are used for filtering the debris, moss, weed, and mud from the water. Without a pre-filter, you may damage the actual filter. Some filters come with a pre-filter included, but most filters don’t have this feature and you need to find a water source without much debris."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "yVE5lrUULg",
+      "type": "paragraph",
+      "data": {
+        "text": "You can use your bandana or socks to pre-filter the water if you need to."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "eGzUPb9fxM",
+      "type": "header",
+      "data": {
+        "text": "Carbon/Ceramic Filters",
+        "level": 4
+      }
+    },
+    {
+      "id": "DA0tsgVcwM",
+      "type": "paragraph",
+      "data": {
+        "text": "Carbon and ceramic filters have a very porous surface to trap protozoa and bacteria. Most of the time, this is enough to make the water drinkable. But when there is a possibility of viral contamination, purifying is needed. Viruses are too small for filters to catch them."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "yUo_bq5E6t",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/water/waterfilter1024w.jpg",
+          "name": "waterfilter1024w.jpg",
+          "size": 71520,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "xaldL3Lagr",
+      "type": "paragraph",
+      "data": {
+        "text": "Carbon filters&nbsp;also remove the odour from water, which is desirable if the water source is a lake or a pond."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "2ZtdlMxJcA",
+      "type": "paragraph",
+      "data": {
+        "text": "But there is a problem with filters; they tend to crack inside if the weather is below freezing point and the filter is wet, or if it’s hot enough to expand the filter."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "J5J4cPhnb3",
+      "type": "paragraph",
+      "data": {
+        "text": "You should follow the manufacturer’s maintenance steps to increase the life of the filter."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "fHuz-2U1jf",
+      "type": "header",
+      "data": {
+        "text": "Purifying the Water",
+        "level": 3
+      }
+    },
+    {
+      "id": "eUMsXUzHwg",
+      "type": "paragraph",
+      "data": {
+        "text": "Water filters don’t filter viruses, so if there is a possibility of virus contamination, you should purify the water before drinking. There are different options for purifying water, and each one is enough to kill any viruses in the water."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N9St6GnGp7",
+      "type": "header",
+      "data": {
+        "text": "Chemicals",
+        "level": 4
+      }
+    },
+    {
+      "id": "9I0ckkB_J7",
+      "type": "paragraph",
+      "data": {
+        "text": "Chemicals kill all protozoa, bacteria, and viruses, but don’t clean the water or remove the odour. If the water looks clean, you can kill the contaminants by using chemicals, but otherwise, you need to filter the water first and then use the chemicals."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "FgQoqKRn3e",
+      "type": "paragraph",
+      "data": {
+        "text": "You can use&nbsp;iodine drops&nbsp;or&nbsp;iodine tablets,&nbsp;chlorine tablets, or&nbsp;bleach&nbsp;to kill any protozoa, bacteria, and viruses. You need to wait at least 30 minutes before drinking water treated with iodine and bleach, and 4 hours for chlorine."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N3dlV6pgdp",
+      "type": "header",
+      "data": {
+        "text": "Boiling",
+        "level": 4
+      }
+    },
+    {
+      "id": "9eblpIlWqT",
+      "type": "paragraph",
+      "data": {
+        "text": "Boiling the water for a minute kills all protozoa, bacteria, and viruses. This method consumes a lot of fuel and needs more involvement than other methods. Boiling and cooling take time, and you can only boil as much as your pot can take at a time."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "EOVip3vEMv",
+      "type": "paragraph",
+      "data": {
+        "text": "The good side of this method is that you don’t have to carry anything extra. You can make a fire and boil your water almost anywhere in the world."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "OfrIOLsQXe",
+      "type": "header",
+      "data": {
+        "text": "UV Light",
+        "level": 4
+      }
+    },
+    {
+      "id": "FPMKMSnNe-",
+      "type": "paragraph",
+      "data": {
+        "text": "Ultraviolet light kills all protozoa, bacteria, and viruses. UV light purifiers work by stirring the water with the product. Silty or cloudy water reduces the effectiveness of&nbsp;UV light purifiers, so you need to pre-filter the water. Make sure the device is rechargeable with USB or uses standard batteries that you can replace on the road."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "FuLoEQdk2C",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/water/uvwaterfilter1024w.jpg",
+          "name": "uvwaterfilter1024w.jpg",
+          "size": 71096,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "yGolQhXXrz",
+      "type": "header",
+      "data": {
+        "text": "Storing Water on the Bike",
+        "level": 2
+      }
+    },
+    {
+      "id": "lThkuhDUrv",
+      "type": "paragraph",
+      "data": {
+        "text": "Most bikes have one or two bottle holders. You need to get creative if you want to carry five litres of water on the bike."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "1G89dFGfic",
+      "type": "header",
+      "data": {
+        "text": "Water Bottle Placement",
+        "level": 3
+      }
+    },
+    {
+      "id": "H_jrPQZHOn",
+      "type": "paragraph",
+      "data": {
+        "text": "Here is a list of places that you can attach your water bottles:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "GrNK3M65KD",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "On the back of your front panniers",
+            "items": []
+          },
+          {
+            "content": "On the forks, perhaps two bottles for each fork",
+            "items": []
+          },
+          {
+            "content": "On top of the handlebar stem",
+            "items": []
+          },
+          {
+            "content": "On top of the top tube",
+            "items": []
+          },
+          {
+            "content": "Under the top tube",
+            "items": []
+          },
+          {
+            "content": "On top of the bottom tube",
+            "items": []
+          },
+          {
+            "content": "Under the bottom tube",
+            "items": []
+          },
+          {
+            "content": "On to the seat tube",
+            "items": []
+          },
+          {
+            "content": "On to the seat stays",
+            "items": []
+          },
+          {
+            "content": "Under the back of the saddle",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "mfqDvKkFfi",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/water/pannierwaterbottleholder1024w.jpg",
+          "name": "pannierwaterbottleholder1024w.jpg",
+          "size": 61903,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "ki-XbuZXzw",
+      "type": "paragraph",
+      "data": {
+        "text": "Your touring bike probably won’t have all the attachment points listed above, but with clamp-on bottle cages, you don’t need any stinking screw holes."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "qV6SuaU5dF",
+      "type": "header",
+      "data": {
+        "text": "Water Bladders",
+        "level": 3
+      }
+    },
+    {
+      "id": "YXnM1SX5rF",
+      "type": "paragraph",
+      "data": {
+        "text": "Even though you can carry water bottles in your panniers, they take up a lot of space and annoy you when you search for something in the panniers. Water bags are durable and take as much space as the water that it contains. When you don’t need extra water, they don’t take space, and they are there when you need them."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "vy2aviwRhl",
+      "type": "header",
+      "data": {
+        "text": "Carrying Extra Water",
+        "level": 3
+      }
+    },
+    {
+      "id": "MQMulpPCST",
+      "type": "paragraph",
+      "data": {
+        "text": "If you know that there is no water source where you are going, you may have to carry enough water to survive until the next water source. In the heat of summer in the middle east, water is scarce and there are long stretches between water sources. I heard some bike travellers carrying&nbsp;20 litres of water, strapping them on the racks and panniers. You may free up some space in your panniers if you put light but bulky items like your clothes in a lightweight backpack and wear it."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Hi3B04EHGR",
+      "type": "internal",
+      "data": {
+        "text": "learn/bike-touring-101, learn/bike-touring-food, learn/bath-shower-toilet"
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

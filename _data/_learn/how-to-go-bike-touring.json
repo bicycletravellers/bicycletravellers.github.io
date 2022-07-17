@@ -1,0 +1,2195 @@
+{
+  "time": 1652179064127,
+  "blocks": [
+    {
+      "id": "YIdDwoMG7f",
+      "type": "header",
+      "data": {
+        "text": "How to go bike touring The Ultimate Guide",
+        "level": 1
+      }
+    },
+    {
+      "id": "iJ5iV25Uk8",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>No plan? Don't worry, this post is your guide to long-distance adventure cycling, whether it's bicycle touring or bikepacking.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "piMu0DOpy3",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/how-to-go-bike-touring/biketourists1024w.jpg",
+          "name": "biketourists1024w.jpg",
+          "size": 84219,
+          "extension": "jpg"
+        },
+        "caption": "Tourists by A. B. FROST - 1896",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "rZ-U0JVkux",
+      "type": "paragraph",
+      "data": {
+        "text": "It may not be that easy to leave your family and friends behind, but after the 10-day milestone, you’ll be free from whatever has kept you for so long. You may have a corporate job that you are sick of, and you want to <b>travel the world</b> like most of us. After reading this guide, and tons of other posts on this website, you’ll be able to put your foot on the pedal and&nbsp;travel across the world with your bike!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "oPO4m-bQe_",
+      "type": "header",
+      "data": {
+        "text": "Bicycle Touring Destinations",
+        "level": 2
+      }
+    },
+    {
+      "id": "FRbyZsS2a-",
+      "type": "paragraph",
+      "data": {
+        "text": "When it comes to choosing a destination, your choices are limited to&nbsp;countries in the world&nbsp;or the visas they’ll give you."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "uyDCWtnCz_",
+      "type": "paragraph",
+      "data": {
+        "text": "There are too many countries to choose from, but there are also too many countries that require you have a visa in order to travel through."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "bIZeGgBFCa",
+      "type": "paragraph",
+      "data": {
+        "text": "If this is your first <b>long-distance cycling tour</b>, I would recommend travelling within your own country. This way, you’ll grow your confidence and make your mistakes before going on an international bike tour."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "qbLFo8Jbtt",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/how-to-go-bike-touring/biketouringmap1024w.jpg",
+          "name": "biketouringmap1024w.jpg",
+          "size": 26620,
+          "extension": "jpg"
+        },
+        "caption": "It's not as flat as it looks.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "hrBwyhr5n_",
+      "type": "paragraph",
+      "data": {
+        "text": "You don’t need any fancy, specialized map service to do this. Google Maps, Yandex Maps, or Bing Maps is enough. Choose a country that you want to see and explore."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "dVu-Lrhkzg",
+      "type": "paragraph",
+      "data": {
+        "text": "Your main goal is to go to that country safely. Everything else is an adventure."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "bb5E7CdtPN",
+      "type": "header",
+      "data": {
+        "text": "Plan your logistics",
+        "level": 2
+      }
+    },
+    {
+      "id": "k7_I7t0-WS",
+      "type": "header",
+      "data": {
+        "text": "Bike Touring Food",
+        "level": 3
+      }
+    },
+    {
+      "id": "VqHCtNcS-u",
+      "type": "paragraph",
+      "data": {
+        "text": "Food is your fuel, you need to eat healthy food to function properly on the road. If you are going on a bike tour across the world, you must plan what you are going to eat."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "OQ2oACSdIt",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/how-to-go-bike-touring/biketouringfoodpizza1024w.jpg",
+          "name": "biketouringfoodpizza1024w.jpg",
+          "size": 36263,
+          "extension": "jpg"
+        },
+        "caption": "No, you are not going to eat pizza every day.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "74FrTiN4Mk",
+      "type": "paragraph",
+      "data": {
+        "text": "Pasta and rice are known for their short cooking times and long shelf life. Buy a small bottle of ketchup. It won’t go bad for, at least 5 days, and I’m sure you’ll finish it before then."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "853NQm8jLz",
+      "type": "paragraph",
+      "data": {
+        "text": "Fresh food is an option, but you need to consume it fast. Most vegetables and fruits will last 2 to 3 days if kept cool and ventilated properly, which may not be possible to do inside your panniers. If you are planning on traversing the Silk Road, carry vitamin pills because you are not going to find fresh food everywhere."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "RvsL7QvmDT",
+      "type": "paragraph",
+      "data": {
+        "text": "Packaged cheese lasts a surprisingly long time, preservatives do their jobs pretty well! Cream cheese lasts, at least, 3 days if it’s not under the sun."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ODntmBe6KQ",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/how-to-go-bike-touring/cookingsausagefire1024w.jpg",
+          "name": "cookingsausagefire1024w.jpg",
+          "size": 86421,
+          "extension": "jpg"
+        },
+        "caption": "It was delicious.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "Kg_bC4wn1V",
+      "type": "paragraph",
+      "data": {
+        "text": "In my experience, processed meats such as sausage and salami are good for 3 days, but you can cook them if you are not sure. I usually cook it after the first day, and I suggest you do the same."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Ft-eNEJ11K",
+      "type": "paragraph",
+      "data": {
+        "text": "Bread is an awesome source of calories that you don’t need to cook, of course, if you are not baking it yourself."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "BrBAUjcb-o",
+      "type": "paragraph",
+      "data": {
+        "text": "Nuts and seeds are calorie-dense and are available almost everywhere. Especially, peanut butter is the most beloved food in the bicycle touring community."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hCrpyiG6NZ",
+      "type": "header",
+      "data": {
+        "text": "Bike Touring Accommodation",
+        "level": 3
+      }
+    },
+    {
+      "id": "rLxG189RfQ",
+      "type": "paragraph",
+      "data": {
+        "text": "I always favour <b>wild camping</b> over anything. It’s free, and it has awesome views. Sometimes, you may have to stealth camp near a city which may not be as safe as wild camping."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "-ljhlB6oqz",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Stealth Camping</b>&nbsp;is the act of secretly sleeping in non-conventional areas, usually near the human population. "
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "bFN5X430BX",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Wild Camping</b>&nbsp;is going into remote places away from any road or civilization and camping out, close to nature."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "aFKTPoKVAs",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/how-to-go-bike-touring/wildcampingbicycletour1024w.jpg",
+          "name": "wildcampingbicycletour1024w.jpg",
+          "size": 57365,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "pwBUTaZvAo",
+      "type": "paragraph",
+      "data": {
+        "text": "There are other options, such as hotels/hostels, apartment rentals, paid campgrounds, warmshowers.org, guest houses, etc. Hotels and apartment rentals are too expensive, and the Warmshowers isn’t available everywhere."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Zxex6-QbIz",
+      "type": "paragraph",
+      "data": {
+        "text": "If there is a paid campground, there is a good chance of finding a stealth camping spot. If you are not touring with an unlimited credit card, I suggest you carry a good tent."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "BTnc1FCuTT",
+      "type": "header",
+      "data": {
+        "text": "Bike Touring Route Planning",
+        "level": 3
+      }
+    },
+    {
+      "id": "c1iQWsh_j4",
+      "type": "paragraph",
+      "data": {
+        "text": "Things always change when you are on the road."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "vI_D-5-UIm",
+      "type": "paragraph",
+      "data": {
+        "text": "If you are running out of food, you may have to change your route to the nearest town."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hL7Wnndm8q",
+      "type": "paragraph",
+      "data": {
+        "text": "There might be a very long stretch to your next stop, you may want to rest before going that route."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Ym8lRWNy63",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>Your camping stove broke? Good luck finding a replacement in Tibet.</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "0DJAWQKhj4",
+      "type": "paragraph",
+      "data": {
+        "text": "Once, I had to change my route, because I had a sidewall rip on my tire. If I kept going on the dirt road, I might have gotten stranded in the middle of nowhere."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "9l1Pe99bDn",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/how-to-go-bike-touring/biketouringrouteplanning1024w.jpg",
+          "name": "biketouringrouteplanning1024w.jpg",
+          "size": 38074,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "dSSn9fVQwx",
+      "type": "paragraph",
+      "data": {
+        "text": "Anyway, things will happen. You can’t plan everything. Open your favorite map service and choose a general route city-by-city. Then decide the small details on the road."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "U0OZY9c23m",
+      "type": "paragraph",
+      "data": {
+        "text": "You don’t need to print a map if you are going to navigate using GPS, but when people ask you where you are going, you can show the map. It’s also a great conversation starter."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ArEGVlU9cQ",
+      "type": "header",
+      "data": {
+        "text": "Getting Visas when Cycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "FXrzOjFOh0",
+      "type": "paragraph",
+      "data": {
+        "text": "This is the tricky part. Every country has different rules about visas. Some of them require a letter of invitation, and some of them don’t even want you in their country."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "UaBReyj6cl",
+      "type": "paragraph",
+      "data": {
+        "text": "You may have to bribe the customs officer, or they might ask for money without a real reason."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "qxzY8XCpxS",
+      "type": "paragraph",
+      "data": {
+        "text": "For some countries, you can get the visa at the border, some countries require an appointment beforehand. For some countries like Russia, China, Saudi Arabia, and Iran, you need a letter of invitation which you can’t get without a travel agency."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "cNZtQIYInu",
+      "type": "paragraph",
+      "data": {
+        "text": "In any case, you should research the visa requirements for every country that you intend to travel through, and prepare multiple copies of every paper."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "GBqb4qX7Vg",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/how-to-go-bike-touring/biketouringvisa1024w.jpg",
+          "name": "biketouringvisa1024w.jpg",
+          "size": 59209,
+          "extension": "jpg"
+        },
+        "caption": "tdaglobalcycling.com",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "3sOvrGnyyJ",
+      "type": "paragraph",
+      "data": {
+        "text": "There is an online service that can do this for you if you don’t want to deal with the details:&nbsp;<a href=\"https://www.visahq.com/\" target=\"_blank\" rel=\"nofollow\">https://www.visahq.com/</a>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Bl5n2G_PMZ",
+      "type": "header",
+      "data": {
+        "text": "Tips for getting visas",
+        "level": 4
+      }
+    },
+    {
+      "id": "0n71CIp_Oh",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Always carry US Dollars in cash",
+            "items": []
+          },
+          {
+            "content": "Most countries will issue a 30-day visa, so plan your route accordingly.",
+            "items": []
+          },
+          {
+            "content": "Some countries require a return flight ticket, so either print a fake ticket or buy a cancelable ticket.",
+            "items": []
+          },
+          {
+            "content": "They might ask you where you are going to sleep, give them a hotel name and an address. Don’t say you are going to camp.",
+            "items": []
+          },
+          {
+            "content": "Visa requirements might change while you are on the road, research again before you apply for a visa.",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "-Q27TSsUIQ",
+      "type": "header",
+      "data": {
+        "text": "Bike Touring Safety",
+        "level": 3
+      }
+    },
+    {
+      "id": "7LefKYa3pv",
+      "type": "header",
+      "data": {
+        "text": "Animal attacks when cycle touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "QSf-9qCTV0",
+      "type": "header",
+      "data": {
+        "text": "Dog attacks",
+        "level": 5
+      }
+    },
+    {
+      "id": "sFGO26vgzx",
+      "type": "paragraph",
+      "data": {
+        "text": "Dogs can be annoying, but most of them are not dangerous. When they see a weird tent-shaped object on their territory, they’ll rightfully bark at you for an hour. You don’t need to get out of the tent, just shout at them to go away. They’ll understand that you are a human."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "O9DlzmWqDE",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/how-to-go-bike-touring/dogswhilebiketouring1024w.jpg",
+          "name": "dogswhilebiketouring1024w.jpg",
+          "size": 58865,
+          "extension": "jpg"
+        },
+        "caption": "Kangal dog. I hope you won't encounter one.&nbsp;",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "-I2My4BszW",
+      "type": "paragraph",
+      "data": {
+        "text": "Look out for the shepherd dogs, especially in the middle east. They are trained to protect the herd&nbsp;<b>NO MATTER WHAT.</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "vuL0ks-fS0",
+      "type": "header",
+      "data": {
+        "text": "Boars and Bears",
+        "level": 5
+      }
+    },
+    {
+      "id": "01RhuVW5Te",
+      "type": "paragraph",
+      "data": {
+        "text": "If you hear a <b>wild pig snorting around your tent</b>, don’t make a sound. Don’t startle it. It will go away after a while."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "W3qHkYuXqt",
+      "type": "paragraph",
+      "data": {
+        "text": "The same goes for the bears. In any case, you should sleep with a bear spray every night."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "rh3RI8zErb",
+      "type": "paragraph",
+      "data": {
+        "text": "Not just for the animals,&nbsp;there are bad people out there too."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Z9ibKkArmh",
+      "type": "header",
+      "data": {
+        "text": "Other Wild Animals",
+        "level": 5
+      }
+    },
+    {
+      "id": "OZe2sVBh8p",
+      "type": "paragraph",
+      "data": {
+        "text": "The smell of food attracts animals. If you cook delicious meals in the middle of the forest, do it at least a hundred yards away from the campsite and don’t keep any food inside the tent."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "NAP5AATPfA",
+      "type": "header",
+      "data": {
+        "text": "Flies and Other Flying Insects",
+        "level": 5
+      }
+    },
+    {
+      "id": "Twc_LDHpXX",
+      "type": "paragraph",
+      "data": {
+        "text": "A large flying insect will hit you in the head like a bullet while you are riding. So, wear a helmet."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "pHJlVsHBAi",
+      "type": "paragraph",
+      "data": {
+        "text": "You should also wear glasses to protect your eyes from flies and debris."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "I1Wcf9qQS8",
+      "type": "paragraph",
+      "data": {
+        "text": "Carry a bottle of bug repellent to keep the flies away. (not a pesticide, as you don’t want them to die on your face.)"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "DWvkbuKYnB",
+      "type": "header",
+      "data": {
+        "text": "Traffic",
+        "level": 4
+      }
+    },
+    {
+      "id": "SkPYQWyFy6",
+      "type": "paragraph",
+      "data": {
+        "text": "Most of the main roads have big shoulders."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "muDBLVA4Lh",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/how-to-go-bike-touring/biketouringtrafficshoulder1024w.jpg",
+          "name": "biketouringtrafficshoulder1024w.jpg",
+          "size": 59211,
+          "extension": "jpg"
+        },
+        "caption": "like this",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "2turz9m26w",
+      "type": "paragraph",
+      "data": {
+        "text": "But some of them have none, so, legally, you need to use the full lane, but this is not practical most of the time, because of your slow speed."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "2Wi1uaYTVK",
+      "type": "paragraph",
+      "data": {
+        "text": "Keep close to the right side of the road, but don’t get too close, because you might lose control and have an accident."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "jYV6U25LvO",
+      "type": "paragraph",
+      "data": {
+        "text": "When someone honks their horn at you, slow down and get a little bit closer to the right."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "QEm6AYCAJR",
+      "type": "paragraph",
+      "data": {
+        "text": "Watch out for strong side wind, sometimes it can even push you to the other lane or out of the road."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "F2aXYz2N98",
+      "type": "header",
+      "data": {
+        "text": "Bad weather when cycle touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "esJ3h36PLs",
+      "type": "paragraph",
+      "data": {
+        "text": "You can be in a bad situation even in the summer, thankfully, there are some tips to avoid these situations."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hpOy0u4A5Z",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Seek shelter before things go bad.",
+            "items": []
+          },
+          {
+            "content": "Stake down your tent well, or tie it to the nearby trees.",
+            "items": []
+          },
+          {
+            "content": "Stay away from open spaces.",
+            "items": []
+          },
+          {
+            "content": "If you are at a high altitude, go down to the tree line.",
+            "items": []
+          },
+          {
+            "content": "If it is cold, don’t get wet.",
+            "items": []
+          },
+          {
+            "content": "Don’t start a fire if it’s windy, use an emergency blanket instead.",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "_KHcxFNsLx",
+      "type": "header",
+      "data": {
+        "text": "Staying healthy when cycle touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "6xvflj1D_B",
+      "type": "paragraph",
+      "data": {
+        "text": "Don’t try to ride more than you are comfortable with."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Dg_H0J65PW",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Knee problems are common among cyclists and you should take it easy to stay healthy.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "WYYo8gJP1h",
+      "type": "paragraph",
+      "data": {
+        "text": "I carry a tube of Anti-inflammatory Painkiller and a muscle relaxer cream for my legs, and a provitamin b-5 skin cream to help skin conditions and scars. Also, don’t forget your sun cream."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "VYd0a9J2hX",
+      "type": "paragraph",
+      "data": {
+        "text": "Always have a first aid kit ready and place it where you can reach easily."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "NyrIjVJdUH",
+      "type": "header",
+      "data": {
+        "text": "Bicycle Touring Gear",
+        "level": 2
+      }
+    },
+    {
+      "id": "rGu3Blaqlm",
+      "type": "header",
+      "data": {
+        "text": "The Bike Itself",
+        "level": 3
+      }
+    },
+    {
+      "id": "1Z_IizbAly",
+      "type": "paragraph",
+      "data": {
+        "text": "If you already have a strong bike and you’re happy with it, you don’t need to buy a new one. If you insist on buying a new bike, search for <b>“touring bikes”</b>. They are specifically made for <b>long-distance touring with a heavy load</b>. They are reliable, strong, and versatile."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "MJ2ecaoCOk",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/how-to-go-bike-touring/touringbike1024w.jpg",
+          "name": "touringbike1024w.jpg",
+          "size": 50260,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "PgrrsBmUOb",
+      "type": "paragraph",
+      "data": {
+        "text": "You can go on a <b>long-distance cycling tour with a mountain bike or a road bike</b>, but your setup will be different. There are various mounting options for racks and other gears on a touring bike. On a road bike, there are only bottle cage mounts. Though you can buy a rack that doesn’t require a mounting hole, that’s a different story."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "fMh2uc8fBO",
+      "type": "paragraph",
+      "data": {
+        "text": "There are also “hybrid bikes” which have various mounting points and have wider tires for off-road use."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Wq_lanITie",
+      "type": "header",
+      "data": {
+        "text": "Bike Touring Packlist",
+        "level": 3
+      }
+    },
+    {
+      "id": "9lTIhe-K_p",
+      "type": "header",
+      "data": {
+        "text": "Essential Items",
+        "level": 4
+      }
+    },
+    {
+      "id": "VBaMixhYST",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "ID Card",
+            "items": []
+          },
+          {
+            "content": "Passport",
+            "items": []
+          },
+          {
+            "content": "ATM Card",
+            "items": []
+          },
+          {
+            "content": "Cash in USD",
+            "items": []
+          },
+          {
+            "content": "Smartphone",
+            "items": []
+          },
+          {
+            "content": "Map",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "dYSUGEirj9",
+      "type": "header",
+      "data": {
+        "text": "Camping Equipment",
+        "level": 4
+      }
+    },
+    {
+      "id": "c70IaN5zRZ",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Portable solar charger",
+            "items": []
+          },
+          {
+            "content": "Power bank",
+            "items": []
+          },
+          {
+            "content": "Water filter",
+            "items": []
+          },
+          {
+            "content": "Wire saw",
+            "items": []
+          },
+          {
+            "content": "Garbage bag",
+            "items": []
+          },
+          {
+            "content": "Duct tape",
+            "items": []
+          },
+          {
+            "content": "Electrical tape",
+            "items": []
+          },
+          {
+            "content": "Tent",
+            "items": []
+          },
+          {
+            "content": "Sleeping bag",
+            "items": []
+          },
+          {
+            "content": "Sleeping bag liner",
+            "items": []
+          },
+          {
+            "content": "Sleeping pad",
+            "items": []
+          },
+          {
+            "content": "Notepad",
+            "items": []
+          },
+          {
+            "content": "Pen",
+            "items": []
+          },
+          {
+            "content": "Emergency blanket",
+            "items": []
+          },
+          {
+            "content": "Lighters",
+            "items": []
+          },
+          {
+            "content": "Camping Knife",
+            "items": []
+          },
+          {
+            "content": "Paracord",
+            "items": []
+          },
+          {
+            "content": "Folding bowl",
+            "items": []
+          },
+          {
+            "content": "Tripod",
+            "items": []
+          },
+          {
+            "content": "Pepper spray",
+            "items": []
+          },
+          {
+            "content": "Needle and thread",
+            "items": []
+          },
+          {
+            "content": "Whistle",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "htRzcKp_gH",
+      "type": "header",
+      "data": {
+        "text": "Kitchen",
+        "level": 4
+      }
+    },
+    {
+      "id": "1v8cY9_hHR",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Stove",
+            "items": []
+          },
+          {
+            "content": "Gas canister",
+            "items": []
+          },
+          {
+            "content": "Pot",
+            "items": []
+          },
+          {
+            "content": "Mug",
+            "items": []
+          },
+          {
+            "content": "Knife",
+            "items": []
+          },
+          {
+            "content": "Fork",
+            "items": []
+          },
+          {
+            "content": "Spoon",
+            "items": []
+          },
+          {
+            "content": "Teaspoon",
+            "items": []
+          },
+          {
+            "content": "Tea",
+            "items": []
+          },
+          {
+            "content": "Tea brewer tool",
+            "items": []
+          },
+          {
+            "content": "Coffee",
+            "items": []
+          },
+          {
+            "content": "Coffee filter",
+            "items": []
+          },
+          {
+            "content": "Oil",
+            "items": []
+          },
+          {
+            "content": "Salt and spices",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "KbOjie1tx8",
+      "type": "header",
+      "data": {
+        "text": "Toiletries",
+        "level": 4
+      }
+    },
+    {
+      "id": "dcVTW-JtBW",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Microfiber towel",
+            "items": []
+          },
+          {
+            "content": "Razor",
+            "items": []
+          },
+          {
+            "content": "Clippers",
+            "items": []
+          },
+          {
+            "content": "Cotton swabs",
+            "items": []
+          },
+          {
+            "content": "Soap box",
+            "items": []
+          },
+          {
+            "content": "Bath glove",
+            "items": []
+          },
+          {
+            "content": "Baby wipes",
+            "items": []
+          },
+          {
+            "content": "Soap",
+            "items": []
+          },
+          {
+            "content": "Toilet paper",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "RtLfZxPosT",
+      "type": "header",
+      "data": {
+        "text": "Clothing",
+        "level": 4
+      }
+    },
+    {
+      "id": "kM-qxQfCRN",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Pants",
+            "items": []
+          },
+          {
+            "content": "Bandana",
+            "items": []
+          },
+          {
+            "content": "Socks",
+            "items": []
+          },
+          {
+            "content": "Underwear",
+            "items": []
+          },
+          {
+            "content": "Shoes",
+            "items": []
+          },
+          {
+            "content": "Shirts",
+            "items": []
+          },
+          {
+            "content": "Thermal wear",
+            "items": []
+          },
+          {
+            "content": "Sandals",
+            "items": []
+          },
+          {
+            "content": "Rain gear",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "g3N-O5dVHy",
+      "type": "header",
+      "data": {
+        "text": "Health Kit",
+        "level": 4
+      }
+    },
+    {
+      "id": "yNtrUdpOvG",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Painkiller",
+            "items": []
+          },
+          {
+            "content": "Muscle relaxer",
+            "items": []
+          },
+          {
+            "content": "Anti-inflammatory cream",
+            "items": []
+          },
+          {
+            "content": "Sunscreen",
+            "items": []
+          },
+          {
+            "content": "Small scissors",
+            "items": []
+          },
+          {
+            "content": "Tweezers",
+            "items": []
+          },
+          {
+            "content": "First aid kit",
+            "items": []
+          },
+          {
+            "content": "Band-Aids",
+            "items": []
+          },
+          {
+            "content": "Povidone-iodine",
+            "items": []
+          },
+          {
+            "content": "Gauze bandage",
+            "items": []
+          },
+          {
+            "content": "Compression wrap",
+            "items": []
+          },
+          {
+            "content": "Fabric tape",
+            "items": []
+          },
+          {
+            "content": "Antibiotics",
+            "items": []
+          },
+          {
+            "content": "Safety pins",
+            "items": []
+          },
+          {
+            "content": "Benadryl",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "-Ki5Q4vtVI",
+      "type": "header",
+      "data": {
+        "text": "Bike Gear",
+        "level": 4
+      }
+    },
+    {
+      "id": "wa1l9XXSif",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Tire liner",
+            "items": []
+          },
+          {
+            "content": "Hand pump",
+            "items": []
+          },
+          {
+            "content": "Chain oil",
+            "items": []
+          },
+          {
+            "content": "Helmet",
+            "items": []
+          },
+          {
+            "content": "Gloves",
+            "items": []
+          },
+          {
+            "content": "Bike computer",
+            "items": []
+          },
+          {
+            "content": "Kickstand",
+            "items": []
+          },
+          {
+            "content": "Plastic cable ties",
+            "items": []
+          },
+          {
+            "content": "Bike lock",
+            "items": []
+          },
+          {
+            "content": "Spare inner tube",
+            "items": []
+          },
+          {
+            "content": "Bike light",
+            "items": []
+          },
+          {
+            "content": "Knee pads",
+            "items": []
+          },
+          {
+            "content": "Arm pads",
+            "items": []
+          },
+          {
+            "content": "Rack",
+            "items": []
+          },
+          {
+            "content": "Chain cleaning tools",
+            "items": []
+          },
+          {
+            "content": "Mudguards",
+            "items": []
+          },
+          {
+            "content": "Mirror",
+            "items": []
+          },
+          {
+            "content": "Bottle cages",
+            "items": []
+          },
+          {
+            "content": "Water bottles",
+            "items": []
+          },
+          {
+            "content": "Grease",
+            "items": []
+          },
+          {
+            "content": "Glasses",
+            "items": []
+          },
+          {
+            "content": "Elastic cord",
+            "items": []
+          },
+          {
+            "content": "Panniers",
+            "items": []
+          },
+          {
+            "content": "Saddlebag",
+            "items": []
+          },
+          {
+            "content": "Frame bag",
+            "items": []
+          },
+          {
+            "content": "Handlebar bag",
+            "items": []
+          },
+          {
+            "content": "Repair Tools",
+            "items": []
+          },
+          {
+            "content": "Allen keys",
+            "items": []
+          },
+          {
+            "content": "Tire patch kit",
+            "items": []
+          },
+          {
+            "content": "Spoke wrench",
+            "items": []
+          },
+          {
+            "content": "Power links",
+            "items": []
+          },
+          {
+            "content": "Spare brake cable",
+            "items": []
+          },
+          {
+            "content": "Spare shifter cable",
+            "items": []
+          },
+          {
+            "content": "Chain tool",
+            "items": []
+          },
+          {
+            "content": "Crank extractor",
+            "items": []
+          },
+          {
+            "content": "BB tool",
+            "items": []
+          },
+          {
+            "content": "Cassette tool",
+            "items": []
+          },
+          {
+            "content": "Hub repair tools",
+            "items": []
+          },
+          {
+            "content": "Spanner",
+            "items": []
+          },
+          {
+            "content": "Spare rear derailleur hanger",
+            "items": []
+          },
+          {
+            "content": "Adjustable wrench",
+            "items": []
+          },
+          {
+            "content": "Kevlar Spoke",
+            "items": []
+          },
+          {
+            "content": "Spare brakes",
+            "items": []
+          },
+          {
+            "content": "Spare spokes",
+            "items": []
+          },
+          {
+            "content": "Spare nuts and bolts",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "YzMa4F7D6O",
+      "type": "header",
+      "data": {
+        "text": "Misc. Items",
+        "level": 4
+      }
+    },
+    {
+      "id": "KQR8FYWhoq",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Ground cloth for picnic",
+            "items": []
+          },
+          {
+            "content": "Watch, useful while cooking",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "Eb9Kpxe1mL",
+      "type": "header",
+      "data": {
+        "text": "Electricity when Cycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "yMT98dz922",
+      "type": "header",
+      "data": {
+        "text": "Dynamo Hub",
+        "level": 4
+      }
+    },
+    {
+      "id": "duA_-lfIbl",
+      "type": "paragraph",
+      "data": {
+        "text": "You can charge your electronics while you ride! Now don’t get too excited, this means you can’t charge anything while you are off the bike."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "fFqHzSJLDW",
+      "type": "paragraph",
+      "data": {
+        "text": "Of course, you can first charge your power bank with the dynamo and then the electronics with your power bank."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "zexlnZxSnU",
+      "type": "paragraph",
+      "data": {
+        "text": "There are various dynamo hub options, some of them are really light and strong. You need to either rebuild the wheel to install the dynamo hub or buy an already built wheel with a dynamo hub."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "oPDhMqJszT",
+      "type": "paragraph",
+      "data": {
+        "text": "Which one is good? Neither."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "PJwHajmubt",
+      "type": "header",
+      "data": {
+        "text": "Solar charger",
+        "level": 4
+      }
+    },
+    {
+      "id": "5SA8Yjkg5D",
+      "type": "paragraph",
+      "data": {
+        "text": "All devices that support Micro-USB can be charged with a 5V 1A power supply. Which equals 5W/h."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "bBfYX6IQv3",
+      "type": "paragraph",
+      "data": {
+        "text": "A 15-watt solar charger is enough to charge 2 devices simultaneously even when the weather is cloudy."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "SjW3fN2Gvs",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/how-to-go-bike-touring/solarchargerbiketouring1024w.jpg",
+          "name": "solarchargerbiketouring1024w.jpg",
+          "size": 90036,
+          "extension": "jpg"
+        },
+        "caption": "Sun drying daisies for chamomile tea while charging my power bank",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "ZC1cNATPQ3",
+      "type": "paragraph",
+      "data": {
+        "text": "You can charge a power bank and then charge the other electronics while you are sleeping, which is my favourite."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "jGyZOon1Gj",
+      "type": "header",
+      "data": {
+        "text": "Electronics for Cycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "W_zGuBdV-G",
+      "type": "paragraph",
+      "data": {
+        "text": "You don’t need any electronics other than your smartphone, a solar charger, and a power bank."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "FmTaYJn57b",
+      "type": "paragraph",
+      "data": {
+        "text": "Some people carry a large, heavy and expensive DSLR camera with them, which is hard to keep safe. Current smartphones can take awesome quality photos, so why carry another camera?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "XHNjCbK_53",
+      "type": "paragraph",
+      "data": {
+        "text": "You don’t even need a navigation device, you can download maps to your phone and use them offline."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "T_tIbruWTT",
+      "type": "header",
+      "data": {
+        "text": "Connectivity on Long Tours",
+        "level": 3
+      }
+    },
+    {
+      "id": "iEGj7sBPSO",
+      "type": "paragraph",
+      "data": {
+        "text": "If you are planning to tour in the same country you are in, this is not an issue, but when you go on a bike tour around the world, this becomes a major problem."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "tYMgCNzoK5",
+      "type": "paragraph",
+      "data": {
+        "text": "You need to send daily or, at least, weekly messages to your family, letting them know you are fine."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "BSzLPN2I_P",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/how-to-go-bike-touring/satellitephone1024w.jpg",
+          "name": "satellitephone1024w.jpg",
+          "size": 38507,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "Gu-knzDV2U",
+      "type": "paragraph",
+      "data": {
+        "text": "Satellite phones work everywhere that has a sky, but I will not suggest you buy one. They are heavy like a brick and very expensive to carry on the bike."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "aIjuXO_-K_",
+      "type": "paragraph",
+      "data": {
+        "text": "Some mobile service providers have international plans, but that might be too expensive to use for browsing the internet or calling home. Text messages are cheaper, so you can text your mom and tell her where you are."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "2EUpQRRoHX",
+      "type": "paragraph",
+      "data": {
+        "text": "If you write a blog or use the internet for satellite imagery, look for public Wi-Fi hotspots. In some cafés, you might need to order something before they give you the password."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "A86ynJcHd0",
+      "type": "header",
+      "data": {
+        "text": "Maintenance when Cycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "6A05Slt7l4",
+      "type": "paragraph",
+      "data": {
+        "text": "You don’t want to get stranded in the middle of Pakistan, right?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "dC9e6x6Zwy",
+      "type": "header",
+      "data": {
+        "text": "Bike maintenance while touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "Nk5pqB8iNN",
+      "type": "paragraph",
+      "data": {
+        "text": "Your bike might be worth thousands of dollars, but that doesn’t mean it’s not going to break under you. Preventive maintenance is the key. You should take care of your bike to prevent problems on the road."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "E0tGGE-Rsl",
+      "type": "header",
+      "data": {
+        "text": "Chain maintenance",
+        "level": 5
+      }
+    },
+    {
+      "id": "K497iO3NPX",
+      "type": "paragraph",
+      "data": {
+        "text": "The crankset, cassette, and even the derailleurs can be affected by the chain. You probably already know this, but your gear set won’t last much without proper chain cleaning and greasing."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "qD3EEoDDLD",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/how-to-go-bike-touring/bikechainmud1024w.jpg",
+          "name": "bikechainmud1024w.jpg",
+          "size": 92021,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "953J1xsTX-",
+      "type": "paragraph",
+      "data": {
+        "text": "There are two types of chain lube; dry lube and wet lube. Dry lube is awesome if you don’t ride your bike, but when on a world tour, you may have to lube the chain twice a day. It doesn’t gather dust or grime, but it wears out quickly."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "64piy-JRPG",
+      "type": "paragraph",
+      "data": {
+        "text": "Wet lube is, well, regular chain oil."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "6ZVZ2uj2e5",
+      "type": "header",
+      "data": {
+        "text": "Nuts and bolts",
+        "level": 5
+      }
+    },
+    {
+      "id": "7nEbE7BqiR",
+      "type": "paragraph",
+      "data": {
+        "text": "Some bolts will get stuck, don’t mind them. But some of them may get loose and lead to an accident. Regularly check every screw on your bike, specifically for the bolts on the rack. Even better, put some Loctite on every bolt before you leave! Loctite will keep the screws tight and secure."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "WT9q5b-i14",
+      "type": "header",
+      "data": {
+        "text": "Tire patching",
+        "level": 5
+      }
+    },
+    {
+      "id": "O3w3CK3J2y",
+      "type": "paragraph",
+      "data": {
+        "text": "Always carry, at least, one spare inner tube in case the tire gets slashed. When a tire goes flat, the rim smashes the sidewall of the tire. Sometimes it’s not that bad, but you may have to use a tire patch to seal the sidewall."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ArN-G_V_yJ",
+      "type": "header",
+      "data": {
+        "text": "Spoke tension",
+        "level": 5
+      }
+    },
+    {
+      "id": "NAh979ak6o",
+      "type": "paragraph",
+      "data": {
+        "text": "You may not be able to do this yourself, so just consult with your LBS. If the spoke tension is uneven, they will break one by one. If this happens on the road, you need some tools and spare spokes to fix it."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "dU8Kkd6h7N",
+      "type": "paragraph",
+      "data": {
+        "text": "There is an awesome solution for this called FiberFix. Forget the tools and spokes, just take one or two of this and don’t look back."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "mb8Hu_3Ey4",
+      "type": "paragraph",
+      "data": {
+        "text": "When it comes to repairing things, I’m not that handy. But with FiberFix, I don’t have to be. That sounds like an advertisement, doesn’t it? :)"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "BzR5N3vUFP",
+      "type": "header",
+      "data": {
+        "text": "Tent maintenance",
+        "level": 4
+      }
+    },
+    {
+      "id": "1sCh8KTLOq",
+      "type": "paragraph",
+      "data": {
+        "text": "Keep your tent dry. Even the best tents will get damp from moisture and smell if you don’t ventilate them. In the mornings, you can dry the tent with a rag or just let it sit under the sun until it dries."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "SHqJPALVmB",
+      "type": "header",
+      "data": {
+        "text": "Sleeping bag maintenance",
+        "level": 4
+      }
+    },
+    {
+      "id": "x-sECtl_LD",
+      "type": "paragraph",
+      "data": {
+        "text": "Same as the tent maintenance, but with a twist. You can’t use a rag to dry your sleeping bag. You need to air it regularly and I suggest you buy a sleeping bag sheet. Washing the sheet is easier than washing the sleeping bag."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "YvJ9qyDId0",
+      "type": "header",
+      "data": {
+        "text": "Electronics maintenance",
+        "level": 4
+      }
+    },
+    {
+      "id": "K5cFhN3l73",
+      "type": "paragraph",
+      "data": {
+        "text": "Freezer bags. Put all the electronics in freezer bags. This will keep them dry even in foggy conditions. Yes, your pannier could be waterproof, but it’s not fog-proof."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "QpD_-OwmeD",
+      "type": "header",
+      "data": {
+        "text": "Returning Home",
+        "level": 2
+      }
+    },
+    {
+      "id": "kNJHCYS24J",
+      "type": "paragraph",
+      "data": {
+        "text": "After my first tour, I was so depressed and felt like I was in jail. I wanted to go back, wherever I could go. I couldn’t work, watch movies, or do anything at all. I was sitting in my room and staring at my bike. This is called&nbsp;P.T.D.&nbsp;which stands for&nbsp;<b>Post-Tour Depression</b>. Yes, it’s a thing."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "yxXXdOfNcQ",
+      "type": "paragraph",
+      "data": {
+        "text": "After a month of struggling, I packed my stuff and left in the early morning. I was <b>addicted to bike touring</b>. This will happen to you too."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "vpH5Zi7-Ib",
+      "type": "paragraph",
+      "data": {
+        "text": "So, what should you do to get out of Post-Tour Depression? I don’t know what will work for you, but you can try new hobbies to pass the time. After my second tour, I&nbsp;had to&nbsp;work, so this time, it was easier."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "FrhBTOxEBd",
+      "type": "internal",
+      "data": {
+        "text": "learn/bike-touring-101"
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

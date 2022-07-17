@@ -1,0 +1,235 @@
+{
+  "time": 1652342133760,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "Bear Attacks when Bike Touring",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>From time to time a question appears on touring forums about how best to handle bears. This particular question is one that has occupied my mind from time to time as well.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "vbe7EWnXKr",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bears/1652341826_image.jpg",
+          "name": "1652341826_image.jpg",
+          "size": 30324,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "N-Wws_i4E5",
+      "type": "paragraph",
+      "data": {
+        "text": "When the question is posted a number of replies usually appear talking about&nbsp;<b>hanging your food from trees</b>, separating your cooking/eating area from your sleeping area and often a reminder about <b>never eating in your tent</b>."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "jT_XhqvmCz",
+      "type": "paragraph",
+      "data": {
+        "text": "A very good resource that has so far served me well is a book called&nbsp;<b>“Backcountry Bear Basics”</b>&nbsp;by Dave Smith. The ISBN number is 0-89886-500-x. This book covers all of the topics mentioned above as well as many more."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "yh1G5Z40aa",
+      "type": "paragraph",
+      "data": {
+        "text": "After reading the book you will have a much better understanding of bears, their habits and their environment. The book also covers many of the “myths” that have arisen over the years and an actual discussion around the real number of&nbsp;bear attacks&nbsp;etc that have been experienced. An entire chapter also discusses <b>guns and pepper spray</b>."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "EBCn77MIiG",
+      "type": "paragraph",
+      "data": {
+        "text": "Cooking and food storage is another topic that receives a lot of attention. In addition to the normal directions on how to hang bags from trees, the book also discusses the concept of <b>cold food instead of cooking</b> and covers off&nbsp;<b>Bear Resistant containers</b>&nbsp;as well which is nice to see since I use a Bear Keg myself when touring."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "2ZJO1RA8-5",
+      "type": "paragraph",
+      "data": {
+        "text": "So far my bear encounters have been limited to sighting bears crossing roads etc while I’m on the bike. I would like to believe that this book has gone a long way towards helping that to remain the case!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "mWdQwssr3z",
+      "type": "header",
+      "data": {
+        "text": "Bear Resistant Food Containers",
+        "level": 2
+      }
+    },
+    {
+      "id": "PvyCZkkIFA",
+      "type": "paragraph",
+      "data": {
+        "text": "During my Round Lake Huron tour, a sneaky raccoon managed to requisition my tastiest freeze-dried meal. Other than that one encounter I haven’t had any other animal problems but as I learn more about stealth camping I’ve been thinking about the whole issue of safe food storage."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "-C73_CHUpY",
+      "type": "paragraph",
+      "data": {
+        "text": "Many people almost instantly think of hanging your food from a tree and I also thought of this but a bit more research showed that this is definitely&nbsp;<b>not an effective technique</b>&nbsp;in some areas where the bears have learned how to find and utilize hanging food. Indeed bear-resistant food containers are often recommended or REQUIRED when camping in certain national parks in the United States. Without this kind of container you are not allowed to camp, it’s as easy as that."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "p6slujFPe5",
+      "type": "paragraph",
+      "data": {
+        "text": "These containers are designed to be lightweight, tough, a diameter that a bear can not easily get its jaws around and have a smooth exterior that prevents the bear from getting a good grip. There are no protruding surfaces at all. To open the container you have to use a screwdriver or a coin to turn the two or three screws that hold the lid on."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "jE7j4PA_30",
+      "type": "paragraph",
+      "data": {
+        "text": "The dimensions of these devices can make packing tricky. I plan to place mine on top of the rear rack. Since the outside surface is smooth I will be using a carrying bag or a cargo net to keep it attached."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "5jDov8IpWT",
+      "type": "paragraph",
+      "data": {
+        "text": "I am by no means an expert at&nbsp;keeping myself bear-safe while camping in the woods. I have done a tremendous amount of reading about the topic and from this reading, I know that bear attacks are relatively rare and provided that you take some precautions like <b>eating your meal away from your campsite</b>, <b>keeping food or food-smelly clothes away from your camping spot</b> and putting your food container well away from your campsite then bears or other wild animals shouldn’t be a problem."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "dwW2PV10x3",
+      "type": "paragraph",
+      "data": {
+        "text": "Many animals are attracted to smells from <b>soap, shampoo, shaving creams and other smelly body products like deodorant</b>. These items will also be stored in the container."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "qX4u4yLEPJ",
+      "type": "paragraph",
+      "data": {
+        "text": "I recently purchased one of these devices to improve my food security and personal safety in the woods while camping out. Even if it only prevents another lousy night’s sleep from a raccoon eating a tasty snack nearby then it will probably be worth it."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "bj4GxUv67H",
+      "type": "paragraph",
+      "data": {
+        "text": "There are several different bear-resistant containers available including the Counter Assault Bear Keg and the Garcia Machine Backpacker’s Cache Model 812. I decided to purchase the Counter Assault Bear Keg along with a carrying bag."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hRf3ih0eMq",
+      "type": "paragraph",
+      "data": {
+        "text": "Now that I actually have the device it’s become apparent that I may be able to attach the device to my rear rack easily without needing the actual bag."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "eC6sfT5hVj",
+      "type": "paragraph",
+      "data": {
+        "text": "Whatever you do, take care out there."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

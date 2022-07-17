@@ -1,0 +1,366 @@
+{
+  "time": 1652347350331,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "Getting re-supplied via postal drop while bicycle touring",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "While picking up a package delivered to a post office can really save time and energy trying to avoid sending too much stuff at once otherwise stowing it away in your saddlebags or trailer might be a bit challenging!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "5NAbMqu2xS",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/resupply-postal-drop/1652346592_image.jpg",
+          "name": "1652346592_image.jpg",
+          "size": 34655,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "riMnlc2hlS",
+      "type": "paragraph",
+      "data": {
+        "text": "During my last few longer tours I’ve been thinking about the whole issue of&nbsp;<b>re-supply while on a bicycle tour</b>. Most of my re-supply thoughts have centred around getting <b>critical spare parts</b> to me quickly enough that I don’t have to experience a long waiting around period."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "d7BRuBJ1DZ",
+      "type": "paragraph",
+      "data": {
+        "text": "During my Round Lake Huron tour, I initially took about 200 touring cards with me and quite surprisingly I ran out before I was halfway around the lake! This provided me with an excellent opportunity to ask a friend to grab a pick up a few more for me and send them to Sault Ste Marie so that I could pick them up on the way through. Sault Ste Marie is a city of approximately 70,000 people so finding the correct post office took a few tries. I eventually located the parcel in the main post office and decided that I really like this method of re-supply."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "T4l3XpclB9",
+      "type": "paragraph",
+      "data": {
+        "text": "If it worked for something relatively non-critical like touring cards then why shouldn’t I consider the option for other things like <b>meal packets, spare tubes, spare parts or even warmer/cooler clothing</b> as the need arose during a longer tour?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "5gniQ1YlwQ",
+      "type": "paragraph",
+      "data": {
+        "text": "Reading through online journals and several threads on the International Bicycle Touring Mailing List it quickly became evident that other people have been doing something similar for years. Although not as commonly mentioned in bicycle tours it is something that receives a lot more attention from backpackers who are doing long trails like the Appalachian trail in the United States or the Bruce Trail in Canada."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "4TFF2Jxj1p",
+      "type": "paragraph",
+      "data": {
+        "text": "As you can probably quickly understand when you re-supply using this method some of the advantages include <b>receiving exactly what you want</b> rather than trying to find a local substitute. You also have the ability to go further away from locations with services provided you can find at least a small post office in the area."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "1zxqnd3wUr",
+      "type": "paragraph",
+      "data": {
+        "text": "Disadvantages really come down to how you set this up. If you mail everything the day you leave on tour then you are somewhat&nbsp;locked to a schedule. In my opinion, a better technique would be to create your drop shipments in advance and <b>ask someone at home to mail them out at a certain time</b>. This will avoid some concerns about how long a postal office will keep a particular shipment."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "GXnRcXdkph",
+      "type": "paragraph",
+      "data": {
+        "text": "With a telephone call, you can fine-tune the drops while touring. Rather than being locked into a certain route or schedule, you can instead make changes depending on your routing decision while out there!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "MI7R3BsHD9",
+      "type": "delimiter",
+      "data": {}
+    },
+    {
+      "id": "_75sfcNCuk",
+      "type": "paragraph",
+      "data": {
+        "text": "From my experience and reading some comments elsewhere it appears that choosing a small town for your drops will often work much better for you since it will reduce the number of possible postal offices that you need to visit before finding the one that has your stuff."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "AGr3KLeS5S",
+      "type": "paragraph",
+      "data": {
+        "text": "According to Canada Post, you should address a package as follows for General Delivery in Canada:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "kEjBv_6SPW",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Person’s Name",
+            "items": []
+          },
+          {
+            "content": "GD Station A or RPO (Retail Postal Outlet) Name",
+            "items": []
+          },
+          {
+            "content": "City name, Provincial short form, Postal Code",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "WY91ASG1c1",
+      "type": "paragraph",
+      "data": {
+        "text": "According to their website, it is important that you spell the city name correctly without translation, exactly as shown on city road signs. You should also use the common two-letter abbreviations for provinces as well."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nGKYEN0qny",
+      "type": "paragraph",
+      "data": {
+        "text": "Other countries likely have similar formats that you will need to follow to make sure that your package arrives at its intended destination. Please take a few moments before your tour to find out what the needed format is."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "e6dr_uG9Wb",
+      "type": "paragraph",
+      "data": {
+        "text": "Although not mentioned anywhere on the official website it is often a good idea to mention something like&nbsp;<b>“Hold for Cross Canada bicycle tourist”.</b> This will most likely get you a friendly greeting when you do arrive and quite possibly a conversation with the local postal employee about your tour and possibly more information about your current location including places to visit, eat and camp."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "0eOTxSPyTr",
+      "type": "paragraph",
+      "data": {
+        "text": "When I depart on my Cross Canada adventure I intend to use this method to <b>replenish hard to find supplies</b>. I also intend to have a stash of spare parts at a friend’s house so that in an emergency I can have the parts sent right away. Of course, there is no reason why I couldn’t ask a bike shop to assist me instead of using the same method!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "661yodB-1n",
+      "type": "delimiter",
+      "data": {}
+    },
+    {
+      "id": "C5OxDLXJTS",
+      "type": "paragraph",
+      "data": {
+        "text": "Moni contributed the following information about general delivery based on her experience while riding across the United States."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "SMceAyeSe8",
+      "type": "paragraph",
+      "data": {
+        "text": "Using Adventure Cycling’s maps is SUPER easy. All the towns with post offices are listed, even zip codes. Out on your own, you have to work a little."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "CDnROcIYj_",
+      "type": "paragraph",
+      "data": {
+        "text": "In my case last year, I always tried to look a few days ahead, and see what small to medium size town was coming up in about three to five days. Then I called my care package person and&nbsp;asked them to mail me&nbsp;my requested stuff to that town."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "PL1tt34UDA",
+      "type": "paragraph",
+      "data": {
+        "text": "My daughter would pack my package, put my name and her return address on it, and take it to the post office. There she would look up the zip code, and mail it. I always requested no more content than what would fit in a shoebox, as I knew I could fit that much in my panniers."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "GF8goKxyyX",
+      "type": "paragraph",
+      "data": {
+        "text": "When I arrived in the town I looked for the post office and picked up my package. Sometimes I would have to show identification, but most times I wouldn’t. My care package was always there when I arrived meaning that I gave my daughter plenty of time."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nukUdKCBIV",
+      "type": "paragraph",
+      "data": {
+        "text": "When my<b> tent pole broke</b> and I called for a replacement I had problems getting to the post office before the holiday weekend. I ended up having the package forwarded to my next layover place. That worked too."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ftiB55Wlyo",
+      "type": "paragraph",
+      "data": {
+        "text": "I would&nbsp;NEVER&nbsp;have a package mailed to a large city like Columbus, Ohio. <b>Pick a small town just ahead</b>, or after Columbus instead."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "GqzhX-tbHm",
+      "type": "paragraph",
+      "data": {
+        "text": "Here’s how the packages were labelled:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nEDVURDHVo",
+      "type": "paragraph",
+      "data": {
+        "text": "address: <b>GENERAL DELIVERY</b> Moni Ashville, Ohio (zip code)"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "OBQA0IRB5c",
+      "type": "paragraph",
+      "data": {
+        "text": "Someplace on the package Lori ALWAYS put:&nbsp;<b>“HOLD FOR CYCLIST”</b>&nbsp;in bold letters."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "9d7E0sOcDU",
+      "type": "paragraph",
+      "data": {
+        "text": "Also, because of a previous tour where we had problems getting our care package I now always try to request my package for a mid-week pick-up time. This way, if I get delayed, my chances of getting the package without a layover on a weekend are greater."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

@@ -1,0 +1,2356 @@
+{
+  "time": 1652206862408,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "Cooking on a Bike Tour:Pot, Stove, and the Mess",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>It's important to eat healthy and fulfilling meals while you are bike touring. But, at the same time, it's challenging because you are not in a kitchen. In this article, we'll discuss how you can cook your own meals and clean the dishes while travelling by your bicycle.</i><br>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "xAmzDvV2By",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/biketouringfood1024w.jpg",
+          "name": "biketouringfood1024w.jpg",
+          "size": 131992,
+          "extension": "jpg"
+        },
+        "caption": "French fries with tomato sauce.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "kF9u1l-mhh",
+      "type": "header",
+      "data": {
+        "text": "What to Eat on a Bike Tour",
+        "level": 2
+      }
+    },
+    {
+      "id": "r73V3FfJmD",
+      "type": "paragraph",
+      "data": {
+        "text": "Cycling all day is hard. Yes, you don’t pay for gas, but the engine of the bicycle is you, and the food is your fuel. You need to eat healthy food to keep the engine running. By healthy, I don’t mean salad and low-fat milk, I mean a&nbsp;well-balanced, high-energy diet&nbsp;that will keep you going."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "uu9XaDIqaD",
+      "type": "header",
+      "data": {
+        "text": "Carbs",
+        "level": 3
+      }
+    },
+    {
+      "id": "JDRzf1PD9b",
+      "type": "paragraph",
+      "data": {
+        "text": "Eating carbs is the fastest way to load energy into your body, but you need to understand the difference between good carbs and bad carbs. Good carbs provide slow and constant energy for longer, and bad carbs raise your blood sugar too fast and too high."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "7i8G23GwaI",
+      "type": "paragraph",
+      "data": {
+        "text": "The problem with <b>bad carbs on a bicycle tour</b> is, that you’ll consume the energy too fast and will be tired and hungry again. But if you consume good, complex carbs, it’ll last longer and you’ll ride longer between meals."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "EYl_Nk28St",
+      "type": "paragraph",
+      "data": {
+        "text": "Examples of Good carbs:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "1WveQEzi-n",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Legumes",
+            "items": []
+          },
+          {
+            "content": "Whole Grains",
+            "items": []
+          },
+          {
+            "content": "Fruits",
+            "items": []
+          },
+          {
+            "content": "Potatoes",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "qrmJGFlFoy",
+      "type": "paragraph",
+      "data": {
+        "text": "Examples of Bad Carbs:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "tOYce9-3HR",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Refined Sugar",
+            "items": []
+          },
+          {
+            "content": "Fruit juices",
+            "items": []
+          },
+          {
+            "content": "Pastries",
+            "items": []
+          },
+          {
+            "content": "White Bread, Pasta, and Rice",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "kb14ynQ_ws",
+      "type": "header",
+      "data": {
+        "text": "Fats",
+        "level": 3
+      }
+    },
+    {
+      "id": "jgNtLREtYu",
+      "type": "paragraph",
+      "data": {
+        "text": "Fats are the second-best option for continuous energy release. But there is a catch! When you need a spike in your energy for activities such as climbing a hill,&nbsp;you can’t burn fat fast enough. This shouldn’t stop you from eating fatty food. In fact, when you run out of carbs, you’ll start burning fat after some stomach rumble."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "cqchBYGiBR",
+      "type": "paragraph",
+      "data": {
+        "text": "Since you won’t be able to carry solid fat on a bike without it melting, your options are limited mostly to unsaturated fats.&nbsp;Olive oil&nbsp;is my number one choice for every meal I cook, but&nbsp;sunflower oil&nbsp;is okay too."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "uUfbg3QbxK",
+      "type": "header",
+      "data": {
+        "text": "Protein",
+        "level": 3
+      }
+    },
+    {
+      "id": "xzYXUl3bsd",
+      "type": "paragraph",
+      "data": {
+        "text": "Your muscles need protein to recover and regenerate. It’s crucial to get enough protein every day because your body can’t store protein like fat."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "5IEfjHFR-w",
+      "type": "paragraph",
+      "data": {
+        "text": "Legumes, grains, and nuts&nbsp;have enough protein to fulfil the daily need.&nbsp;Meat and eggs&nbsp;are good sources of protein, but storing meat and egg on a bike is problematic. You can carry&nbsp;boiled eggs for up to three days in your panniers. As for the meat, you should cook it as soon as possible."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8-s-sbBuB0",
+      "type": "paragraph",
+      "data": {
+        "text": "Of course,&nbsp;peanut butter&nbsp;is the number one way of getting protein and fat for bike travellers."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "gsXOX2B8VM",
+      "type": "header",
+      "data": {
+        "text": "Vitamins &amp; Minerals",
+        "level": 3
+      }
+    },
+    {
+      "id": "FLUhUwnoIu",
+      "type": "paragraph",
+      "data": {
+        "text": "Sometimes, bike travellers forget that&nbsp;peanut butter is not enough to live on. Your body needs vitamins and minerals to improve immunity and live a healthy life. Vegetables and fruits are awesome ways to get vitamins, but again, it’s a challenge to carry them on the bike."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "87r7vo1ZTh",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/biketouringfruitsvitamin1024w.jpg",
+          "name": "biketouringfruitsvitamin1024w.jpg",
+          "size": 56298,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "_MYQz6v3M9",
+      "type": "paragraph",
+      "data": {
+        "text": "Vegetables rot fast if they don’t get fresh air, and quickly dry up when under heat. Fruits are the same, but they also get smashed in the panniers. Since you can’t carry them on the bike, don’t forget to eat fresh vegetables and fruits while travelling in populated areas."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "6NPRS6kY9r",
+      "type": "paragraph",
+      "data": {
+        "text": "If you can’t find fresh vegetables and fruits, or if you are going to remote areas, always carry&nbsp;a box of vitamin pills."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "-wHiu-xTta",
+      "type": "header",
+      "data": {
+        "text": "Cooking Gear for Bike Touring",
+        "level": 2
+      }
+    },
+    {
+      "id": "TEz7bdLmys",
+      "type": "paragraph",
+      "data": {
+        "text": "Buying the right gear is important. Otherwise,&nbsp;you’ll regret&nbsp;that you bought the wrong type of pot or an unstable stove that is not working at high altitudes. If you learn the features of kitchen equipment needed for your bike tour, you’ll make a better choice about&nbsp;what gear to buy."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "tE7EGJ817i",
+      "type": "header",
+      "data": {
+        "text": "Pots &amp; Pans for Bicycle Touri g",
+        "level": 3
+      }
+    },
+    {
+      "id": "sOs_ZL-tB1",
+      "type": "paragraph",
+      "data": {
+        "text": "A small pot is a fundamental piece of gear for cooking on a bike tour. There are various types of pot, and each of them has different features."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "G_ZgGV_z2H",
+      "type": "header",
+      "data": {
+        "text": "Pot and pan types suitable for bike touring",
+        "level": 4
+      }
+    },
+    {
+      "id": "xWaSnKVApk",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Aluminum",
+            "items": []
+          },
+          {
+            "content": "Anodized Aluminum",
+            "items": []
+          },
+          {
+            "content": "Stainless Steel",
+            "items": []
+          },
+          {
+            "content": "Titanium",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "fTbqoGkrja",
+      "type": "paragraph",
+      "data": {
+        "text": "All of them have different properties, weights, and prices. I’ll write about all of them, so you can make your own decision."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "kp1dzQhP08",
+      "type": "header",
+      "data": {
+        "text": "Aluminum Pots and Pans",
+        "level": 4
+      }
+    },
+    {
+      "id": "FJPTux0hX6",
+      "type": "paragraph",
+      "data": {
+        "text": "Regular aluminium pots and pans should be avoided because according to studies from Keele University and Cornell University, the aluminium buildup in the brain causes Alzheimer’s disease. But they are still widely used by many people around the world and still produced by manufacturers. It seems nobody cares about the study."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ln0KDLo1H9",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/aluminumcookwarecamp1024w.jpg",
+          "name": "aluminumcookwarecamp1024w.jpg",
+          "size": 13740,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "0VvHeA8X1P",
+      "type": "paragraph",
+      "data": {
+        "text": "Pros of Aluminum Pots and Pans:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8ISHZpIk81",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Cheap",
+            "items": []
+          },
+          {
+            "content": "Lightweight",
+            "items": []
+          },
+          {
+            "content": "Distribute heat evenly",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "iekk03z3ZJ",
+      "type": "paragraph",
+      "data": {
+        "text": "Cons of Aluminum Pots and Pans:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "QiiB1_HnfK",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Damages the brain",
+            "items": []
+          },
+          {
+            "content": "Bends easily",
+            "items": []
+          },
+          {
+            "content": "Food sticks to the surface",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "FGcJH1A8vn",
+      "type": "header",
+      "data": {
+        "text": "Anodized Aluminum Pots and Pans",
+        "level": 4
+      }
+    },
+    {
+      "id": "TSs_9lSCuP",
+      "type": "paragraph",
+      "data": {
+        "text": "Anodizing is a process of electrolytic passivation, which is used for increasing the corrosion resistance of aluminium. This way, the toxic effects of aluminium go away and adds non-stick properties."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "2ULycdPgIJ",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/anodizedaluminumcookwarecamp1024w.jpg",
+          "name": "anodizedaluminumcookwarecamp1024w.jpg",
+          "size": 28219,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "HnYS9J_pV2",
+      "type": "paragraph",
+      "data": {
+        "text": "In my opinion,&nbsp;anodized aluminium pots&nbsp;are the best, because they are not toxic, they distribute heat evenly, and they are lightweight and cheap."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "tL4Qb7Zvsh",
+      "type": "paragraph",
+      "data": {
+        "text": "Pros of Anodized Aluminum Pots and Pans:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "uutzliOahL",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Cheap",
+            "items": []
+          },
+          {
+            "content": "Lightweight",
+            "items": []
+          },
+          {
+            "content": "Non-Stick",
+            "items": []
+          },
+          {
+            "content": "Distribute heat evenly",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "Eyyyys0WS6",
+      "type": "header",
+      "data": {
+        "text": "Stainless Steel Pots and Pans",
+        "level": 4
+      }
+    },
+    {
+      "id": "O_PQcimz7e",
+      "type": "paragraph",
+      "data": {
+        "text": "Steel pots are not widely used in the bike touring community. They are durable but too heavy to carry. If you are a&nbsp;survivalist&nbsp;type of bike traveller, stainless steel is for you."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "pJOUkLcsW-",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/steelcampingcookware1024w.jpg",
+          "name": "steelcampingcookware1024w.jpg",
+          "size": 17483,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "FFZK2eo-UM",
+      "type": "paragraph",
+      "data": {
+        "text": "Pros of Steel Pots and Pans:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "qszN7buvBl",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Durable",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "kvKAZEr4fA",
+      "type": "paragraph",
+      "data": {
+        "text": "Cons of Steel Pots and Pans:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "oMkw9anETB",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Heavy",
+            "items": []
+          },
+          {
+            "content": "Food sticks to the surface",
+            "items": []
+          },
+          {
+            "content": "Don’t distribute heat evenly",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "iS9OqHaW07",
+      "type": "header",
+      "data": {
+        "text": "Titanium Pots and Pans",
+        "level": 4
+      }
+    },
+    {
+      "id": "u1LryR_p8q",
+      "type": "paragraph",
+      "data": {
+        "text": "Titanium pots are for those who seek the ultralight option for kitchen equipment. But for most of us, cooking a meal without burning it is more important than the weight of the pot. And the price of titanium gear prohibits wide use."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "U3Ty4IeGrl",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/titaniumcookwarecamp1024w.jpg",
+          "name": "titaniumcookwarecamp1024w.jpg",
+          "size": 20294,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "oXHkh0je8v",
+      "type": "paragraph",
+      "data": {
+        "text": "Pros of the Titanium Pots and Pans:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "_Th_YwGJQo",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Ultralight",
+            "items": []
+          },
+          {
+            "content": "Durable",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "Zef8LSfE5p",
+      "type": "paragraph",
+      "data": {
+        "text": "Cons of the Titanium Pots and Pans:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "4HHaz8HaXZ",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Expensive",
+            "items": []
+          },
+          {
+            "content": "Don’t distribute heat evenly",
+            "items": []
+          },
+          {
+            "content": "Food sticks to the surface",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "4Jq7C8SrW7",
+      "type": "header",
+      "data": {
+        "text": "Plates &amp; Mugs&nbsp;for Bicycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "WHdvyqe5at",
+      "type": "paragraph",
+      "data": {
+        "text": "Camping plates should be made from&nbsp;plastic or silicone because you are not going to cook in them. Metal plates are unnecessarily heavy. If you are travelling alone, you may think you don’t need a plate, but you can use it for salads, sauces, sliced tomatoes, or for holding one meal while cooking another in the pot."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "fh0l7mZ9ni",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/anodizedaluminummug1024w.jpg",
+          "name": "anodizedaluminummug1024w.jpg",
+          "size": 34791,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "H4I2S_JHCJ",
+      "type": "paragraph",
+      "data": {
+        "text": "If you&nbsp;can’t wake up without a cup of coffee, or&nbsp;can’t miss the 5 o’clock tea, buy an aluminium mug. Plastic mugs are not healthy, and most probably will smell. Steel and titanium mugs won’t cool down fast enough and will burn your lips. Glass and porcelain mugs are heavy and prone to breaking.&nbsp;Anodized aluminium is the best option for a mug. They cool down fast enough, they double as a pot, and you can brew coffee in them."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "G79Gf1KFJY",
+      "type": "header",
+      "data": {
+        "text": "Utensils&nbsp;for Bicycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "7zqGoMRnIE",
+      "type": "header",
+      "data": {
+        "text": "Fork and Spoon",
+        "level": 4
+      }
+    },
+    {
+      "id": "o1EBnmAd2h",
+      "type": "paragraph",
+      "data": {
+        "text": "Hard silicone utensils are ultralight and durable, even against fire, to some extent. But if you want longevity,&nbsp;titanium forks and spoons&nbsp;are better but pricier."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "KTLKFeklTL",
+      "type": "header",
+      "data": {
+        "text": "Knife",
+        "level": 4
+      }
+    },
+    {
+      "id": "gjs2p8-Ytq",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/campknife1024w.jpg",
+          "name": "campknife1024w.jpg",
+          "size": 82946,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "I-3FuJQEzA",
+      "type": "paragraph",
+      "data": {
+        "text": "A knife is important because you will use it for everything; slicing tomatoes, spreading peanut butter, chopping onions, slicing sausages, and&nbsp;protecting yourself. It must be durable, long enough to reach the bottom of the jar, and sharp enough to cut anything. Foldable knives are safe to handle and carry on the bike, but they are not durable. Straight knives are better, but it’s not practical to carry. It’s a tough trade-off to make."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "0EMQRdTbgq",
+      "type": "header",
+      "data": {
+        "text": "Stove &amp; Fuel&nbsp;for Bicycle Touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "8RB-AWljPI",
+      "type": "header",
+      "data": {
+        "text": "Wood Stove",
+        "level": 4
+      }
+    },
+    {
+      "id": "vjL0cCdvTq",
+      "type": "paragraph",
+      "data": {
+        "text": "My favourite type of stove is the wood stove because the&nbsp;fuel is free&nbsp;and available&nbsp;almost&nbsp;everywhere. I said almost because I have some bad memories about starving while searching for some wood. Either use the wood stove as a backup in case you run out of fuel, have a backup stove in case you can’t find any wood, or carry a reasonable amount of wood in your panniers if you think you won’t find any wood."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "sxUZ18oGlR",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/woodstovebiketour1024w.jpg",
+          "name": "woodstovebiketour1024w.jpg",
+          "size": 85001,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "LIkCMsHoRt",
+      "type": "paragraph",
+      "data": {
+        "text": "A wood stove is&nbsp;useless in populated areas. Even if you come across a picnic area, you may not find any wood, because people usually bring their own wood and charcoal."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "EojvLrxbks",
+      "type": "paragraph",
+      "data": {
+        "text": "Pros of the Wood Stove:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "iCk1Qrk0ah",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Lightweight",
+            "items": []
+          },
+          {
+            "content": "Free Fuel",
+            "items": []
+          },
+          {
+            "content": "Heat output depends on the wood used.",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "IS4G7SPFcr",
+      "type": "paragraph",
+      "data": {
+        "text": "Cons of the Wood Stove:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "m0d2BVswep",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Leaves a mess behind",
+            "items": []
+          },
+          {
+            "content": "Leaves soot&nbsp;on the pot",
+            "items": []
+          },
+          {
+            "content": "Smokes a lot",
+            "items": []
+          },
+          {
+            "content": "Illegal to make a fire in some places",
+            "items": []
+          },
+          {
+            "content": "Won’t work in rainy seasons",
+            "items": []
+          },
+          {
+            "content": "Fuel not available everywhere (steppes, deserts)",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "rwzKUbnBjq",
+      "type": "header",
+      "data": {
+        "text": "Gas Stove",
+        "level": 4
+      }
+    },
+    {
+      "id": "NIPtl3Do8A",
+      "type": "paragraph",
+      "data": {
+        "text": "As known as the&nbsp;“canister stove”, or&nbsp;“butane-propane stove”. This is the favourite stove of the bike touring community. Fuel is available in big cities as canisters. All gas stoves have an adjustable valve for simmering, so you can cook your meals without burning."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "4ooNyYPl57",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/canisterstovebiketouring1024w.jpg",
+          "name": "canisterstovebiketouring1024w.jpg",
+          "size": 50262,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "JMIr6XeOq5",
+      "type": "paragraph",
+      "data": {
+        "text": "A gas canister is not refillable by default, but you can refill it with&nbsp;butane lighter gas&nbsp;by using a small adapter. You probably won’t find new gas canisters anywhere except in big cities, but butane lighter gas is available almost everywhere."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "HTP31Ho5Lx",
+      "type": "paragraph",
+      "data": {
+        "text": "Also, transporting canisters on planes is prohibited, so you have to find a new canister after you landed."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Bi2BR2brrM",
+      "type": "paragraph",
+      "data": {
+        "text": "Pros of the Gas Stove:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "TeBoWZ9YzM",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Fuel is available in major cities",
+            "items": []
+          },
+          {
+            "content": "Adjustable valve for simmering",
+            "items": []
+          },
+          {
+            "content": "Refillable with butane, using an adapter",
+            "items": []
+          },
+          {
+            "content": "Clean burning",
+            "items": []
+          },
+          {
+            "content": "High heat output",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "AA8gtd2pR1",
+      "type": "paragraph",
+      "data": {
+        "text": "Cons of the Gas Stove:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "W1HiYC-vIc",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Heavy components",
+            "items": []
+          },
+          {
+            "content": "Bulky setup",
+            "items": []
+          },
+          {
+            "content": "Butane is not usable under 30F (-1 C degrees)",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "CnIq5PuPCH",
+      "type": "header",
+      "data": {
+        "text": "Petrol Stove",
+        "level": 4
+      }
+    },
+    {
+      "id": "1iEIpGr2SA",
+      "type": "paragraph",
+      "data": {
+        "text": "Also known as&nbsp;gasoline stove,&nbsp;benzene stove,&nbsp;autogas stove. If you plan to go to remote areas, petrol stoves are the best option, because you can find petrol anywhere in the world. Some countries restrict selling petrol separately because of terrorism. In such cases, a multi-fuel stove which runs on kerosene, white gas, diesel, and gasoline would save the day."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "c1016jZgqf",
+      "type": "paragraph",
+      "data": {
+        "text": "Transporting petrol tanks on planes is prohibited unless it’s empty and doesn’t smell of gasoline."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Sp992CeX0Y",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/petrolstovebiketour1024w.jpg",
+          "name": "petrolstovebiketour1024w.jpg",
+          "size": 70847,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "ZXz0UwTIhO",
+      "type": "paragraph",
+      "data": {
+        "text": "Pros of the Petrol Stove:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "_S8Shtx2sj",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Fuel is available everywhere",
+            "items": []
+          },
+          {
+            "content": "Adjustable valve for simmering",
+            "items": []
+          },
+          {
+            "content": "High heat output",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "DUhpqJwsin",
+      "type": "paragraph",
+      "data": {
+        "text": "Cons of the Petrol Stove:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "-oAtI0j5E-",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Heavy components",
+            "items": []
+          },
+          {
+            "content": "Leaves soot on the pot",
+            "items": []
+          },
+          {
+            "content": "Smells gasoline",
+            "items": []
+          },
+          {
+            "content": "Noisy run-time",
+            "items": []
+          },
+          {
+            "content": "Hard to maintain",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "bHgtMZjl9B",
+      "type": "header",
+      "data": {
+        "text": "Alcohol Stove",
+        "level": 4
+      }
+    },
+    {
+      "id": "SD8h-I8RZF",
+      "type": "paragraph",
+      "data": {
+        "text": "Also known as&nbsp;spirit burner,&nbsp;soda can stove,&nbsp;denatured alcohol stove, and methanol stove. The alcohol stove is used among ultralight tourers, but since alcohol is prohibited in some countries, you may have to carry lots of fuel with you. If you can’t find pure alcohol; methanol or cologne works too."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "CanTWTYcXh",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/alcoholstovebiketouring1024w.jpg",
+          "name": "alcoholstovebiketouring1024w.jpg",
+          "size": 59318,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "Xq3a9sebOB",
+      "type": "paragraph",
+      "data": {
+        "text": "Pros of the Alcohol Stove:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "RVKm1Q6Kat",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Stove is lightweight",
+            "items": []
+          },
+          {
+            "content": "Fuel is readily available",
+            "items": []
+          },
+          {
+            "content": "Clean burning",
+            "items": []
+          },
+          {
+            "content": "Cheap",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "4eqt35sInX",
+      "type": "paragraph",
+      "data": {
+        "text": "Cons of the Alcohol Stove:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "9WnTiDyHkO",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Fuel can be spilled",
+            "items": []
+          },
+          {
+            "content": "Fuel is heavy",
+            "items": []
+          },
+          {
+            "content": "Low heat output",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "wNJa8Il_g8",
+      "type": "header",
+      "data": {
+        "text": "Multiple Stoves",
+        "level": 4
+      }
+    },
+    {
+      "id": "Ft6Cevsseg",
+      "type": "paragraph",
+      "data": {
+        "text": "As you see, each stove has different features and fuels, and there’s no&nbsp;“one type fits all”."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Fo5yUJosos",
+      "type": "paragraph",
+      "data": {
+        "text": "For example, it’s illegal to sell gasoline in bottles in some countries that have terrorist threats, and alcohol is illegal in most Muslim countries. Finding gas canisters in undeveloped countries is impossible, and wood is not available in steppes and deserts and is unusable in winter."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "efQLZ931n1",
+      "type": "paragraph",
+      "data": {
+        "text": "I carry a wood stove and a canister stove. When the canister is used up, I refill it with a butane lighter gas. I don’t use planes, but even if I do, I can use my wood stove until I get a new gas canister. If there is no wood, I can make an alcohol stove from a tin can. If alcohol is illegal, I can use methylated spirit or cologne. If there is no fuel at all, I can make sandwiches until I find some fuel."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Tf6NSQaZd9",
+      "type": "header",
+      "data": {
+        "text": "Other",
+        "level": 3
+      }
+    },
+    {
+      "id": "UqC0TU4qdz",
+      "type": "header",
+      "data": {
+        "text": "Skewers",
+        "level": 4
+      }
+    },
+    {
+      "id": "jXedW_FNmr",
+      "type": "paragraph",
+      "data": {
+        "text": "In my opinion, skewers are a must. You can cook peppers, tomatoes, potatoes, sausages, marshmallows, meatballs, chicken breasts, and you can make&nbsp;shish kebabs. You can attach it to the top tube of your bike. Choose stainless steel, not galvanized."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "lJbwWNGJ70",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/biketouringskewerssausage1024w.jpg",
+          "name": "biketouringskewerssausage1024w.jpg",
+          "size": 75424,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "EW1O3kdQT0",
+      "type": "header",
+      "data": {
+        "text": "Grills",
+        "level": 4
+      }
+    },
+    {
+      "id": "rYrztXLe90",
+      "type": "paragraph",
+      "data": {
+        "text": "BBQ on a tour? Yes! But grills are heavy. If you are going solo, skewers are better, but if there is someone to share the load, a lightweight, thin grill is better for two people. The lightest grills are, at least, a pound heavy, but you can weave a lighter grill with stainless steel wires."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "X06m2diJPB",
+      "type": "header",
+      "data": {
+        "text": "Windshield",
+        "level": 4
+      }
+    },
+    {
+      "id": "UWIIJefPaz",
+      "type": "paragraph",
+      "data": {
+        "text": "This is a must-have piece of gear for any stove because the wind is everywhere. Wood stoves are fed by the wind and fuel is free, but it may get dangerous if the wind is strong. To conserve fuel, you need a windshield. Plastic windshields are not recommended, because they melt when they are too close to the stove.&nbsp;Aluminium or titanium windshields&nbsp;are light and strong."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "IoUs43YwCN",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/campstovewindshield1024w.jpg",
+          "name": "campstovewindshield1024w.jpg",
+          "size": 93677,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "_DikUm5AXq",
+      "type": "header",
+      "data": {
+        "text": "Pot Cozy",
+        "level": 4
+      }
+    },
+    {
+      "id": "lOlZPLMDPz",
+      "type": "paragraph",
+      "data": {
+        "text": "Not necessary, but useful if you want to conserve fuel. For example; after you boil the water, you can put noodles in and let it boil for a couple of minutes in the pot cozy. Two minutes of fuel saved three times a day makes 6 minutes of saved fuel."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ktZeJZS6CY",
+      "type": "header",
+      "data": {
+        "text": "Canister Refiller",
+        "level": 4
+      }
+    },
+    {
+      "id": "fzuwbR0ora",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/gascanisterrefilladapter1024w.jpg",
+          "name": "gascanisterrefilladapter1024w.jpg",
+          "size": 17311,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "pP3gU9pGY-",
+      "type": "paragraph",
+      "data": {
+        "text": "If you are using gas canisters, you can use any butane lighter gas tube to fill your gas canister. Gas canisters are not available everywhere, but you can fill your empty canister with a butane lighter gas bottle (which can be found anywhere) by using this tiny refiller."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "CfE1rGkLgd",
+      "type": "header",
+      "data": {
+        "text": "How to Cook on a Bike Tour",
+        "level": 2
+      }
+    },
+    {
+      "id": "MTla_sjLku",
+      "type": "paragraph",
+      "data": {
+        "text": "Safety first. Cooking outdoors is more dangerous than cooking at home. The risk of a forest fire, getting burned by hot oil, dangers of wild and hungry animals, and spilling your dinner because of the uneven surface are some of the possibilities."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Gbfz0nef4H",
+      "type": "paragraph",
+      "data": {
+        "text": "After following some safety rules, it will become easy and joyful to cook your own meals outdoors."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Zr0nQm5i0A",
+      "type": "header",
+      "data": {
+        "text": "Cooking in Pots and Pans",
+        "level": 3
+      }
+    },
+    {
+      "id": "DuMmmBFjvh",
+      "type": "paragraph",
+      "data": {
+        "text": "It may look like an easy task, but the pots are tiny, the stoves are small, and the hazard of spilling hot food is big."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "bU7fdh_UZQ",
+      "type": "paragraph",
+      "data": {
+        "text": "When stirring food in a deep pot, be careful not to tip it over. Some stove systems are tall, and the uneven ground makes them riskier. Not only uneven ground, but even the wind can also tip the pot over."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "_Ht_woceWe",
+      "type": "paragraph",
+      "data": {
+        "text": "Other than these, cooking in pots and pans on a camping stove is just like cooking at home."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "OuRzLgrpeS",
+      "type": "header",
+      "data": {
+        "text": "Cooking in Ember",
+        "level": 3
+      }
+    },
+    {
+      "id": "6Bhevu4Sss",
+      "type": "paragraph",
+      "data": {
+        "text": "Cooking potatoes, tomatoes, peppers, onions, eggplant, and corn in the ember is an awesome way to fill your stomach."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "EnUCFn7gFI",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/cookinginemberscamping1024w.jpg",
+          "name": "cookinginemberscamping1024w.jpg",
+          "size": 28518,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "MREZUpHGHA",
+      "type": "paragraph",
+      "data": {
+        "text": "To make a long-lasting ember, find some hardwood like oak, and fan the flames until it burns down to embers. After that, just put your food on embers and flip them from time to time. Stick your fork to see if it’s cooked yet. Peel the burnt parts off, add some salt, and, bon appétit!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "3tDTYES3Xc",
+      "type": "header",
+      "data": {
+        "text": "Cooking on Skewers",
+        "level": 3
+      }
+    },
+    {
+      "id": "ZMvBbNzeJ5",
+      "type": "paragraph",
+      "data": {
+        "text": "Mushrooms, sausages, sliced tomatoes, onions, peppers, eggplant, meatball, and marshmallows are some of the food that can be cooked on skewers. You can cook them over an open fire without touching the fire, but putting skewers over embers is a better way to do it."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "bMqqLuGIFy",
+      "type": "paragraph",
+      "data": {
+        "text": "The best part is no mess to clean up!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8BnYBcPmFO",
+      "type": "header",
+      "data": {
+        "text": "Pressure Cooking",
+        "level": 3
+      }
+    },
+    {
+      "id": "XN767nDfMV",
+      "type": "paragraph",
+      "data": {
+        "text": "Yes, tiny pressure pots exist for travellers. Although, I don’t suggest carrying, because seal failure is probable, and a regular pot with a lid is enough to simulate pressured cooking environment."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "sjrasSm23T",
+      "type": "paragraph",
+      "data": {
+        "text": "When cooking beans, soaking in the morning helps a lot, but still needs a pressured pot to save fuel. Put a rock on top of the lid of a regular pot, and watch it closely. Pressured steam can tip over the rock, but most of the time, this won’t happen because the pressure will relieve once it lifts the lid."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "wmzMmR67Fd",
+      "type": "paragraph",
+      "data": {
+        "text": "If wood is available, a&nbsp;wood stove is better&nbsp;when pressure cooking is needed. This way, you’ll save a lot of precious fuel."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "vyB71wchCC",
+      "type": "header",
+      "data": {
+        "text": "Oven Cooking",
+        "level": 3
+      }
+    },
+    {
+      "id": "c1acX8q91x",
+      "type": "paragraph",
+      "data": {
+        "text": "Yes, oven cooking on a bike tour! But this time, you’ll use embers instead of an oven."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "oB7E3yG9D-",
+      "type": "paragraph",
+      "data": {
+        "text": "There is a controversy about using aluminium foil for ember cooking. It was perfectly okay once; nobody knew that the aluminium caused brain damage. Then, some academicians at Keele University and Cornell University published a paper about the aluminium buildup in the brain may cause Alzheimer’s disease.&nbsp;After a while, this was argued against."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "WH4l8ovsRB",
+      "type": "paragraph",
+      "data": {
+        "text": "Anyway, there is a way to prevent the aluminium from getting into your food."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "06P_gSWGP4",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Prepare your meal",
+            "items": []
+          },
+          {
+            "content": "Put it in an oven bag, or wrap it in baking paper",
+            "items": []
+          },
+          {
+            "content": "Wrap in aluminum foil",
+            "items": []
+          },
+          {
+            "content": "Bury in embers",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "88uAx1Bp8S",
+      "type": "paragraph",
+      "data": {
+        "text": "That’s it!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "rVzyAWGqdd",
+      "type": "paragraph",
+      "data": {
+        "text": "This requires some practice to know when the meal is cooked, but after a couple of trials, you’ll learn."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "CGpulQ7QVX",
+      "type": "paragraph",
+      "data": {
+        "text": "Make sure you don’t burn your hands when handling hot aluminium and ember and carry a burn cream in any case."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "sm4AVtbI9J",
+      "type": "header",
+      "data": {
+        "text": "Storing Food on the Bike",
+        "level": 2
+      }
+    },
+    {
+      "id": "-iUFcsV53V",
+      "type": "header",
+      "data": {
+        "text": "Keeping the Food Fresh and Cool",
+        "level": 3
+      }
+    },
+    {
+      "id": "SRaw-6QVbY",
+      "type": "paragraph",
+      "data": {
+        "text": "Sadly, there is no&nbsp;lightweight and tiny fridge for bike tourers. Even if there was, it would consume so much electricity and that would require&nbsp;a large solar panel. But there is an alternative method for cooling perishable foods, and it’s a primitive one."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nnN9wAedS6",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/biketouringfridge1024w.jpg",
+          "name": "biketouringfridge1024w.jpg",
+          "size": 57326,
+          "extension": "jpg"
+        },
+        "caption": "Pot-in-pot evaporative cooler",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "IqbadkleSM",
+      "type": "paragraph",
+      "data": {
+        "text": "Evaporative cooling.&nbsp;Yes, it has been used to keep foods cool for thousands of years without electricity. The temperature of the food will vary depending on the temperature outside and the humidity rate, but it is enough to preserve food a little bit longer than without it."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "RIjL5LIyM8",
+      "type": "paragraph",
+      "data": {
+        "text": "With some trial and error, I’ve found a way to use this old tech and attach this evaporative cooler to my bike. First, I put the food in a freezer bag and tie it. This way the food won’t get wet. I tie one end of a bandana and put the food bag inside, then tie the other end. After soaking the bandana with water, I strap it under my handlebar bag because it cools better in shade and needs air circulation. Don’t forget to soak the bandana from time to time,&nbsp;it won’t cool without water."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Z56TRAkHtv",
+      "type": "paragraph",
+      "data": {
+        "text": "Make sure you strap it nice and tight because it may get loose and you may lose your food."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "xxQiVXihao",
+      "type": "header",
+      "data": {
+        "text": "Containing Spillable Food",
+        "level": 3
+      }
+    },
+    {
+      "id": "1O7A6wqYPa",
+      "type": "paragraph",
+      "data": {
+        "text": "Eggs, honey, and milk are some of the spillable foods that need to be contained properly to avoid a huge mess. Although I witnessed that the&nbsp;eggs are safe in their own six-pack box,&nbsp;even while hopping on a rocky trail, boiling makes it safer. Honey is sticky and you don’t want it to get all over your panniers. Putting it in a freezer bag helps a lot. UHT milk boxes are not safe in panniers, so transfer the milk into pet bottles as soon as you can."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ii7gjDXd-A",
+      "type": "paragraph",
+      "data": {
+        "text": "As a general rule, put anything that can be spilt inside a freezer bag, and any liquid into pet water bottles."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nlH-xvRKQd",
+      "type": "header",
+      "data": {
+        "text": "Tips and Tricks for Food Storage",
+        "level": 3
+      }
+    },
+    {
+      "id": "nUPySuF3dO",
+      "type": "paragraph",
+      "data": {
+        "text": "Food takes up a lot of space, and that is something we don’t want. As the content of the jar decreases, the weight decreases, but the bulk stays. Some people put the jar content in freezer bags, but I don’t like eating peanut butter from a bag. Solid foods like olives are okay, but sticky and watery food is a problem."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "tdgFtDTRs2",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/biketouringfreezerbagfood1024w.jpg",
+          "name": "biketouringfreezerbagfood1024w.jpg",
+          "size": 46194,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "Ysstae4-l3",
+      "type": "paragraph",
+      "data": {
+        "text": "I wait until two jars get halved, and then I combine them. Chocolate and cheese mix well. Try the combination before you actually combine the jars."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "3IOqRQ1QjA",
+      "type": "paragraph",
+      "data": {
+        "text": "Herbs and spices go directly into freezer bags, as with sugar, powdered milk, and powdered fruit juices. Having two dedicated&nbsp;front panniers just for food and kitchen gear&nbsp;is a good idea. Otherwise, it gets messy and frustrating to find something in a pannier."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "rTT4pkKUEV",
+      "type": "header",
+      "data": {
+        "text": "The Mess: Cleaning the Dishes",
+        "level": 2
+      }
+    },
+    {
+      "id": "mYymBYnKQg",
+      "type": "paragraph",
+      "data": {
+        "text": "The part that I hate. Either I clean the dishes perfectly or save water for drinking later. It’s a tough dilemma."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "X6KjBvZqHl",
+      "type": "internal",
+      "data": {
+        "text": "learn/water"
+      }
+    },
+    {
+      "id": "II4RfgwXo_",
+      "type": "header",
+      "data": {
+        "text": "With Ashes and Earth",
+        "level": 3
+      }
+    },
+    {
+      "id": "wDElcCUQu7",
+      "type": "paragraph",
+      "data": {
+        "text": "Ash is a natural cleaner, used for thousands of years, and is still used in undeveloped countries. If you are using a wood stove to cook, ash is ready to clean. Otherwise, the earth is a good scrubber. It won’t solve oils as well as the ash, but better than nothing. Ashes and earth are a nature-friendly way of cleaning the dishes but consume a lot of water to rinse."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "rTgUMODuQ6",
+      "type": "header",
+      "data": {
+        "text": "With the Dish Soap",
+        "level": 3
+      }
+    },
+    {
+      "id": "iQFLC6NHy8",
+      "type": "paragraph",
+      "data": {
+        "text": "A tiny drop of dish soap is enough to clean an oily pot. I believe this is not too much to harm the environment as long as you&nbsp;don’t contaminate a water source."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "7IxuonnV76",
+      "type": "paragraph",
+      "data": {
+        "text": "Dried or not, some grass is enough for scrubbing, so you don’t need a sponge. A sponge gets dirty and you need to clean it as well, but you can toss the piece of grass/weed and forget about it."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Xifv-qUbGB",
+      "type": "header",
+      "data": {
+        "text": "Conserving Water",
+        "level": 3
+      }
+    },
+    {
+      "id": "IFgflp4Xuf",
+      "type": "paragraph",
+      "data": {
+        "text": "Since you have limited water with you, it’s important to conserve the water as much as you can while cleaning the dishes. Rinsing takes a lot of water. When using dish soap, a tiny amount of water is enough to bubble it and dissolve the oils, but when rinsing, it needs more water.&nbsp;Power washing with a squirt bottle&nbsp;reduces water usage, but wiping the soapy surface with a tissue and then using a small amount of water to rinse with your fingers is better."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "QdlGsnmpGw",
+      "type": "paragraph",
+      "data": {
+        "text": "If you don’t have enough water to clean the dishes, don’t worry. Put the dirty dishes in a nylon bag and wash them when you find a water source."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "KGvhgsZOdl",
+      "type": "header",
+      "data": {
+        "text": "Recipe of Recipes",
+        "level": 2
+      }
+    },
+    {
+      "id": "sSNbYSsz-J",
+      "type": "paragraph",
+      "data": {
+        "text": "I can give you tons of recipes, but&nbsp;it won’t be useful. Finding the right ingredients everywhere is impossible. But I can teach you how to cook delicious meals every time with a simple and fundamental base. This way, you don’t need a cookbook, just basic info about food and cooking is enough."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "GyUAljUSbZ",
+      "type": "header",
+      "data": {
+        "text": "Oil, Tomato Paste, Onion",
+        "level": 3
+      }
+    },
+    {
+      "id": "zBkXP-WsOb",
+      "type": "paragraph",
+      "data": {
+        "text": "Whatever you put in this mix,&nbsp;it becomes a meal."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "U6QwLICa0y",
+      "type": "paragraph",
+      "data": {
+        "text": "Add some soaked chickpeas and water, and boil until it’s soft."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "0HP49olNNn",
+      "type": "paragraph",
+      "data": {
+        "text": "Add some potatoes and water, and boil until it’s soft."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "skmReH_qfM",
+      "type": "paragraph",
+      "data": {
+        "text": "Add some soaked beans and water, and boil until it’s soft."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ry0Q3faF0u",
+      "type": "paragraph",
+      "data": {
+        "text": "Add some chicken and water, and it’s chicken soup."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "tB6xgsRnrD",
+      "type": "paragraph",
+      "data": {
+        "text": "There are countless combinations of nice meals to make with these base ingredients. You just need to guess what would be a good combination and add them in a timely manner to cook all of them enough and not burn anything. Add herbs and spices to enhance the taste."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "LyEYgUrVy0",
+      "type": "header",
+      "data": {
+        "text": "Herbs and Spices",
+        "level": 3
+      }
+    },
+    {
+      "id": "Muh2iEcLC1",
+      "type": "paragraph",
+      "data": {
+        "text": "They can change the taste of any food and make it better."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "aiyidco_K2",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/bike-touring-food/herbsspices1024w.jpg",
+          "name": "herbsspices1024w.jpg",
+          "size": 110282,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "9ta6XbX9PV",
+      "type": "paragraph",
+      "data": {
+        "text": "Ground black pepper, dried mint, cumin, thyme, ground chilli powder, chilli flakes, turmeric, ginger, sage, cinnamon, basil, parsley, rosemary etc. are some of the herbs and spices that will improve the taste of your meal. Put them in small bags and tightly close the main bag. The smell of the herbs may attract animals."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "1XCz3oiEoa",
+      "type": "header",
+      "data": {
+        "text": "Cooking Style",
+        "level": 3
+      }
+    },
+    {
+      "id": "_Rbwpwu3KR",
+      "type": "paragraph",
+      "data": {
+        "text": "Cooking style plays an important role in the taste of your food. Potato, fish, and vegetables cooked together in an ember oven is better than frying them in a pan. Sausage on skewers tastes better than fried sausages. I would like to try fish on skewers, perhaps it will be better."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Cr34tuc5SD",
+      "type": "paragraph",
+      "data": {
+        "text": "That said, trying different cooking styles is always better than constantly eating the same things. Have you tried putting butter on a boiled potato? It’s delicious."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Colf93uNhj",
+      "type": "internal",
+      "data": {
+        "text": "learn/bike-touring-101,&nbsp;learn/how-to-go-bike-touring, learn/water"
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

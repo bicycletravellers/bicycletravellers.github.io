@@ -1,0 +1,563 @@
+{
+  "time": 1652444721742,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "Riders on the Storm: Bicycle Touring Edition",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>With the right rain gear, some fenders and a positive attitude aimed toward enjoying yourself no matter what happens it is indeed very possible to enjoy a ride in the rain.</i><br>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "u3ByITDlMh",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/adverse-weather/rainydaybridgetwo.jpg",
+          "name": "rainydaybridgetwo.jpg",
+          "size": 554229,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "YVJZTNLXop",
+      "type": "header",
+      "data": {
+        "text": "Bike Touring in the Rain",
+        "level": 2
+      }
+    },
+    {
+      "id": "ZmriDVv4la",
+      "type": "paragraph",
+      "data": {
+        "text": "Most people seem to prefer riding on warm and sunny days when going on a bicycle touring adventure. I usually hope for sunshine when I tour too but I have to admit that I’ve had some mighty fine rides on days when <i>the skies have opened and the water has poured down upon me.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "VndBFymDSJ",
+      "type": "paragraph",
+      "data": {
+        "text": "With the right <b>rain gear</b>, some <b>fenders</b> and a positive attitude aimed toward enjoying yourself no matter what happens it is indeed very possible to enjoy a ride in the rain. When touring it is also important that you <b>protect your dry clothing</b>, your Thermarest (or equivalent) and your sleeping bag so that no matter how rough the downpour you still have a dry bed and a change of warm clothing to look forward to. As long as you have that then you can probably handle just about anything that’s thrown at you."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "gMo_Zmtp0m",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/adverse-weather/rainydayflowers.jpg",
+          "name": "rainydayflowers.jpg",
+          "size": 455671,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "T5wmlgbEGY",
+      "type": "paragraph",
+      "data": {
+        "text": "An interesting thing about the rain is that it can really bring beauty out as the trees, bushes, grasses and flowers soak up the water. Rivers, creeks and streams also fill up so that what would normally be a quiet and peaceful body of water becomes a raging torrent with some very beautiful rapids."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Yyi8sIF86K",
+      "type": "paragraph",
+      "data": {
+        "text": "If you have the opportunity to ride a bike path that goes through beautiful parkland then you will notice that the rain scares away the crowds leaving you to enjoy the surroundings in peace and quiet."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "GtwnoWVfiO",
+      "type": "paragraph",
+      "data": {
+        "text": "When I finally arrive home after playing around in the rain for over two hours my <b>rain jacket, rain pants, gloves, helmet cover and boots</b> were wet on the outside but I was still warm and dry on the inside plus I was filled with the satisfaction of a fun ride, some nice pictures and a few more memories."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "v0IARev0A9",
+      "type": "paragraph",
+      "data": {
+        "text": "It’s scary to think that if I had been scared away by a little bit of rain then I would have missed all of this!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "zWdiCU8jLp",
+      "type": "paragraph",
+      "data": {
+        "text": "Back when I decided to go around Lake Erie I was greeted with a very intense rain shower on what was supposed to be the first day of my tour. When I say intense I mean that taking a shower indoors would have resulted in less water pressure than just standing outside with a bar of soap in my hand! Even worse the next four days were forecast for rain."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "e6RUfCVRbY",
+      "type": "paragraph",
+      "data": {
+        "text": "I discovered that in reality, I dodged storms throughout that first day until I outran them. After that, I actually stayed ahead of the storms until I reached the eastern end of the lake and headed back towards them causing me to experience <b>thirty to sixty minutes of rain daily</b> until I reached the western end. After that, I was rain-free all the way home!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "UzRTNU44zS",
+      "type": "paragraph",
+      "data": {
+        "text": "So the next time you are looking at a long term forecast that calls for rain every day of your tour please consider your rain gear as well as your ability to keep important stuff dry. If these things are in place then think about going for it anyway. You may just enjoy it!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "gI_whGGzJo",
+      "type": "header",
+      "data": {
+        "text": "Fighting a Headwind when Cycle Touring",
+        "level": 2
+      }
+    },
+    {
+      "id": "_MiRiVj1_9",
+      "type": "paragraph",
+      "data": {
+        "text": "Few aspects of bicycle touring can seem so cruel as a persistent and overpowering wind that seems to be doing everything it can to <b>push you back to your starting point</b>. My first eight days going around Lake Huron seemed to consist of days with <b>constant headwinds even though each day I was changing my general direction</b> as I followed the coastline of the lake. As bad as the headwinds were the hardest part was that each day they seemed to increase until the eighth day when I fought against the wind for hours only to come upon a windsurfer roaring along the water at full speed courtesy of my friend the wind. As both a windsurfer and a cyclist the contrasts between heaven and hell all packaged into one made for some interesting thoughts during the remainder of the ride."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "weJ6TsYZQJ",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/adverse-weather/gasstationflag.jpg",
+          "name": "gasstationflag.jpg",
+          "size": 577400,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "i-Xv41Bx0x",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>A 50 km/hr headwind</b> day during my Lake Michigan tour. Cyclists heading with the wind had wonderful distance stories to share!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "I87rJeczoZ",
+      "type": "paragraph",
+      "data": {
+        "text": "Eight days gives you plenty of time to really think about things to try to make you go that tiny bit faster. I discovered that removing my rain covers appeared to add another two km/hour to my ground speed. Cinching the front saddlebags horizontally tighter seemed to add another two km of speed. Moving stuff off the rear rack also had some real impact as well."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "bqJG9SUOzk",
+      "type": "paragraph",
+      "data": {
+        "text": "After these experiences and many more, I’ve discovered a few things that seem to help me to have a much more pleasant day even while the wind is blowing."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "0lmutqXZog",
+      "type": "paragraph",
+      "data": {
+        "text": "Although seemingly obvious try to pack lightly and focus on reducing the horizontal bulk on your bike. Think of a knife in water. You want your bike to present as narrow an edge to the wind as possible. Wider bikes complete with <b>overstuffed saddlebags</b> present a much larger cross-section to the wind which results in a much slower forward progression."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Z_jOztOpPX",
+      "type": "paragraph",
+      "data": {
+        "text": "Smaller saddlebags will encourage you to take a lot less extra gear with you. When fighting a wind it’s a lot easier to push a bike loaded with 25 extra kilos of gear than one loaded with 50 kilos."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "9xr2EiEJuf",
+      "type": "paragraph",
+      "data": {
+        "text": "Keep stuff packed as low to the ground as safely possible. <b>Studies have shown that the force of the wind increases with height.</b> Check out a sailboat sometime on a relatively calm day. You will likely notice that the top of the sail seems to receive a lot more power than the bottom. Kite sailors use this same principle to get out on the water on the same days that windsurfers are stuck on the beach. In practical terms removing unnecessary stuff from above the rear rack seems to make a significant difference."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "xHXHtRyGbE",
+      "type": "paragraph",
+      "data": {
+        "text": "Sing, hum, whistle, or listen to music especially stuff that instils a feeling of happiness. Headwinds are at least partly mental in addition to their actual physical force. If you can keep the wind from completely taking over your day then you stand a much better chance of feeling good about your day."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "baDQD0CpJV",
+      "type": "paragraph",
+      "data": {
+        "text": "Avoid trying to muscle your way along. There is a very easy tendency to push hard against a low gear. This has the impact of working harder than necessary so that you end up tired earlier and when you wake up you also get to feel sore too. Instead, go down a gear or two and spin the pedals at a faster cadence. At certain speeds, spinning can almost seem effortless as the mechanical aspects of the gearing seem to take away at least some of the load."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N28pmB1L9y",
+      "type": "paragraph",
+      "data": {
+        "text": "Get up with the sun on days forecast to be windy. There are many reasons why most cyclists seem to enjoy getting on the road early in the morning. For some, it’s an opportunity to escape the heat of the day and arrive at camp earlier. Another feature is that most of the time <b>the wind is either calm or very light first thing in the morning.</b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "XSlzdSyAdI",
+      "type": "paragraph",
+      "data": {
+        "text": "Take a good long break during the early afternoon. Find a museum or a nice tree to relax under. Most of the time <b>the wind is the strongest from around 14:00 to 17:00 in the day</b>. If you find the wind is pushing you back then just stop the bike and take control of the situation."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "2LdVRKF6a2",
+      "type": "paragraph",
+      "data": {
+        "text": "Take a peek at the map. Are there any crossroads that head in a more wind friendly direction? Perhaps you could have a crosswind instead of a headwind. You may do more distance over the ground but end up getting to your destination by using a bit of creativity."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "u7mxqE9fFD",
+      "type": "paragraph",
+      "data": {
+        "text": "The wind can be a very powerful and dehydrating force. Make sure you drink fluids often and take a longer break periodically to eat some food. For most people, the wind has the ability to creep inside the head and make you forget everything else other than its powerful effects. Unfortunately running out of energy and becoming dehydrated can make the wind seem even more unforgiving."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "tFhTNOSo_K",
+      "type": "paragraph",
+      "data": {
+        "text": "A less obvious option is to simply opt-out. Rather than stay in the flatlands head for the hills. At least there you will have the climb to blame for the slow speed and the valleys you dip down into will give you wind-blocking benefits as well as some fast descents."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "IEwGWkFTCl",
+      "type": "paragraph",
+      "data": {
+        "text": "For some people getting down to the handlebar drops seems to add some value. For me, although a short time there can be useful I typically find that dropping to the drops drastically reduces the scenery while providing only marginal benefit from the wind."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "f_gr_KlXPZ",
+      "type": "paragraph",
+      "data": {
+        "text": "Probably the most important thing to remember is that&nbsp;the wind will play with your mental state. It’s up to you to determine exactly how much you are willing to allow it to control your day. After all, if you were in a rush would you really be riding a bike?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Z-7oFIaRTk",
+      "type": "header",
+      "data": {
+        "text": "Getting your head in the clouds!",
+        "level": 2
+      }
+    },
+    {
+      "id": "FfPsO2VmHy",
+      "type": "paragraph",
+      "data": {
+        "text": "Watching the clouds float around in the sky is one of my favourite touring pastimes when out on a bicycle touring adventure. It seems that my attraction to clouds only grows after every bicycle touring adventure and it’s not really hard to understand why."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "l7CFopLuJU",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/adverse-weather/breathclouds.jpg",
+          "name": "breathclouds.jpg",
+          "size": 266110,
+          "extension": "jpg"
+        },
+        "caption": "A Breath of Fresh Air Tour",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "i-s6AjApBi",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/adverse-weather/riverview.jpg",
+          "name": "riverview.jpg",
+          "size": 455491,
+          "extension": "jpg"
+        },
+        "caption": "Round Lake Huron",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "aMJBP8FDsy",
+      "type": "paragraph",
+      "data": {
+        "text": "I find that when I am out on the open road I have plenty of time to really drink in my surroundings. Often a very prominent and important part of that is the sky."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "OdBh68Bc53",
+      "type": "paragraph",
+      "data": {
+        "text": "From a purely practical viewpoint watching the clouds helps to predict upcoming weather so that you can be prepared in advance whenever possible for whatever is coming."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "enCnhvdrc9",
+      "type": "paragraph",
+      "data": {
+        "text": "In all honesty, I just enjoy watching the clouds. They come in all different shapes and sizes along with many different colourings that seem to evoke different emotions. I’ve often thought of them as a more natural and educational form of television."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "PQxDjhVAIP",
+      "type": "paragraph",
+      "data": {
+        "text": "The sad thing to me is that when I return to “civilization” and talk about the beauty of clouds in the sky (and not in a raving lunatic kind of way - grin) many people really, really don’t understand what I am talking about. I suppose that in our everyday lives we’ve become relatively separated from the weather around us. Although many people can tell you if it’s sunny, rainy or snowing outside very few will ever connect to the weather and the other natural events around them in the same way as you will during your bicycle touring adventure."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "W2fzKJLIqP",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/adverse-weather/bigsky.jpg",
+          "name": "bigsky.jpg",
+          "size": 251231,
+          "extension": "jpg"
+        },
+        "caption": "A Friendly Tour",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "VS2mt6c65P",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/adverse-weather/toledodowntown.jpg",
+          "name": "toledodowntown.jpg",
+          "size": 217881,
+          "extension": "jpg"
+        },
+        "caption": "Round Lake Erie",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "5NHa5wYh8z",
+      "type": "paragraph",
+      "data": {
+        "text": "You will notice similar disconnects when you discuss upcoming terrain with people in cars or if you exchange notes about an area with someone who drove through it versus someone who rode a bicycle or walked."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "II61ihgVn-",
+      "type": "paragraph",
+      "data": {
+        "text": "For me, a bicycle touring adventure is about taking it slow, enjoying myself and having some fun. Although you might be a bit sceptical yourself when you next go on tour take a few moments to REALLY notice your surroundings including the objects found in the sky."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "dmp02KVxqP",
+      "type": "paragraph",
+      "data": {
+        "text": "A bicycle tour is one of those times when it’s quite all right and natural to have your heads in the clouds from time to time."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

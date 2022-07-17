@@ -1,0 +1,1092 @@
+{
+  "time": 1652341278799,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "Photography while Bike Touring",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>I will discuss bicycle touring photography in this article. I will mention what kind of camera to buy, how to shoot nice photos, how to edit photos, and storing photos safely.</i><br>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "1m_Ohb9Dq_",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/photography-bicycle-tour/1630231445823498335707661.jpg",
+          "name": "1630231445823498335707661.jpg",
+          "size": 41408,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "gTkEyk5FXF",
+      "type": "header",
+      "data": {
+        "text": "Selecting a camera for a bicycle touring adventure",
+        "level": 2
+      }
+    },
+    {
+      "id": "e0hK-5xhoj",
+      "type": "paragraph",
+      "data": {
+        "text": "I began the search for a more permanent camera that would be used for bicycle touring and other similar activities (like riding through the woods or ice biking in the winter)."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "WlYy7DwGW1",
+      "type": "paragraph",
+      "data": {
+        "text": "I came up with the following “wish list”."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "5tu6W2rGbB",
+      "type": "header",
+      "data": {
+        "text": "The best type of camera for cycle touring",
+        "level": 3
+      }
+    },
+    {
+      "id": "Arpq52UnQ2",
+      "type": "header",
+      "data": {
+        "text": "Small size",
+        "level": 4
+      }
+    },
+    {
+      "id": "qgHucC-eJo",
+      "type": "paragraph",
+      "data": {
+        "text": "Important because I wanted something that I could easily carry with me on a regular basis. I felt that the larger cameras that required bulkier carrying cases would be more likely to not be with me when I found the picture I wanted to take."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "aXcOrEJ0iB",
+      "type": "paragraph",
+      "data": {
+        "text": "Of course, from a touring perspective, a smaller camera is significantly easier to pack and a smaller size often translates to lighter weight as well."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "KPJR-xzdCD",
+      "type": "header",
+      "data": {
+        "text": "Rugged/Difficult to damage",
+        "level": 4
+      }
+    },
+    {
+      "id": "utKdJaHI4B",
+      "type": "paragraph",
+      "data": {
+        "text": "This one comes down to feeling comfortable taking the camera with me on the bike as well as with me when I pursue some of my other leisure-time activities like land kiting and dirt surfing."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "KJdhgaZO_M",
+      "type": "header",
+      "data": {
+        "text": "Digital",
+        "level": 4
+      }
+    },
+    {
+      "id": "tvJb1MdoDe",
+      "type": "paragraph",
+      "data": {
+        "text": "To me, one of the best things about going digital is that you can take lots of pictures and then just choose the ones that you like later without incurring a huge photo paper cost. So, skip the&nbsp;polaroid camera."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "GjGhibDc-W",
+      "type": "header",
+      "data": {
+        "text": "Expandable external memory",
+        "level": 4
+      }
+    },
+    {
+      "id": "2fKHlRZ-gJ",
+      "type": "paragraph",
+      "data": {
+        "text": "The last thing I wanted was to be on tour and have no way to take additional pictures because the memory in the camera was full. For me, the solution was to have a camera with swappable memory so that I could just insert another memory card when one gets filled up."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Cb9820mjJA",
+      "type": "header",
+      "data": {
+        "text": "Water-resistant or waterproof",
+        "level": 4
+      }
+    },
+    {
+      "id": "SznbnTVIX_",
+      "type": "paragraph",
+      "data": {
+        "text": "I knew from my Round Lake Erie trip that at least a couple of times each week I would ride through heavy rainfall. I wanted a camera that could handle some water so that I wouldn’t be worried about the camera during a downpour."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "a77GLLeuiW",
+      "type": "header",
+      "data": {
+        "text": "Standard batteries (AA/AAA)",
+        "level": 4
+      }
+    },
+    {
+      "id": "enk-AopmkP",
+      "type": "paragraph",
+      "data": {
+        "text": "Power is another problem that needs to be considered in the touring context. There are some touring areas where it will be inconvenient to have to stop to recharge camera batteries."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "lyXaTvPDmz",
+      "type": "paragraph",
+      "data": {
+        "text": "I believed that a better solution was to use a camera that allowed normal AA or AAA batteries as well as rechargeables."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "WxDaPGQvK_",
+      "type": "header",
+      "data": {
+        "text": "Software/Hardware for transferring photos",
+        "level": 4
+      }
+    },
+    {
+      "id": "ARGSSsGdv_",
+      "type": "paragraph",
+      "data": {
+        "text": "Once the pictures made it to the camera I wanted a simple way to put them on my computer so that I could edit them or copy them to a recordable compact disk."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "xzbWP02eAQ",
+      "type": "header",
+      "data": {
+        "text": "Mechanical zoom",
+        "level": 4
+      }
+    },
+    {
+      "id": "t1m9ENqpo3",
+      "type": "paragraph",
+      "data": {
+        "text": "On tour, I would rarely see animals up close long enough to take out my camera and snap a picture. I wanted a camera with some sort of mechanical zoom so that I could attempt to bring them closer."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "UjMFhd4A6x",
+      "type": "paragraph",
+      "data": {
+        "text": "Many cameras also feature a digital zoom. This was not of interest to me since most photo editing software can apparently do a better job of digitally zooming the picture anyway."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nreychWDC7",
+      "type": "header",
+      "data": {
+        "text": "Tripod compatible",
+        "level": 4
+      }
+    },
+    {
+      "id": "AyeA1Md_qo",
+      "type": "paragraph",
+      "data": {
+        "text": "Seldom am I visible in my tour pictures. The only time I am visible during my Lake Erie trip happened when someone else was kind enough to take the picture for me."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "WoToFSqMNc",
+      "type": "paragraph",
+      "data": {
+        "text": "I believed that a tripod setup of some kind would allow me to be in more of the pictures."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "dg7k5-vQfF",
+      "type": "paragraph",
+      "data": {
+        "text": "Occasionally I like to attempt to take low-light shots. For these to be successful it is important to have a very steady hand OR to use a tripod to get rid of the shakes."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "m5D-QHnoHG",
+      "type": "header",
+      "data": {
+        "text": "Taking better photos",
+        "level": 2
+      }
+    },
+    {
+      "id": "kom5sL78bZ",
+      "type": "paragraph",
+      "data": {
+        "text": "First off, I’m not going to get involved in film versus digital or even in what quality of camera one needs. A shot made by a $2000 super-everything camera can be just as disappointing as one from a point and shoot throw-away camera. What I’m going to try to accomplish is to get you to visualize what the photo is going to look like after it’s shot and take steps to improve it before you press the shutter."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "iOPH6vJIPp",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/photography-bicycle-tour/163023141780137294064280581.jpg",
+          "name": "163023141780137294064280581.jpg",
+          "size": 62037,
+          "extension": "jpg"
+        },
+        "caption": "A perfect example of a picture that screams bicycle touring.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "cjojaXwgDY",
+      "type": "paragraph",
+      "data": {
+        "text": "The best photo is one that tells a story and needs no caption. This is a perfect example. It absolutely screams bicycle touring and the life that goes with it. Cover the rider and bike with your finger and the photo becomes just another dull and uninteresting shot."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "uufiwBDnLR",
+      "type": "header",
+      "data": {
+        "text": "Frame your photos",
+        "level": 3
+      }
+    },
+    {
+      "id": "sohOcdUMP6",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/photography-bicycle-tour/163023141764986491756374360.jpg",
+          "name": "163023141764986491756374360.jpg",
+          "size": 78012,
+          "extension": "jpg"
+        },
+        "caption": "A picture showing the framing technique.",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "wNFdD2ASBU",
+      "type": "paragraph",
+      "data": {
+        "text": "Everyone knows that a frame improves the quality of a photo."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hsPKU9X3P4",
+      "type": "paragraph",
+      "data": {
+        "text": "It doesn’t have to be all the way around, just enough to give the photo depth."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "4nazPa4vjM",
+      "type": "paragraph",
+      "data": {
+        "text": "Almost anything in the foreground can form a frame and give a location from which it was shot."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "s0SYNQ1Fxj",
+      "type": "paragraph",
+      "data": {
+        "text": "Combine the frame with something carrying the eye to the main part of the photo and it works even better. If there is movement, all the better."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "NB0ABWjzax",
+      "type": "header",
+      "data": {
+        "text": "Put a bike in the picture",
+        "level": 3
+      }
+    },
+    {
+      "id": "eocNcttqyR",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/photography-bicycle-tour/163023141991445409746966725.jpg",
+          "name": "163023141991445409746966725.jpg",
+          "size": 135865,
+          "extension": "jpg"
+        },
+        "caption": "It’s a bike tour so put a bike in the picture!",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "rTWfrwsvkn",
+      "type": "paragraph",
+      "data": {
+        "text": "It gives scale as well as showing why you were there and what you were doing when you took the photo."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "1y6SIL5Kxp",
+      "type": "paragraph",
+      "data": {
+        "text": "Take the bike out of the pictures and it becomes just a photo of something."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "5m40fj7jyS",
+      "type": "header",
+      "data": {
+        "text": "Turn dull into interesting",
+        "level": 3
+      }
+    },
+    {
+      "id": "-d74SQzK-E",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/photography-bicycle-tour/jimforemanmountainone.jpg",
+          "name": "jimforemanmountainone.jpg",
+          "size": 80590,
+          "extension": "jpg"
+        },
+        "caption": "Jim Foreman Mountain One",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "al4LqYo32w",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/photography-bicycle-tour/jimforemanmountaintwo.jpg",
+          "name": "jimforemanmountaintwo.jpg",
+          "size": 46574,
+          "extension": "jpg"
+        },
+        "caption": "Jim Foreman Mountain Two",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "SsTM5TD1VQ",
+      "type": "paragraph",
+      "data": {
+        "text": "These two photos are almost identical shots of the same scenery except one is interesting and the other rather dull."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "2fn8cJOViQ",
+      "type": "paragraph",
+      "data": {
+        "text": "They were shot from two different locations, only a few hundred feet apart."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "GfTTlyNixo",
+      "type": "paragraph",
+      "data": {
+        "text": "The difference is the road which carries the eye to the mountain and gives it depth and perspective. Find something that will point to what you are shooting."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nNbqLxXc0o",
+      "type": "header",
+      "data": {
+        "text": "Pictures of people",
+        "level": 3
+      }
+    },
+    {
+      "id": "OIfRBwSozP",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/photography-bicycle-tour/163023145224000685568487914.jpg",
+          "name": "163023145224000685568487914.jpg",
+          "size": 94621,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "8m0wcwGqPO",
+      "type": "paragraph",
+      "data": {
+        "text": "In most pictures of people, they are about an inch high on the print with lots of ground, sky and clutter all around them."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "wSozL10RR4",
+      "type": "paragraph",
+      "data": {
+        "text": "If you are going to take a photo of someone, take their most important feature, their face."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "xOPV67f2nQ",
+      "type": "paragraph",
+      "data": {
+        "text": "The basic rule when setting up to photograph someone is to move halfway to them, then move closer again. With most cameras having basically a wide-angle lens on them, you should be able to just about reach out and touch their nose in order to get the best photo. Then you get a photo that looks like a mug shot without the ruler beside them to show how tall they are."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "jSRkdol3Ij",
+      "type": "paragraph",
+      "data": {
+        "text": "Think portrait when you are shooting a pix of a person. You gotta pose them. I’ve shot wedding photos for years and believe me, few people getting their photos taken are more uptight and stressed than at a wedding."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "7T2XQnBM1X",
+      "type": "paragraph",
+      "data": {
+        "text": "Here are a few tips on how to relax them."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "d8XDKkLu-i",
+      "type": "paragraph",
+      "data": {
+        "text": "First, have them turn to their left just slightly, about 10 degrees is all, then turn their head back toward you. Have them lean back enough to put all of their weight on their left leg and then tell them to unlock their right knee."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "3rdbXb5HKl",
+      "type": "paragraph",
+      "data": {
+        "text": "If they have a problem with that, lay a film can or something like that on the floor and have them put their foot upon it. You need only an inch or so."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ZomsYiP4yU",
+      "type": "paragraph",
+      "data": {
+        "text": "Tell them to look into the lens, lower their chin just slightly than look at the left edge of the lens. Then say, “OK, Let me see that beautiful smile” (works a lot better with women :-) and you have about two seconds to get your shot."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "GjxfaNJ6u5",
+      "type": "paragraph",
+      "data": {
+        "text": "If you want a shot with their hands in the photo, it works a lot better if you hand them something to hold, I like to use a cap off a 25mm film can. It makes their hands look natural. Above all, never let a guy stick his hands in his pockets. Since it’s a bicycle ride, you can include just enough of the bike in the frame to show what it is and a water bottle makes a great prop to keep the hands busy."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "e_y1JNsFwq",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/photography-bicycle-tour/163023141786445718946092193.jpg",
+          "name": "163023141786445718946092193.jpg",
+          "size": 106589,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "fkkl8mSLUz",
+      "type": "paragraph",
+      "data": {
+        "text": "Finally, if you are shooting in bright light and have the ability to override the auto flash, make it fire when you take the photo to fill in the shadows. One trick is to find the little opening through which the flash reads the light and put your finger over it. Bright sunlight is always more light than the flash puts out. Flash fill gets rid of the shadows under the chin, nose and eyebrows."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "MAPejywkVS",
+      "type": "paragraph",
+      "data": {
+        "text": "Finally, use some imagination. Have them doing something or at least with an interesting background. In setting up the shot, look at the background to be sure there isn’t a telephone pole sticking out of the top of their head or a wire that looks like it’s going into their ear."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "nBeNi_fYZJ",
+      "type": "header",
+      "data": {
+        "text": "Should I edit my cycle touring photos?",
+        "level": 2
+      }
+    },
+    {
+      "id": "38LegXapnq",
+      "type": "paragraph",
+      "data": {
+        "text": "To edit or not to edit? What should it be? So you’ve just returned from a nice, long and very beautiful tour. Now that you are back the memories are strong and reinforced with what you hope are some great pictures of the things you saw during your journey."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "DsS6SaEn9D",
+      "type": "paragraph",
+      "data": {
+        "text": "Last year I took a disposable camera with me on my Round Lake Erie tour only at the strong recommendation of my friends."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "q0YAe05zyJ",
+      "type": "paragraph",
+      "data": {
+        "text": "In the year following that tour, I reviewed those pictures so many times that I picked up my first digital camera. It’s a waterproof camera meaning that I could take it everywhere with me and I did!"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "G9sOCcqwIq",
+      "type": "paragraph",
+      "data": {
+        "text": "Between the Round Lake Erie and Round Lake Huron tours, I took over 5600 pictures. Each one of these pictures taught me something and hopefully, the contrast in pictures between my Lake Erie and Lake Huron tours reflects this."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "YHrc3Q9qH0",
+      "type": "paragraph",
+      "data": {
+        "text": "Today I consider myself a beginner photographer. I’ve learned much in the last year but there is still much more to learn. I guess the solution will be some more tours eh? (grin)"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "boHACB_OQV",
+      "type": "header",
+      "data": {
+        "text": "What to edit?",
+        "level": 3
+      }
+    },
+    {
+      "id": "NuCOOuECuE",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "items": [
+          {
+            "content": "Cropping of the picture",
+            "items": []
+          },
+          {
+            "content": "Picture resizing",
+            "items": []
+          },
+          {
+            "content": "Zooming in on a specific section of a picture",
+            "items": []
+          },
+          {
+            "content": "Saturation adjustment",
+            "items": []
+          },
+          {
+            "content": "Brightness adjustment",
+            "items": []
+          },
+          {
+            "content": "Sharpness adjustment",
+            "items": []
+          },
+          {
+            "content": "Contrast adjustment",
+            "items": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "9p-4H6Evsk",
+      "type": "header",
+      "data": {
+        "text": "Additional Questions from other cyclists",
+        "level": 3
+      }
+    },
+    {
+      "id": "lGUDZjmJOb",
+      "type": "header",
+      "data": {
+        "text": "Do you edit your pictures every night or after you get back?",
+        "level": 4
+      }
+    },
+    {
+      "id": "GU9rK7PSnR",
+      "type": "paragraph",
+      "data": {
+        "text": "I actually edit my pictures when the tour is finished. So what I do is take the picture and then copy it in its unaltered form from the camera to the PC. I actually have a small 16GB card that came with the camera. It can only hold 700 full-size pictures but if I reduce the camera resolution to the lowest setting I can capture at least 3000 pictures in an emergency."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "gJ2tq_MY8b",
+      "type": "paragraph",
+      "data": {
+        "text": "This has several advantages for me:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Mie3EnrDKc",
+      "type": "paragraph",
+      "data": {
+        "text": "a) Conserves battery power since I do all my editing using computer software. The camera battery power is used strictly for taking pictures."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Grc639v90Z",
+      "type": "paragraph",
+      "data": {
+        "text": "b) Computer photo editing software can usually do many more things than can be done natively on most cameras."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "xI-2cXdDHl",
+      "type": "paragraph",
+      "data": {
+        "text": "c) Photo editing can take some time depending on the number of days of pictures you have to go through. In my case, it took me about a week of effort to photo edit my Lake Huron pictures. It’s nice for that time to be relatively free and unencumbered with no huge sleep requirement as you have on tour."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "5P2OxsXFnp",
+      "type": "header",
+      "data": {
+        "text": "How much storage space do you have and do the memory cards use up power to preserve the pictures?",
+        "level": 4
+      }
+    },
+    {
+      "id": "ClrKo3GaBJ",
+      "type": "paragraph",
+      "data": {
+        "text": "The actual memory cards do not need power to keep the pictures onboard."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ve59HfP7Z3",
+      "type": "paragraph",
+      "data": {
+        "text": "I currently own four 256 GB SD memory cards. Each card can hold over 15000 pictures at my camera’s highest resolution setting. If I drop to my lowest resolution then I can hold more than 100000 pictures per memory card."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "s_FegGfO3K",
+      "type": "paragraph",
+      "data": {
+        "text": "The resolution makes the biggest difference if you plan to print them later or do a lot of cropping of the pictures effectively performing a zoom operation on parts of the picture."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "tRaPUrjn2v",
+      "type": "header",
+      "data": {
+        "text": "How do you deal with the issue of battery life?",
+        "level": 4
+      }
+    },
+    {
+      "id": "EL4DTIFgCc",
+      "type": "paragraph",
+      "data": {
+        "text": "I took four sets of rechargeable batteries with me on tour. After 21 days on the road and 30 pictures per day, I was on my last set of batteries when I returned home. I could have easily used normal, store-bought batteries instead."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "6Vdkdu6KTc",
+      "type": "paragraph",
+      "data": {
+        "text": "There are several tricks that you can perform to keep your battery consumption down."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "kITI5YN_aT",
+      "type": "paragraph",
+      "data": {
+        "text": "a) Set the auto-focus etc to off and do the focusing manually. This is usually easy since it comes down to “Are you within four feet of the subject or more than four feet away?”."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "z0VvZjqFEA",
+      "type": "paragraph",
+      "data": {
+        "text": "b) Turn the flash off and only use it when absolutely necessary. On those occasions when it is needed turn it on manually."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "-AlM_Ivs40",
+      "type": "paragraph",
+      "data": {
+        "text": "c) Turn off your LCD display. Although my camera supports this ability I did not do this. The LCD is apparently one of the largest users of energy in the camera."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "VoTko_Cbg5",
+      "type": "paragraph",
+      "data": {
+        "text": "I carried enough batteries with me that I didn’t need to recharge so I didn’t bother bringing a charger. However, there are a few strategies that I’ve heard others use."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "6HBo03B5Cr",
+      "type": "paragraph",
+      "data": {
+        "text": "a) Bring a charger with you into a restaurant and ask to plug in the charger while you eat. This may extend the battery life somewhat."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "oUGSywTa9-",
+      "type": "paragraph",
+      "data": {
+        "text": "b) Choose a camera that can use normal batteries. This gives you lots of options for replenishment."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Bu0vsAHwYA",
+      "type": "paragraph",
+      "data": {
+        "text": "c) Consider recharging your batteries using a solar cell on the back rack of the bike."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

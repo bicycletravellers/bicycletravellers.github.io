@@ -1,0 +1,181 @@
+{
+  "time": 1652449935554,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "Credit Card vs Self-Supported Bicycle Touring",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Who wants all the extra weight to lug around? After working hard all day I am not sleeping on the ground and eating beans heated in their can. I want steak, beer, and a bed.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "kqx-UrQ9Qn",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/learn/credit-card-or-self-supported-touring/1652449129_image.jpg",
+          "name": "1652449129_image.jpg",
+          "size": 588507,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "Lwx7ZrmA49",
+      "type": "paragraph",
+      "data": {
+        "text": "After arriving home from my first big tour in 2003 I was pumped. A crazy idea crept into my somewhat delirious mind: I am going to ride to Inuvik/Canada. This was going to require me to go&nbsp;<b>self-supported and self-reliant</b>."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "1XJyVao4ew",
+      "type": "paragraph",
+      "data": {
+        "text": "While budgeting for my 2004 tour, I was trying to find ways of cutting the costs. As I had already committed to eventually becoming self-supported, it made good sense to do it immediately."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "4NkK9LqxEO",
+      "type": "paragraph",
+      "data": {
+        "text": "I assembled <b>a small mountain of gear to become self-supported</b>. I was advised not to go too small on a tent."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "BWlbHnFt9E",
+      "type": "quote",
+      "data": {
+        "text": "“A pound or two won’t make that much difference to your day but being cramped all night will make it impossible to get a good night’s rest.”",
+        "caption": "?",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "VVuMTOMcpm",
+      "type": "paragraph",
+      "data": {
+        "text": "I would like to add, <b>don’t go cheap on your sleeping pad</b> to that excellent piece of advice."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "6KRu5d_Spn",
+      "type": "paragraph",
+      "data": {
+        "text": "I purchased front panniers to allow me to carry all the extra gear. Front panniers are awesome. Fill them up and the bike suddenly handles much better. When I had all the weight on the back, it felt somewhat wobbly but as soon as I loaded up the front panniers it was sweet."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "tKDiddzsfl",
+      "type": "paragraph",
+      "data": {
+        "text": "When I started off on my 2004 trip, it was constantly raining or threatening to rain. For the first while, I was self-supported but still staying in motels! I started riding with a teacher from Calgary. Once I rode with him, I only stayed in a motel once until I sent my gear back home. His attitude is that if the lightning did not look close, we are camping."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "sYn3e7meXm",
+      "type": "paragraph",
+      "data": {
+        "text": "For some reason, some of <b>my fondest memories of the trip were writing my journal in the tent when the weather was nasty.</b> My tent is virtually monsoon proof and the rain was never a problem. Condensation is an entirely different matter."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "uixZ9Lh-3f",
+      "type": "paragraph",
+      "data": {
+        "text": "The downside was waking up to rain hitting the tent. Rain is not sweet in the morning even if you are peeking out of your motel room. My rule was to get up at 5:30; if it is raining, I slept in until 5:40. I was organized and never stepped out in the rain except with my rain gear on."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "CAKD9rBBvZ",
+      "type": "paragraph",
+      "data": {
+        "text": "<b>My sleep was better and I felt more refreshed when camping out.</b> Motels seemed to be rather expensive back east. Campground fees ranged from $10-20. The quality of the facilities was generally good to excellent."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "IiuxfXPo0m",
+      "type": "delimiter",
+      "data": {}
+    },
+    {
+      "id": "_SfS8qiIjW",
+      "type": "paragraph",
+      "data": {
+        "text": "Credit card touring is good and all, but, it doesn't give the same feelings. All my good memories are from when I was in the mud, getting wet in the rain, or setting my tent up in a remote, quiet place, all alone. Beautiful, isn't it?"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}

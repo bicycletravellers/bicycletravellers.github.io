@@ -1,0 +1,605 @@
+{
+  "time": 1652429645420,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "Bags for Bicycle Touring",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>How to carry everything you need with you while touring by bicycle? There are two main ways of doing this on a&nbsp;self-contained and fully loaded tour. One way is to carry everything on the bike itself. The second method is to tow a trailer and carry everything in that. This page will cover bike touring bags.</i><br>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "Dw88Syr8ob",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/bike-touring-bags/163023142613525839192819223.jpg",
+          "name": "163023142613525839192819223.jpg",
+          "size": 57787,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "ksn9usa1XG",
+      "type": "paragraph",
+      "data": {
+        "text": "To learn about <b>bicycle touring with a single wheel trailer</b> see this post:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "27C_-QpKh0",
+      "type": "internal",
+      "data": {
+        "text": "gear/single-wheel-trailer"
+      }
+    },
+    {
+      "id": "fecrfLD51-",
+      "type": "paragraph",
+      "data": {
+        "text": "Different types of bags exist to help you make use of almost any part of the bicycle. Here’s a list of just some of the options:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "sMKD_P8uIX",
+      "type": "header",
+      "data": {
+        "text": "Handlebar bags for Bike Touring",
+        "level": 2
+      }
+    },
+    {
+      "id": "-JVaAjsz-R",
+      "type": "paragraph",
+      "data": {
+        "text": "A handlebar bag rides on the handlebars just as the name implies. This type of bag is often used to carry items that you want close at hand. Examples include a camera, notepad, touring cards and snack foods."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "zZCOTRqQrU",
+      "type": "paragraph",
+      "data": {
+        "text": "Some handlebar bags also have some really nice features like a <b>map case</b>&nbsp;and a strap that makes it possible to take the handlebar bag with you when you leave the bike."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "XGgfEI0nEA",
+      "type": "paragraph",
+      "data": {
+        "text": "One consideration that you should be aware of is the overall weight of the handlebar bag when it’s fully loaded. Heavily loaded handlebar bags can make steering harder than necessary."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "19N8wqcLCd",
+      "type": "paragraph",
+      "data": {
+        "text": "It is possible to get a map case on your bike without a handlebar bag. Some people do exactly this to get around the potential steering and weight issues on the bike."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "ANAeXKpd-n",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/bike-touring-bags/1652427961_image.jpg",
+          "name": "1652427961_image.jpg",
+          "size": 99264,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "oYcnVQqCRt",
+      "type": "header",
+      "data": {
+        "text": "Trunk&nbsp;bags for Bike Touring",
+        "level": 2
+      }
+    },
+    {
+      "id": "bQd2B91qHr",
+      "type": "paragraph",
+      "data": {
+        "text": "A trunk is a bag that rides on top of the rear rack of a bike. This type of bag is very useful for a lightly loaded or sag wagon tour when you want to carry just a few items on the bike without going all the way to saddlebags. It’s also very useful for commuting or day rides."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "viRrvXFbFI",
+      "type": "paragraph",
+      "data": {
+        "text": "Although I have a trunk bag I don’t use it on tour. Instead, I prefer to have nothing on top of the rear rack allowing me to put things there when needed. One Item that typically ends up there if I use it during a particular day is rain gear."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "8saLM3MTv7",
+      "type": "paragraph",
+      "data": {
+        "text": "During my last tour, I mounted a water bladder above the rear rack. This allowed me to carry more water and remove the weight of a water bladder from my body but it also made mounting a trunk bag completely impossible had I wanted one."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "7lvgSsqL1-",
+      "type": "header",
+      "data": {
+        "text": "Saddlebags (also known as panniers)",
+        "level": 2
+      }
+    },
+    {
+      "id": "0kcxTNWG2w",
+      "type": "paragraph",
+      "data": {
+        "text": "These bags ride along the sides of the racks mounted on the bicycle. These bags come in a variety of colours, shapes and sizes. Additionally, you can get bags with lots of pockets to help you organize your equipment or one big pocket for your gear but completely waterproof."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "WLNdfZ_wb0",
+      "type": "paragraph",
+      "data": {
+        "text": "Two very well respected saddlebag manufacturers are&nbsp;<b>Arkel</b> OverDesigns&nbsp;and&nbsp;<b>Ortlieb</b>. While both companies are recognized by many bicycle tourists as having superior products the two companies have taken different approaches."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "qEA7p90LEQ",
+      "type": "paragraph",
+      "data": {
+        "text": "Ortlieb is renowned for having bags that are almost&nbsp;<b>waterproof</b>. Many stories have been told about how well these bags have worked to protect essential gear like a <b>sleeping bag from getting soaked</b> during a heavy rainstorm."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "hDfif15VLC",
+      "type": "paragraph",
+      "data": {
+        "text": "The potential downside is that the bag has only one large compartment."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "R17Ovs5VcC",
+      "type": "paragraph",
+      "data": {
+        "text": "Arkel has also gone with high-quality materials and a very strong set of attachment hardware. They have also focused on providing&nbsp;<b>lots of compartments</b>&nbsp;to make packing your gear easier."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "Humwm7tOgA",
+      "type": "paragraph",
+      "data": {
+        "text": "I currently use Arkel saddlebags although in the past I used&nbsp;Vaude RoadMaster&nbsp;bags until I experienced a problem while passing through the Cleveland harbourfront while going around Lake Erie. I sold these saddlebags to a touring buddy only to have them break during our first tour together."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "RI013XAWLT",
+      "type": "paragraph",
+      "data": {
+        "text": "For me having saddlebags that I can rely on makes a tremendous difference when I am touring. I look for&nbsp;high-quality construction, a <b>reliable attachment mechanism</b> and some form of protection from water."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "cXqQwt5zCe",
+      "type": "paragraph",
+      "data": {
+        "text": "I also look for straps that I can use not only for being able to temporarily hold things on the bike but also to allow me to try to compress the fully loaded bags as tightly as possible to help reduce the impact of the bags on aerodynamics. This is an important feature, especially in a headwind."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "OwnICxct3x",
+      "type": "paragraph",
+      "data": {
+        "text": "For commuting, I like to use different bags that have an easy&nbsp;<b>quick-release mechanism</b>. This makes the bags easier to take off the bike. When I tour I typically want the opposite since I tend to leave the bags on the bike for the whole tour. Some people feel differently about this. They like to <b>take the bags into their shelter</b> at night rather than leave them on the bike."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "a-Fk9DoZvT",
+      "type": "paragraph",
+      "data": {
+        "text": "Of course to mount most of these bags you need a rack of some sort. The next section will cover that topic."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "tonVMs6QtI",
+      "type": "header",
+      "data": {
+        "text": "Choosing a set of panniers/saddlebags",
+        "level": 3
+      }
+    },
+    {
+      "id": "jOGLm0JkGi",
+      "type": "image",
+      "data": {
+        "file": {
+          "url": "/images/gear/bike-touring-bags/panniers2.jpg",
+          "name": "panniers2.jpg",
+          "size": 92711,
+          "extension": "jpg"
+        },
+        "caption": "",
+        "withBorder": false,
+        "stretched": false,
+        "withBackground": false
+      }
+    },
+    {
+      "id": "iVTyFeBQdq",
+      "type": "paragraph",
+      "data": {
+        "text": "Choosing your first set of <b>saddlebags/panniers</b> can be tricky since you are usually coming into touring for the first time and you don’t really know exactly what you are looking for. Since this question is a relatively common one I present the following message thread. Thanks to the three people identified in this thread for contributing their comments here as well."
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "D7EH5c1n4p",
+      "type": "paragraph",
+      "data": {
+        "text": "Matthew posted the following question:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "3JNQ8SFkFT",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>“I am in the market for my first set of panniers and I need to know what size is really needed for self-contained touring. My goal is to keep the load to around 40lbs but that may be exceeded depending on the tour destination itself.”</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "I_MQ5VBEpH",
+      "type": "paragraph",
+      "data": {
+        "text": "Demetri responded with a request for a bit more information:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "oM8XQqSSJ8",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>“You leave off an important point, two or four panniers? 40lb is not too much for two panniers; but, as you say, you might exceed 40lb. I got 90-100lb nicely into four Madden Baby Buzzards, with a tent and sleeping bag atop the rack. I am now using Ortlieb Bike Packer Plus bags, slightly larger than Baby Buzzards. With Baby Buzzards I was using front panniers front and rear; with the Ortliebs I am using rear panniers front and rear.”</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "DiyeVYKkXz",
+      "type": "paragraph",
+      "data": {
+        "text": "Gilbert responded with the following answer that goes a long way towards discussing the <b>various items that you should consider when trying to choose a set of panniers</b> that will work well for you:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "0I7sJIQCF6",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>“Demetri makes a good point on the two or four pannier thing. I’ll tell you if you can get everything in two panniers your life gets better in airports and off the bike carrying things around. On one dramatic afternoon on an overseas trip I was told that my international flight was canceled and the only plane I could get was scheduled to leave the ground twenty minutes from (….now)!</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "WXG82VBpS2",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>The counter agent that re-ticketed us comforted me a little by adding that the new tickets were from another airline, in another terminal ( shuttle bus required) and added the words; “you will never make the plane with those bikes.” HA!</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "9ywVBuMJde",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>I’ve toured on all kinds of bikes but lately have been travelling with small wheel Alex Moulton bikes. While they pack smaller than large wheel bikes I enjoy the way they carry a large camping load like a little mule. Anyway to speed assembly at the destination; Gatwick airport in the UK, I used the normal full size bike shipping boxes for the bikes and most camping gear. My carry on was a large front and rear bag (the Moulton can use panniers in the front but forgoes them in the rear for a huge unibag of similar size to a large pannier set). Anyway I brought along some cash for ready exchange on arrival and a few $5 bills to tip the Skycaps with our bike boxes. When we found we needed to change terminals those first two fivers went to this one happy fellow turned out to be prudence. We hurriedly explained our situation and pulled out my remaining bills; nothing but $20’s and gave him one. To our surprise he stopped unloading a car without a word came over, <b>loaded our bike and luggage</b>, transported them across traffic and into the shuttle bus. As we got on he had some words with the driver and gave some assurance that we were in a hurry. The bus pulled away with people screaming after it as we were the only passengers on board and pulled up to the proper terminal in a jiffy. We were immediately greeted by a new skycap and he with a fresh $20 in hand guaranteed the bikes would be on the plane when we arrived in London with 12 minutes till takeoff.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "59U9K1teUp",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>With 10 minutes to take off, we were issued boarding passes at the empty ticket counter and were then running through the concourse to the luggage screeners. As we exited security I realized the only problem now is the plane was due to depart in 3 minutes and I have little of my required luggage for the trip. We had them call to the front counter and such but ultimately I was able to board the plane unencumbered by anything more than basically a handlebar bag. And they said the bikes wouldn’t make it, Ha?</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "q_3pBbLKOr",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>They arrived on time with us. After we returned the bags (and my precious cycling shoes) were found in the Lost and Found having been left on the shuttle bus. So much for the discount ticket after all those tips.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "GXmmdvSWlY",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>This silly story just shows&nbsp;how hard it is to keep your eye on multiple bags when travelling. <b>With a bike box under one arm and four panniers, a tent, pad and sleeping bag dragging along you’re also very open to snatch and grab thievery as well as your arms are well; occupied.</b></i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "0NP1wtfJyY",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Now there is a downside and I’ll make my recommendations on the Pannier thing now. On size, I would select the largest front and rear panniers (or rear and rear) I could find that fits your rack properly. I would try to carry as little as possible and avoid over packing and overstuffing. Why use so many large bags you ask?</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "jhtgAhq0o5",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>One, using front bags often (it should be all else being equal) <b>improves the tracking and stability</b> of the loaded bike and offloads the trouble prone rear wheel of weight.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "9DOcb5x8Rw",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Second, large bags can allow packing things out of a high mounted handlebar bag and top of the rack and place them in a more stable, lower position improving stability and handling, keeps gear cleaner, eliminates exposure of delicate nylon to UV light and rain and is less likely to fall off the bike and should be much quicker to load. Tying down a tent, pad and bag to a rack top can often take considerable time each day compared to latching a pannier on. So if you can get your gear inside your pannier bags you have less bags to keep up with and the gear is more protected from the elements. A side benefit is if the rear rack top is free you can quite easily lash on groceries or other handy items you pick up in your travels (I’ve been needing a hubcap like that for a long time).</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "pUtdueC5Aq",
+      "type": "paragraph",
+      "data": {
+        "text": "<b><i>Side benefits:</i></b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "utjgGVWz4-",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Gear seems to expand on trips since after a while it is not folded just so, packed this or that way or simply cluttered. You're in need of room unless you discard or ship home always tends to expand on trips so having some extra room is great. With large bags as opposed to small ones, everything can fit in easily without the zipper busting tugging and squeezing to pack the panniers each morning. This is really handy when you wake up late for your plane that’s leaving that day, when the farmer is coming across the field with the shotgun or when your words sound like this, “ Well officer, just plan on me just moving along right away then.”</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "5-Cycdil-k",
+      "type": "paragraph",
+      "data": {
+        "text": "<b><i>On pannier brand and selection:</i></b>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "EOcyW6-Sq6",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Almost all panniers on the market today (USA) are of adequate design for occasional use. Long term and regular use will separate the better ones. Having said this the better ones can be much better with regular use; no seam failures, the tough fabric is more abrasion resistant, better coating and seals, heavier tougher zippers and buckles that don’t break.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "315DohI-R-",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>Now, what is really important and yet few people talk about it? It’s always capacity or even weight that folks talk about. This is natural as these things are very easy to measure and are tangible.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "o9vkWFN4j-",
+      "type": "internal",
+      "data": {
+        "text": "gear/bike-touring-racks"
+      }
+    },
+    {
+      "id": "K8EFxMpQzk",
+      "type": "paragraph",
+      "data": {
+        "text": "<i>The thing that you use the most and is most critical is not the pannier at all. It is the <b>rack system and the pannier attachment system</b>. Many if not most are somewhat incompatible (rack to pannier) with each other from my experience. I’ve heavily modified most of the panniers I’ve ever owned. I am told Arkel is an excellent system but have never used them. I do know Ortlieb, Vaude and Carradice have an excellent lock on hooks and a system that is very universal to fit most racks. <b>Racks for panniers are the most overlooked component on a bike for touring and they fail often</b>. One thing is that good name brand racks with excellent reputations often have a carry rating that is 2.5 times less than other less known brands like the tubular steel Tubus. Tubular steel racks seem to be universally more reliable but there are many excellent aluminum alloy carriers on the market. The over-design of a better carrier is not wasted as it will stabilize heavy loads, is more reliable and is more likely to survive a crash.</i>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}
