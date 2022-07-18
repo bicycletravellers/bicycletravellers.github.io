@@ -1,5 +1,5 @@
 {
-  "time": 1652431914142,
+  "time": 1658148493437,
   "blocks": [
     {
       "id": "nRFbbTLm-1",
@@ -40,6 +40,25 @@
         "withBorder": false,
         "stretched": false,
         "withBackground": false
+      }
+    },
+    {
+      "id": "i3NgYQ-fBD",
+      "type": "paragraph",
+      "data": {
+        "text": "If you are interested in <b>touring racks and panniers</b> see this other post:"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "4s-hXSf-5k",
+      "type": "internal",
+      "data": {
+        "text": "gear/bike-touring-racks"
       }
     },
     {
@@ -440,6 +459,13 @@
         "AlignmentBlockTune": {
           "alignment": "left"
         }
+      }
+    },
+    {
+      "id": "98gkBCkq2k",
+      "type": "internal",
+      "data": {
+        "text": "gear/interactive-list-of-bike-touring-gear"
       }
     }
   ],
