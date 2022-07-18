@@ -10,7 +10,43 @@
 		<atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml"/>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-		{% for post in site.travellers limit:10 %}
+		{% for post in site.travellers limit:150 %}
+		<item>
+			<title>{{ post.title | xml_escape }}</title>
+			<description>{{ post.content | xml_escape }}</description>
+			<pubDate>{{ post.datePublished | date_to_rfc822 }}</pubDate>
+			<link>{{ post.url | prepend: site.url }}</link>
+			<guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+			{% for cat in post.categories %}
+			<category>{{ cat | xml_escape }}</category>
+			{% endfor %}
+		</item>
+		{% endfor %}
+		{% for post in site.community limit:150 %}
+		<item>
+			<title>{{ post.title | xml_escape }}</title>
+			<description>{{ post.content | xml_escape }}</description>
+			<pubDate>{{ post.datePublished | date_to_rfc822 }}</pubDate>
+			<link>{{ post.url | prepend: site.url }}</link>
+			<guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+			{% for cat in post.categories %}
+			<category>{{ cat | xml_escape }}</category>
+			{% endfor %}
+		</item>
+		{% endfor %}
+		{% for post in site.learn limit:150 %}
+		<item>
+			<title>{{ post.title | xml_escape }}</title>
+			<description>{{ post.content | xml_escape }}</description>
+			<pubDate>{{ post.datePublished | date_to_rfc822 }}</pubDate>
+			<link>{{ post.url | prepend: site.url }}</link>
+			<guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+			{% for cat in post.categories %}
+			<category>{{ cat | xml_escape }}</category>
+			{% endfor %}
+		</item>
+		{% endfor %}
+		{% for post in site.gear limit:150 %}
 		<item>
 			<title>{{ post.title | xml_escape }}</title>
 			<description>{{ post.content | xml_escape }}</description>
