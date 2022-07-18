@@ -1,5 +1,5 @@
 {
-  "time": 1655126855985,
+  "time": 1658155699502,
   "blocks": [
     {
       "id": "id_667251",
@@ -24,6 +24,13 @@
         "AlignmentBlockTune": {
           "alignment": "center"
         }
+      }
+    },
+    {
+      "id": "q3Wn2mNAq_",
+      "type": "internal",
+      "data": {
+        "text": "learn/bike-touring-costs-budget-management"
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "time": 1652192081015,
+  "time": 1658155642251,
   "blocks": [
     {
       "id": "J_qS1-HIPs",
@@ -67,6 +67,13 @@
         "AlignmentBlockTune": {
           "alignment": "left"
         }
+      }
+    },
+    {
+      "id": "cro63pceCV",
+      "type": "internal",
+      "data": {
+        "text": "community/is-long-distance-touring-an-elitist-activity-for-rich-kids"
       }
     },
     {
