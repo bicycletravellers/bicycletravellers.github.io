@@ -1,5 +1,5 @@
 {
-  "time": 1652444721742,
+  "time": 1658130111633,
   "blocks": [
     {
       "id": "nRFbbTLm-1",
@@ -124,6 +124,13 @@
         "AlignmentBlockTune": {
           "alignment": "left"
         }
+      }
+    },
+    {
+      "id": "9QnlK4YoWr",
+      "type": "internal",
+      "data": {
+        "text": "learn/clothing"
       }
     },
     {

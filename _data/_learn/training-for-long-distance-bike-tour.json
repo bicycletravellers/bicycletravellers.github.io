@@ -1,5 +1,5 @@
 {
-  "time": 1652187728208,
+  "time": 1658137661824,
   "blocks": [
     {
       "id": "OUqSjdLclz",
@@ -344,6 +344,13 @@
         "AlignmentBlockTune": {
           "alignment": "left"
         }
+      }
+    },
+    {
+      "id": "py2lhsgsLC",
+      "type": "internal",
+      "data": {
+        "text": "learn/bicycle-touring-fitness-plan"
       }
     },
     {
@@ -699,7 +706,7 @@
       "id": "C-hDwQ4_PC",
       "type": "internal",
       "data": {
-        "text": "learn/bike-touring-101,&nbsp;learn/how-to-go-bike-touring,&nbsp;learn/bike-touring-costs-budget-management"
+        "text": "learn/bicycle-touring-fitness-plan, learn/bike-touring-101,&nbsp;learn/how-to-go-bike-touring"
       }
     }
   ],

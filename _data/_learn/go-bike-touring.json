@@ -1,5 +1,5 @@
 {
-  "time": 1652294525026,
+  "time": 1658136826886,
   "blocks": [
     {
       "id": "nRFbbTLm-1",
@@ -235,6 +235,13 @@
       }
     },
     {
+      "id": "pMKFVs4SNy",
+      "type": "internal",
+      "data": {
+        "text": "learn/bicycle-touring-fitness-plan, learn/training-for-long-distance-bike-tour"
+      }
+    },
+    {
       "id": "81gNslTJxo",
       "type": "paragraph",
       "data": {
@@ -368,6 +375,13 @@
         "AlignmentBlockTune": {
           "alignment": "left"
         }
+      }
+    },
+    {
+      "id": "v_Saf7Bh3U",
+      "type": "internal",
+      "data": {
+        "text": "learn/bicycle-for-touring"
       }
     },
     {
@@ -1828,6 +1842,13 @@
         "AlignmentBlockTune": {
           "alignment": "left"
         }
+      }
+    },
+    {
+      "id": "-NA30Y9cmQ",
+      "type": "internal",
+      "data": {
+        "text": "learn/how-to-go-bike-touring"
       }
     }
   ],

@@ -23,7 +23,7 @@
   
     <a class = "no-decoration" href = "/{{post.category}}/{{post.slug}}.html">
       <div class="column">
-		<img loading="lazy" src = "{{ post.img }}" alt = "{{ post.title }}" class = "cover_image" />
+		<img loading="lazy" src = "{% if post.img %}{{post.img}}{% else %}{{ site.url }}/images/logo.png{% endif %}" alt = "{{ post.title }}" class = "cover_image" />
         <div class = "list-container">
         <span class = "small-title">{{post.title}}</span>
        </div>

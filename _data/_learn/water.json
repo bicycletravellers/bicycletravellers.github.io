@@ -1,5 +1,5 @@
 {
-  "time": 1652212335458,
+  "time": 1658137730789,
   "blocks": [
     {
       "id": "vHbRY98bXN",
@@ -440,6 +440,13 @@
       }
     },
     {
+      "id": "xHkbs3QuDY",
+      "type": "internal",
+      "data": {
+        "text": "gear/water-while-touring"
+      }
+    },
+    {
       "id": "s0mW9NNq-l",
       "type": "header",
       "data": {
@@ -844,7 +851,7 @@
       "id": "Hi3B04EHGR",
       "type": "internal",
       "data": {
-        "text": "learn/bike-touring-101, learn/bike-touring-food, learn/bath-shower-toilet"
+        "text": "learn/bike-touring-food, learn/bath-shower-toilet"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "time": 1652206862408,
+  "time": 1658134838529,
   "blocks": [
     {
       "id": "nRFbbTLm-1",
@@ -1377,6 +1377,13 @@
       }
     },
     {
+      "id": "plHyvrshnJ",
+      "type": "internal",
+      "data": {
+        "text": "gear/petrol-vs-alcohol-stove"
+      }
+    },
+    {
       "id": "wNJa8Il_g8",
       "type": "header",
       "data": {
@@ -1418,6 +1425,13 @@
         "AlignmentBlockTune": {
           "alignment": "left"
         }
+      }
+    },
+    {
+      "id": "Gk9KdQHy8G",
+      "type": "internal",
+      "data": {
+        "text": "gear/cooking-gear"
       }
     },
     {
@@ -2348,7 +2362,7 @@
       "id": "Colf93uNhj",
       "type": "internal",
       "data": {
-        "text": "learn/bike-touring-101,&nbsp;learn/how-to-go-bike-touring, learn/water"
+        "text": "learn/bike-touring-101"
       }
     }
   ],
