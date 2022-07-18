@@ -1,5 +1,5 @@
 {
-  "time": 1658083100884,
+  "time": 1658150479917,
   "blocks": [
     {
       "id": "id_355635",
@@ -18,7 +18,7 @@
       "id": "id_190083",
       "type": "paragraph",
       "data": {
-        "text": "<i>Do you have any tips or feedback regarding the volume of bags needed?\nContext: As part of a month-long bike journey, a year later, I'd like to purchase some bags.\nI would go camping with a tent, sleeping bag and mattress, kitchen utensils, and clothes. I hesitate between the Ortlieb back roller plus 2x20L either 40L or 2x35L or 70L.\nHowever, I fear 40L is too little and 70L is too bulky. Do you have any experience with the pair of 70-litre bags?</i>"
+        "text": "<i>Do you have any tips or feedback regarding the volume of bags needed?\nContext: As part of a month-long bike journey, a year later, I'd like to purchase some bike bags.\nI would go camping with a tent, sleeping bag and mattress, kitchen utensils, and clothes. I hesitate between the Ortlieb back roller plus 2x20L either 40L or 2x35L or 70L.\nHowever, I fear 40L is too little and 70L is too bulky. Do you have any experience with the pair of 70-litre bags?</i>"
       },
       "tunes": {
         "AlignmentBlockTune": {
@@ -95,7 +95,7 @@
       "id": "id_245598",
       "type": "fbcomment",
       "data": {
-        "text": "<div class=\"comment_text\">2x20L is too little for me, especially for a year trip, but I will avoid 2x35L because all the weight would be on the back of the bike. In my opinion, the best combination would be 2x20L in the back and 2x12.5L in the front (if you choose Ortlieb bags)</div>",
+        "text": "<div class=\"comment_text\"><b>2x20L is too little</b> for me, especially for a year trip, but I will avoid 2x35L because all the weight would be on the back of the bike. In my opinion, the best combination would be 2x20L in the back and 2x12.5L in the front (if you choose <b>Ortlieb bags</b>)</div>",
         "author": "Joël Blaesius",
         "gender": "MALE",
         "level": "0"
@@ -110,7 +110,7 @@
       "id": "id_376073",
       "type": "fbcomment",
       "data": {
-        "text": "<div class=\"comment_text\">Hello&nbsp;<span class=\"ce-fbcomment-quote\" data-quote=\"Joël Blaesius\"> actually no matter the back bags I would also put some in front (weight distribution) Therefore the question is rather; do I opt for 70+25=95 or 40+25=65\nI would also put no matter my choice a handlebar bag as well.</span></div>",
+        "text": "<div class=\"comment_text\">Hello&nbsp;<span class=\"ce-fbcomment-quote\" data-quote=\"Joël Blaesius\"> actually no matter the back bags I would also put some in front (<b>weight distribution</b>) Therefore the question is rather; do I opt for 70+25=95 or 40+25=65\nI would also put no matter my choice a handlebar bag as well.</span></div>",
         "author": "Kevin Guilloteau",
         "gender": "MALE",
         "level": "1"
@@ -170,7 +170,7 @@
       "id": "id_877614",
       "type": "fbcomment",
       "data": {
-        "text": "<div class=\"comment_text\">I don't know my volume in litres but I have 2 panniers each about 5kg. One is for tent and sleeping gear +. The other is mainly for clothing etc. I also have a top bag which weighs around 4kgs. This contains a cooking stove and food. My front roll bag will have my phone and waterproof clothing</div>",
+        "text": "<div class=\"comment_text\">I don't know my volume in litres but I have 2 panniers each about 5kg. One is for tent and sleeping gear +. The other is mainly for clothing etc. I also have a top bag which weighs around 4kgs. This contains a cooking stove and food. My <b>front roll bag</b> will have my phone and waterproof clothing</div>",
         "author": "David O'Donnell",
         "gender": "MALE",
         "level": "0"
@@ -185,7 +185,7 @@
       "id": "id_341218",
       "type": "fbcomment",
       "data": {
-        "text": "<div class=\"comment_text\">I try to get as lightweight as possible. I learned to take on a 1-year long trip as much as I would take for three days. However, I am freezing very quickly, though I take a couple of long sleeves, thin woollen jumpers and 2 pairs of long, thin woollen underwear (trousers). Keep in mind, that you always find a place to wash your clothes. I have two VAUDE environment-friendly aqua back panniers - with two smaller outer pockets. They have 25 l each, a Silkroad bag (on the rear rack), but only because of my medicines and because I am a woman. I also will have a handlebar bag. Last year I had a 30 l big bag on the rack for my winter coat, which was too clumsy for me - maybe it would be suitable for the tent, mattress etc.\n\n1 pic = last year, 2 pics = this year</div><div class=\"comment_attachment\"><div class=\"comment_photo_attachment\"><img class=\"comment_photo_image\" loading=\"lazy\" src=\"/images/community/how-to-decide-the-volume-of-bicycle-touring-bags/image_1655128874.jpg\" alt=\"\"></div></div>",
+        "text": "<div class=\"comment_text\">I try to get as lightweight as possible. I learned to take on a 1-year long trip as much as I would take for three days. However, I am freezing very quickly, though I take a couple of long sleeves, thin woollen jumpers and 2 pairs of long, thin woollen underwear (trousers). Keep in mind, that you always find a place to wash your clothes. I have two <b>VAUDE environment-friendly aqua back panniers</b> - with two smaller outer pockets. They have 25 l each, a Silkroad bag (on the rear rack), but only because of my medicines and because I am a woman. I also will have a handlebar bag. Last year I had a 30 l big bag on the rack for my winter coat, which was too clumsy for me - maybe it would be suitable for the tent, mattress etc.\n\n1 pic = last year, 2 pics = this year</div><div class=\"comment_attachment\"><div class=\"comment_photo_attachment\"><img class=\"comment_photo_image\" loading=\"lazy\" src=\"/images/community/how-to-decide-the-volume-of-bicycle-touring-bags/image_1655128874.jpg\" alt=\"\"></div></div>",
         "author": "Dorothee Hildebrandt",
         "gender": "FEMALE",
         "level": "0"
