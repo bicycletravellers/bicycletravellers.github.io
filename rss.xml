@@ -13,7 +13,7 @@
 		{% for post in site.travellers limit:150 %}
 		<item>
 			<title>{{ post.title | xml_escape }}</title>
-			<description>{{ post.content | xml_escape }}</description>
+			<description>{{ post.description | xml_escape }}</description>
 			<pubDate>{{ post.datePublished | date_to_rfc822 }}</pubDate>
 			<link>{{ post.url | prepend: site.url }}</link>
 			<guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
@@ -25,7 +25,7 @@
 		{% for post in site.community limit:150 %}
 		<item>
 			<title>{{ post.title | xml_escape }}</title>
-			<description>{{ post.content | xml_escape }}</description>
+			<description>{{ post.description | xml_escape }}</description>
 			<pubDate>{{ post.datePublished | date_to_rfc822 }}</pubDate>
 			<link>{{ post.url | prepend: site.url }}</link>
 			<guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
@@ -37,7 +37,7 @@
 		{% for post in site.learn limit:150 %}
 		<item>
 			<title>{{ post.title | xml_escape }}</title>
-			<description>{{ post.content | xml_escape }}</description>
+			<description>{{ post.description | xml_escape }}</description>
 			<pubDate>{{ post.datePublished | date_to_rfc822 }}</pubDate>
 			<link>{{ post.url | prepend: site.url }}</link>
 			<guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
@@ -49,7 +49,7 @@
 		{% for post in site.gear limit:150 %}
 		<item>
 			<title>{{ post.title | xml_escape }}</title>
-			<description>{{ post.content | xml_escape }}</description>
+			<description>{{ post.description | xml_escape }}</description>
 			<pubDate>{{ post.datePublished | date_to_rfc822 }}</pubDate>
 			<link>{{ post.url | prepend: site.url }}</link>
 			<guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
