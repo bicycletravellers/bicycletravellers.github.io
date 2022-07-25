@@ -6,7 +6,7 @@ description: "Is trek 520 is a good choice? touring bike less than 1700usd dolla
 isTopLevel: false
 isSingleLevel: false
 isArticle: false
-datePublished: 2022-06-13 14:11:00 +0300
-dateModified: 2022-06-13 14:11:00 +0300
-published: false
+datePublished: 2022-07-25 14:11:00 +0300
+dateModified: 2022-07-25 14:11:00 +0300
+published: true
 ---
