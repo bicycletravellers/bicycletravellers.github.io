@@ -6,7 +6,7 @@ description: "Would anyone recommend buying the Ortlieb Pannier security cables?
 isTopLevel: false
 isSingleLevel: false
 isArticle: false
-datePublished: 2022-06-13 14:19:00 +0300
-dateModified: 2022-06-13 14:19:00 +0300
-published: false
+datePublished: 2022-08-09 18:19:00 +0300
+dateModified: 2022-08-09 18:19:00 +0300
+published: true
 ---
