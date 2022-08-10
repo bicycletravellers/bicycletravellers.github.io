@@ -6,7 +6,7 @@ description: "I just switched to panniers, and their mounts are rubbing the rack
 isTopLevel: false
 isSingleLevel: false
 isArticle: false
-datePublished: 2022-06-13 15:40:00 +0300
-dateModified: 2022-06-13 15:40:00 +0300
-published: false
+datePublished: 2022-08-10 10:40:00 +0300
+dateModified: 2022-08-10 10:40:00 +0300
+published: true
 ---
