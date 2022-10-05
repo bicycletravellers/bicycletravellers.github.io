@@ -1,5 +1,5 @@
 {
-  "time": 1658148584004,
+  "time": 1664960630076,
   "blocks": [
     {
       "id": "RDwIkT5SS6",
@@ -1298,6 +1298,13 @@
       "type": "internal",
       "data": {
         "text": "gear/interactive-list-of-bike-touring-gear"
+      }
+    },
+    {
+      "id": "WDlPxsEEN3",
+      "type": "internal",
+      "data": {
+        "text": "community/side-sleeper-recommendation-for-new-insulated-pad"
       }
     }
   ],
