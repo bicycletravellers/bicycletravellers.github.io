@@ -6,7 +6,7 @@ description: "Anybody ever try a hammock tent for camping? I can't sleep on my b
 isTopLevel: false
 isSingleLevel: false
 isArticle: false
-datePublished: 2022-06-13 18:47:00 +0300
-dateModified: 2022-06-13 18:47:00 +0300
-published: false
+datePublished: 2022-10-11 12:47:00 +0300
+dateModified: 2022-10-11 12:47:00 +0300
+published: true
 ---
