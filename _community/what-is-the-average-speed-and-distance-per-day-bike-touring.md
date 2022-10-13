@@ -6,7 +6,7 @@ description: "What is your average speed and distance per day? I ride about 25km
 isTopLevel: false
 isSingleLevel: false
 isArticle: false
-datePublished: 2022-06-13 19:29:00 +0300
-dateModified: 2022-06-13 19:29:00 +0300
-published: false
+datePublished: 2022-10-13 18:29:00 +0300
+dateModified: 2022-10-13 18:29:00 +0300
+published: true
 ---

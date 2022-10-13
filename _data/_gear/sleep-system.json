@@ -1,5 +1,5 @@
 {
-  "time": 1664960630076,
+  "time": 1665679927504,
   "blocks": [
     {
       "id": "RDwIkT5SS6",
@@ -591,12 +591,19 @@
       "id": "F-EEc_7Wvq",
       "type": "paragraph",
       "data": {
-        "text": "Older models don’t have this feature, but can be easily converted to a ground shelter with use of a pole, some cords, and stakes."
+        "text": "Older models don’t have this feature, but can be easily converted to a ground shelter with the use of a pole, some cords, and stakes."
       },
       "tunes": {
         "AlignmentBlockTune": {
           "alignment": "left"
         }
+      }
+    },
+    {
+      "id": "UOgEe4yzjW",
+      "type": "internal",
+      "data": {
+        "text": "community/lightweight-setups-for-bikepacking-trips-tent-bivy-hammok-setup"
       }
     },
     {
