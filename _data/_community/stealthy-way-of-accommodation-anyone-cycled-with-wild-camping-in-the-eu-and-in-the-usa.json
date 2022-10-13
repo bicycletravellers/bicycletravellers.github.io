@@ -1,5 +1,5 @@
 {
-  "time": 1665677100077,
+  "time": 1665681041607,
   "blocks": [
     {
       "id": "id_794069",
@@ -30,6 +30,13 @@
       "id": "id_85814",
       "type": "delimiter",
       "data": {}
+    },
+    {
+      "id": "DGPpE_LHiw",
+      "type": "internal",
+      "data": {
+        "text": "community/wildcamping-in-europe-what-is-your-experience"
+      }
     },
     {
       "id": "id_116385",
