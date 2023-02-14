@@ -1,0 +1,43 @@
+{
+  "time": 1676385649438,
+  "blocks": [
+    {
+      "id": "nRFbbTLm-1",
+      "type": "header",
+      "data": {
+        "text": "Marketing Services",
+        "level": 1
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    },
+    {
+      "id": "N5Q2qvyDuj",
+      "type": "paragraph",
+      "data": {
+        "text": "We provide social media marketing services for companies in the bicycle and camping industries.<br>"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "center"
+        }
+      }
+    },
+    {
+      "id": "OJj8vZrSM_",
+      "type": "paragraph",
+      "data": {
+        "text": "To use our marketing and social media management services, please contact Çağlar KABLAN at contact@bicycletravellers.com"
+      },
+      "tunes": {
+        "AlignmentBlockTune": {
+          "alignment": "left"
+        }
+      }
+    }
+  ],
+  "version": "2.23.2"
+}
