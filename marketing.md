@@ -9,7 +9,7 @@ img: "/images/about/banner820.jpg"
 #img_caption: 
 isTopLevel: true
 isSingleLevel: true
-isArticle: false
+isArticle: true
 datePublished: 2019-12-30 11:00:00 +0300
 dateModified: 2022-05-12 11:00:00 +0300
 #permalink: 
