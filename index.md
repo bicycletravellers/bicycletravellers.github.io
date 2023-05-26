@@ -15,6 +15,19 @@ dateModified: 2018-11-11 11:00:00 +0300
 permalink: index.html
 ---
 
+### REVIEWS
+<div class="clearfix">
+    <a class = "no-decoration" href = "/beelink-5800H.html">
+      <div class="column">
+		<img loading="lazy" src = "/1.jpg" alt = "Beelink for Digital Nomads" class = "cover_image" />
+        <div class = "list-container">
+        <span class = "small-title">Beelink Mini PC SER5 Pro 5800H Review: The Ultimate Tool for Digital Nomads on the Go!</span>
+       </div>
+      </div>
+    </a>
+</div>
+
+
 ### GUIDES and HOW-TO’s
 
 {% for post in site.learn %}
